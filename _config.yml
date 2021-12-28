@@ -62,8 +62,9 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
+      type: post
     values:
       layout: post
-      permalink: :title
+      # permalink: :title
       title: "Untitled"
       strip_title: true
