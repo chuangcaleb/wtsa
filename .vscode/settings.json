@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"**/_site": true,
+		"**/.sass-cache": true,
+		"**/.jekyll-cache": true,
+		"**/.jekyll-metadata": true,
+		"**/vendor": true
+	}
+}
