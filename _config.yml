@@ -19,13 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: whatsthestoryabout
-email: your-email@example.com
+email: whatsthestoryabout@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal dedicated blog to share and discuss storytelling
 baseurl: "/wtsa" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+instagram_username: whatsthestoryabout
+github_username:  chuangcaleb
+show_exerpts: true
 
 # Build settings
 theme: minima
@@ -60,11 +61,13 @@ titles_from_headings:
 
 
 defaults:
-  - scope:
+  - 
+    scope:
       path: ""
-      type: post
+      type: posts
     values:
       layout: post
       # permalink: :title
       title: "Untitled"
       strip_title: true
+      permalink: :title
