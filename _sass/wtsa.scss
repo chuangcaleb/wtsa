@@ -1,7 +1,18 @@
 // .footer-col-2 {
 // 	width: 250px;
 // }
-body {
-	color: blue !important;
-	background-color: blue !important;
+
+logo > img {
+	vertical-align: bottom;
+}
+
+.site-header {
+	border-top: 0px;
+}
+
+blockquote {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 10px;
+	font-size: 140%;
 }

@@ -26,12 +26,14 @@ baseurl: "/wtsa" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: whatsthestoryabout
 github_username:  chuangcaleb
-show_exerpts: true
+
+show_excerpts: true
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-titles-from-headings
 
 titles_from_headings:
@@ -61,13 +63,15 @@ titles_from_headings:
 
 
 defaults:
-  - 
-    scope:
+  - scope:
       path: ""
       type: posts
     values:
       layout: post
-      # permalink: :title
-      title: "Untitled"
-      strip_title: true
       permalink: :title
+      strip_title: true
+      excerpt_separator: <!--more-->
+  - scope:
+      path: "assets/img "
+    values:
+      image: true
