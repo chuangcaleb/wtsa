@@ -42,7 +42,7 @@ titles_from_headings:
   collections: false
 
 header_pages:
-  - wtsa/pages/about.md
+  - pages/about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -67,10 +67,10 @@ header_pages:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: poosts
     values:
       layout: post
-      permalink: :categories/:title
+      permalink: :title
       strip_title: true
       excerpt_separator: <!--more-->
   - scope:
