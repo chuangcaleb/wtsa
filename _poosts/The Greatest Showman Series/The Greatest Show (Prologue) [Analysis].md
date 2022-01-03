@@ -6,6 +6,8 @@ date: 2019-11-01
 tags: [lyric analysis]
 ---
 
+This is the greatest show! This is also part one of many lyric analyses for the movie, The Greatest Showman. I remember being floored 5 seconds into this song. The editing and pacing. It’s such a good Hook pulling triply duty.
+
  <!--more-->
 
 ## Lyric Analysis
@@ -177,7 +179,7 @@ tags: [lyric analysis]
 
 ---
 
-### Imagery
+### In-Universe Imagery
 
 Barnum:
 
@@ -217,8 +219,6 @@ And, what does “show” imply?
 ---
 
 ## Reflection
-
-This is the greatest show! This is also part one of many lyric analyses for the movie, The Greatest Showman. I remember being floored 5 seconds into this song. The editing and pacing. It’s such a good Hook pulling triply duty.
 
 A few months ago, close friend #2 planned an outing to a travelling circus, [@swissdreamcircus](https://www.swissdreamcircus.com), and it was actually my first ever circus experience, all the better with friends. I didn’t know what to expect but it was a night soooo well spent. The circus… the atmosphere was ecstatic: the majestic circus tent, the waft of caramel and cotton candy… the dizzying spotlights and superhuman acts… but that’s a story for another post.
 
