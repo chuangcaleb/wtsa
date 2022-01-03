@@ -32,3 +32,33 @@ h6 {
 html {
 	overflow-y: scroll;
 }
+
+@media only screen and (max-width: 1300px) {
+	#table-of-contents {
+		max-width: 50%;
+	}
+}
+@media only screen and (min-width: 1300px) {
+	#table-of-contents {
+		right: 3%;
+		float: right;
+		position: fixed;
+		top: 90px;
+		max-width: 16%;
+	}
+}
+
+#table-of-contents {
+	font-size: 80%;
+	// outline: 1px solid lightgray;
+}
+
+#table-of-contents ul {
+	list-style-type: none;
+	margin-left: 20px;
+}
+
+#toc.section-nav {
+	margin-left: 0px;
+	margin-bottom: 0px;
+}

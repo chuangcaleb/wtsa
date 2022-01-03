@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-titles-from-headings
+  - jekyll-toc
 
 titles_from_headings:
   enabled:     true
@@ -73,6 +74,7 @@ defaults:
       permalink: :title
       strip_title: true
       excerpt_separator: <!--more-->
+      toc: true
   - scope:
       path: "assets/img "
     values:
