@@ -43,6 +43,7 @@ titles_from_headings:
 
 header_pages:
   - pages/about.md
+  - pages/browse.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

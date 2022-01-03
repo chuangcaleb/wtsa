@@ -1,7 +1,7 @@
 ---
 layout: "page"
 permalink: /about/
-title: about
+title: About
 strip_title: true
 ---
 
@@ -15,11 +15,11 @@ I'm a final-year student procrastinating his dissertation for his Computer Scien
 
 Story: books, movies, songs, theatre, musicals. _Narratives_.
 
-Not so much the [writing style](https://helpingwritersbecomeauthors.com/a-writer-or-a-storyteller/), like grammar, word choice, descriptive language, etc. Though \*conveying information through a medium **efficiently** and **artfully\***, this skill may be part-and-parcel of **story**.
+Not so much the [writing style](https://helpingwritersbecomeauthors.com/a-writer-or-a-storyteller/), like grammar, word choice, descriptive language, etc. Though _conveying information through a medium **efficiently** and **artfully**_, this skill may be part-and-parcel of **story**.
 
-No, I'm more specifically talking about the age-old practice of **storytelling**: \*finding **universal truths** of human experience and translating them into **cohesive drama\***.
+No, I'm more specifically talking about the age-old practice of **storytelling**: _finding **universal truths** of human experience and translating them into **cohesive drama**_.
 
-> No, I'm more specifically talking about the age-old practice of **storytelling**: \*finding **universal truths** of human experience and translating them into **cohesive drama\***.
+> No, I'm more specifically talking about the age-old practice of **storytelling**: _finding **universal truths** of human experience and translating them into **cohesive drama**_.
 
 I believe stories have such a resonant effect on people: they have shaped lives and defined societies. Human history itself is a story being written and told. Story runs in our veins, whether we like it or not, and everything _is_ story.
 
