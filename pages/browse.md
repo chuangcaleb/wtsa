@@ -2,7 +2,6 @@
 layout: "page"
 permalink: /browse/
 title: Browse
-strip_title: true
 ---
 
-Helo
+Helooo [[about#Story on paper|About]]

@@ -35,6 +35,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-titles-from-headings
   - jekyll-toc
+  - jekyll-wikilinks
 
 titles_from_headings:
   enabled:     true
@@ -71,7 +72,7 @@ defaults:
       type: poosts
     values:
       layout: post
-      permalink: :title
+      permalink: posts/:title
       strip_title: true
       excerpt_separator: <!--more-->
       toc: true
@@ -84,5 +85,3 @@ collections:
   poosts:
     output: true
 
-include:
-  - .nojekyll

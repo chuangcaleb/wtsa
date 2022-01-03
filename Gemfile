@@ -36,3 +36,4 @@ gem "webrick", "~> 1.7"
 
 
 gem 'jekyll-titles-from-headings'
+gem 'jekyll-wikilinks'

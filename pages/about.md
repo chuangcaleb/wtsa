@@ -2,7 +2,6 @@
 layout: "page"
 permalink: /about/
 title: About
-strip_title: true
 ---
 
 ## What's whatsthestoryabout about?
