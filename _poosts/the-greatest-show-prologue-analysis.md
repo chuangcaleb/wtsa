@@ -71,11 +71,9 @@ tags: [lyric analysis]
 **Where the runaways are running the night**
 
 > 1. It's a common phrase, to “run away with the circus”
-> 2. runaways who were despised, are now the ones in charge
+> 2. Runaways who were despised, are now the ones in charge
 
 **Impossible comes true, it's taking over you**
-
-<br>
 
 **Oh, this is the greatest show**
 
@@ -87,12 +85,12 @@ tags: [lyric analysis]
 
 **Watching it come true, it's taking over you**
 
-> 1. fake dreams becoming true reality
-> 2. it’s not just “for show”; there is actual substance
+> 1. Fake dreams becoming true reality
+> 2. It’s not just “for show”; there is actual substance
 
 **Oh, this is the greatest show**
 
-> the greatest magic trick is the one that is for real
+> The greatest magic trick is the one that is for real
 
 <br>
 
@@ -102,12 +100,13 @@ tags: [lyric analysis]
 
 **And it’s here right in front of you**
 
-> 1. Greatness and ambition (what we want) is a choice away
+> 1. Greatness and ambition (what we want) is merely a choice away
 > 2. But so is family and home (what we need)
 
 **This is where you want to be**
 
 > Barnum, like the audience, wants greatness. But what we really want is home.
+
 > V: young!Barnum snaps out of his daydream, just like the video’s ending transition
 
 ---
