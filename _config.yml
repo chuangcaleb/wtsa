@@ -83,3 +83,6 @@ defaults:
 collections:
   poosts:
     output: true
+
+include:
+  - .nojekyll
