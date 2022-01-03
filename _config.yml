@@ -43,8 +43,8 @@ titles_from_headings:
   collections: false
 
 header_pages:
-  - pages/about.md
-  - pages/browse.md
+  - _paages/about.md
+  - _paages/browse.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -73,9 +73,14 @@ defaults:
     values:
       layout: post
       permalink: posts/:title
-      strip_title: true
       excerpt_separator: <!--more-->
       toc: true
+  - scope:
+      path: ""
+      type: paages
+    values:
+      layout: page
+      permalink: :title
   - scope:
       path: "assets/img "
     values:
@@ -84,4 +89,5 @@ defaults:
 collections:
   poosts:
     output: true
-
+  paages:
+    output: true

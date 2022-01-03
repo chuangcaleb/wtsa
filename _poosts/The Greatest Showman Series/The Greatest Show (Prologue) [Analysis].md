@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Greatest Show (Prologue) [Analysis]"
 custom_css: showman
 date: 2019-11-01

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Million Dreams [Analysis]"
 custom_css: showman
 date: 2019-11-8
