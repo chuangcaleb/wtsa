@@ -307,7 +307,7 @@ One line I especially love is from Charity’s father, “Sooner or later she wi
 
 > ...each one there to make you smile
 
-> They can say “I” >> “We”
+> They can say “I” lost my mind >> “We” lost our minds
 
 > Run away to a world that we design
 

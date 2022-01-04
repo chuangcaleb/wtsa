@@ -1,6 +1,4 @@
-// .footer-col-2 {
-// 	width: 250px;
-// }
+// * General -------------------------------------------------------------------
 
 logo > img {
 	vertical-align: bottom;
@@ -20,18 +18,35 @@ main hr {
 	margin-top: 45px;
 	margin-bottom: 45px;
 }
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-	margin-top: 20px;
-}
-
 html {
 	overflow-y: scroll;
 }
+
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+	margin-top: 40px;
+}
+
+// * Home ----------------------------------------------------------------------
+
+div.home hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+div.home li {
+	border: 1px solid lightgray;
+	border-radius: 10pt;
+	padding: 10px;
+}
+
+ul.post-list {
+	margin-top: 30px;
+}
+
+// * Table of Contents ---------------------------------------------------------
 
 @media only screen and (max-width: 1300px) {
 	#table-of-contents {
@@ -45,7 +60,7 @@ html {
 }
 @media only screen and (min-width: 1300px) {
 	#table-of-contents {
-		right: 9%;
+		right: 8%;
 		float: right;
 		position: fixed;
 		top: 90px;
