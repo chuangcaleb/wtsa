@@ -1,7 +1,5 @@
 ---
 title: About
-layout: post
-toc: true
 ---
 
 ## What's whatsthestoryabout about?
@@ -14,7 +12,7 @@ I'm a final-year student procrastinating his dissertation for his Computer Scien
 
 Story: books, movies, songs, theatre, musicals. _Narratives_.
 
-Not so much the [writing style](https://helpingwritersbecomeauthors.com/a-writer-or-a-storyteller/), like grammar, word choice, descriptive language, etc. Though _conveying information through a medium **efficiently** and **artfully**_, this skill may be part-and-parcel of **story**.
+Not so much the [writing style](https://helpingwritersbecomeauthors.com/a-writer-or-a-storyteller/), like grammar, word choice, descriptive language, etc. Though the skill of _conveying information through a medium **efficiently** and **artfully**_ may be part-and-parcel of **story**.
 
 No, I'm more specifically talking about the age-old practice of **storytelling**: _finding **universal truths** of human experience and translating them into **cohesive drama**_.
 
@@ -35,3 +33,9 @@ Through my Computer Science degree, I started using [Obsidian](https://obsidian.
 Which brings us here. So this website-blog-space-area is my external dump of all the thoughts in my head. Nothing too fancy, no special theme styling, just focus on getting everything out of my head, and onto this digital paper.
 
 Welcome to the dump.
+
+<br>
+
+---
+
+Unsure where to start? [View major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!

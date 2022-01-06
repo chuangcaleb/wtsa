@@ -1,5 +1,6 @@
 ---
-title: "Category: The Greatest Showman Series"
+title: "The Greatest Showman Series"
 layout: category
 category: showman
+date: 2019-10-25
 ---

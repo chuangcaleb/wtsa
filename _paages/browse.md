@@ -1,7 +1,4 @@
 ---
 title: Browse
+layout: browse
 ---
-
-Helooo [[about#Story on paper|About]]
-
-[[The Greatest Showman Series]]
