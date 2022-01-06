@@ -282,15 +282,23 @@ blockquote { margin-top: 40px; margin-bottom: 40px; font-size: 140%; }
 
 main hr { margin-top: 45px; margin-bottom: 45px; }
 
-h2, h3, h4, h5, h6 { margin-top: 20px; }
-
 html { overflow-y: scroll; }
+
+article h2, article h3, article h4, article h5, article h6 { margin-top: 40px; }
+
+div.home hr, div.category hr { margin-top: 10px; margin-bottom: 10px; }
+
+div.home li, div.category li { border: 1px solid lightgray; border-radius: 10pt; padding: 10px; }
+
+ul.post-list { margin-top: 30px; }
 
 @media only screen and (max-width: 1300px) { #table-of-contents { max-width: 50%; padding: 10px; outline: 1px solid lightgray; font-size: 90%; align-items: center; margin-bottom: 30px; } }
 
-@media only screen and (min-width: 1300px) { #table-of-contents { right: 9%; float: right; position: fixed; top: 90px; max-width: 16%; font-size: 85%; } }
+@media only screen and (min-width: 1300px) { #table-of-contents { right: 6%; float: right; position: fixed; top: 90px; max-width: 16%; font-size: 85%; } }
 
-#table-of-contents ul { list-style-type: none; margin-left: 20px; }
+#table-of-contents ul { list-style-type: none; margin-left: 20px; margin-top: 5px; }
+
+#table-of-contents ul li { margin-top: 3px; }
 
 #toc.section-nav { margin-left: 0px; margin-bottom: 0px; }
 
