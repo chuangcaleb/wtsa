@@ -32,11 +32,13 @@ article h6 {
 
 // * Home ----------------------------------------------------------------------
 
-div.home hr {
+div.home hr,
+div.category hr {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-div.home li {
+div.home li,
+div.category li {
 	border: 1px solid lightgray;
 	border-radius: 10pt;
 	padding: 10px;
@@ -60,7 +62,7 @@ ul.post-list {
 }
 @media only screen and (min-width: 1300px) {
 	#table-of-contents {
-		right: 8%;
+		right: 6%;
 		float: right;
 		position: fixed;
 		top: 90px;
@@ -72,6 +74,10 @@ ul.post-list {
 #table-of-contents ul {
 	list-style-type: none;
 	margin-left: 20px;
+	margin-top: 5px;
+}
+#table-of-contents ul li {
+	margin-top: 3px;
 }
 
 #toc.section-nav {

@@ -1,5 +1,6 @@
 ---
 title: "The Greatest Show (Prologue) [Analysis]"
+category: showman
 custom_css: showman
 date: 2019-11-01
 tags: [lyric analysis]

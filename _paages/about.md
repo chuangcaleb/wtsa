@@ -1,5 +1,7 @@
 ---
 title: About
+layout: post
+toc: true
 ---
 
 ## What's whatsthestoryabout about?
