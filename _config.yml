@@ -35,15 +35,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc
   - jekyll-wikilinks
+  - jekyll-sitemap
+  - jekyll-last-modified-at 
 
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: false
 
-header_pages:
-  - _paages/about.md
-  - _paages/browse.md
+collections:
+  poosts:
+    output: true
+  paages:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -65,6 +65,14 @@ header_pages:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# * DATA --------------------------------------------------------------------
+
+header_pages:
+  - _paages/about.md
+  - _paages/browse.md
+
+# * DEFAULTS -------------------------------------------------------------------
+
 defaults:
   - scope:
       path: ""
@@ -81,12 +89,21 @@ defaults:
       layout: page
       permalink: :title
   - scope:
-      path: "assets/img "
+      path: "assets"
+    values:
+      sitemap: false
+  - scope:
+      path: "assets/img"
     values:
       image: true
 
-collections:
-  poosts:
-    output: true
-  paages:
-    output: true
+# * PLUGINS --------------------------------------------------------------------
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
+
+
+# last-modified-at:
+#     date-format: '%d %b %Y'
