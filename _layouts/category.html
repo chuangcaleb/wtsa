@@ -4,8 +4,7 @@ layout: default
 
 <div class="category">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-    <code>Category</code>
+    <h1 class="page-heading">Category: {{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
@@ -15,7 +14,7 @@ layout: default
   <ul class="post-list">
 
     {%- for post in site.poosts-%}
-      {%- if post.category == page.category -%}
+      {%- if post.category == page.title -%}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
           <span class="post-meta">Published on: {{ post.date | date: date_format }}</span>

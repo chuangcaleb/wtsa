@@ -33,7 +33,6 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-seo-tag
-  - jekyll-titles-from-headings
   - jekyll-toc
   - jekyll-wikilinks
 

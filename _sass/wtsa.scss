@@ -1,5 +1,4 @@
 // * General -------------------------------------------------------------------
-
 logo > img {
 	vertical-align: bottom;
 }
@@ -18,6 +17,7 @@ main hr {
 	margin-top: 45px;
 	margin-bottom: 45px;
 }
+
 html {
 	overflow-y: scroll;
 }
@@ -32,19 +32,19 @@ article h6 {
 
 // * Home ----------------------------------------------------------------------
 
-div.home hr,
-div.category hr {
+.home hr,
+.category hr {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-div.home li,
-div.category li {
+.home li,
+.category li {
 	border: 1px solid lightgray;
 	border-radius: 10pt;
 	padding: 10px;
 }
 
-ul.post-list {
+.post-list {
 	margin-top: 30px;
 }
 

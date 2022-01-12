@@ -22,6 +22,9 @@ layout: default
           
           <h3>
             <a class="post-link" href="{{ page.url | relative_url }}">
+              {%- if page.layout == "category" -%}
+                Category:&nbsp
+              {%- endif -%}
               {{ page.title | escape }} 
               </a>
             </h3>
