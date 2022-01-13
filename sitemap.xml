@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/wtsa/The-Greatest-Showman-Series</loc>
+<lastmod>2022-01-12T22:29:55+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/wtsa/about</loc>
+<lastmod>2022-01-06T16:16:26+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/wtsa/browse</loc>
+<lastmod>2022-01-06T16:16:26+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/wtsa/posts/The-Greatest-Show-(Prologue)-Analysis</loc>
+<lastmod>2022-01-12T22:29:55+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/wtsa/posts/A-Million-Dreams-Analysis</loc>
+<lastmod>2022-01-12T22:29:55+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/wtsa/posts/Come-Alive-Analysis</loc>
+<lastmod>2022-01-13T16:49:29+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/wtsa/</loc>
+<lastmod>2022-01-03T17:54:45+00:00</lastmod>
+</url>
+</urlset>
