@@ -148,12 +148,16 @@ article p.post-meta {
 	margin-top: 5px;
 }
 #table-of-contents ul li {
-	margin-top: 3px;
+	margin-bottom: 3px;
 }
 
 #toc.section-nav {
 	margin-left: 0px;
 	margin-bottom: 0px;
+}
+
+span.toc-top-link a {
+	color: gray;
 }
 
 // * Footer --------------------------------------------------------------------
