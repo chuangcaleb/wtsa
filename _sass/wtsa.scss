@@ -96,8 +96,8 @@ article p.post-meta {
 }
 
 .post-nav-pn a:hover {
-	transition: #4c78b3 500ms cubic-bezier(0.08, 0.52, 0.52, 1);
-	border-color: #4c78b3;
+	transition: #7aa0d1 500ms cubic-bezier(0.08, 0.52, 0.52, 1);
+	border-color: #7aa0d1;
 	text-decoration: none;
 }
 
@@ -161,3 +161,11 @@ span.toc-top-link a {
 }
 
 // * Footer --------------------------------------------------------------------
+
+.site-footer .trigger {
+	line-height: normal;
+}
+
+.footer-heading a {
+	color: black;
+}
