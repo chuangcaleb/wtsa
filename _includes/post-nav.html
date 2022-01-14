@@ -1,5 +1,4 @@
 <div class="post-nav">
-	{%- if page.category -%}
 	<a
 		class="category-link"
 		href="{{ page.category | replace: ' ', '-'  | relative_url }}"
@@ -7,7 +6,6 @@
 		{{ page.category | escape }}
 	</a>
 
-	{%- endif -%}
 	<div class="post-nav-pn">
 		<div class="post-nav-p">
 			{% if page.previous.url %}

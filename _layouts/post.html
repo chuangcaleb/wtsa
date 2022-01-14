@@ -18,5 +18,5 @@ layout: default
 
 	<div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
-	{%- include post-nav.html -%}
+	{%- if page.category -%} {%- include post-nav.html -%} {%- endif -%}
 </article>
