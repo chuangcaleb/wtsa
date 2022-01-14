@@ -288,6 +288,8 @@ article h2, article h3, article h4, article h5, article h6 { margin-top: 40px; }
 
 article p.post-meta { text-align: left; border-left: 2px solid lightgray; padding-left: 10px; margin-top: 20px; }
 
+article blockquote p { margin-bottom: 5px; }
+
 .post-nav { padding: 20px 0px; margin-top: 50px; border-top: 3px solid rgba(227, 227, 227, 0.5); border-radius: 30pt; }
 
 .post-nav a.category-link { margin: auto; width: fit-content; display: block; margin-bottom: 5px; box-sizing: border-box; }
@@ -304,7 +306,7 @@ article p.post-meta { text-align: left; border-left: 2px solid lightgray; paddin
 
 .post-nav-label { color: gray; font-size: 12px; }
 
-.post-nav-pn a:hover { transition: #4c78b3 500ms cubic-bezier(0.08, 0.52, 0.52, 1); border-color: #4c78b3; text-decoration: none; }
+.post-nav-pn a:hover { transition: #7aa0d1 500ms cubic-bezier(0.08, 0.52, 0.52, 1); border-color: #7aa0d1; text-decoration: none; }
 
 .home hr, .category hr { margin-top: 10px; margin-bottom: 10px; }
 
@@ -323,5 +325,9 @@ article p.post-meta { text-align: left; border-left: 2px solid lightgray; paddin
 #toc.section-nav { margin-left: 0px; margin-bottom: 0px; }
 
 span.toc-top-link a { color: gray; }
+
+.site-footer .trigger { line-height: normal; }
+
+.footer-heading a { color: black; }
 
 /*# sourceMappingURL=main.css.map */
