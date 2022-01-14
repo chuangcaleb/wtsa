@@ -5,7 +5,7 @@ custom_css: showman
 date: 2019-11-15
 ---
 
-Come one, come all, come in, come on, come alive. Every moment is just URGHH so alive. The use of slo-mo and camera angles are very tasty. And the choreo! So enticing.
+Come one, come all, come in, come on, come alive (*come back home?*). Every moment is just URGHH so alive. The use of slo-mo and camera angles are very tasty. And the choreo! So enticing.
 
 <!--more-->
 
@@ -27,8 +27,8 @@ I feel like there was a moment in production where “The Greatest Show” was s
 
 > V: “_You need to hide your face_” in Verse 2, in contrast to large banners with their faces being unrolled on buildings in the Video
 
-> The 2017 version of the script reads the lyrics: "I STUMBLED THROUGH *MY* DAYS;
-HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
+> The 2017 version of the script reads the lyrics: "I STUMBLED THROUGH _MY_ DAYS;
+> HAD _MY_ HEAD HUNG LOW; _MY_ SKY A SHADE OF GRAY"
 >
 > It's interesting to see how shifting the focus from Barnum to the Oddities makes the song better, leaving Barnum's own coming-alive in slight subtext, so that we can explore the Oddities more
 
@@ -36,14 +36,15 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 
 > Undead: technically dead but still animate
 
-> Mazes: 
-> 1) means that you're inherently **trapped** 
-> 2) and are *designed* to keep you trapped 
-> 3) BUT… there’s <span style="text-decoration:underline;">always</span> an exit!
+> Mazes:
+>
+> 1. means that you're inherently **trapped**
+> 2. and are _designed_ to keep you trapped
+> 3. BUT… there’s <span style="text-decoration:underline;">always</span> an exit!
 
 **You're asleep inside**
 
->Barnum alludes that you can be literally awake, yet still be "asleep on the inside"
+> Barnum alludes that you can be literally awake, yet still be "asleep on the inside"
 
 > When you’re "asleep inside", your dreams are more than just restrained—you don’t even know that they are restrained
 
@@ -72,12 +73,12 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 > In flipping a switch, Barnum also flips the values of the society around him
 
 > Frankenstein (the scientist) famously flips a switch to bring his monster to life!
-> 
+>
 > Barnum implies himself as a crazy scientist, his circus freaks are his monsters…
 
 **And brighten up your darkest day**
 
-> Days are *supposed* to be bright, just as dreams are *supposed* to be colourful
+> Days are _supposed_ to be bright, just as dreams are _supposed_ to be colourful
 
 > So Barnum, in flipping the world upside-down, is actually flipping the world right-side-up!
 
@@ -98,7 +99,7 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 
 > Contrast to The Greatest Show’s “stealing your mind” where it’s stolen without consent; this time, you need to “lose your mind” voluntarily
 
-> Again: who's responsible? 
+> Again: who's responsible?
 
 **You'll never be the same**
 
@@ -120,7 +121,7 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 
 > You can reach for the sky, but can/will you ever touch it? The sky, the stars?
 
-> *How do we rewrite the stars?*~
+> _How do we rewrite the stars?_~
 
 **And it's open wide**
 
@@ -130,7 +131,7 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 
 **You're electrified**
 
-> Frankenstein’s monster *came alive* by electricity
+> Frankenstein’s monster _came alive_ by electricity
 
 > V: Barnum pulls out a pillow from under a <span style="text-decoration:underline;">sleeping</span> performer, waking him up…
 
@@ -139,29 +140,29 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 **And the world becomes a fantasy**
 
 > V: ...And stuffs the pillow under 750 pound man.
-> 
-> On one hand, this is a *fantasy-lie* ‘cause he’s really only 500 pounds…
-> 
-> But it's also a *fantasy-world* where quirks are exaggerated and celebrated, in high contrast to before when they were just brushed under the carpet
+>
+> On one hand, this is a _fantasy-lie_ ‘cause he’s really only 500 pounds…
+>
+> But it's also a _fantasy-world_ where quirks are exaggerated and celebrated, in high contrast to before when they were just brushed under the carpet
 
 **And you're more than you could ever be**
 
-> This is seemingly a paradoxical statement: how can you be more than the maximum-most of who you were? 
+> This is seemingly a paradoxical statement: how can you be more than the maximum-most of who you were?
 >
 > → Only by becoming someone completely new.
 
 **'Cause you're dreaming with your eyes wide open**
 
 > Another paradox: you can’t sleep with eyes open… can you?
-> 
+>
 > Here, Barnum introduces a new concept: **daydreaming**
-> 
+>
 > Your fictional dreams are becoming real/alive in real life (i.e. with eyes open)
 
-**And you *know* you can't go back again**
+**And you _know_ you can't go back again**
 
-> V: Irish Giant stumbles on “*know*” of the lyrics, "And you *know* you can't…" → "know" sounds like "no"
-> 
+> V: Irish Giant stumbles on “_know_” of the lyrics, "And you _know_ you can't…" → "know" sounds like "no"
+>
 > The circus people stretch out their hands, as if exclaiming, "NO! If you fall, people will KNOW we’re fakes.”
 >
 > V: But from another angle, we also see that the circus family have outstretched hands, ready to catch you if you fall (see: [[Tightrope – Analysis|Tightrope]])
@@ -182,7 +183,7 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 
 > V: I’m wondering the significance of Barnum taking off his hat to help Stratton (Tom Thumb) up the horse. Maybe there’s none. Maybe.
 
-> // After-thoughts: **Barnum's hat** firstly represents inheritance. In this scenario, it represents *poverty* (it was Barnum's father’s possession and legacy to him) and also *trickery* (he wore it while hosting the circus acts, many of which are fake). Now he sees Tom Thumb, a boy just like he was, one step away from coming alive. He sets aside his hat, metaphorically shedding his own poverty and trickery, and steps forward genuinely and magically. Barnum's hat and his inheritance will symbolise that, until he learns.
+> // After-thoughts: **Barnum's hat** firstly represents inheritance. In this scenario, it represents _poverty_ (it was Barnum's father’s possession and legacy to him) and also _trickery_ (he wore it while hosting the circus acts, many of which are fake). Now he sees Tom Thumb, a boy just like he was, one step away from coming alive. He sets aside his hat, metaphorically shedding his own poverty and trickery, and steps forward genuinely and magically. Barnum's hat and his inheritance will symbolise that, until he learns.
 >
 > // After-after thoughts: by lifting Stratton up onto the horse and donning him in a costume, Stratton is made taller and sillier-looking than Barnum himself: a reversal of roles.
 
@@ -200,11 +201,10 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 
 > V: The first time we’re introduced to Lettie, she’s hiding her face behind a cloth
 
-
 > On the surface level, the lyric obviously means that the Oddities believe the lie that they are a shame to be hidden
-> 
-> V: But ironically, it’s the girl in the audience who’s showing her face from behind her mother, daring to show *her* face to the Oddities, not the other round
-> 
+>
+> V: But ironically, it’s the girl in the audience who’s showing her face from behind her mother, daring to show _her_ face to the Oddities, not the other round
+>
 > In some way, the “rich” like Charity and Philip have been lied to too, that they needed to hide their faces from true family and wonder
 
 **Afraid to step outside**
@@ -231,7 +231,7 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 
 **You and me, we know how that goes**
 
-> I interpret this line as a connective between the lines before and after: We know that if we come out of the shadows, we’ll never be the same. 
+> I interpret this line as a connective between the lines before and after: We know that if we come out of the shadows, we’ll never be the same.
 >
 > The first usage of "we" in the lyrics—and appropriately, Lettie is the one taking over lead vocals, singing it, since [[This is Me – Analysis|she later calls together the other Oddities]]
 
@@ -252,10 +252,10 @@ HAD *MY* HEAD HUNG LOW; *MY* SKY A SHADE OF GRAY"
 > Even when we are hidden away, keep on parading.
 
 > The 2017 version of the script reads the lyrics: "A LITTLE BIT OF LIGHTNIN' STRIKIN';
-BOTTLED UP TO KEEP ON SHININ'"
+> BOTTLED UP TO KEEP ON SHININ'"
 >
 > My best guess is that this describes the **light bulb**: just as the noble gases need to be contained to keep the light bulb shining…
-> 
+>
 > 1. a functioning family needs to be kept in the safety of the walls of a home
 > 2. and, beautiful circus extravaganza needs to be kept in check, lest you lose sight of it all
 
@@ -279,8 +279,8 @@ BOTTLED UP TO KEEP ON SHININ'"
 
 **Reachin' up to the sky**
 
-> V: Anne Wheeler reaches not up to the sky, but arms out towards her trapeze partner, W.D. 
-> 
+> V: Anne Wheeler reaches not up to the sky, but arms out towards her trapeze partner, W.D.
+>
 > In some ways, the seconds of trapeze airtime makes it feel like you're impossibly grasping at air
 
 **And it's open wide**
@@ -321,9 +321,9 @@ BOTTLED UP TO KEEP ON SHININ'"
 
 **(Attention, freaks! Your master’s calling!)**
 
-> The word "*master*" is used by the drunkard derogatorily, as in slaves *surrendered* to a task-*master*—but the opposite is true: a ring-*master* offering *freedom* into a family
+> The word "_master_" is used by the drunkard derogatorily, as in slaves _surrendered_ to a task-_master_—but the opposite is true: a ring-_master_ offering _freedom_ into a family
 
-> After-thoughts: In a way, Barnum used the exact same words as the drunkard, calling for the *attention* of the freaks, as the master freak himself.
+> After-thoughts: In a way, Barnum used the exact same words as the drunkard, calling for the _attention_ of the freaks, as the master freak himself.
 
 <br>
 
@@ -338,7 +338,7 @@ BOTTLED UP TO KEEP ON SHININ'"
 **Come on!**
 
 > Very, very nice repetition
-> 
+>
 > Also tying in how real-life circus promoters would call audiences regardless of background
 
 **To anyone who's bursting with a dream**
@@ -346,8 +346,8 @@ BOTTLED UP TO KEEP ON SHININ'"
 > "Your fever dream, can't you see it getting closer"~
 
 > V: I've JUST noticed this detail? Barnum stands in the wings, and Lettie (Bearded Lady) comes up and hands him the gold-adorned top hat that she presumably modified after reading the papers.
-> 
-> This is in line with Lettie's character who symbolises that  is infectious
+>
+> This is in line with Lettie's character who symbolises that is infectious
 
 **Come one!**
 
@@ -455,7 +455,7 @@ BOTTLED UP TO KEEP ON SHININ'"
 
 > Leave behind...
 
-**“...to make your dreams come true,  showing the world who you are...”**
+**“...to make your dreams come true, showing the world who you are...”**
 
 > ...brighten up your darkest day
 
@@ -490,9 +490,11 @@ BOTTLED UP TO KEEP ON SHININ'"
 ### In-Universe Imagery
 
 Barnum, Circus performers/Backup singers, Audience
+
 - Basically the exact same imagery as from The Greatest Show
 
 Drunk thugs
+
 - Worse than people whose dreams are suppressed, they’re actively trying to suppress others’ dreams of escaping stereotypes.
 - They aren’t exactly rich either. Suppression comes from all sides, rich and poor… and later we see it comes from within oneself, too.
 
@@ -500,39 +502,47 @@ Drunk thugs
 
 - Almost like how in The Greatest Show Barnum solos at first – but instead of a chorus joining him immediately, we get individual solos from Bearded Lady, 750-Pound Man, Anne Wheeler, while Napoleon got a whole sequence. It’s less grand and more intimate. We get to see individuals personally evangelising to others, and for Barnum it’s literally a prologue-sequence-dream come true.
 
+- We start with Barnum's solo lead, then the individual Oddities, then everyone in a chorus, then the audience themselves!
+
 - If The Greatest Show’s major third in the second half of its chorus is supposed to represent engrossing freedom in nonconformity – then Come Alive has a chord progression for you.
 
 ### What’s the name about?
 
-The most repeated form-class word is “come”; what does that mean? The song suggests a half-alive-half-dead limbo, what’s that about?
+The most repeated [form class](https://www.wordnik.com/words/form%20class) word is “*come*”—what does that mean?
+
+The song suggests a half-alive-half-dead limbo, what’s that about?
 
 ---
 
 ## Reflection
 
-So first week of college, I made a New Year’s Resolution: make as few friends as possible. In context, I loved chatting and making friends with all types of people back in highschool. One reason for the vow was that I didn’t want to lose touch with them by making new friends, so I stuck and ate lunch with old friends who also came to the same college.
+So first week of college, I made a New Year’s Resolution: make as few friends as possible. In context, I loved chatting and making friends with all types of people back in high school. One reason for the vow was that I didn’t want to lose touch with them by making new friends, so I stuck and ate lunch with old friends who also came to the same college.
 
 And, I kept it: I was laser focused on grasping two new subjects. Purposely sat with the familiar people. I could count the new friends I made in the first half-month on my fingers. I was unrecognisable.
 
 Our college had something called “orientation camps” in the first weeks, planned by seniors, for all the freshmen just to have fun and to get to know one another. Since our intake was large, we had seperate camps for separate cohorts. Fortunately, more than many familiar faces in my cohort, I even had an old friend from another cohort transferring from his camp into mine.
 
-The plan was set. Don’t say hi. Don’t ask, “What’s your name?”. And then–
+The plan was set. Don’t say hi. Don’t ask, “What’s your name?” And then–
 
-I don’t think there was a particular turning point. Someone invited me to sit with them, and I had a blast at the back of the bus with many others. I was chosen to be my group’s leader and blurted a group cheer that was, in hindsight, was too perfect a pun to believe: it raised team spirit and morale… as well as my own. We soared past challenges and had tons of laughs.
+I don’t think there was a particular turning point. Someone invited me to sit in the bus with them, and I had a blast at the back of the bus with many others. I was chosen to be my camp group’s leader and blurted a group cheer that was, in hindsight, was too perfect a pun to believe: it raised team spirit and morale… as well as my own. We soared past challenges and had tons of laughs.
 
-Our group’s assigned facilitator (“faci” in short, our senior) was so humble and friendly – he was in on our many in jokes, if not the subject of them. On the last night, I played songs with a guitar with old friends and new, and… the 30 people in the common area joined in a huge circle. Even the senior facis who were supposed to enforce curfew joined in for “just one last song”.
+Our group’s assigned facilitator (“faci” in short, a senior studnet) was so humble and friendly – he was in on our many in jokes, if not the subject of them. On the last night, I played songs with a guitar with old friends and new, and… the 30 people in the common area joined in a huge circle. Even the senior facis who were supposed to enforce curfew joined in for “just one last song”.
 
 It was… magical. On the bus ride back, though half the bus was asleep from staying up, I was more alive than I ever was in the entire new year. Sorry for keeping you up with my talking, seatmate, hehe. I was wishing the bus ride was longer, that the magic wouldn’t fade.
 
 How could I go back to the person I was before? And how could I go back to those three days of fantasy?
 
-I filled up my weekdays with clubs and more friends in that week than the entire year before. It was the beginning of many great memories with college friends. Oh, to think what treasures I would have missed if not for the camp. One season of memories in particular started a week after the camp.
+I filled up my weekdays with clubs and more friends in that week than the entire year before. It was the beginning of many great memories with college friends. Oh, to think what treasures I would have missed if not for the camp. 
 
-I bumped into my group’s faci. After sharing laughs, he asked, “Would you like to apply to become a faci for the next intake?” I knew about it, but never really considered how I would be the one creating that experience for someone else. “You got to get this blue form, and there’s a whole interview thing...” I would be the one who offers my own campers the same deal.
+One season of memories in particular started a week after the camp.
 
-The next two months would see me spending late nights planning the camp, a nugget in of itself. One of my campers was a close schoolmate, deciding to be reserved and to stick with me. Just as I predicted, he let down his walls and found many good people. I received many appreciation letters – and even better, many quality friends – who tell me how they were scared, being alone in a new school… but ended up feeling so at home with others like them.
+I bumped into my group’s faci. After sharing laughs, he asked, “Would you like to apply to become a faci for the next intake?” I knew about it, but never really considered how I would be the one creating that experience for someone else. “You got to get this blue form, and there’s a whole interview thing...” 
 
-I extended the invitation to become faci to many of them, and as the months went by, I saw person after person come alive. Then I realised, the magic doesn’t fade: like electricity, it cannot be destroyed; only transformed and transferred.
+The next two months would see me spending late nights planning the camp, a nugget in of itself. One of my campers was a close schoolmate, and he decided to be reserved and to stick with me. Just as I predicted, he let down his walls and found many good people[^1]. I received many appreciation letters – and even better, many quality friends—who tell me how they were scared, being alone in a new school… but ended up feeling so at home with others like them.
+
+[^1]: It's been three years since writing this. He's currently in Arizona, on a road trip with "just the bois". 
+
+I extended the invitation to become faci to many of them, and as the months went by, I saw person after person come alive. Then I realised, the magic doesn’t fade: like electricity, it cannot be destroyed: only transformed and transferred.
 
 > Q: Are you dead or alive? Or somewhere in between?
 
