@@ -1,0 +1,44 @@
+<p class="post-meta">
+	Published on:
+	<time
+		class="dt-published"
+		datetime="{{ page.date | date_to_xmlschema }}"
+		itemprop="datePublished"
+	>
+		{%- assign date_format = site.minima.date_format | default: "%-d %b %Y"-%}
+		{{ page.date | date: date_format }}
+	</time>
+	<br />
+	Last modified:
+	<time
+		class="dt-modified"
+		datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+		itemprop="dateModified"
+	>
+		{{ page.last_modified_at | date: '%d %b %Y' }}
+	</time>
+	{%- if page.author -%}
+	<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+		<span class="p-author h-card" itemprop="name">{{ page.author }}</span>
+	</span>
+
+	{%- endif -%} {%- if page.category -%}
+
+	<br /><br />
+
+	Topic:
+	<a
+		class="category-link"
+		href="{{ page.category | replace: ' ', '-'  | relative_url }}"
+	>
+		{{ page.category | escape }}
+	</a>
+
+	{% if page.previous.url %}
+	<br />&#8672;&nbsp;Previous:
+	<a href="{{page.previous.url | relative_url }}"> {{page.previous.title}} </a>
+	{% endif %} {% if page.next.url %}
+	<br />&#8674;&nbsp;Next
+	<a href="{{page.next.url  | relative_url}}">{{page.next.title}} </a>
+	{% endif %} {%- endif -%}
+</p>
