@@ -8,8 +8,7 @@
 		{%- assign date_format = site.minima.date_format | default: "%-d %b %Y"-%}
 		{{ page.date | date: date_format }}
 	</time>
-	<br />
-	Last modified:
+	&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Last modified:
 	<time
 		class="dt-modified"
 		datetime="{{ page.last_modified_at | date_to_xmlschema }}"

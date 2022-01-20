@@ -94,7 +94,7 @@ defaults:
       sitemap: false
   - scope:
       path: "assets/img"
-    values:
+    values: 
       image: true
 
 # * PLUGINS --------------------------------------------------------------------

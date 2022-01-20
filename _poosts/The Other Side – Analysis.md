@@ -13,7 +13,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 ## Lyric Analysis
 
-![[showman-philip-pain.png]]{:class="img-responsive"}
+![[showman-philip-pain.png]]
 > Video: After Philip takes a shot, he has this facial expression, as if the alcohol adds to his grief, instead of numbing it
 
 **Right here, right now**
@@ -184,7 +184,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 **Whiskey and misery, and parties and plays?**
 
-> Getting “intoxicated by freedom” is a common motif, but instead here where **whiskey** specifically represents *celebration*, it is contrasted with “drinking in **misery**”
+> Getting “intoxicated by freedom” is a common motif, but **whiskey** is tied in with “drinking in **misery**”
 
 > What’s funny is that later, Barnum laments that he spent his days “drinking champagne with kings and queens”~
 

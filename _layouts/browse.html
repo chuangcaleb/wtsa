@@ -10,15 +10,11 @@ layout: default
   {{ content }}
 
   {%- if site.poosts.size > 0 -%}
-  {% comment %} <h2 class="post-list-heading">Posts</h2> {% endcomment %}
   <ul class="post-list">
 
     {%- for page in site.paages-%}
       {%- if page.layout == "category" -%}
         <li>
-          {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
-          <span class="post-meta">Published on: {{ page.date | date: date_format }}</span>
-          <hr>
           
           <h3>
             <a class="post-link" href="{{ page.url | relative_url }}">
