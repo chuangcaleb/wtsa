@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/wtsa/FIlm-Reviews</loc>
+<lastmod>2022-01-20T10:57:10+00:00</lastmod>
+</url>
+<url>
 <loc>/wtsa/The-Greatest-Showman-Series</loc>
-<lastmod>2022-01-14T14:29:56+00:00</lastmod>
+<lastmod>2022-01-20T10:57:10+00:00</lastmod>
 </url>
 <url>
 <loc>/wtsa/about</loc>
@@ -21,12 +25,16 @@
 <lastmod>2022-01-12T22:29:55+00:00</lastmod>
 </url>
 <url>
+<loc>/wtsa/posts/Maleficent-Mistress-of-Evil-Film-Review</loc>
+<lastmod>2022-01-20T10:57:10+00:00</lastmod>
+</url>
+<url>
 <loc>/wtsa/posts/Come-Alive-Analysis</loc>
 <lastmod>2022-01-14T14:29:56+00:00</lastmod>
 </url>
 <url>
 <loc>/wtsa/posts/The-Other-Side-Analysis</loc>
-<lastmod>2022-01-14T14:29:56+00:00</lastmod>
+<lastmod>2022-01-20T10:57:10+00:00</lastmod>
 </url>
 <url>
 <loc>/wtsa/posts/Never-Enough-Analysis</loc>
@@ -47,6 +55,10 @@
 <url>
 <loc>/wtsa/posts/From-Now-On-Analysis</loc>
 <lastmod>2022-01-14T14:29:56+00:00</lastmod>
+</url>
+<url>
+<loc>/wtsa/posts/dummy</loc>
+<lastmod>2022-01-14T18:34:23+00:00</lastmod>
 </url>
 <url>
 <loc>/wtsa/</loc>

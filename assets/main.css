@@ -316,7 +316,7 @@ article li { margin-top: 5px; }
 
 .home hr, .category hr { margin-top: 10px; margin-bottom: 10px; }
 
-.home li, .category li { border: 1px solid lightgray; border-radius: 10pt; padding: 10px; }
+.home .post-list li, .category .post-list li { border: 1px solid lightgray; border-radius: 10pt; padding: 10px; }
 
 .post-list { margin-top: 30px; }
 
