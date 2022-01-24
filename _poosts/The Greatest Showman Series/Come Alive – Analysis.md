@@ -11,6 +11,18 @@ Come one, come all, come in, come on, come alive (*come back home?*). Every mome
 
 I feel like there was a moment in production where “The Greatest Show” was supposed to be in place of this song, or vice versa, because of their very similar flow, style, themes and objectives. But I like it this way; Come Alive is more of a real street promotion/invitation in context while The Greatest Show is somewhat a surreal fever dream.
 
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/BDd9dejw2HY"
+      width="480"
+      height="300"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
+---
+
 ## Lyric Analysis
 
 **You stumble through your days**
@@ -401,7 +413,11 @@ I feel like there was a moment in production where “The Greatest Show” was s
 
 **So, come alive! (Come alive!)**
 
-> MBAS: a certain pose, a certain crown and a certain coming back to life… not a stretch I think.
+> Might be a Stretch: a certain pose, a certain crown and a certain coming back to life… not a stretch I think.
+
+![[showman-come-alive.png]]
+
+![[showman-barnum-arms-wide-open.png]]
 
 ---
 
