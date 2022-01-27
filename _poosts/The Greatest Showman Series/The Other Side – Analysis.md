@@ -14,6 +14,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 ## Lyric Analysis
 
 ![[showman-philip-pain.png]]
+
 > Video: After Philip takes a shot, he has this facial expression, as if the alcohol adds to his grief, instead of numbing it
 
 **Right here, right now**
@@ -22,7 +23,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 **I don't wanna chase you down**
 
-**I know you see it
+\*\*I know you see it
 
 > "I see it in your eyes!"~
 
@@ -30,7 +31,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 > “Run away with the circus” reference again
 
-> But also how, [[Come Alive – Analysis|dead men walk, alive people run ]]
+> But also how, [[Come Alive – Analysis|dead men walk, alive people run]]
 
 **And I can cut you free**
 
@@ -42,7 +43,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 > I thought the lyric was “treachery”, and… it works too. Self-deception and self-suppression is treason against yourself.
 
-> Barnum talks about a wall that’s *internal*—wehave walls, that we hide on the inside
+> Barnum talks about a wall that’s _internal_—wehave walls, that we hide on the inside
 
 <br>
 
@@ -52,7 +53,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 > Remember, “I don’t care if they call me crazy”~
 
-> V: It’s *crazy* to trust the bartender will catch a thrown liquor bottle
+> V: It’s _crazy_ to trust the bartender will catch a thrown liquor bottle
 
 **You can play it sensible, a king of conventional**
 
@@ -68,7 +69,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 > “I’d risk it all… comes with a breathtaking view”~
 
-> V: Barnum flips Philip to *the other side*—he’s literally looking away in the opposite direction
+> V: Barnum flips Philip to _the other side_—he’s literally looking away in the opposite direction
 
 <br>
 
@@ -76,9 +77,9 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 **From the same old part you gotta play?**
 
-> Philip Carlyle, a *play*wright, arranges the same, old scripted *plays* every show
+> Philip Carlyle, a *play*wright, arranges the same, old scripted _plays_ every show
 >
-> Also, being a writer, he never actually “*plays*” any acting part—if anything, he’s a non-player
+> Also, being a writer, he never actually “_plays_” any acting part—if anything, he’s a non-player
 
 **'Cause I got what you need**
 
@@ -142,7 +143,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 **You're onto something, really it's something**
 
-> V: Philip has his own version of the top hat, albeit red: he is a showman of the theatre play. 
+> V: Philip has his own version of the top hat, albeit red: he is a showman of the theatre play.
 
 **But I live among the swells, and we don't pick up peanut shells**
 
@@ -192,7 +193,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 **Disgraced and disowned, another one of the clowns**
 
-> ...and Philip later gets disgraced by his parents, and disowns *them*—instead of the other way around
+> ...and Philip later gets disgraced by his parents, and disowns _them_—instead of the other way around
 
 > Philip becomes not just “another one of the clowns”, but even succeeds Barnum as the King of the clowns.
 
@@ -225,12 +226,12 @@ Right here, right now, I put the textpost out. This song became an early favouri
 > V: Philip is already more like Barnum than he knows—putting on a scarf in a similar way (and vice versa!)
 
 > At the end of the show, Philip tells Barnum, "When I first met you,
-I had an inheritance. I had acclaim. I had invitations to every party in town. And now, thanks to you, that’s gone. All that's left is friendship, love, and work that I adore. You brought joy into my life."
+> I had an inheritance. I had acclaim. I had invitations to every party in town. And now, thanks to you, that’s gone. All that's left is friendship, love, and work that I adore. You brought joy into my life."
 
 **But I guess I'll leave that up to you**
 
 > Barnum’s salesman persona attentively picks out Philip’s sarcastic remark at the end of the second pre-chorus, and reverses it onto him here
-> 
+>
 > But then again, reinforcing that it’s Philip’s choice in the end
 
 > V: Philip smirks. I think he already has his mind set on joining the circus; but, "knowing who I'm working with", Philip prepares a safety net for Barnum if/when he falls
@@ -271,8 +272,8 @@ I had an inheritance. I had acclaim. I had invitations to every party in town. A
 
 **Maybe nine**
 
-> [Genius Lyrics](https://genius.com/13225837): Philip started at 18% and Barnum started at 8%, but the final agreed 10% cut is so skewed towards Barnum's initial call. 
-> 
+> [Genius Lyrics](https://genius.com/13225837): Philip started at 18% and Barnum started at 8%, but the final agreed 10% cut is so skewed towards Barnum's initial call.
+>
 > Philip, with greater monetary resources, should've been the one with actual bargaining power here. But Barnum, not realising how much power he has in the currency of joy, is simply greedy and gets the "better" monetary deal.
 
 **Ten!**
@@ -299,7 +300,7 @@ I had an inheritance. I had acclaim. I had invitations to every party in town. A
 
 **'Cause I got what you need, so come with me and take the ride**
 
-> Barnum has Philip's need for joy in a family. But Philip's upper-class advancements are what Barnum *wants*, not *needs*—what Philip has that Barnum really needs, is being the heir. This is fulfilled when Philip takes over the circus for Barnum to spend time with his family
+> Barnum has Philip's need for joy in a family. But Philip's upper-class advancements are what Barnum _wants_, not _needs_—what Philip has that Barnum really needs, is being the heir. This is fulfilled when Philip takes over the circus for Barnum to spend time with his family
 
 **To the other side**
 
@@ -311,7 +312,7 @@ I had an inheritance. I had acclaim. I had invitations to every party in town. A
 
 > “make the key” - “A million dreams for the world we’re gonna make”~
 
-> In the first chorus, Barnum says you can *take* the key—but here, they *make* the key. Same, same, but different?
+> In the first chorus, Barnum says you can _take_ the key—but here, they _make_ the key. Same, same, but different?
 
 **Suddenly we're free to fly**
 
@@ -444,7 +445,8 @@ Circus vs (Theatre) Play
 - Theatre plays are a legit act needing perfected practices where if you’re not talented, you can’t fake it: compare ballet, opera, etc.
 
 - In contrast with Barnum's circus, not just people who don’t practice to perfection, but also fakers whose qualities are exaggerated by Barnum
-	- (In real-life circuses, circus performers must be professional and talented to perform such dangerous, amazing stunts!)
+
+  - (In real-life circuses, circus performers must be professional and talented to perform such dangerous, amazing stunts!)
 
 - Theatre: Philip is the producer who casts professional actors and makes sure scripts go perfect—he has to deal with unhappy refunds
 
@@ -473,26 +475,28 @@ Drinking and Handshakes
 ### The Medium
 
 Structure
+
 - The structure is arranged nicely: the first verse and chorus was Barnum’s argument for his side, while the second was Philip’s. Bridge 1 was a more personal attack on the other’s lifestyle, while Bridge 2 was Barnum’s final punchline.
 - Chorus 3 was almost like a mini-reprise with almost-similar lyrics, but this time they sing in unison: Philip harmonises with Barnum, just like how Charity joins in with Barnum in A Million Dreams where it shows how they’re in one accord – whereas, in The Other Side, harmony means they’re opposite in objective (but not antagonistic).
 - The whole debate style from Barnum trying to win Philip over is a foreshadow of Philip trying to win Anne over later in [[Rewrite the Stars – Analysis|Rewrite the Stars]].
 
 The 180º Rule
+
 - In cinematography, there's a rule called the 180º rule: the camera should never cross an invisible line, in order to not disorientate viewers. But in this song:
-	-  In the verses, Philip and Barnum talk about the mediocrity and comfort of the "high life", and so face the countertop, as if they were rich paying customers.
-	- In the prechoruses, Barnum starts to turn around, readying up for his pitch of the "exciting life"
-	- At the start of the choruses, Philip turns around 180º, the first time pushed by Barnum, the second time by himself, already sold
-	- Second chorus onwards, we lose the dichotomous perspectives, and start to meld the two
-	- In the bridge, Philip turns away again, Barnum pitches again, and by the turning point, Philip whips back around
-	- In the last chorus, the drunkard bar transforms into the drunken circus
-	- In the last line, when Philip steps out of the curtain, it's a 180º cut too
-	- There's basically a lot of 180º camera transition cuts
+  - In the verses, Philip and Barnum talk about the mediocrity and comfort of the "high life", and so face the countertop, as if they were rich paying customers.
+  - In the prechoruses, Barnum starts to turn around, readying up for his pitch of the "exciting life"
+  - At the start of the choruses, Philip turns around 180º, the first time pushed by Barnum, the second time by himself, already sold
+  - Second chorus onwards, we lose the dichotomous perspectives, and start to meld the two
+  - In the bridge, Philip turns away again, Barnum pitches again, and by the turning point, Philip whips back around
+  - In the last chorus, the drunkard bar transforms into the drunken circus
+  - In the last line, when Philip steps out of the curtain, it's a 180º cut too
+  - There's basically a lot of 180º camera transition cuts
 
 ### What’s the name about?
 
-Other side of *what*? 
+Other side of _what_?
 
-Besides Barnum and Philip, which other characters are on each side? 
+Besides Barnum and Philip, which other characters are on each side?
 
 Are there more just two sides, or are there more?
 
@@ -514,7 +518,7 @@ Because of fear, or shame, or something – I had to lie to myself and trap myse
 
 Well. The show went on. My classmates performed without me, without full participation marks. They looked good, too, I thought from the empty class line, since everyone sat with their classes while waiting for their turn. How I secretly yearned to be up there.
 
-I forgot if they won any categories, but, that’s the thing? I wouldn’t remember (or care) 10 years down the line if I had messed up. What I do remember, reluctantly grudgingly, is not taking the offer. Where would I have been now, had I?
+I forgot if they won any categories, but, does it matter? I wouldn’t remember (or care) 10 years down the line if I had messed up. What I do remember, reluctantly grudgingly, is not taking the offer. Where would I have been now, had I?
 
 But that’s the past. Fast forward a little; over the years, I have explored many different areas: like sports, academics, computer, humanities. Seasons came and went, but I always drew closer and closer to story. At least, I explored it offstage, reading up in theory.
 
@@ -524,6 +528,6 @@ Now, though. I’ll be the first to agree to join a friend to sing some imprompt
 
 I’ve learnt to always take the ride. I’ve forgotten my cage. It’s been so liberating to finally be who I want to be. And really, suddenly, I’m free to fly.
 
-> Q: Who do you want to imitate/follow – and – is it a deal worth taking? 
+> Q: Who do you want to imitate/follow – and – is it a deal worth taking?
 >
 > And, How do we take/make the key?

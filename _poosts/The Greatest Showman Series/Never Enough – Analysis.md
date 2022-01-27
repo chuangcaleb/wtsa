@@ -55,7 +55,7 @@ Upon first viewing, and in the context of the dialogue after, it seems like such
 
 **'Cause darling without you**
 
-> SEE: [[Never Enough – Analysis#In-Universe Imagery|below]]—basically, this line recontextualises 
+> SEE: [[Never Enough – Analysis#In-Universe Imagery|below]]—basically, this line recontextualises
 
 <br>
 
@@ -169,7 +169,7 @@ Upon first viewing, and in the context of the dialogue after, it seems like such
 
 **For me**
 
-> V: This is a song that story-wise should be a literal one-man performance, focusing on Jenny Lind. But we have fast cuts of close ups of different characters… there are so many players involved and stories developed—virtually all of them, really. 
+> V: This is a song that story-wise should be a literal one-man performance, focusing on Jenny Lind. But we have fast cuts of close ups of different characters… there are so many players involved and stories developed—virtually all of them, really.
 > (Side note, this is also a great way of getting all our main characters in one event, and having the same event be a turning point in all of their arcs)
 
 ---
@@ -254,7 +254,7 @@ Barnum & Charity
 
 Philip & Anne
 
-- Philip sets off a dream in Anne, to which she responds by taking his hand. Dreams came true for a minute; then upon his parents watching, he let go. 
+- Philip sets off a dream in Anne, to which she responds by taking his hand. Dreams came true for a minute; then upon his parents watching, he let go.
 
 - Digging deeper, this sequence might be trying to say that even if family was worth more than towers of gold, it’s still never enough to rewrite the stars/change the rules of society… which becomes the debate in the next song.
 
@@ -266,11 +266,11 @@ Philip & Anne
 
 - In the story-world: a literal solo performance where Jenny’s authenticity is tested—and proven
 
-- Chorus of Never Enough has a chord progression similar and reminiscent of The Greatest Show’s and A Million Dreams’ own choruses: these are all songs about *ambition* and *dreams*
+- Chorus of Never Enough has a chord progression similar and reminiscent of The Greatest Show’s and A Million Dreams’ own choruses: these are all songs about _ambition_ and _dreams_
 
 ### What’s the name about?
 
-Where will it always be enough? 
+Where will it always be enough?
 
 What does that place have that riches and fame doesn’t?
 

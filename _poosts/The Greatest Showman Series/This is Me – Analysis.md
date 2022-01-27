@@ -64,8 +64,9 @@ Admittedly, this song dampened my eyes early. It’s a little cliche and cheesy,
 **I am brave, I am bruised**
 
 > Bruised
+>
 > 1. Shameful physical “flaws”, (inflicted by someone?)
-> 2. But also proud battle scars 
+> 2. But also proud battle scars
 > 3. Sometimes even assets/gifts
 
 **I am who I'm meant to be, this is me**
@@ -95,13 +96,13 @@ Admittedly, this song dampened my eyes early. It’s a little cliche and cheesy,
 **Another round of bullets hits my skin**
 
 > If anything, the hate comments are targeted at their skin i.e. their appearance
-> 
+>
 > V: You can see Bearded Lady start to have some doubts—then Tom Thumb grips her hand, and sings for her when she’s too weak to. When she falls, she's caught by her family
 
 **Well, fire away 'cause today, I won't let the shame sink in**
 
 > You can get shot at without getting hurt—it's a choice
-> 
+>
 > They don’t deny that there is shame, but they don’t let it into their thoughts
 
 **We are bursting through the barricades**
@@ -146,7 +147,7 @@ Admittedly, this song dampened my eyes early. It’s a little cliche and cheesy,
 
 **I am who I'm meant to be, this is me**
 
-> V: They are magically transported into the circus tent, as if by the sheer "power of family"!!!1!1! 
+> V: They are magically transported into the circus tent, as if by the sheer "power of family"!!!1!1!
 >
 > V: A group dance in a circus ring, in contrast to [[Never Enough – Analysis|Never Enough]]’s solo previously on theatre stage
 
@@ -172,7 +173,7 @@ Admittedly, this song dampened my eyes early. It’s a little cliche and cheesy,
 
 **And I know that I deserve your love**
 
-> One of the lines I’m on the fence about. Idk haha. I think that it's not a matter of "deserving"-or-not. If anything, there's nothing extrinsically worthwhile about the Oddities. It's the intrinsic beauty in the eyes of the beholder, in Barnum's eyes, that gives them love in a family. 
+> One of the lines I’m on the fence about. Idk haha. I think that it's not a matter of "deserving"-or-not. If anything, there's nothing extrinsically worthwhile about the Oddities. It's the intrinsic beauty in the eyes of the beholder, in Barnum's eyes, that gives them love in a family.
 
 **There's nothing I'm not worthy of**
 
@@ -181,7 +182,7 @@ Admittedly, this song dampened my eyes early. It’s a little cliche and cheesy,
 **When the sharpest words wanna cut me down**
 
 > V: Time slows down; everyone's in slow motion. But time isn't actually slowing down. It's a fake daydream.
-> 
+>
 > Yet, it's even more real, because it's like, Bearded Lady is having a moment of clarity, stepping back from the magic of the moment and remembers, that life’s tough.
 
 **I'm gonna send a flood, gonna drown them out**
@@ -281,7 +282,7 @@ Admittedly, this song dampened my eyes early. It’s a little cliche and cheesy,
 Sharp Weapons & Bullets — vs Warriors
 
 - Kind of evokes imagery of being the victim of a peaceful farmer's village getting raided with weapons of steel
-- Though the villagers are clearly outmatched, they *become* warriors when they choose to fight
+- Though the villagers are clearly outmatched, they _become_ warriors when they choose to fight
 - Only victims have scars, but warriors have battle scars
 - They chose not to be a victim, but a fighter, a rebel
 
@@ -306,8 +307,8 @@ Call
 - The post-chorus has this melody motif, Bearded Lady giving a call Whoa-oa-oa-oa.
 - Then the other Oddities reply, in call, the second time in harmony
 - “Marching on to the beat I drum”, as in, she finally takes action, letting her own unique voice be heard
-- But funnily, the others echo her melody. What happened to celebrating individuality? 
-	- A hint: one song, different voices.
+- But funnily, the others echo her melody. What happened to celebrating individuality?
+  - A hint: one song, different voices.
 
 The Apostle
 
@@ -325,7 +326,7 @@ Thematic Structure
 
 ### What’s the name about?
 
-What’s stopping them from declaring who they are? 
+What’s stopping them from declaring who they are?
 
 And—why, despite that, must we?
 

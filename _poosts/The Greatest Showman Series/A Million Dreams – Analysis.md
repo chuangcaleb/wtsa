@@ -11,6 +11,16 @@ A million dreams for the posts we’re gonna make. It was different to type this
 
 One line I especially love is from Charity’s father, “Sooner or later she will get tired of your life of having nothing, and she will keep running back home.” So many levels on that one.
 
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/g9r5PFZihC4"
+      width="480"
+      height="300"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 ## Lyric Analysis
 
 **I close my eyes and I can see**

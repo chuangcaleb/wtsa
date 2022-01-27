@@ -5,7 +5,7 @@ custom_css: showman
 date: 2019-11-15
 ---
 
-Come one, come all, come in, come on, come alive (*come back home?*). Every moment is just URGHH so alive. The use of slo-mo and camera angles are very tasty. And the choreo! So enticing.
+Come one, come all, come in, come on, come alive (_come back home?_). Every moment is just URGHH so alive. The use of slo-mo and camera angles are very tasty. And the choreo! So enticing.
 
 <!--more-->
 
@@ -524,7 +524,7 @@ Drunk thugs
 
 ### What’s the name about?
 
-The most repeated [form class](https://www.wordnik.com/words/form%20class) word is “*come*”—what does that mean?
+The most repeated [form class](https://www.wordnik.com/words/form%20class) word is “_come_”—what does that mean?
 
 The song suggests a half-alive-half-dead limbo, what’s that about?
 
@@ -548,15 +548,15 @@ It was… magical. On the bus ride back, though half the bus was asleep from sta
 
 How could I go back to the person I was before? And how could I go back to those three days of fantasy?
 
-I filled up my weekdays with clubs and more friends in that week than the entire year before. It was the beginning of many great memories with college friends. Oh, to think what treasures I would have missed if not for the camp. 
+I filled up my weekdays with clubs and more friends in that week than the entire year before. It was the beginning of many great memories with college friends. Oh, to think what treasures I would have missed if not for the camp.
 
 One season of memories in particular started a week after the camp.
 
-I bumped into my group’s faci. After sharing laughs, he asked, “Would you like to apply to become a faci for the next intake?” I knew about it, but never really considered how I would be the one creating that experience for someone else. “You got to get this blue form, and there’s a whole interview thing...” 
+I bumped into my group’s faci. After sharing laughs, he asked, “Would you like to apply to become a faci for the next intake?” I knew about it, but never really considered how I would be the one creating that experience for someone else. “You got to get this blue form, and there’s a whole interview thing...”
 
 The next two months would see me spending late nights planning the camp, a nugget in of itself. One of my campers was a close schoolmate, and he decided to be reserved and to stick with me. Just as I predicted, he let down his walls and found many good people[^1]. I received many appreciation letters – and even better, many quality friends—who tell me how they were scared, being alone in a new school… but ended up feeling so at home with others like them.
 
-[^1]: It's been three years since writing this. He's currently in Arizona, on a road trip with "just the bois". 
+[^1]: It's been three years since writing this. He's currently in Arizona, on a road trip with "just the bois".
 
 I extended the invitation to become faci to many of them, and as the months went by, I saw person after person come alive. Then I realised, the magic doesn’t fade: like electricity, it cannot be destroyed: only transformed and transferred.
 

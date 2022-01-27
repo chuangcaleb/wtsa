@@ -20,24 +20,27 @@
 	<span itemprop="author" itemscope itemtype="http://schema.org/Person">
 		<span class="p-author h-card" itemprop="name">{{ page.author }}</span>
 	</span>
-
-	{%- endif -%} {%- if page.category -%}
-
-	<br /><br />
-
-	Topic:
+	{%- endif -%} {%- if page.categories -%}
+	<br />
+	Category:
 	<a
 		class="category-link"
 		href="{{ page.category | replace: ' ', '-'  | relative_url }}"
 	>
 		{{ page.category | escape }}
 	</a>
-
-	{% if page.previous.url %}
+	{% assign category = page.categories[0] %} {% assign posts = site.poosts |
+	where: "category", category %} {% for post in posts %} {% if post.url ==
+	page.url %} {% assign post_index0 = forloop.index0 %} {% assign post_index1 =
+	forloop.index %} {% endif %} {% endfor %} {% for post in posts %} {% if
+	post_index0 == forloop.index %} {% assign prev_post = post %} {% endif %} {%
+	if post_index1 == forloop.index0 %} {% assign next_post = post %} {% endif %}
+	{% endfor %} {% assign category = page.categories[0] %} {% assign posts =
+	site.collections | where: "category", category %} {% if prev_post %}
 	<br />&#8672;&nbsp;Previous:
-	<a href="{{page.previous.url | relative_url }}"> {{page.previous.title}} </a>
-	{% endif %} {% if page.next.url %}
-	<br />&#8674;&nbsp;Next
-	<a href="{{page.next.url  | relative_url}}">{{page.next.title}} </a>
+	<a href="{{ prev_post.url | relative_url }}"> {{prev_post.title}} </a>
+	{% endif %} {% if next_post %}
+	<br />&#8674;&nbsp;Next:
+	<a href="{{ next_post.url | relative_url}}">{{next_post.title}} </a>
 	{% endif %} {%- endif -%}
 </p>
