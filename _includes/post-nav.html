@@ -18,7 +18,7 @@
 	<div class="post-nav-pn">
 		<div class="post-nav-p">
 			{% if prev_post %}
-			<a href="{{page.previous.url | relative_url }}">
+			<a href="{{prev_post.url | relative_url }}">
 				<span class="post-nav-label">&#8672;&nbsp;Previous</span>
 				<p>{{prev_post.title}}</p>
 			</a>
