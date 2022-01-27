@@ -334,6 +334,16 @@ And—why, despite that, must we?
 
 This song was a late entry in the film production, but you should watch [the greenlighting workshop footage](https://www.youtube.com/watch?v=XLFEvHWD_NE). How Keala Settle (Bearded Lady, the singer) herself was a shivering nervous mess at first. By the first chorus, she stepped out from her behind her music stand and into the “circus ring”. By the second verse, she was projecting her newfound (baseless?) confidence onto the backup singers.
 
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/XLFEvHWD_NE"
+      width="480"
+      height="300"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 Suddenly, the room was on fire: the producers were on their feet. The pianist stood up pushing his chair back and everyone was lost to the beating of the lead singer’s drums. Hugh had to let out an involuntary grunt of amazement and speechlessness.
 
 It is here you can really see the story of The Greatest Showman really come alive, to real life: Micheal Gracy, the real-world equivalent of P.T. Barnum the ringmaster, had kept pushing her to step out of the comforts behind her music stand, to be bold to belt out a song about being brave and authentic.
@@ -348,7 +358,19 @@ Then Keala gestures to him, non-verbally saying, “Hey, look at me. I used to b
 
 He did his part with supernatural confidence, all the while eyes fixated on her. He, too, got carried away with freedom, and he was the last jenga brick before the room’s participants gave in. That’s what magic can do to you. And for others.
 
-There’s this youtube video, “Guy starts dance party 2009”. There was a music festival on a hillside, and everyone was just chilling on the grass. For a very, very long time, there was one Shirtless Guy dancing along to the music by himself, while onlookers looked on, probably ridiculing him in their heads. This happened for a very long time, before the cameraman noticed him enough to start filming.
+---
+
+There’s this youtube video, “[Guy starts dance party 2009](https://www.youtube.com/watch?v=GA8z7f7a2Pk)”. There was a music festival on a hillside, and everyone was just chilling on the grass. For a very, very long time, there was one Shirtless Guy dancing along to the music by himself, while onlookers looked on, probably ridiculing him in their heads. This happened for a very long time, before the cameraman noticed him enough to start filming.
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/GA8z7f7a2Pk"
+      width="480"
+      height="300"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
 Then, for some reason, a second guy walks over to join him. The Shirtless Guy pulls him nearer, showing this one dance move. The second guy tries to follow him. More people notice the dancing, but didn’t pay any mind. Some inched closer out of curiosity. Mind you, the dancing was WEIRD in every sense.
 
