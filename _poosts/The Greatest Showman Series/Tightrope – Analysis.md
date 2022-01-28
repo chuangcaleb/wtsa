@@ -111,8 +111,8 @@ date: 2020-03-14
 
 > V: But, the circus family caught Anne. Interestingly, some of the audience still clap even though Anne had failed to be caught in her act.
 
-> V: The oddities are striking a final pose, but without the same excitement from Come Alive or This Is Me. 
-> 
+> V: The oddities are striking a final pose, but without the same excitement from Come Alive or This Is Me.
+>
 > The music quietens, and reality reminds us that the risk is very real: some mobsters are jeering them, throwing peanuts at the circus actors in stark contrast to the audience throwing flowers at Jenny.
 
 > V: Philip, however, mans up and boldly steps into the ring even when/if in the [[Rewrite the Stars – Analysis|previous song]], Anne stepped out of it, away from him
@@ -156,8 +156,8 @@ date: 2020-03-14
 **With you**
 
 > V: Charity looks through her house window, and we see Jenny on the other side looking out of her train window with Barnum, and seemingly into the house.
->  
->  Charity wants to be Jenny, being with Barnum. But Jenny wants to be Charity, having a happy, accepting, legitimate family.
+>
+> Charity wants to be Jenny, being with Barnum. But Jenny wants to be Charity, having a happy, accepting, legitimate family.
 
 ![[showman-amd-window-parallel.jpg]]
 
@@ -199,11 +199,12 @@ date: 2020-03-14
 
 - The only song in the musical whose time signature isn’t 4/4 but is 3/4.
 
-- While catchy popular pop songs use a 4/4 signature, 
-	- waltz and ballroom dancing music normally use 3/4.
+- While catchy popular pop songs use a 4/4 signature,
 
-- While a 4/4 beat is safe, certain and mainstream, 
-	- a 3/4 beat is imbalanced, unsure and unconventional.
+  - waltz and ballroom dancing music normally use 3/4.
+
+- While a 4/4 beat is safe, certain and mainstream,
+  - a 3/4 beat is imbalanced, unsure and unconventional.
 
 Waltz
 
@@ -225,11 +226,13 @@ Tightrope
 
 Charity and Jenny
 
-- Like the duet [[The Other Side – Analysis|The Other Side]] where Barnum and Philip want to become each other, 
-	- similarly, in Tightrope, Charity and Jenny want to be where each other are: with family.
+- Like the duet [[The Other Side – Analysis|The Other Side]] where Barnum and Philip want to become each other,
 
-- In contrast to [[Never Enough – Analysis|Never Enough]]’s, “Without you everything will never be enough”, 
-	- Tightrope says, “With you the risk is beautiful enough.”
+  - similarly, in Tightrope, Charity and Jenny want to be where each other are: with family.
+
+- In contrast to [[Never Enough – Analysis|Never Enough]]’s, “Without you everything will never be enough”,
+
+  - Tightrope says, “With you the risk is beautiful enough.”
 
 - While Jenny/Never Enough harped repeatedly on the spotlights and gold, and “Darling without you” was only mentioned as if an afterthought: “For _me_“ was repeated 13 times….
 
@@ -239,12 +242,11 @@ Charity and Jenny
 
 Duet
 
-- This song is the least flashy of the soundtrack; maybe on purpose? Maybe the greatest show, doesn't *look* sensational.
+- This song is the least flashy of the soundtrack; maybe on purpose? Maybe the greatest show, doesn't _look_ sensational.
 
-- Tightrope is a dark foil of [[A Million Dreams – Analysis|A Million Dreams]]’ bridge: both expressing great dreams and its risks, but where A Million Dreams is optimistic, Tightrope is realistic — but still holding on *despite* the trouble.
+- Tightrope is a dark foil of [[A Million Dreams – Analysis|A Million Dreams]]’ bridge: both expressing great dreams and its risks, but where A Million Dreams is optimistic, Tightrope is realistic — but still holding on _despite_ the trouble.
 
 - Similarly for [[Rewrite the Stars – Analysis|Rewrite the Stars]]: Anne/Charity says she’s ready to fly and fall, and now her promise is put to the test.
-
 
 - With all of Barnum’s new crazy dreams, he has forgotten the riskiest of them all: how could a rich, educated girl possibly want to start a family with this homeless, hopeless orphan boy?
 
@@ -256,7 +258,7 @@ Fancy chords
 
 ### What’s the name about?
 
-Who else in the movie are walking their own tightropes? 
+Who else in the movie are walking their own tightropes?
 
 How does it always involve a performer and a ringmaster?
 
@@ -268,11 +270,12 @@ What’s harder than walking on a tightrope? Two people dancing on a tightrope. 
 
 It’s already been, what, seven months since I went to see [@swissdreamcircus](https://www.swissdreamcircus.com) with my friends. I still remember the tightrope act. It was on a super thin wire (it was 15mm, after I googled their website; WOW), and every iteration, they upped the ante: one person turned into one blindfolded person, turning into two people, turning into two people crossing opposite sides, having to pass each other on the tightrope.
 
-![tightrope](https://image.jimcdn.com/app/cms/image/transf/dimension=284x1024:format=jpg/path/s59740ed8bd2ddb1c/image/i0ce8d1a03396a5d3/version/1586971814/image.jpg) 
+![tightrope](https://image.jimcdn.com/app/cms/image/transf/dimension=284x1024:format=jpg/path/s59740ed8bd2ddb1c/image/i0ce8d1a03396a5d3/version/1586971814/image.jpg)
 {: .embed-image}
 
 Just when we thought that was miraculous, that in turn turned into an acrobat who stood on another’s shoulders, and we thought that was all they had to offer. No — then, three acrobats were stacked atop each other. The ridiculousness kept one-upping the previous act.
 
+---
 
 Bringing your attention to the circus’ last act: the wheel of death. While the tightrope still had harnesses, this one did not: there was this twenty-five feet tall rotating structure in the ring, with a huge circlet on either end. The ringmaster presented the solo performer who was going to sit inside the circlet as another performer swung it faster and faster, and all without safety ropes. He had to accommodate the momentum that pulled him in all directions.
 
@@ -281,9 +284,9 @@ Bringing your attention to the circus’ last act: the wheel of death. While the
 
 It looked dizzyingly dangerous, but then he stepped out of the structure… and onto the circlet. There was a gap in the centre so if he walked backwards, he could stay upright as the structure spun around – and that he did.
 
-Almost professionally – he never stumbled. Until, he started simultaneously doing jump ropes.
+Almost professionally — he never stumbled. Until, he started simultaneously doing jump ropes.
 
-Like the tightrope act, he kept upping the ante. Criss-cross, double-unders, triple– then, he stepped off momentarily to be given a blindfold.
+Like the tightrope act, he kept upping the ante. Criss-cross, double-unders, triple— then, he stepped off momentarily to be given a blindfold.
 
 The audience murmured. Yeah, doing jump-ropes on a very fast spinning 25-foot structure without any harnesses is fine! He stumbled a bit, but he was never in danger. But doing it blindfolded?
 
@@ -293,16 +296,20 @@ A few other performers stood around… arms spread and posture braced. Ready to 
 
 He took a while before he was comfortable just standing (backtracking?) upright, and then immediately wielded his jumping rope. Applause. He did a few different jumps, and the audience oohed and ahhed, just like the previous acts.
 
-But then he tried the triple-under. He slips– the other performers rush forward. The guy spinning the structure pulled it back. He stepped off and gave a humble bow.
+But then he tried the triple-under. He slips — the other performers rush forward. The guy spinning the structure pulled it back. He stepped off and gave a humble bow.
 
 He didn’t fall. He almost did. He didn’t succeed. He almost did.
 
-The crowd gave a generous clap – and surprisingly – even a standing ovation! “Huh?” I thought. “Huh.”
+The crowd gave a generous clap — and surprisingly — even a standing ovation!
+
+“Huh?” I thought.
+
+“Huh.”
 
 He dared danger and exceeded his own limits. Even though he didn’t pull it off, he went way beyond what was safe and risked his health to give us a good show. And for that, we applause.
 
 Now, the moral of this story is somewhat fishy, but I still think it to be true: **the risk makes the act more stunning.**
 
-Similarly for Charity: she gave up a life of mediocrity for this life of uncertainty (and spectacle) – she knew what she was signing up for with her husband by her marriage vows. She was ready to rise to a mansion together, and fall to a mortgaged flat together. However big; however small. It was WORTH it.
+Similarly for Charity: she gave up a life of mediocrity for this life of uncertainty (and spectacle) — she knew what she was signing up for with her husband by her marriage vows. She was ready to rise to a mansion together, and fall to a mortgaged flat together. However big; however small. It was WORTH it.
 
 > Q: Who has risked everything just to be with you? To rise and fall with you?

@@ -356,7 +356,7 @@ In a way, because they chose their fates to be together, they rewrote their fate
 
 The same mobsters that burnt down the museum and nearly separated the two in death, are the same forces that revealed the fruitful result of their intrinsic choices.
 
-![[wtsa/assets/img/showman/showman-fno-philip-and-anne.png]]
+![[showman-fno-philip-and-anne.png]]
 
 The climactic song, Breaking Free harks the idea of Rewrite The Stars. “There’s not a star in heaven that we can’t reach.” I’m telling you, Troy Bolton and Philip Carlyle are the exact same person.
 
