@@ -21,7 +21,7 @@ This is the greatest show! This is also part one of many lyric analyses for the 
 
 **Been searching in the dark, your sweat soaking through the floor (whoa)**
 
-> The oddities have been seeking a way out whilst in suppression (dark)
+> The Oddities have been seeking a way out whilst in suppression (dark)
 
 > Fever dreams make you sweat in real life
 

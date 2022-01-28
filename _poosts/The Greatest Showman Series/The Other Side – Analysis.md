@@ -13,7 +13,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 ## Lyric Analysis
 
-![[showman-philip-pain.png]]
+![[showman-tos-philip-pain.png]]
 
 > Video: After Philip takes a shot, he has this facial expression, as if the alcohol adds to his grief, instead of numbing it
 
@@ -124,6 +124,8 @@ Right here, right now, I put the textpost out. This song became an early favouri
 > "And I can cut you free"~
 
 > Philip also already is thinking of the "cut", the portion of profits, that he must get
+
+> For me, it also elicits the idea of grafting
 
 > V: MBAS: Barnum’s ring is clearly shown, a symbol of family, and Barnum puts an arm on Philip’s shoulder as if adopting him as a son, heir to his inheritance
 
