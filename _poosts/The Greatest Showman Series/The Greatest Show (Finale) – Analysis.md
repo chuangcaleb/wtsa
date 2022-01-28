@@ -5,17 +5,19 @@ custom_css: showman
 date: 2020-03-28
 ---
 
+<!--more-->
+
 ### The Greatest Show (Finale)
 
 **Oh! This is the greatest show!**
 
-_V: You can really still hear the music loudly from outside the tent: you hear the call_
+> V: You can really still hear the music loudly from outside the tent: you hear the call
 
 **_Come on! Come on! (spoken)_**
 
-_Callback to Come Alive’s bridge where once circus performers were the proposers, now even the audience were giving the call_
+> Callback to Come Alive’s bridge where once circus performers were the proposers, now even the audience were giving the call
 
-_Barnum jumps out of the smoke and runs a long path clearly not in a circus tent, which is true because we later see the circus rings aren’t that big. It looks great, but it’s not real: BUT to the audience AND the performers, that’s exactly how it feels. For first-time viewers who hadn’t heard the soundtrack, this is a colossal bass-thumping reprise from the opener._
+> Barnum jumps out of the smoke and runs a long path clearly not in a circus tent, which is true because we later see the circus rings aren’t that big. It looks great, but it’s not real: BUT to the audience AND the performers, that’s exactly how it feels. For first-time viewers who hadn’t heard the soundtrack, this is a colossal bass-thumping reprise from the opener.
 
 **(Whoa) Colossal we come these renegades in the ring**
 
@@ -31,11 +33,11 @@ _Barnum jumps out of the smoke and runs a long path clearly not in a circus tent
 
 **Don't fight it, it's coming for ya, running at ya**
 
-_V: The chorus joins the vocals, and the background dancers push into the foreground_
+> V: The chorus joins the vocals, and the background dancers push into the foreground
 
 **It's only this moment, don't care what comes after**
 
-_Where this blind commitment used to mean pursuing ego, now we know it means pursuing the real greatest show, family–and that it's so surely worth it that you don’t even need to consider whatever risks there may be_
+> Where this blind commitment used to mean pursuing ego, now we know it means pursuing the real greatest show, family–and that it's so surely worth it that you don’t even need to consider whatever risks there may be
 
 **It's blindin’, outshinin’ anything that’cha know**
 
@@ -50,55 +52,55 @@ _Where this blind commitment used to mean pursuing ego, now we know it means pur
 
 **Where it's covered in all the colored lights**
 
-_I realise now that this evokes This Is Me, where each performer is a light but all as different colored lights, covering the ring_
+> I realise now that this evokes This Is Me, where each performer is a light but all as different colored lights, covering the ring
 
 **Where the runaways are running the night**
 
-_Renegades...crown ‘em the circus kings_
+> Renegades...crown ‘em the circus kings
 
-_V: My interpretation is some of the mobsters are now backstage workers for the circus, hoisting the performers up by rope, and in a way it is the opposition that causes the renegades to be high up enough to rewrite their stars _
+> V: My interpretation is some of the mobsters are now backstage workers for the circus, hoisting the performers up by rope, and in a way it is the opposition that causes the renegades to be high up enough to rewrite their stars
 
 **Impossible comes true, intoxicating you**
 
-_V: Tom Thumb’s rebuttal to Barnum’s call was that people would laugh at him, and here he is intoxicated, loving every moment. The audience doesn’t salute, but gives a standing ovation._
+> V: Tom Thumb’s rebuttal to Barnum’s call was that people would laugh at him, and here he is intoxicated, loving every moment. The audience doesn’t salute, but gives a standing ovation.
 
-_V: Barnum later rides an adult elephant; Tom’s was a foreshadow and pre-successor_
+> V: Barnum later rides an adult elephant; Tom’s was a foreshadow and pre-successor
 
 **Oh, this is the greatest show**
 
-_V: Tom even copies Barnum’s famous pose_
+> V: Tom even copies Barnum’s famous pose
 
 **We light it up, we won't come down**
 
-_Just realised the up-down phrasing_
+> Just realised the up-down phrasing
 
 **And the sun can't stop us now**
 
-_V: The two fiery rings look like two suns_
+> V: The two fiery rings look like two suns
 
-_How do we rewrite the stars? How do we be stronger than stars as big as the sun?_
+> How do we rewrite the stars? How do we be stronger than stars as big as the sun?
 
 **Watching it come true, it's taking over you**
 
-_Dreams don’t just come real, but the circus frauds are becoming true, too_
+> Dreams don’t just come real, but the circus frauds are becoming true, too
 
 **Oh, this is the greatest show**
 
 **It’s everything you ever want**
 
-_V: Barnum beholds his three-ring circus, greater than everything he ever dreamed of. And he knows too well the dangers of Never Enough._
+> V: Barnum beholds his three-ring circus, greater than everything he ever dreamed of. And he knows too well the dangers of Never Enough.
 
 **It’s everything you ever need**
 
-_V: Barnum catches glimpse of Philip still watching from the dark amidst the spectacle; he gets a thought but brushes it off to focus on the performance at hand_
+> V: Barnum catches glimpse of Philip still watching from the dark amidst the spectacle; he gets a thought but brushes it off to focus on the performance at hand
 
 **And it’s here right in front of you**
 
-_V: Barnum then takes off his hat (representing his legacy) and the circus members pass it amongst themselves_
+> V: Barnum then takes off his hat (representing his legacy) and the circus members pass it amongst themselves
 
 **This is where you want to be (this is where you wanna be)**
 
-_This line echoes Philip’s thoughts: he always wanted to be dancing in the circus ring. _
+> This line echoes Philip’s thoughts: he always wanted to be dancing in the circus ring.
 
 **It's everything you ever want**
 
@@ -108,39 +110,39 @@ _This line echoes Philip’s thoughts: he always wanted to be dancing in the cir
 
 **This is where you wanna be**
 
-_V: As Barnum sings this line solo, as if he’s just singing his part… _
+> V: As Barnum sings this line solo, as if he’s just singing his part…
 
 **This is where you wanna be**
 
-_V: ...and Bearded Lady sings it back to Barnum, as if asking, “This is where I wanna be, but is this really where <span style="text-decoration:underline;">you</span> want to be?” Then Barnum stops, remembers, and pieces two and two._
+> V: ...and Bearded Lady sings it back to Barnum, as if asking, “This is where I wanna be, but is this really where <span style="text-decoration:underline;">you</span> want to be?” Then Barnum stops, remembers, and pieces two and two.
 
 **Where it's covered in all the colored lights**
 
-_In a “We Will Rock You” fashion, only the rhythm remains and even the audience can join in the song. It’s also a callback to the start of the opener, where there’s no “music” but only human instruments._
+> In a “We Will Rock You” fashion, only the rhythm remains and even the audience can join in the song. It’s also a callback to the start of the opener, where there’s no “music” but only human instruments.
 
-_V: Barnum ironically runs away from the colored lights into the dim backstage… _
+> V: Barnum ironically runs away from the colored lights into the dim backstage…
 
 **Where the runaways are running the night**
 
-_Philip had ran away from his family and ran away with the circus. Just like Barnum, he ran away from insatiable greed and shallow praise, and now he’s about to be running the night. _
+> Philip had ran away from his family and ran away with the circus. Just like Barnum, he ran away from insatiable greed and shallow praise, and now he’s about to be running the night.
 
 **Impossible comes true, it's taking over you**
 
 **_This is for you (spoken)_ **
 
-_V: Barnum hands his hat to Philip. Philip wanted his “impossible” with Anne to come true, and Philip is literally taking over Barnum’s role_
+> V: Barnum hands his hat to Philip. Philip wanted his “impossible” with Anne to come true, and Philip is literally taking over Barnum’s role
 
 **Oh, this is the greatest show**
 
 **_B: This is [hat] for you. (spoken)_**
 
-_See long explanation below haha_
+> See long explanation below haha
 
 **_P: What will you be doing? _**
 
 **_B: Watching my girls grow up. The show must go on._**
 
-_That is where Barnum wants to be–that’s his greatest show. _
+> That is where Barnum wants to be–that’s his greatest show.
 
 **We light it up, we won't come down**
 
@@ -148,13 +150,13 @@ _That is where Barnum wants to be–that’s his greatest show. _
 
 **Watching it come true, it's taking over you**
 
-_V: Youtube comments point out that as Philip slides into the ring, his cape disappears and costume changes: one part magic, another part showing that though he succeeds Barnum, but he’s not going to be a clone_
+> V: Youtube comments point out that as Philip slides into the ring, his cape disappears and costume changes: one part magic, another part showing that though he succeeds Barnum, but he’s not going to be a clone
 
 **This is the greatest show**
 
-_Just as how Philip mimicked Barnum’s lines from The Other Side, now, he <span style="text-decoration:underline;">becomes</span> Barnum in The Greatest Show_
+> Just as how Philip mimicked Barnum’s lines from The Other Side, now, he <span style="text-decoration:underline;">becomes</span> Barnum in The Greatest Show
 
-_V: And as he slides in, the performers around him freeze and unfreeze, a technique also used in the final chorus of This Is Me, while the “This is **\_\_**” motif implies that finding one’s identity in a family is the greatest show._
+> V: And as he slides in, the performers around him freeze and unfreeze, a technique also used in the final chorus of This Is Me, while the “This is **\_\_**” motif implies that finding one’s identity in a family is the greatest show.
 
 **Where it's covered in all the colored lights**
 
@@ -162,17 +164,17 @@ _V: And as he slides in, the performers around him freeze and unfreeze, a techni
 
 **Impossible comes true, it's taking over you**
 
-_Callback to Rewrite The Stars when the lovers sing in harmony, “Say that it’s possible!”_
+> Callback to Rewrite The Stars when the lovers sing in harmony, “Say that it’s possible!”
 
 **Oh, this is the greatest show**
 
-_V: Philip also copies Barnum’s trademark pose_
+> V: Philip also copies Barnum’s trademark pose
 
 **We light it up, we won't come down**
 
 **And the walls can't stop us now**
 
-_V: We get a close-up of Anne, and her self-imposed walls can’t stop her now_
+> V: We get a close-up of Anne, and her self-imposed walls can’t stop her now
 
 **Watching it come true, it's taking over you**
 
@@ -180,9 +182,9 @@ _V: We get a close-up of Anne, and her self-imposed walls can’t stop her now_
 
 **'Cause everything you want is right in front of you**
 
-_What seems to be a meld between the themes and lyrics of The Greatest Show’s and Rewrite the Star’s bridges, but Philip reprises them:_
+> What seems to be a meld between the themes and lyrics of The Greatest Show’s and Rewrite the Star’s bridges, but Philip reprises them:
 
-_Philip takes on Barnum’s mantle, but he has his own experiences to bring to the role, and his own motifs to bring to the song_
+> Philip takes on Barnum’s mantle, but he has his own experiences to bring to the role, and his own motifs to bring to the song
 
 **And you see the impossible is coming true**
 
@@ -190,17 +192,17 @@ _Philip takes on Barnum’s mantle, but he has his own experiences to bring to t
 
 **This is the greatest show (oh!)**
 
-_Similar to From Now On’s background echoes of “From now on!” during the bridge, the background singers echo “Oh! Oh!”_
+> Similar to From Now On’s background echoes of “From now on!” during the bridge, the background singers echo “Oh! Oh!”
 
 **This is the greatest show (oh!)**
 
-_V: In typical Barnum fashion, he arrives at the recital on an elephant. But also, in typical Barnum fashion, he comes back home, again._
+> V: In typical Barnum fashion, he arrives at the recital on an elephant. But also, in typical Barnum fashion, he comes back home, again.
 
-_V: The snowfall in the street mimics the confetti from the first chorus. The glitter has literally faded into dark snow, and Barnum has left the walls of his fantasy circus. _
+> V: The snowfall in the street mimics the confetti from the first chorus. The glitter has literally faded into dark snow, and Barnum has left the walls of his fantasy circus.
 
 **This is the greatest show (oh!)**
 
-_V: It’s winter: the sun dims and the wind blows cold. And Barnum sees his family waiting outside there for him, knowing he’ll be there. _
+> V: It’s winter: the sun dims and the wind blows cold. And Barnum sees his family waiting outside there for him, knowing he’ll be there.
 
 **This is the greatest show (oh!)**
 
@@ -214,19 +216,19 @@ _V: It’s winter: the sun dims and the wind blows cold. And Barnum sees his fam
 
 **This is the greatest show**
 
-_V: We get a full view of even the background circus cast, each striking individualistic poses_
+> V: We get a full view of even the background circus cast, each striking individualistic poses
 
-_V: Silhouetted by the shine of another spotlight Philip kisses Anne as the king of his new inherited kingdom_
+> V: Silhouetted by the shine of another spotlight Philip kisses Anne as the king of his new inherited kingdom
 
 1. _Beautiful piano solo that transitions beautifully as if it were the ballet recital’s music. _
 2. _The melody of the bridge is played, also deliberately skipping the last line of the bridge _
 3. _V: Caroline made it to become the prima ballerina–but Helen is playing as the background tree. And we know now how much the parents love them both just as much._
 
-_Barnum sings the last stanza of the movie in ad libitum, often called “at liberty”, where his ad-lib feelings are allowed to fluctuate the tempo and even omit singing certain lines – not traditionally allowed, but he’s already breaking all the walls. _
+> Barnum sings the last stanza of the movie in ad libitum, often called “at liberty”, where his ad-lib feelings are allowed to fluctuate the tempo and even omit singing certain lines – not traditionally allowed, but he’s already breaking all the walls.
 
 **It’s everything you ever want**
 
-_The music slows down and Barnum drops to the lower octave: just like in the opener when he starts to wake up from fantasy into reality, except reality is not cold anymore, but now very warm. _
+> The music slows down and Barnum drops to the lower octave: just like in the opener when he starts to wake up from fantasy into reality, except reality is not cold anymore, but now very warm.
 
 **It’s everything you ever need**
 
@@ -240,87 +242,87 @@ COMMON MOTIFS
 
 **“The tails become the head in a family... “**
 
-_Verse 2_
+> Verse 2
 
 **“...so just surrender to your desires…”**
 
-_Prechorus_
+> Prechorus
 
-_It’s taking over you_
+> It’s taking over you
 
-_Intoxicating you_
+> Intoxicating you
 
 **“...and now impossible dreams come true...”**
 
-_Chorus_
+> Chorus
 
-_And you see the impossible coming true!_
+> And you see the impossible coming true!
 
 And the walls can’t stop us now!
 
 **“...and everything you want is right there.”**
 
-_Bridge_
+> Bridge
 
-_Everything you want is right in front of you!_
+> Everything you want is right in front of you!
 
-_This is where you want to be_
+> This is where you want to be
 
 **Imagery**
 
 Dreams vs Reality
 
-• Compared to the opener song in the very start, this reprise steps up in many different places.
+- Compared to the opener song in the very start, this reprise steps up in many different places.
 
-• Where the opener has Barnum singing virtually all the lead parts, this reprise has the background singers singing the lead lyrics and even harmony –you can’t even make out Barnum’s voice in some places of the song.
+- Where the opener has Barnum singing virtually all the lead parts, this reprise has the background singers singing the lead lyrics and even harmony –you can’t even make out Barnum’s voice in some places of the song.
 
-• In the same vein, while the camera mostly focuses on Barnum in the intro; in the finale, we get solo shots of so many individual people, most who we now know personally through their stories–and even shots of some unnamed cast.
+- In the same vein, while the camera mostly focuses on Barnum in the intro; in the finale, we get solo shots of so many individual people, most who we now know personally through their stories–and even shots of some unnamed cast.
 
-• Just listening to both songs, this finale song has more/extra instruments and is more musically intricate with electric guitar and synths
+- Just listening to both songs, this finale song has more/extra instruments and is more musically intricate with electric guitar and synths
 
-• There in fact seems to be twice the number of performers in the circus ring at any given time, and a much greater variety of different performances and animals.
+- There in fact seems to be twice the number of performers in the circus ring at any given time, and a much greater variety of different performances and animals.
 
-• In the opener, as the bridge ends and music fades, he shakes awake to boring reality. In this finale, during the bridge, the music fades but he’s never been in such an emotional high before.
+- In the opener, as the bridge ends and music fades, he shakes awake to boring reality. In this finale, during the bridge, the music fades but he’s never been in such an emotional high before.
 
-• In both the opener and the finale, Barnum never sings the last line, “This is where you wanna be,” in the opener, the last line is never completed and we properly start the narrative as young hungry Barnum; BUT in the finale, he doesn’t need to complete the lyric, and that’s where we conclude the narrative: with Barnum filled & fulfilled.
+- In both the opener and the finale, Barnum never sings the last line, “This is where you wanna be,” in the opener, the last line is never completed and we properly start the narrative as young hungry Barnum; BUT in the finale, he doesn’t need to complete the lyric, and that’s where we conclude the narrative: with Barnum filled & fulfilled.
 
 Reprise and Resolution
 
-• This finale song reprises elements of all the previous songs and resolves their setups
+- This finale song reprises elements of all the previous songs and resolves their setups
 
-• Obviously it is a direct reprise from The Greatest Show (intro), as covered above
+- Obviously it is a direct reprise from The Greatest Show (intro), as covered above
 
-• The chord progression for the chorus is similar to A Million Dream’s chorus: but where one talks of _starting_ a million dreams to be _satisfied_, in the finale, Barnum finally _achieves_ the _one_ greatest dream he needs and becomes completely satisfied.
+- The chord progression for the chorus is similar to A Million Dream’s chorus: but where one talks of _starting_ a million dreams to be _satisfied_, in the finale, Barnum finally _achieves_ the _one_ greatest dream he needs and becomes completely satisfied.
 
-• Come Alive was when Barnum first started his museum-circus, and it was imperfect because he himself is still harbouring ego: hence dead-alive in the middle. Come full circle, Barnum’s three-ring circus tent is inherited by his successor while he’s able to focus on his family: that is Barnum coming fully alive himself, free from ego.
+- Come Alive was when Barnum first started his museum-circus, and it was imperfect because he himself is still harbouring ego: hence dead-alive in the middle. Come full circle, Barnum’s three-ring circus tent is inherited by his successor while he’s able to focus on his family: that is Barnum coming fully alive himself, free from ego.
 
-• Barnum invites Philip to come to The Other Side to imitate him and be adopted into a new family. In this finale song, Philip not only exceeds imitation by _succeeding_ Barnum, but even to the extent of _heading_ this new family as well, becoming better than Barnum, in charge of adopting and leading others.
+- Barnum invites Philip to come to The Other Side to imitate him and be adopted into a new family. In this finale song, Philip not only exceeds imitation by _succeeding_ Barnum, but even to the extent of _heading_ this new family as well, becoming better than Barnum, in charge of adopting and leading others.
 
-• This finale song also has its chorus with a chord progression similar to Never Enough’s. And, they say the same message: everything you want is right _in front of you_; everything else is never enough _without you_.
+- This finale song also has its chorus with a chord progression similar to Never Enough’s. And, they say the same message: everything you want is right _in front of you_; everything else is never enough _without you_.
 
-• We remember from This Is Me that a family empowers _each_ _other_, and calls each other back home: similarly, it was Bearded Lady who reflected the message _back_ onto Barnum for him to decide during this song that, it was time to pass the mantle.
+- We remember from This Is Me that a family empowers _each_ _other_, and calls each other back home: similarly, it was Bearded Lady who reflected the message _back_ onto Barnum for him to decide during this song that, it was time to pass the mantle.
 
-• Where Rewrite The Stars argues about whether we can do the impossible, The Greatest Show (reprise) simply answers with the _same duet \_now singing in harmony: impossible comes true. Anne also previously chooses not to rewrite her stars, but now she sings that “it’s taking over her”, so carrying on the theme of \_free will_. Besides, the chord progression of both bridges are the same.
+- Where Rewrite The Stars argues about whether we can do the impossible, The Greatest Show (reprise) simply answers with the _same duet \_now singing in harmony: impossible comes true. Anne also previously chooses not to rewrite her stars, but now she sings that “it’s taking over her”, so carrying on the theme of \_free will_. Besides, the chord progression of both bridges are the same.
 
-• Tightrope expressed how _satisfied_ Charity was with Barnum despite giving up her family’s fortunes for a simple life with Barnum. Similarly, in the finale, Barnum is _satisfied_ in giving up his circus empire for a simple but colorful life with his family.
+- Tightrope expressed how _satisfied_ Charity was with Barnum despite giving up her family’s fortunes for a simple life with Barnum. Similarly, in the finale, Barnum is _satisfied_ in giving up his circus empire for a simple but colorful life with his family.
 
-• When Bearded Lady passes him his hat, Barnum stops as he says he would From Now On, and remembers his family, proving that his catharsis from From Now On was _real_ and _true_.
+- When Bearded Lady passes him his hat, Barnum stops as he says he would From Now On, and remembers his family, proving that his catharsis from From Now On was _real_ and _true_.
 
-• Both bridges have the same chord progression and theme: we will come back home again because home is where we wanna be.
+- Both bridges have the same chord progression and theme: we will come back home again because home is where we wanna be.
 
 Inheritance, Legacy and Succession
 
-• Recall the earlier songs: Barnum inherited his top hat from his father after he passed–and now he’s passing it on throughout his extended family, and ultimately resting on Philip.
+- Recall the earlier songs: Barnum inherited his top hat from his father after he passed–and now he’s passing it on throughout his extended family, and ultimately resting on Philip.
 
-• One of his dialogue says, he doesn’t want his daughters to be treated like dirt, the same way his father was: like how the other ballerinas were mocking Caroline for having a circus dad.
+- One of his dialogue says, he doesn’t want his daughters to be treated like dirt, the same way his father was: like how the other ballerinas were mocking Caroline for having a circus dad.
 
-• The hat represents how his father could not pass on a better inheritance onto him, how he was still trapped in the cycle of poverty.
+- The hat represents how his father could not pass on a better inheritance onto him, how he was still trapped in the cycle of poverty.
 
-• But now the hat represents how Barnum is able to pass on the freedom he found onto his new family, and through him, Philip now has a better inheritance than the estates he would’ve had
+- But now the hat represents how Barnum is able to pass on the freedom he found onto his new family, and through him, Philip now has a better inheritance than the estates he would’ve had
 
-• When Barnum finally gives the hat to Philip and says, “This is for you,” he’s physically passing the hat, but metaphorically passing his double-portion anointing of preaching freedom, and the hat as the crown of this kingdom
+- When Barnum finally gives the hat to Philip and says, “This is for you,” he’s physically passing the hat, but metaphorically passing his double-portion anointing of preaching freedom, and the hat as the crown of this kingdom
 
-• This is the moment Barnum been waiting for since we first saw him: the perfect climax for Barnum’s entire arc is when he achieves the thing he wanted most even if it’s not in the way he expected it: to pass on a good inheritance where his father could not
+- This is the moment Barnum been waiting for since we first saw him: the perfect climax for Barnum’s entire arc is when he achieves the thing he wanted most even if it’s not in the way he expected it: to pass on a good inheritance where his father could not
 
 **What’s the name about?**
 

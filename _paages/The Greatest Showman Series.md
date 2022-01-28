@@ -16,3 +16,5 @@ Quick list of posts of this category:
 - [[Rewrite the Stars – Analysis]]
 - [[Tightrope – Analysis]]
 - [[From Now On – Analysis]]
+- [[The Greatest Show (Finale) – Analysis]]
+- [[The Greatest Showman – Series Reflection]]

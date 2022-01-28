@@ -5,263 +5,279 @@ custom_css: showman
 date: 2020-03-14
 ---
 
+<!--more-->
+
 ### Tightrope
 
 **Some people long for a life that is simple and planned**
 
-_Barnum, in his pursuit for the extraordinary, has ended up pretty ordinary_
+> Barnum, in his pursuit for the extraordinary, has ended up pretty ordinary
 
-_The major third chord is another unorthodox chord, not simple nor familiar_
+> The major third chord is another unorthodox borrowed chord, not simple nor familiar to the melodic chord family
 
 **Tied with a ribbon**
 
-_The poor can’t afford ribbons to go with their presents, like Barnum’s gift to his daughter Caroline – and that’s okay! Because it’s the gifter, not the gift._
+> The poor can’t afford ribbons to go with their presents, like Barnum’s gift to his daughter Caroline — and that’s okay! Because it’s the gifter, not the gift.
 
-_Ballerina shoes themselves are tied with a ribbon!_
+> Caroline longed for ballerina shoes, which are themselves are tied with a ribbon!
 
 **Some people won't sail the sea 'cause they're safer on land**
 
-_What’s the point of a ship that never leaves harbour?_
+> What’s the point of a ship that never leaves harbour?
 
-_V: Ironically, Barnum is leaving his “harbour”, his home_
+> V: Ironically, Barnum is leaving his “harbour”, his home
 
 **To follow what's written**
 
-_What if we rewrite the stars?~_
+> What if we rewrite the stars?~
+
+<br>
 
 **But I'd follow you to the great unknown**
 
 **Off to a world we call our own**
 
-_Their children literally have his last name, they call them their own_
+> Their children literally have his last name, they call them their own
 
-_V: Barnum’s face is hesitant – he really does regret leaving his family_
+> V: Barnum’s face is hesitant — he really does regret leaving his family
 
-_V: While there’s the recurring argument that some doors are locked – some doors though wide open, don’t mean anything unless you’re there too_
+> V: While there’s the recurring theme that some doors are locked — some doors are wide open, but they don’t mean anything unless the one you love is there to be with you
+
+![[wtsa/assets/img/showman/showman-t-doors-open.png]]
+
+<br>
 
 **Mountains and valleys**
 
-_V: The ballerinas hold hands, and their silhouette would look like mountains and valleys_
+> V: The ballerinas hold hands, and their silhouette would look like mountains and valleys
+
+> The contour of the verse's melody on a piano roll looks like mountains and valleys too!
 
 **And all that will come in between**
 
-_V: The way the daughter is silhouetted in the spotlight is a direct mirror to how Jenny Lind is silhouetted on the opera stage_
+> V: The way the daughter is silhouetted in the spotlight is a direct mirror to how Jenny Lind is silhouetted on the opera stage
 
 **Desert and ocean**
 
-_Mountains and valley heights, now even breadth_
+> Mountains and valley **heights**, now even desert and ocean **breadth**
 
-**You pulled me in and **
+**You pulled me in and**
 
 **Together we're lost in a dream**
 
 **Always in motion**
 
-_To stay better balanced on a bicycle/tightrope, you gotta keep moving_
+> To stay better balanced on a bicycle/tightrope, you gotta keep moving
 
-_When your dream stops flowing, you wake up_
+> When your dream stops flowing, you wake up
 
-_V: Nice mirror of the parents clapping in diff scenarios_
+> V: Nice mirror of the Charity clapping for their Caroline, while Barnum claps for Jenny
+
+<br>
 
 **So I risk it all just to be with you**
 
 **And I risk it all for this life we choose**
 
-_The passing bass note here sticks out… but just like Barnum leading Charity, it’s wild but purposeful_
+> The passing half-step bass note here from the fifth to sixth sticks out… but just like Barnum leading Charity, it’s wild but purposeful and beautiful
 
-_V: We see Charity have fun with her daughters, not her parents: that’s the life she chose. Conversely we see Barnum with Jenny, the one he (seemed to have) chose _
+> V: We see Charity have fun with her daughters, and not her own parents: that’s the life she chose. Conversely we see Barnum with Jenny, the life he (seemed to have) chosen
+
+<br>
 
 **Hand in my hand**
 
-_Remember how Barnum never shook Philip’s hand?_
+> Remember how Barnum never shook Philip’s hand in [[The Other Side – Analysis|The Other Side]]?
 
 **And you promised to never let go**
 
-_V: We see Philip dressing up the oddities in the circus; Barnum promised them as well_
+> V: We see Philip dressing up the Oddities in the circus; Barnum promised them he'd never let go of them, as well
 
 **We're walking a tightrope**
 
-_As if one person walking a tightrope isn’t hard enough_
+> As if one person walking a tightrope isn’t hard enough, "**we're** walking a tightrope"
 
 **High in the sky**
 
 **We can see the whole world down below**
 
-_V: Conversely, Philip is gazing upwards at Anne: she is his world, a fabrication of a world with her_
+> V: Conversely, Philip is gazing upwards at Anne: she is his world, a fabrication of a world with her
 
 **We're walking a tightrope**
 
 **Never sure, will you catch me if I should fall?**
 
-_V: Charity drops a plate. It’s probably uncaught._
+> V: Charity drops a plate. It’s probably uncaught.
 
-_V: But, the circus family caught Anne. Interestingly, some of the audience still clap even though Anne had failed to be caught in her act._
+> V: But, the circus family caught Anne. Interestingly, some of the audience still clap even though Anne had failed to be caught in her act.
 
-_V: The oddities are striking a final pose, but without the same excitement from Come Alive or This Is Me. // The music quietens, reality reminds us that the risk is very real: some mobsters are jeering them, throwing peanuts at the circus actors in contrast to throwing flowers at Jenny. _
+> V: The oddities are striking a final pose, but without the same excitement from Come Alive or This Is Me. 
+> 
+> The music quietens, and reality reminds us that the risk is very real: some mobsters are jeering them, throwing peanuts at the circus actors in stark contrast to the audience throwing flowers at Jenny.
 
-_V: Philip, however, mans up and boldly steps into the ring even when/if in the previous song, Anne stepped out of it, away from him_
+> V: Philip, however, mans up and boldly steps into the ring even when/if in the [[Rewrite the Stars – Analysis|previous song]], Anne stepped out of it, away from him
 
-_Another modal interchange, this time going so far to use a minor fourth – minor chord implying that she had lost her bet (I just found out there’s even a passing Bdim chord. Even more so “unstable” and “off-putting”!)_
+> Another modal interchange, this time going so far to use a minor fourth — minor chord implying that Charity had lost her bet (I just found out there’s even a passing `Bdim` chord. Even more so “unstable” and “off-putting”!)
 
 **Well, it's all an adventure**
 
-_Quietened music implies Charity’s quiet introspection_
+> Quietened music implies Charity’s quiet introspection
 
 **That comes with a breathtaking view**
 
-
-
-1. _Stealing your breath, taking your mind~_
-2. _To a world I close my eyes to see~_
-3. _Charity tucks her children in, and spins Barnum’s wishing-shadow machine. That was the view. _
+> 1. Stealing your breath, taking your mind~
+> 2. To a world I close my eyes to see~
+> 3. Charity tucks her children in, and spins Barnum’s wishing-shadow machine. That was the breathtaking **view**.
 
 **Walking a tightrope with you**
 
-_Cause darling without you~_
+> Cause darling **without you**~
+
+<br>
 
 **With you**
 
-_V: Their shadow dance calls back to their rooftop dance in A Million Dreams; the music picks up and we’re in dreamland_
+> V: Their shadow dance calls back to their rooftop dance in A Million Dreams; the music picks up and we’re in dreamland
+
+![[showman-amd-shadow.png]]
+
+![[showman-amd-tightrope.png]]
 
 **With you**
 
 **With you**
 
-_As the diminished second chord climaxes, Barnum’s shadow disappears_
+> As the diminished chord climaxes, Barnum’s shadow disappears
 
 **With you**
 
-_The music slows down, going back to reality. Yet, she continues to sing, continues to trust in Barnum (that’s what I got from it)_
+> The music slows down, which has represented going back to reality. Yet, Charity continues to sing, continues to trust in Barnum
 
 **With you**
 
-_V: Charity looks through her house window, and we see Jenny on the other side looking out of her train window with Barnum, and seemingly into the house. Charity wants to be Jenny, being with Barnum. But Jenny wants to be Charity, having a happy, accepting, legitimate family. _
+> V: Charity looks through her house window, and we see Jenny on the other side looking out of her train window with Barnum, and seemingly into the house.
+>  
+>  Charity wants to be Jenny, being with Barnum. But Jenny wants to be Charity, having a happy, accepting, legitimate family.
 
-POST-THOUGHTS
+![[showman-amd-window-parallel.jpg]]
 
-When Charity was dancing with shadow!Barnum, it’s a callback
+![[showman-t-window-parallel.jpg]]
 
+---
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
-A similar technique was used in A Million Dreams, when they were writing letters to each other
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.jpg "image_tooltip")
-
-
-**COMMON MOTIFS**
+## Common Motifs
 
 **“The ordinary is safe, with you I’m at risk...”**
 
-_Verse 1_
+> Verse 1
 
 **“....because we defy giants with fantasy.”**
 
-_Verse 2_
+> Verse 2
 
 **“So I’d take the risk...”**
 
-_So I risk it all_
+> So I risk it all
 
-_We’re walking a tightrope_
+> We’re walking a tightrope
 
-_Never sure, never know how far we could fall_
+> Never sure, never know how far we could fall
 
 **“...because it’s beautiful together with you.”**
 
-_Off to a world we call our own_
+> Off to a world we call our own
 
-_...just to be with you_
+> ...just to be with you
 
-_Chorus_
+> Chorus
 
-_With you, you, you..._
+> With you, you, you...
 
-**Imagery**
+### In-Universe Imagery
 
 ¾ beat: waltz and tightrope
 
-• The only song in the musical whose time signature isn’t 4/4 but is 3/4.
+- The only song in the musical whose time signature isn’t 4/4 but is 3/4.
 
-• While catchy popular pop songs use a 4/4 signature, waltz and ballroom dancing music normally use 3/4.
+- While catchy popular pop songs use a 4/4 signature, 
+	- waltz and ballroom dancing music normally use 3/4.
 
-• While a 4/4 beat is safe, certain and mainstream, a 3/4 beat is imbalanced, unsure and unconventional.
+- While a 4/4 beat is safe, certain and mainstream, 
+	- a 3/4 beat is imbalanced, unsure and unconventional.
 
 Waltz
 
-• The 3/4 beat is used in waltz dancing, as we see Charity imagine herself doing. 
+- The 3/4 beat is used in waltz dancing, as we see Charity imagine herself doing.
 
-•  What’s telling is that to waltz, it takes two people. And, perfectly in sync. Btoh things that Charity feels deprived of during this song.
+- What’s telling is that to waltz, it takes two people. And, perfectly in sync. Both are things that Charity feels deprived of during this song.
 
-• Sometimes, one person guides their other less adept partner. Similarly, it was Barnum who sparked the dream of family in her.
+- Sometimes, in waltz, one person guides their other less adept partner. Similarly, it was Barnum who sparked the dream of family in her.
 
 Tightrope
 
-• On the other hand, the 3/4 beat evokes the sway of walking on a tightrope, besides the tightrope being a classic circus act;
+- On the other hand, the 3/4 beat evokes the sway of walking on a tightrope, besides the tightrope being a classic circus act itself;
 
-• The middle of the tightrope sways the wildest: which is where Charity finds herself right now.
+- The middle of the tightrope sways the wildest: which is where Charity finds herself right now.
 
-• The act of one person walking a tightrope is less tense than two people walking a tightrope.
+- The act of one person walking a tightrope is less tense than two people walking a tightrope.
 
-• But Charity may not metaphorically mean that Barnum’s literally on the tightrope with her; but as if Barnum was a ringmaster on the ground, presenting Charity as a daring tightrope circus at: she’s walking Barnum’s tightrope, she’s risking her life in his hands and in his dreams. 
+- But Charity may not metaphorically mean that Barnum’s literally on the tightrope with her; but as if Barnum was a ringmaster on the ground, presenting Charity as a daring tightrope circus at: she’s walking Barnum’s tightrope, she’s risking her life in his hands and in his dreams.
 
 Charity and Jenny
 
-• Like the duet The Other Side where Barnum and Philip want to become each other, similarly, in Tightrope, Charity and Jenny want to be where each other are: with family.
+- Like the duet [[The Other Side – Analysis|The Other Side]] where Barnum and Philip want to become each other, 
+	- similarly, in Tightrope, Charity and Jenny want to be where each other are: with family.
 
-• In contrast to Never Enough’s “Without you everything will never be enough”, Tightrope says “With you the risk is beautiful enough.” 
+- In contrast to [[Never Enough – Analysis|Never Enough]]’s, “Without you everything will never be enough”, 
+	- Tightrope says, “With you the risk is beautiful enough.”
 
-• While Never Enough harped repeatedly on the spotlights and gold, and “Darling without you” was only mentioned as if an afterthought: “For _me_“ was repeated 13 times….
+- While Jenny/Never Enough harped repeatedly on the spotlights and gold, and “Darling without you” was only mentioned as if an afterthought: “For _me_“ was repeated 13 times….
 
-• ...in Tightrope, “breathtaking view” was only mentioned once, but in context that it’s only beautiful if it’s “with you” – repeated 7 times. 
+- ...in Tightrope, “breathtaking view” was only mentioned once by Charity, but in context that it’s only beautiful if it’s “with you” – repeated 7 times.
 
-• It’s funny while both songs express that life is better together – but they are both solo songs. 
+- It’s funny while both songs express that life is better together — though they are both solo songs.
 
 Duet
 
-• Tightrope is a dark foil of A Million Dreams’ bridge: both expressing great dreams and its risks, but one optimistic, and the latter realistic.
+- This song is the least flashy of the soundtrack; maybe on purpose? Maybe the greatest show, doesn't *look* sensational.
 
-• Similarly for Rewrite the Stars: she says she’s ready to fly and fall, and now her promise is put to the test.
+- Tightrope is a dark foil of [[A Million Dreams – Analysis|A Million Dreams]]’ bridge: both expressing great dreams and its risks, but where A Million Dreams is optimistic, Tightrope is realistic — but still holding on *despite* the trouble.
 
-• This song is the least flashy of the soundtrack; maybe on purpose? 
+- Similarly for [[Rewrite the Stars – Analysis|Rewrite the Stars]]: Anne/Charity says she’s ready to fly and fall, and now her promise is put to the test.
 
-• With all of Barnum’s new crazy dreams, he has forgotten the riskiest of them all: how could a rich, educated girl possibly want to start a family with this homeless, hopeless orphan boy?
 
-• How is she the one willingly pursuing him, now? She is Barnum’s craziest circus act, Charity is his greatest clown. 
+- With all of Barnum’s new crazy dreams, he has forgotten the riskiest of them all: how could a rich, educated girl possibly want to start a family with this homeless, hopeless orphan boy?
+
+- How is she the one willingly pursuing him, now? She is Barnum’s craziest circus act, Charity is his greatest clown.
 
 Fancy chords
 
-• If fancy chords imply deviation and risk, this song is all about it.
+- If fancy chords imply deviation and risk, this song is the song that is the most riskiest of them all.
 
-**What’s the name about?**
+### What’s the name about?
 
-Who else in the movie are walking their own tightropes? How does it always involve a performer and a ringmaster?
+Who else in the movie are walking their own tightropes? 
 
-Captions
+How does it always involve a performer and a ringmaster?
 
-What’s harder than walking on a tightrope? Two people dancing on a tightrope. With two people, it will never be an independant solo act. If one falls, so will the other. If one shines, so will the other. At first viewing, this song didn’t stand out for me. (In fact, it was THAT song from a musical that you just don’t remember.) After all, the glitter and glam were with the circus storyline. But now that I’ve started this analysis, I realise that this song is such an important puzzle piece in the bigger picture. 
+---
 
-It’s already been, what, seven months since I went to see @swedishdreamscircus with my friends. I still remember the tightrope act. It was on a super thin wire (it was 15mm, after I googled their website; WOW), and every iteration, they upped the ante: one person turned into one blindfolded person, turned into two people, turning into two people crossing opposite sides, having to pass each other on the tightrope.
+## Reflection
 
-Just when we thought that was miraculous, that in turn turned into an acrobat who stood on another’s shoulders, and we thought that was all they had to offer. No – then three acrobats were stacked atop each other. The ridiculousness kept one-upping the previous act.
+What’s harder than walking on a tightrope? Two people dancing on a tightrope. With two people, it will never be an independant solo act. If one falls, so will the other. If one shines, so will the other. At first viewing, this song didn’t stand out for me. (In fact, it was THAT song from a musical that you just don’t remember.) After all, the glitter and glam were with the circus storyline. But now that I’ve started this analysis, I realise that this song is such an important puzzle piece in the bigger picture.
+
+It’s already been, what, seven months since I went to see [@swissdreamcircus](https://www.swissdreamcircus.com) with my friends. I still remember the tightrope act. It was on a super thin wire (it was 15mm, after I googled their website; WOW), and every iteration, they upped the ante: one person turned into one blindfolded person, turning into two people, turning into two people crossing opposite sides, having to pass each other on the tightrope.
+
+![tightrope](https://image.jimcdn.com/app/cms/image/transf/dimension=284x1024:format=jpg/path/s59740ed8bd2ddb1c/image/i0ce8d1a03396a5d3/version/1586971814/image.jpg) 
+{: .embed-image}
+
+Just when we thought that was miraculous, that in turn turned into an acrobat who stood on another’s shoulders, and we thought that was all they had to offer. No — then, three acrobats were stacked atop each other. The ridiculousness kept one-upping the previous act.
+
 
 Bringing your attention to the circus’ last act: the wheel of death. While the tightrope still had harnesses, this one did not: there was this twenty-five feet tall rotating structure in the ring, with a huge circlet on either end. The ringmaster presented the solo performer who was going to sit inside the circlet as another performer swung it faster and faster, and all without safety ropes. He had to accommodate the momentum that pulled him in all directions.
+
+![wheel-of-death](https://image.jimcdn.com/app/cms/image/transf/dimension=284x1024:format=jpg/path/s59740ed8bd2ddb1c/image/i2fbc1b7cd9290089/version/1586971814/image.jpg)
+{: .embed-image}
 
 It looked dizzyingly dangerous, but then he stepped out of the structure… and onto the circlet. There was a gap in the centre so if he walked backwards, he could stay upright as the structure spun around – and that he did.
 
@@ -289,6 +305,4 @@ Now, the moral of this story is somewhat fishy, but I still think it to be true:
 
 Similarly for Charity: she gave up a life of mediocrity for this life of uncertainty (and spectacle) – she knew what she was signing up for with her husband by her marriage vows. She was ready to rise to a mansion together, and fall to a mortgaged flat together. However big; however small. It was WORTH it.
 
-Q: Who has risked everything just to be with you? To rise and fall with you?
-
-
+> Q: Who has risked everything just to be with you? To rise and fall with you?
