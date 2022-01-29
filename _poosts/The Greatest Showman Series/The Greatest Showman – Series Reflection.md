@@ -1,7 +1,6 @@
 ---
 title: "The Greatest Showman – Series Reflection"
 category: The Greatest Showman Series
-custom_css: showman
 date: 2020-04-07
 ---
 
@@ -21,79 +20,73 @@ There were so many cross-influences which started with “The Wizard of Oz’s f
 
 ## So. What’s this story about?
 
-My first post started with the quote, 1 “My personal preference for **summing up theme** is to look for the** “Truth”** at the heart of any prominent **character change** within the **plot**.”
+My first post started with the quote, “My personal preference for **summing up theme** is to look for the **“Truth”** at the heart of any prominent **character change** within the **plot**.”
 
 What’s the main plot? It’s a fun adventure about a con man building a circus empire to pass on an impossible new legacy to his children. What’s the main character’s change? A father returns from ego and ambition back to his family: where his impossible dream came true.
 
 What’s the thematic statement? There’s no set-in-stone theme for each story, since art is subjective; but if a story is well-crafted, the theme might be subtle, but it is _never_ vague. After ten careful and meticulous essays, my personal summation thus far of this story’s statement is this:
 
-**“Family is where impossible **
-
-**dreams come true.”**
+> “Family is where impossible dreams come true.”
 
 I think this is the Truth that is mirrored in the heart of every song and every subplot of this story. It has changed since the start of this series; it will keep changing the next time I sit down and meditate on this story again. But I think that’s one of the greatest things about good stories: your interpretation gets more and more refined each time you redigest, and you can still find new revelations even past the hundredth sit-through.
 
 And with every new post, I look back to old posts for reference and in the process find something new to add to the old posts. So here is the link to this google docs that I’ve used to write every single post of this series.
 
-**tiny.cc/wtsa-TheGreatestShowman **
 
-**Song Secrets (Actually,)**
+## Song Secrets (Actually,)
 
 Throughout the course of writing about each song, I’ve discovered one or two “truths” each song presents.
 
 What’s interesting is that each truth is a statement that doesn’t make sense at first glance. But all the more, a song that packs an intellectually satisfying surprise is a song that packs a paradox that’s actually true.
 
-You could append an “Actually… when typically…” to each statement to get what I mean.
+You could append an “Actually… when typically…” to each statement to get what I mean *(e.g. Actually, you, the audience, want to be part of the show too, when typically, the audience are just spectators)*
 
-The Greatest Show (Prologue)
+>[[The Greatest Show Prologue – Analysis|The Greatest Show – Prologue]]
+>
+>You, the **audience**, want to be part of the show too.
 
-You, the _audience_, want to be part of the show too.
+> [[A Million Dreams – Analysis|A Million Dreams]]
+> 
+> Dreaming keeps you **awake**.
+> 
+> It takes a million **misses** to find the greatest show.
 
-A Million Dreams
+> [[Come Alive – Analysis|Come Alive]]
+> 
+> There’s a people who are **not dead nor alive**.
 
-Dreaming keeps you _awake_.
+> [[The Other Side – Analysis|The Other Side]]
+> 
+> We **have** the key to our own cage; we’re the ones who lock **ourselves** in.
 
-It takes a million _misses_ to find the greatest show.
+> [[Never Enough – Analysis|Never Enough]]
+> 
+> **Without you**, all the glitter and gold is never enough.
 
-Come Alive
+> [[This is Me – Analysis|This is Me]]
+> 
+> Self-empowerment empowers **others**, and others empowers self; it’s not a solo job.
 
-There’s a people who are _not dead nor alive. _
+> [[Rewrite the Stars – Analysis|Rewrite the Stars]]
+> 
+> Persecution and opposition pulls you **closer**.
+> 
+> Fate **can** change if you will it.
 
-The Other Side
+> [[Tightrope – Analysis|Tightrope]]
+> 
+> The risk makes the act **more** stunning.
 
-We _have_ the key to our own cage; we’re the ones who lock _ourselves_ in.
+> [[From Now On – Analysis|From Now On]]
+> 
+> Knowing you’re **lost** is the first step to getting found.
 
-Never Enough
+> [[The Greatest Show Finale – Analysis|The Greatest Show – Finale]]
+> 
+> The greatest show is sometimes the **less dazzling** one.
 
-_Without you_, all the glitter and gold is never enough.
 
-This Is Me
-
-Self-empowerment empowers _others_, and others empowers self; it’s not a solo job.
-
-Rewrite The Stars
-
-Persecution and opposition pulls you _closer_.
-
-Fate _can_ change if you will it.
-
-Tightrope
-
-The risk makes the act _more_ stunning.
-
-From Now On
-
-Knowing you’re _lost_ is the first step to getting found.
-
-The Greatest Show (Finale)
-
-The greatest show is sometimes the \_less dazzling \_one.
-
-####
-
-#### Reflection
-
-Lyric Analysis (series)
+## Reflection
 
 Truth be told, I’ve bitten off way more than I thought I had to chew with this series HAHA but it’s something else, studying one piece of work for five months. I’ve read and reread the script, watched through countless interview videos, dug up history and went down the rabbit hole on various musical and literary terminologies.
 
@@ -115,8 +108,4 @@ It is often said that art imitates reality, like how this fictional world was in
 
 Barnum, whose father left him nothing to inherit and only wanted his next generation to have nothing short of the extraordinary–if he could see how extraordinary it is to have his lessons, skills and idiosyncrasies picked up by the real world.
 
-Q: How has a (fictional/glamorized/accurately glamorized) story leaked into your real life?
-
-After looking through the whole script: Barnum always uses superlatives in descriptions (“youngest prima ballerina in the history of City ballet”, “world’s heaviest man”, “the most joyless critic”, “you will sing in the grandest theater, with the finest orchestra, in the greatest city on earth.”)... what does this tell us about “This is the greatest show!” and for Barnum, “The Greatest Showman”? >> leaks into real world, ref Hugh’s interview (the best songwriters), his dream
-
-The greatest show on earth: the tagline of Barnum’s real life circus
+> Q: How has a (fictional/glamorised/(in)accurately glamorised) story leaked into your real life?

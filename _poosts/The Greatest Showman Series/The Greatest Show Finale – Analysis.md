@@ -36,13 +36,13 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 > 1. Colossal, a great synonym for great: means a lot, especially for Tom Thumb
 > 2. Renegades are people who rebel against a system or set of principles, like the Oddities
 > 3. The "ring" means
-	 1. the circus ring,
-	 2. a boxer’s ring,
-	 3. the marriage ring symbolising family
+     1. the circus ring,
+     2. a boxer’s ring,
+     3. the marriage ring symbolising family
 
 **(Whoa) Where the lost get found and we crown ‘em the circus kings**
 
-> 1. "Found", meaning returned *home* to the ring
+> 1. "Found", meaning returned _home_ to the ring
 > 2. The rebels are now the influencers: Where the runaways are running the night~
 > 3. Official subtitles read this above, but official lyric video reads “the lost get found in the crown of the circus king”... I like that
 
@@ -77,8 +77,6 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 **Where the runaways are running the night**
 
 > "Renegades...crown ‘em the circus **kings**"~ Kings run the world
-
-%%> V: My interpretation is some of the mobsters are now backstage workers for the circus, hoisting the performers up by rope — it opposition that causes the renegades to be high up enough to rewrite their stars%%
 
 **Impossible comes true, intoxicating you**
 
@@ -138,17 +136,17 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 
 **This is where you wanna be**
 
-> V: ...and Bearded Lady sings it back to Barnum, as if asking, “This is where I wanna be, but is this really where *you*  want to be?” Then Barnum stops, remembers, and pieces two and two.
+> V: ...and Bearded Lady sings it back to Barnum, as if asking, “This is where I wanna be, but is this really where _you_ want to be?” Then Barnum stops, remembers, and pieces two and two.
 
 <br>
 
 **Where it's covered in all the coloured lights**
 
 > In a “[We Will Rock You](https://www.youtube.com/watch?v=-tJYN-eG1zk)” fashion, only the rhythm remains and even the audience can join in the song.
-> 
+>
 > It’s also a callback to the [[The Greatest Show Prologue – Analysis|the start of the prologue]], where there’s no “music”, but only human instruments.
 
-> V: Barnum ironically runs *away* from the coloured lights into the dim backstage…
+> V: Barnum ironically runs _away_ from the coloured lights into the dim backstage…
 
 **Where the runaways are running the night**
 
@@ -162,7 +160,7 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 
 **Oh, this is the greatest show**
 
-**_P: What will you be doing? _**
+**_P: What will you be doing?_**
 
 **_B: Watching my girls grow up. The show must go on._**
 
@@ -182,7 +180,7 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 
 > Just as how Philip mimicked Barnum’s lines from [[The Other Side – Analysis|The Other Side]], now, he <span style="text-decoration:underline;">becomes</span> Barnum in The Greatest Show
 
-> V: And as he slides in, the performers around him freeze and unfreeze, a technique also used in the final chorus of [[This is Me – Analysis|This is Me]], while the “This is Me/This is the Greatest Show*” motif implies that finding one’s identity in a family is the greatest show.
+> V: And as he slides in, the performers around him freeze and unfreeze, a technique also used in the final chorus of [[This is Me – Analysis|This is Me]], while the “This is Me/This is the Greatest Show\*” motif implies that finding one’s identity in a family is the greatest show.
 
 <br>
 
@@ -213,7 +211,7 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 **'Cause everything you want is right in front of you**
 
 > This bridge is what seems to be a meld between the themes and lyrics of The Greatest Show’s and Rewrite the Star’s bridges, but Philip reprises them:
-> 
+>
 > Philip takes on Barnum’s mantle, but he has his own experiences to bring to the role, and his own motifs to bring to the song
 
 **And you see the impossible is coming true**
@@ -258,7 +256,7 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 
 > 1. Beautiful piano solo that transitions beautifully as if it were the in-universe ballet recital’s music.
 > 2. The melody of the bridge is played, but deliberately skipping the last line of the melody of the bridge
-> 3. V: Caroline did make it to become the *prima ballerina* – but Helen is playing as the background tree. And we know now how much the parents love them both just as much.
+> 3. V: Caroline did make it to become the _prima ballerina_ – but Helen is playing as the background tree. And we know now how much the parents love them both just as much.
 
 > Barnum sings the last stanza of the movie in ad libitum, often called “at liberty”, where his ad-lib feelings are allowed to fluctuate the tempo and even omit singing certain lines — he's breaking all the rules of a perfectly performed song, but this imperfection is even more beautiful.
 
@@ -273,7 +271,7 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 **And it’s here right in front of you**
 
 > 1. V: When everything else is supposedly [[Never Enough – Analysis|never enough]], the screen cuts to black as the couple break into a smile, finally satisfied
-> 2. Barnum doesn’t sing it, but the piano completes the last line of lyrics "This is where you want to be". 
+> 2. Barnum doesn’t sing it, but the piano completes the last line of lyrics "This is where you want to be".
 > 3. After the screen cuts to black, the song first goes onto the fourth chord, then actually properly resolves and ends on the tonic chord, known as the “home” chord
 
 ---
@@ -314,9 +312,9 @@ Dreams vs Reality
 
 - Compared to the opener song in the very start, this reprise steps up in many different places.
 
-- Where the [[The Greatest Show Prologue – Analysis|The Greatest Show (Prologue)]] has Barnum singing virtually all the lead parts, this reprise has the background singers singing the lead lyrics and even harmony –you can’t even make out Barnum’s voice in some places of the song.
+- Where the [The Greatest Show (Prologue)](The Greatest Show Prologue – Analysis) has Barnum singing virtually all the lead parts, this reprise has the background singers singing the lead lyrics and even harmony –you can’t even make out Barnum’s voice in some places of the song.
 
-- In the same vein, while the camera mostly focuses on Barnum in the  [[The Greatest Show Prologue – Analysis|intro]]; in the finale, we get solo shots of so many individual people, most who we now know personally through their stories — and even shots of some unnamed cast.
+- In the same vein, while the camera mostly focuses on Barnum in the [[The Greatest Show Prologue – Analysis|intro]]; in the finale, we get solo shots of so many individual people, most who we now know personally through their stories — and even shots of some unnamed cast.
 
 - Just listening and comparing to both songs, this finale song has more/extra instruments and is more musically intricate with electric guitar and synths
 
@@ -330,11 +328,11 @@ Reprise and Resolution
 
 - This finale song reprises elements of all the previous songs and resolves their setups
 
-- Obviously it is a direct reprise from [[The Greatest Show Prologue – Analysis|The Greatest Show (Prologue)]], as covered above
+- Obviously it is a direct reprise from [The Greatest Show (Prologue)](The Greatest Show Prologue – Analysis), as covered above
 
-- The chord progression for the chorus is similar to [[A Million Dreams – Analysis|A Million Dreams]]' chorus: but where one talks of _starting_ a *million* dreams to be satisfied, in the other, Barnum finally _achieves_ the _one_ greatest dream he needs and becomes **completely satisfied**.
+- The chord progression for the chorus is similar to [[A Million Dreams – Analysis|A Million Dreams]]' chorus: but where one talks of _starting_ a _million_ dreams to be satisfied, in the other, Barnum finally _achieves_ the _one_ greatest dream he needs and becomes **completely satisfied**.
 
-- [[Come Alive – Analysis|Come Alive]] was when Barnum first started his museum-circus (a museum has a lot of dead stuff), and it was imperfect because he himself is still harbouring ego: hence he's *dead-alive*, somewhere in the middle. Come full circle, Barnum’s three-ring circus tent is inherited by his successor while he’s able to focus on his family: that is Barnum coming *fully alive* himself, free from ego.
+- [[Come Alive – Analysis|Come Alive]] was when Barnum first started his museum-circus (a museum has a lot of dead stuff), and it was imperfect because he himself is still harbouring ego: hence he's _dead-alive_, somewhere in the middle. Come full circle, Barnum’s three-ring circus tent is inherited by his successor while he’s able to focus on his family: that is Barnum coming _fully alive_ himself, free from ego.
 
 - Barnum invites Philip to come to [[The Other Side – Analysis|The Other Side]] to imitate him and be adopted into a new family. In this finale song, Philip not only exceeds imitation by _succeeding_ Barnum, but even to the extent of _heading_ this new family as well, becoming better than Barnum, in charge of adopting and leading others.
 
@@ -346,7 +344,7 @@ Reprise and Resolution
 
 - [[Tightrope – Analysis|Tightrope]] expressed how _satisfied_ Charity was with Barnum despite giving up her family’s fortunes for a simple life with Barnum. Similarly, in the finale, Barnum is _satisfied_ in giving up his circus empire for a simple but colourful life with his family.
 
-- When Bearded Lady passes him his hat, Barnum stops as he says he would [[From Now On – Analysis|From Now On]], and remembers his family, proving that his catharsis from From Now On was not just a passing emotion, but an anthem in his heart that's _real_ and _true_. Both bridges have the same chord progression and theme: we will come back home again because *home is where we wanna be*.
+- When Bearded Lady passes him his hat, Barnum stops as he says he would [[From Now On – Analysis|From Now On]], and remembers his family, proving that his catharsis from From Now On was not just a passing emotion, but an anthem in his heart that's _real_ and _true_. Both bridges have the same chord progression and theme: we will come back home again because _home is where we wanna be_.
 
 Inheritance, Legacy and Succession
 
@@ -364,7 +362,7 @@ Inheritance, Legacy and Succession
 
 ### What’s the name about?
 
-What other shows have there been for Barnum? 
+What other shows have there been for Barnum?
 
 Why is his greatest show greater than the rest? Is family, the truest thing there is, just “for show”?
 
