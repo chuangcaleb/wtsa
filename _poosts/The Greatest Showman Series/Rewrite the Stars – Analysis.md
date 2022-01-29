@@ -1,4 +1,5 @@
 ---
+aliases: Rewrite the Stars
 title: "Rewrite the Stars – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
