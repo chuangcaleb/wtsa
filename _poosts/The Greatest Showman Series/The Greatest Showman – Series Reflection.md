@@ -39,7 +39,7 @@ Throughout the course of writing about each song, I’ve discovered one or two �
 
 What’s interesting is that each truth is a statement that doesn’t make sense at first glance. But all the more, a song that packs an intellectually satisfying surprise is a song that packs a paradox that’s actually true.
 
-You could append an “Actually… when typically…” to each statement to get what I mean *(e.g. Actually, you, the audience, want to be part of the show too, when typically, the audience are just spectators)*
+You could append an “Actually… when typically…” to each statement to get what I mean *(e.g. Actually, you, the audience, want to be part of the show too, when typically, the audience are just spectators)*.
 
 >[[The Greatest Show Prologue – Analysis|The Greatest Show – Prologue]]
 >
