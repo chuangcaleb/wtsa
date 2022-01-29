@@ -9,7 +9,9 @@ So this is the final-finale post of this five-month series. Just a reflection of
 
 <!--more-->
 
-As a quick overall review: I loved it. It got a bit tiring at times, but never boring. Every song and scene spun on a whole new different meaning for me now. Never Enough became a love song about being always satisfied, This Is Me became a song that is not meant to be sung alone.
+## Quick Review
+
+As a quick overall review: I loved it. It got a bit tiring at times, but never boring. Every song and scene spun on a whole new different meaning for me now. [[Never Enough – Analysis|Never Enough]] became a love song about being always satisfied, [[This is Me – Analysis|This is Me]] became a song that is not meant to be sung alone.
 
 It was also like playing connect-the-dots. It seemed like every element, whether a prop or a harmonic interval, never existed in a void, but rather existed purposefully to reinforce a theme, or even create a new dimension to it. Patterns were littered throughout and it was only a matter of digging them up and fixing the jigsaw.
 
@@ -17,7 +19,7 @@ I didn’t really know what kind of style and format I’d want to use, which wa
 
 There were so many cross-influences which started with “The Wizard of Oz’s full-color transition into dreamworld” all the way to Queen’s “We Will Rock You”. This taught me that stories don’t live in isolation, but can derive so much depth and breadth from other stories, and that I should keep expanding my horizons.
 
-**So. What’s this story about? **
+## So. What’s this story about?
 
 My first post started with the quote, 1 “My personal preference for **summing up theme** is to look for the** “Truth”** at the heart of any prominent **character change** within the **plot**.”
 

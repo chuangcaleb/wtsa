@@ -13,7 +13,7 @@ This is the greatest show! This is also part one of many lyric analyses for the 
 
 **Whoa**
 
-> Video: Just as the title sequence goes from black-and-white and suddenly into colour, so does the audience go from their mundane lives and into the story world… just like how Dorothy enters Oz, just Google “Dorothy entering Technicolor”…
+> Video: Just as the title sequence goes from black-and-white and suddenly into colour, so does the audience go from their mundane lives and into the story world… just like how [Dorothy enters Oz](https://www.youtube.com/watch?v=x6D8PAGelN8) — imagine audiences, seeing colour in film for the first time…
 
 **Ladies and gents, this is the moment you've waited for (whoa)**
 

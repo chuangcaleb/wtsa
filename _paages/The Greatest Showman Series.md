@@ -7,7 +7,7 @@ You can find the older 2017 version of the screenplay at [The Greatest Showman (
 
 Quick list of posts of this category:
 
-- [[The Greatest Show Prologue - Analysis]]
+- [[The Greatest Show Prologue – Analysis]]
 - [[A Million Dreams – Analysis]]
 - [[Come Alive – Analysis]]
 - [[The Other Side – Analysis]]
