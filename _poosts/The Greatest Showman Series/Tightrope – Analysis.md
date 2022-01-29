@@ -1,11 +1,16 @@
 ---
+aliases: Tightrope
 title: "Tightrope – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2020-03-14
 ---
 
+What’s harder than walking on a tightrope? Two people dancing on a tightrope. With two people, it will never be an independant solo act. If one falls, so will the other. If one shines, so will the other. 
+
 <!--more-->
+
+At first viewing, this song didn’t stand out for me. (In fact, it was THAT song from a musical that you just don’t remember.) After all, the glitter and glam were with the circus storyline. But now that I’ve started this analysis, I realise that this song is perhaps the most important puzzle piece in the bigger picture.
 
 ### Tightrope
 
@@ -43,7 +48,7 @@ date: 2020-03-14
 
 > V: While there’s the recurring theme that some doors are locked — some doors are wide open, but they don’t mean anything unless the one you love is there to be with you
 
-![[wtsa/assets/img/showman/showman-t-doors-open.png]]
+![[showman-t-doors-open.png]]
 
 <br>
 
@@ -265,8 +270,6 @@ How does it always involve a performer and a ringmaster?
 ---
 
 ## Reflection
-
-What’s harder than walking on a tightrope? Two people dancing on a tightrope. With two people, it will never be an independant solo act. If one falls, so will the other. If one shines, so will the other. At first viewing, this song didn’t stand out for me. (In fact, it was THAT song from a musical that you just don’t remember.) After all, the glitter and glam were with the circus storyline. But now that I’ve started this analysis, I realise that this song is such an important puzzle piece in the bigger picture.
 
 It’s already been, what, seven months since I went to see [@swissdreamcircus](https://www.swissdreamcircus.com) with my friends. I still remember the tightrope act. It was on a super thin wire (it was 15mm, after I googled their website; WOW), and every iteration, they upped the ante: one person turned into one blindfolded person, turning into two people, turning into two people crossing opposite sides, having to pass each other on the tightrope.
 

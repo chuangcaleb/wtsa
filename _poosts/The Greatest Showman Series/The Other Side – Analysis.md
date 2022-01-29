@@ -1,4 +1,5 @@
 ---
+aliases: The Other Side
 title: "The Other Side – Analysis"
 category: The Greatest Showman Series
 custom_css: showman

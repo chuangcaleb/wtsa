@@ -1,4 +1,5 @@
 ---
+aliases: Come Alive
 title: "Come Alive – Analysis"
 category: The Greatest Showman Series
 custom_css: showman

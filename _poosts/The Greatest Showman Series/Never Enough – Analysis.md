@@ -1,4 +1,5 @@
 ---
+aliases: Never Enough
 title: "Never Enough – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
