@@ -345,7 +345,7 @@ The power and energy and fire feel like [[Come Alive – Analysis|Come Alive]]�
 Tightrope and Never Enough: Repetition
 
 - Between *“[[Never Enough – Analysis|Never Enough]], never, never, for me* and [[Tightrope – Analysis|Tightrope]]’s “*With you, you, you”*, both lose out to how many repetitions of *"And we will come back home!"* that this song has
-- 
+
 - This repetition shows Barnum’s arc as he slowly gets the right idea, and making sure he won’t forget it
 
 A Million Dreams: Photo Frames
@@ -374,7 +374,7 @@ The Other Side: Taverns and Alcohol
 
 - And just as in both songs, Philip and the circus Oddities were already dancing and intoxicated enough by Barnum’s life *before* they even took a sip of alcohol
 
-This is Me: 
+This is Me: Iron Sharpens Iron
 
 - Interestingly, where Barnum was the original preacher who found the Oddities when they were weak at their lowest, and showed them that there’s a home for them...
 
