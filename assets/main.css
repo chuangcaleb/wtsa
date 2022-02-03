@@ -280,7 +280,7 @@ logo > img { vertical-align: bottom; }
 
 blockquote { margin-top: 40px; margin-bottom: 40px; padding: 20px 20px; font-size: 140%; border-right: 1px solid #e8e8e8; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; }
 
-blockquote li { margin: 5px 0px; }
+blockquote li { margin: 15px 15px; }
 
 main hr { margin-top: 45px; margin-bottom: 45px; }
 
