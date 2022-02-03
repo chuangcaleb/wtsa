@@ -39,3 +39,5 @@ Welcome to the dump.
 ---
 
 Unsure where to start? [View major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!
+
+My friend has also started a Jekyll blog at the same time as me — it's a knowledge hub where he shares some fun facts! Check it out at [I Wonder](https://joewong00.github.io/iwonder/)!
