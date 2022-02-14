@@ -18,6 +18,8 @@ I didn’t really know what kind of style and format I’d want to use, which wa
 
 There were so many cross-influences which started with “The Wizard of Oz’s full-color transition into dreamworld” all the way to Queen’s “We Will Rock You”. This taught me that stories don’t live in isolation, but can derive so much depth and breadth from other stories, and that I should keep expanding my horizons.
 
+---
+
 ## So. What’s this story about?
 
 My first post started with the quote, “My personal preference for **summing up theme** is to look for the **“Truth”** at the heart of any prominent **character change** within the **plot**.”
@@ -32,6 +34,7 @@ I think this is the Truth that is mirrored in the heart of every song and every 
 
 And with every new post, I look back to old posts for reference and in the process find something new to add to the old posts. So here is the link to this google docs that I’ve used to write every single post of this series.
 
+---
 
 ## Song Secrets (Actually,)
 
@@ -85,6 +88,7 @@ You could append an “Actually… when typically…” to each statement to get
 > 
 > The greatest show is sometimes the **less dazzling** one.
 
+---
 
 ## Reflection
 

@@ -17,7 +17,7 @@ All in all. I enjoyed it. It was fun, funny and entertaining, and still had a lo
 
 ---
 
-## Small Tweaks
+## Things I'd Tweak
 
 ### 1. Queen Ingrith should be the one to do a twisted intro narration recap of the first movie
 
@@ -132,7 +132,7 @@ Also, no clips of the reverse: human soldiers helping up injured fae. If we're a
 
 ---
 
-## Things I liked
+## Things I Liked
 
 ### 1. Consequence and continuity from the decisions
 
