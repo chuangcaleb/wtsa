@@ -42,50 +42,50 @@ Throughout the course of writing about each song, I’ve discovered one or two �
 
 What’s interesting is that each truth is a statement that doesn’t make sense at first glance. But all the more, a song that packs an intellectually satisfying surprise is a song that packs a paradox that’s actually true.
 
-You could append an “Actually… when typically…” to each statement to get what I mean *(e.g. Actually, you, the audience, want to be part of the show too, when typically, the audience are just spectators)*.
+You could append an “Actually… when typically…” to each statement to get what I mean (e.g. Actually, you, the audience, want to be part of the show too, _when typically, the audience are just spectators_).
 
 >[[The Greatest Show Prologue – Analysis|The Greatest Show – Prologue]]
 >
 >You, the **audience**, want to be part of the show too.
 
 > [[A Million Dreams – Analysis|A Million Dreams]]
-> 
+>
 > Dreaming keeps you **awake**.
-> 
+>
 > It takes a million **misses** to find the greatest show.
 
 > [[Come Alive – Analysis|Come Alive]]
-> 
-> There’s a people who are **not dead nor alive**.
+>
+> There’s a people who are **neither dead nor alive**.
 
 > [[The Other Side – Analysis|The Other Side]]
-> 
+>
 > We **have** the key to our own cage; we’re the ones who lock **ourselves** in.
 
 > [[Never Enough – Analysis|Never Enough]]
-> 
+>
 > **Without you**, all the glitter and gold is never enough.
 
 > [[This is Me – Analysis|This is Me]]
-> 
-> Self-empowerment empowers **others**, and others empowers self; it’s not a solo job.
+>
+> Self-empowerment empowers **others**, and in turn, others empowers self; it’s not a solo job.
 
 > [[Rewrite the Stars – Analysis|Rewrite the Stars]]
-> 
+>
 > Persecution and opposition pulls you **closer**.
-> 
+>
 > Fate **can** change if you will it.
 
 > [[Tightrope – Analysis|Tightrope]]
-> 
+>
 > The risk makes the act **more** stunning.
 
 > [[From Now On – Analysis|From Now On]]
-> 
+>
 > Knowing you’re **lost** is the first step to getting found.
 
 > [[The Greatest Show Finale – Analysis|The Greatest Show – Finale]]
-> 
+>
 > The greatest show is sometimes the **less dazzling** one.
 
 ---

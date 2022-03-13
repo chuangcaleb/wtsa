@@ -8,7 +8,7 @@ Hello there—my name is Caleb!
 
 I'm a final-year student procrastinating his dissertation for his Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/).
 
-## I also really, really love **story**.
+## I also really, really love **story**
 
 Story: books, movies, songs, theatre, musicals. _Narratives_.
 
@@ -28,9 +28,9 @@ People know this about me: after a really interesting movie, I _have_ to discuss
 
 I tried running [an Instagram account](https://instagram.com/whatsthestoryabout) for a while (a good while!), but I ended up taking more time designing than actually writing out things.
 
-Through my Computer Science degree, I started using [Obsidian](https://obsidian.md) and learnt about the amazing [Markdown](https://www.markdownguide.org) format (a common language in the coding field!). Then I thought, why not integrate [Obsidian](https://obsidian.md) with my writing escapades? I learnt and practiced even more to be able to maintain a [Jekyll](https://jekyllrb.com) site.
+Through my Computer Science degree, I started using [Obsidian](https://obsidian.md) and learnt about the amazing [Markdown](https://www.markdownguide.org) format (a common language in the coding field!). Then I thought, why not integrate [Obsidian](https://obsidian.md) with my writing escapades? I learnt and practiced even more to be able to maintain a [Jekyll](https://jekyllrb.com) site, which helps me quickly compile my Markdown scribblings, autogenerates their appropriate website-matter, and effortlessly publishes them online!
 
-Which brings us here. So this website-blog-space-area is my external dump of all the thoughts in my head. Nothing too fancy, no special theme styling, just focus on getting everything out of my head, and onto this digital paper.
+Which brings us here. So this website-blog-space-area is my external dump of all the thoughts in my head. Nothing too fancy, no special theme styling: just focus on getting everything out of my head, and onto this digital paper.
 
 Welcome to the dump.
 
@@ -39,5 +39,9 @@ Welcome to the dump.
 ---
 
 Unsure where to start? [View major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!
+
+Also have a look at my [linktree](https://linktr.ee/wtstorya), which is where I've been temporarily centralizing my writing projects so far!
+
+<brbu>
 
 My friend has also started a Jekyll blog at the same time as me — it's a knowledge hub where he shares some fun facts! Check it out at [I Wonder](https://joewong00.github.io/iwonder/)!
