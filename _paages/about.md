@@ -42,6 +42,6 @@ Unsure where to start? [View major projects](browse) or perhaps begin with [[The
 
 Also have a look at my [linktree](https://linktr.ee/wtstorya), which is where I've been temporarily centralizing my writing projects so far!
 
-<brbu>
+<br>
 
-My friend has also started a Jekyll blog at the same time as me — it's a knowledge hub where he shares some fun facts! Check it out at [I Wonder](https://joewong00.github.io/iwonder/)!
+My friend has also started a Jekyll blog at the same time as me — it's a knowledge hub where he shares some fun facts! Check it out at [I Wonder](https://www.google.com)
