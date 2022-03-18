@@ -1,9 +1,10 @@
 ---
-title: "The Greatest Show (Prologue) – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2019-11-01
 ---
+
+# The Greatest Show (Prologue) – Analysis
 
 This is the greatest show! This is also part one of many lyric analyses for the movie, The Greatest Showman. I remember being floored 5 seconds into this song. The editing and pacing. It’s such a good Hook pulling triply duty.
 

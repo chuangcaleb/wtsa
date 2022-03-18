@@ -1,9 +1,10 @@
 ---
-title: "A Million Dreams – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2019-11-8
 ---
+
+# A Million Dreams – Analysis
 
 A million dreams for the posts we’re gonna make. It was different to type this one out because it being a montage, there were so many visual elements to get hold of. You really learn a lot about the character (pasts, beliefs, goals) and journey through their childhood in just the span of a song. Nothing will ever measure to Up’s Married Life, but this one I really like the strong moments of action and dialogue in between.
 

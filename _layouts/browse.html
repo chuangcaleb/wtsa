@@ -25,8 +25,9 @@ layout: default
               </a>
             </h3>
             {%- if site.show_excerpts -%}
-              {{ page.excerpt }}
-            {%- endif -%}
+              {% assign ep = page.excerpt | split: '</h1>' %}
+              {{ ep[1] }}
+          {%- endif -%}
           </li>
         {%-endif-%}
       {%- endfor -%}

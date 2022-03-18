@@ -37,7 +37,7 @@ plugins:
   - jekyll-wikilinks
   - jekyll-sitemap
   - jekyll-last-modified-at 
-
+  - jekyll-titles-from-headings
 
 collections:
   poosts:
@@ -76,6 +76,11 @@ header_pages:
 defaults:
   - scope:
       path: ""
+      type: paages
+    values:
+      excerpt_separator: <!--more-->
+  - scope:
+      path: ""
       type: poosts
     values:
       layout: post
@@ -102,7 +107,8 @@ defaults:
 titles_from_headings:
   enabled:     true
   strip_title: true
-  collections: false
+  collections: true
+
 
 
 # last-modified-at:

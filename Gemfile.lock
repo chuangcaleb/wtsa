@@ -40,6 +40,8 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-titles-from-headings (0.5.3)
+      jekyll (>= 3.3, < 5.0)
     jekyll-toc (0.17.1)
       jekyll (>= 3.9)
       nokogiri (~> 1.11)
@@ -88,6 +90,7 @@ DEPENDENCIES
   jekyll (~> 4.2.1)
   jekyll-last-modified-at
   jekyll-sitemap
+  jekyll-titles-from-headings
   jekyll-toc
   jekyll-wikilinks
   minima (~> 2.5)

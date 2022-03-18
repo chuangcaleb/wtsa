@@ -1,9 +1,9 @@
 ---
-title: "Maleficent: Mistress of Evil – Film Review"
 category: Film Reviews
-# custom_css: showman
 date: 2019-11-12
 ---
+
+# Maleficent: Mistress of Evil – Film Review
 
 Watched it two weeks ago and posted a story review for it but I think it’s neater in the long run to have a post.
 
@@ -21,29 +21,22 @@ All in all. I enjoyed it. It was fun, funny and entertaining, and still had a lo
 
 ### 1. Queen Ingrith should be the one to do a twisted intro narration recap of the first movie
 
-Queen Ingrith should be the one to do a twisted intro
-narration recap of the first movie, especially after the Hook (the
-first scene) implies that Mal killed the fairy hunters. Even though we don't exactly know who Queen Ingrith is yet, it foreshadows
-that the Queen falsified the tale.
+Queen Ingrith should be the one to do a twisted intro narration recap of the first movie, especially after the Hook (the first scene) implies that Mal killed the fairy hunters. Even though we don't exactly know who Queen Ingrith is yet, it foreshadows that the Queen falsified the tale.
 
-And, Mal will have action beats to
-disprove the specific lines from the narration: that though she's
+And, Mal will have action beats to disprove the specific lines from the narration: that though she's
 cynical and cold, she's also fiercely protective and kindhearted.
 
 ### 2. The Main Relationship (Mal and Aurora) didn't get enough screen time as a result
 
-The CGI visuals were astounding, and a lot of solid work went
-into fae worldbuilding. But, I felt the Main Relationship (Mal and
-Aurora) didn't get enough screen time as a result.
+The CGI visuals were astounding, and a lot of solid work went into fae worldbuilding. But, I felt the Main Relationship (Mal and Aurora) didn't get enough screen time as a result.
 
 I'd wish it was more clear at the dinner event that King John was struck with the same iconic sleeping curse.
+
 Aurora should've defended her mother more fiercely, until someone proves, yes, it's really
 Mal's curse (in the hands of Ingrith) that did it. Then Aurora will have more cause for doubt and
 almost cave in to Ingrith's Lie (making the cursed spinwheel reveal better).
 
-For Mal, I'd wish the Fae argued that she destroyed King Stefan's
-castle and soldiers in the previous movie, so why is Ulstead different? This causes Mal to **really reevaluate how airtight her morals are**.
-And the Fae can say that they're also willing to kill Aurora cause she's human too
+For Mal, I'd wish the Fae argued that she destroyed King Stefan's castle and soldiers in the previous movie, so why is Ulstead different? This causes Mal to **really reevaluate how airtight her morals are**. And the Fae can say that they're also willing to kill Aurora cause she's human too
 (to which she responds aggressively). We'd get this nice parallel:
 
 Percival: You know what the legends say about Fae and Moor...\
@@ -54,31 +47,23 @@ Mal: Watch your mouth, my girl is human.
 
 ### 3. After Aurora learns the truth, she's never an active character anymore
 
-After Aurora learns the truth in the 50% Midpoint mark of the movie, she's never an active character anymore. First time she's
-seized by guards, she slyly escapes (good, albeit that scene could be earlier) but from then on, she's seized then first saved by bear!Diaval, and later she's seized then saved by phoenix!Maleficent.
+After Aurora learns the truth in the 50% Midpoint mark of the movie, she's never an active character anymore. First time she's seized by guards, she slyly escapes (good, albeit that scene could be earlier) but from then on, she's seized then first saved by bear!Diaval, and later she's seized then saved by phoenix!Maleficent.
 
-Aurora is **too passive**, throughout the whole movie, letting things
-happen to her and reacting to them rather than causing things to happen—especially in the climax. List her big
-decisions throughout the film that causes ripple effects onto others.
+Aurora is **too passive**, throughout the whole movie, letting things happen to her and reacting to them rather than causing things to happen—especially in the climax. List her big decisions throughout the film that causes ripple effects onto others.
 Not that many; she's such a strong character with a strong potential due to her mixed background!
 
-Instead, she should have moments like publicly choosing the fairy's wedding dress over the humans' design, or impeding the gas
-chamber, or disrupting an arrow inbound for Maleficent. Or risking giving a peace speech in the thickest of the war.
+Instead, she should have moments like publicly choosing the fairy's wedding dress over the humans' design, or impeding the gas chamber, or disrupting an arrow inbound for Maleficent. Or risking giving a peace speech in the thickest of the war.
 
 ### 4. Consistency and payoffs
 
-The queen's pollen allergy is
-used to re-introduce us to fae's weakness to iron, and "foreshadow"
-that she hates faes, but in the Resolution when the flower-branches
-grab her, she doesn't sneeze.
+The queen's pollen allergy is used to re-introduce us to fae's weakness to iron, and "foreshadow"
+that she hates faes, but in the Resolution when the flower-branches grab her, she doesn't sneeze.
 
-Also, Percival mentioned he to be best man for Philip's wedding, but he just stood by the side, and had that one
-"cute moment" where a female fæ has to smile at him. But, that's so
+Also, Percival mentioned he to be best man for Philip's wedding, but he just stood by the side, and had that one "cute moment" where a female fæ has to smile at him. But, that's so
 wasted, it would've meant so much, in lieu of Philip's interesting and very complex relationship
 with his friend and head captain/general. Nitpick, but to name a few.
 
-Granted, they followed up
-on the Maleficent threatening to turn Philip into a goat HAHA
+Granted, they followed up on the Maleficent threatening to turn Philip into a goat HAHA
 
 ### 5. The whole movie could be paced better
 
@@ -136,43 +121,32 @@ Also, no clips of the reverse: human soldiers helping up injured fae. If we're a
 
 ### 1. Consequence and continuity from the decisions
 
-Consequence and continuity from the decisions, and also developing the worldbuilding of the first movie: killing Stefan, ruling
-Moor, origins of fae, Philip's kingdom
+Consequence and continuity from the decisions, and also developing the worldbuilding of the first movie: killing Stefan, ruling Moor, origins of fae, Philip's kingdom
 
 ### 2. Good guy Conall DIES
 
-Conall. I thought, wow, if the optimist Fae gets killed by the humans, that would be reason enough to incite
-the Third Act. Heh. Still so satisfying, the way it was done.
+Conall. I thought, wow, if the optimist Fae gets killed by the humans, that would be reason enough to incite the Third Act. Heh. Still so satisfying, the way it was done.
 
-He has quotable lines, and dares Mal to change. He's a good Mentor to
-Maleficent and Foil to Borra.
+He has quotable lines, and dares Mal to change. He's a good Mentor to Maleficent and Foil to Borra.
 
 ### 3. The climactic moment
 
-The climactic moment, "You're my mother!", and what followed
-broke my heart. Well set-up with "she's my godmother", and Conall
-daring Mal to imitate him and his sacrifice... and seeing Mal disintegrate, even if
-later revived... it speaks volumes about the depth of her character.
+The climactic moment, "You're my mother!", and what followed broke my heart. Well set-up with "she's my godmother", and Conall daring Mal to imitate him and his sacrifice... and seeing Mal disintegrate, even if later revived... it speaks volumes about the depth of her character.
 
 ### 4. Having characters witness
 
 Borra was eyewitness-present during Conall's and Mal's sacrifice. Aurora physically saw her subjects gassed. They could've been told as secondhand knowledge, but it hits harder when it's firsthand.
 
-The viewers also get firsthand experience and remember it, becoming tried-and-tested Truth and Motivations
-for future decisions. And that purposefulness I appreciate.
+The viewers also get firsthand experience and remember it, becoming tried-and-tested Truth and Motivations for future decisions. And that purposefulness I appreciate.
 
 ### 5. Mature Themes
 
-Mature themes of red iron (man, that's nasty), genocide and gas
-chambers, arranged marriages, political propoganda, war, familial
-treason, ethnic minorities, characters "dying" on screen... even if
-some were not handled as perfectly, it was bold to include it. +1
+Mature themes of red iron (man, that's nasty), genocide and gas chambers, arranged marriages, political propoganda, war, familial treason, ethnic minorities, characters "dying" on screen... even if some were not handled as perfectly, it was bold to include it. +1
 
 ### 6. Antagonism
 
-The idea at least, if not execution. Ingrith
-always had an ace up her sleeve. Red iron and advanced
-weaponry to match magic and monsters. Sweet slander and
+The idea at least, if not execution. Ingrith always had an ace up her sleeve. Red iron and advanced weaponry to match magic and monsters. Sweet slander and
 manipulation to match blunt honesty and the power of true love.
+
 I have a love-hate relationship for the Queen's charcater: she attacks Maleficent on more
 than one front. Good job.

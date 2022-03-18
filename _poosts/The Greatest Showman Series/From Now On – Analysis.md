@@ -1,10 +1,12 @@
 ---
 aliases: From Now On
-title: "From Now On – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2020-03-20
 ---
+
+# From Now On – Analysis
+
 
 AND WE WILL COME BACK HOME! My FAVOURITE song FINALLY hahaha. THIS song. It just — takes strands from every previous song and weaves it into a tapestry that summarises the story, setting up the climax. It probably struck a chord in me, because it cued the waterworks.
 

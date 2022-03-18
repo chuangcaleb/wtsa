@@ -32,13 +32,14 @@ layout: default
       </h3>
 
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {% assign ep = post.excerpt | split: '</h1>' %}
+          {{ ep[1] }}
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
 
-    {% comment %} <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> {% endcomment %}
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>  -->
   {%- endif -%}
 
 </div>

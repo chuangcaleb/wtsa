@@ -1,10 +1,11 @@
 ---
 aliases: Tightrope
-title: "Tightrope – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2020-03-14
 ---
+
+# Tightrope – Analysis
 
 What’s harder than walking on a tightrope? Two people dancing on a tightrope. With two people, it will never be an independant solo act. If one falls, so will the other. If one shines, so will the other. 
 

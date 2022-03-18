@@ -1,8 +1,9 @@
 ---
-title: "The Greatest Showman – Series Reflection"
 category: The Greatest Showman Series
 date: 2020-04-07
 ---
+
+# The Greatest Showman – Series Reflection
 
 So this is the final-finale post of this five-month series. Just a reflection of all the hours I’ve poured in.
 

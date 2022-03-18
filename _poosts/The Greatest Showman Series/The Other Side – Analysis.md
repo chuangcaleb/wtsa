@@ -1,10 +1,11 @@
 ---
 aliases: The Other Side
-title: "The Other Side – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2019-11-29
 ---
+
+# The Other Side – Analysis
 
 Right here, right now, I put the textpost out. This song became an early favourite of mine, no surprise, because of how it pitted the two men against each other, in beliefs, in action and in lyrics.
 

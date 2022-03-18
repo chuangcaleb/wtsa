@@ -1,6 +1,7 @@
 ---
-title: About
 ---
+
+# about
 
 ## What's whatsthestoryabout about?
 

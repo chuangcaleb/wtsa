@@ -1,10 +1,11 @@
 ---
 aliases: Never Enough
-title: "Never Enough – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2019-12-20
 ---
+
+# Never Enough – Analysis
 
 That’s enough for today’s post. The composers did a great job at this pop-opera fusion. Orchestral strings always gets me. In an interview, one of the writers talks about how the “never enoughhhh” line is “sensory overload of her just harping on this \[one thing\].”
 

@@ -1,10 +1,11 @@
 ---
 aliases: Come Alive
-title: "Come Alive – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2019-11-15
 ---
+
+# Come Alive – Analysis
 
 Come one, come all, come in, come on, come alive (_come back home?_). Every moment is just URGHH so alive. The use of slo-mo and camera angles are very tasty. And the choreo! So enticing.
 

@@ -1,10 +1,11 @@
 ---
-title: "This is Me – Analysis"
 category: The Greatest Showman Series
 custom_css: showman
 date: 2020-02-14
 aliases: This is Me
 ---
+
+# This is Me – Analysis
 
 Admittedly, this song dampened my eyes early. It’s a little cliche and cheesy, but resonant in context of what the characters are going through. This song was a late entry in the film production, but you should watch the greenlighting workshop footage.
 
