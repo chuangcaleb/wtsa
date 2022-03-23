@@ -109,7 +109,12 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-
+wikilinks:
+  attributes:
+    enabled: true
+  css:
+  enabled: true
+  exclude: []
 
 # last-modified-at:
 #     date-format: '%d %b %Y'
