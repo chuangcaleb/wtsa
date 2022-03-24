@@ -3,12 +3,12 @@
 	<div class="wrapper">
 		{%- assign page_paths = site.header_pages | default: default_paths -%}
 
-		<a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-			<logo><img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO"></logo>
-			{{site.title| escape }}
+		<a class="site-title" rel="author" href="{{ " /" | relative_url }}">
+			<logo><img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO"></logo>{{site.title| escape }}
 			<!-- <logo><img src="{{site.baseurl}}/assets/img/wtsa-logo.jpg" alt="LOGO"></logo>{{site.title| escape }} -->
 		</a>
 
+		{%- include extensions/theme-toggle.html -%}
 		<nav class="site-nav">
 			<input type="checkbox" id="nav-trigger" class="nav-trigger" />
 			<label for="nav-trigger">
@@ -22,7 +22,6 @@
 
 			{%- include nav-bar.html -%}
 		</nav>
-		{%- include extensions/theme-toggle.html -%}
 
 	</div>
 </header>
