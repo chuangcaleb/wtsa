@@ -1,0 +1,97 @@
+// adapted from: https://github.com/jeffreytse/jekyll-theme-yat
+.theme-toggle {
+	position: relative;
+	// margin: auto;
+	width: $base-font-size * 2;
+	// width: fit-content;
+	// margin-top: 10px;
+	// margin-right: 60px;
+	// margin-left: auto;
+	line-height: 54px;
+	float: right;
+	padding: 11px;
+	// margin: 10px;
+	transition: 0.3s cubic-bezier(0.4, 0.03, 0, 1);
+
+	label,
+	.circle {
+		border-radius: 25px;
+	}
+
+	label {
+		// display: block;
+		// background-color: rgba(120, 120, 120, 0.15);
+		cursor: pointer;
+	}
+
+	// .toggle {
+	// position: absolute;
+	// width: 50%;
+	// height: 100%;
+	// background-color: #fff;
+	// box-shadow: 0 2px 15px rgba(0, 0, 0, 0.15);
+	// transition: transform 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+	// }
+
+	.circle {
+		font-size: 30px;
+		font-weight: bolder;
+		position: relative;
+		display: flex;
+		justify-content: center;
+		user-select: none;
+	}
+
+	.circle {
+		padding: 5px;
+	}
+
+	.dark {
+		display: none;
+		font-size: 20px;
+		// color: white;
+	}
+
+	.circle:hover {
+		background-color: rgba(120, 120, 120, 0.15);
+	}
+
+	p {
+		// color: #acacac;
+		margin-bottom: 0;
+		line-height: 24px;
+	}
+
+	[type="checkbox"] {
+		display: none;
+	}
+	/* Toggle */
+
+	[type="checkbox"]:checked ~ label .circle {
+		color: white;
+	}
+
+	[type="checkbox"]:checked ~ label .circle:hover {
+		background-color: rgba(187, 185, 185, 0.342);
+
+		// border: 1px white solid;
+		// background-color: rgba(187, 185, 185, 0.15);
+	}
+
+	[type="checkbox"]:checked ~ label .dark {
+		display: inline;
+	}
+
+	[type="checkbox"]:checked ~ label .light {
+		display: none;
+	}
+
+	@include media-query(1024px) {
+		// margin-right: 35px;
+	}
+
+	@include media-query($on-palm) {
+		// width: $base-font-size * 6.65;
+		margin-right: 35px;
+	}
+}

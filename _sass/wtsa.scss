@@ -1,10 +1,25 @@
 // * General -------------------------------------------------------------------
+
+#site {
+	overflow-y: hidden;
+}
+
 logo > img {
 	vertical-align: bottom;
+	height: 50px;
 }
 
 .site-header {
 	border-top: 0px;
+}
+@media screen and (max-width: 600px) {
+	.site-nav {
+		background-color: transparent;
+	}
+}
+
+main {
+	transition: 0.8s;
 }
 
 blockquote {
