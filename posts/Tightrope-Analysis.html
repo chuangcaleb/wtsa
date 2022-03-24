@@ -34,24 +34,129 @@
 <body><header class="site-header" role="banner">
 
 	<div class="wrapper"><a class="site-title" rel="author" href="/wtsa/">
-			<logo><img src="/wtsa/assets/img/wtsa-logo.jpg" alt="LOGO"></logo>whatsthestoryabout
-		</a><nav class="site-nav">
-		  <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-		  <label for="nav-trigger">
-			<span class="menu-icon">
-			  <svg viewBox="0 0 18 15" width="18px" height="15px">
-				<path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-			  </svg>
-			</span>
-		  </label><div class="trigger"><a class="page-link" href="/wtsa/about"
+			<logo><img src="/wtsa/assets/img/wtsa-logo-alpha.png" alt="LOGO"></logo>
+			whatsthestoryabout
+			<!-- <logo><img src="/wtsa/assets/img/wtsa-logo.jpg" alt="LOGO"></logo>whatsthestoryabout -->
+		</a>
+
+		<nav class="site-nav">
+			<input type="checkbox" id="nav-trigger" class="nav-trigger" />
+			<label for="nav-trigger">
+				<span class="menu-icon">
+					<svg viewBox="0 0 18 15" width="18px" height="15px">
+						<path
+							d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z" />
+					</svg>
+				</span>
+			</label><div class="trigger"><a class="page-link" href="/wtsa/about"
 		>about</a
 	><a class="page-link" href="/wtsa/browse"
 		>browse</a
 	><a class="page-link" href="https://linktr.ee/wtstorya">linktree</a>
 </div>
-</nav></div>
-</header>
-  <main class="page-content" aria-label="Content">
+</nav><!-- stolen from: https://github.com/jeffreytse/jekyll-theme-yat -->
+
+<div class="theme-toggle">
+	<input type="checkbox" id="theme-switch" />
+	<label for="theme-switch">
+		<!-- <div class="toggle"></div> -->
+		<cicle class="circle">
+			<p class="light">☼</p>
+			<p class="dark">☾</p>
+		</cicle>
+	</label>
+</div><script>
+	(function () {
+		var sw = document.getElementById("theme-switch");
+		var html = document.getElementsByTagName("html")[0];
+		var nightModeOption = ("" || "auto").toLowerCase();
+		var storage = nightModeOption === "manual" ? localStorage : sessionStorage;
+		var themeData = loadThemeData();
+
+		function saveThemeData(data) {
+			storage.setItem("theme", JSON.stringify(data));
+		}
+
+		function loadThemeData() {
+			var data = storage.getItem("theme");
+			try {
+				data = JSON.parse(data ? data : "");
+			} catch (e) {
+				data = { nightShift: undefined, autoToggleAt: 0 };
+				saveThemeData(data);
+			}
+			return data;
+		}
+
+		function handleThemeToggle(nightShift) {
+			themeData.nightShift = nightShift;
+			saveThemeData(themeData);
+			html.dataset.theme = nightShift ? "dark" : "light";
+			setTimeout(function () {
+				sw.checked = nightShift ? true : false;
+			}, 50);
+		}
+
+		function autoThemeToggle() {
+			// Next time point of theme toggle
+			var now = new Date();
+			var toggleAt = new Date();
+			var hours = now.getHours();
+			var nightShift = hours >= 19 || hours <= 7;
+
+			if (nightShift) {
+				if (hours > 7) {
+					toggleAt.setDate(toggleAt.getDate() + 1);
+				}
+				toggleAt.setHours(7);
+			} else {
+				toggleAt.setHours(19);
+			}
+
+			toggleAt.setMinutes(0);
+			toggleAt.setSeconds(0);
+			toggleAt.setMilliseconds(0);
+
+			var delay = toggleAt.getTime() - now.getTime();
+
+			// auto toggle theme mode
+			setTimeout(function () {
+				handleThemeToggle(!nightShift);
+			}, delay);
+
+			return {
+				nightShift: nightShift,
+				toggleAt: toggleAt.getTime(),
+			};
+		}
+
+		// Listen the theme toggle event
+		sw.addEventListener("change", function (event) {
+			handleThemeToggle(event.target.checked);
+		});
+
+		if (nightModeOption == "auto") {
+			var data = autoThemeToggle();
+
+			// Toggle theme by local setting
+			if (data.toggleAt > themeData.autoToggleAt) {
+				themeData.autoToggleAt = data.toggleAt;
+				handleThemeToggle(data.nightShift);
+			} else {
+				handleThemeToggle(themeData.nightShift);
+			}
+		} else if (nightModeOption == "manual") {
+			handleThemeToggle(themeData.nightShift);
+		} else {
+			var nightShift = themeData.nightShift;
+			if (nightShift === undefined) {
+				nightShift = nightModeOption === "on";
+			}
+			handleThemeToggle(nightShift);
+		}
+	})();
+</script></div>
+</header><main class="page-content" aria-label="Content">
       <div class="wrapper">
         <article
 	class="post h-entry"
@@ -587,25 +692,26 @@
 
       </div>
     </main><footer class="site-footer h-card">
-  <data class="u-url" href="/wtsa/"></data>
+  <data class="u-url" href="/wtsa/%20/"></data>
 
   <div class="wrapper">
 
-  <span class="footer-heading">
-    <a rel="author" href="/wtsa/">
-      <logo>
-        <img src="/wtsa/assets/img/wtsa-logo.jpg" alt="LOGO" style="height:25px; object-fit: fill;">
-      </logo>whatsthestoryabout
-    </a> 
-  </span><nav class="site-nav">
-    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-    <label for="nav-trigger">
-    <span class="menu-icon">
-      <svg viewBox="0 0 18 15" width="18px" height="15px">
-      <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-      </svg>
-    </span>
-    </label><div class="trigger"><a class="page-link" href="/wtsa/about"
+    <span class="footer-heading">
+      <a rel="author" href="/wtsa/">
+        <logo>
+          <img src="/wtsa/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
+        </logo>whatsthestoryabout
+      </a>
+    </span><nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path
+              d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z" />
+          </svg>
+        </span>
+      </label><div class="trigger"><a class="page-link" href="/wtsa/about"
 		>about</a
 	><a class="page-link" href="/wtsa/browse"
 		>browse</a
@@ -650,7 +756,6 @@
 
   </div>
 
-</footer>
-</body>
+</footer></body>
 
 </html>
