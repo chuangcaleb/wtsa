@@ -3,8 +3,8 @@
 	<div class="wrapper">
 		{%- assign page_paths = site.header_pages | default: default_paths -%}
 
-		<a class="site-title" rel="author" href="{{ " /" | relative_url }}">
-			<logo><img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO"></logo>{{site.title| escape }}
+		<a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+			<logo><img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO"></logo><span>{{site.title| escape }}</span>
 			<!-- <logo><img src="{{site.baseurl}}/assets/img/wtsa-logo.jpg" alt="LOGO"></logo>{{site.title| escape }} -->
 		</a>
 
