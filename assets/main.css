@@ -396,13 +396,11 @@ pre { padding: 10px 25%; border: 0px; }
 
 @media screen and (max-width: 800px) { html[data-theme="dark"][data-scroll-status="top"] header.site-header-transparent.site-header .page-link { color: #f8f8f8; } }
 
-html[data-theme="dark"][data-scroll-status="top"] footer.site-footer .site-footer-inner { border-top: solid 1px #2f2f2f !important; transition: 0s; }
+html[data-theme="dark"][data-scroll-status="top"] footer.site-footer .site-footer-inner { transition: 0s; }
 
-html[data-theme="dark"] body { color: #c7c1c1; background-color: #1c1f2b; }
+html[data-theme="dark"] main.page-content { color: #c7c1c1; background-color: #1c1f2b; }
 
 html[data-theme="dark"] main a { color: #61afef; }
-
-html[data-theme="dark"] main a:visited { color: #3f6ac7; }
 
 html[data-theme="dark"] h1, html[data-theme="dark"] h2, html[data-theme="dark"] h3, html[data-theme="dark"] h4, html[data-theme="dark"] h5, html[data-theme="dark"] h6, html[data-theme="dark"] .site-title { color: #fff; }
 
