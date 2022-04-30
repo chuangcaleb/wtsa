@@ -1,7 +1,9 @@
 $dark-background-color: #1c1f2b !default;
+// $dark-background-color: rgb(28, 33, 38) !default;
 // $dark-background-color: #272b34 !default;
 // $dark-background-color: #000 !default;
 $dark-background-alt-color: #0c1120 !default;
+// $dark-background-alt-color:rgb(36, 43, 50) !default;
 // $dark-background-alt-color: #1a1e24 !default;
 $dark-text-color: rgb(199, 193, 193) !default;
 
@@ -19,24 +21,25 @@ html[data-theme="dark"] {
 
 		footer.site-footer {
 			.site-footer-inner {
-				border-top: solid 1px #2f2f2f !important;
+				// border-top: solid 1px #2f2f2f !important;
 				transition: 0s;
 			}
 		}
 	}
 
-	body {
+	main.page-content {
 		color: $dark-text-color;
 		background-color: $dark-background-color;
 	}
 
 	main {
 		a {
+			// color: rgb(140, 178, 228);
 			color: #61afef;
 		}
-		a:visited {
-			color: rgb(63, 106, 199);
-		}
+		// a:visited {
+		// 	color: rgb(79, 117, 199);
+		// }
 	}
 
 	h1,
