@@ -5,7 +5,8 @@ $dark-background-color: #1c1f2b !default;
 $dark-background-alt-color: #0c1120 !default;
 // $dark-background-alt-color:rgb(36, 43, 50) !default;
 // $dark-background-alt-color: #1a1e24 !default;
-$dark-text-color: rgb(199, 193, 193) !default;
+$dark-text-color: rgb(216, 215, 215) !default;
+// $dark-text-color: rgb(199, 193, 193) !default;
 
 html[data-theme="dark"] {
 	&[data-scroll-status="top"] {
@@ -73,6 +74,10 @@ html[data-theme="dark"] {
 		color: $dark-text-color;
 		border: 1px solid #3d4047;
 		border-left: 4px solid #3d4047;
+	}
+
+	strong {
+		color: white;
 	}
 
 	.site-header,
