@@ -11,7 +11,7 @@ So this is the final-finale post of this five-month series. Just a reflection of
 
 ## Quick Review
 
-As a quick overall review: I loved it. It got a bit tiring at times, but never boring. Every song and scene spun on a whole new different meaning for me now. [[Never Enough – Analysis|Never Enough]] became a love song about being always satisfied, [[This is Me – Analysis|This is Me]] became a song that is not meant to be sung alone.
+As a quick overall review: writing the series was a great experience. It got a bit tiring at times, but never boring. Every song and scene spun on a whole new different meaning for me now. [[Never Enough – Analysis|Never Enough]] went from a desperate plea to a content love song, [[This is Me – Analysis|This is Me]] became a song to sing together with others.
 
 It was also like playing connect-the-dots. It seemed like every element, whether a prop or a harmonic interval, never existed in a void, but rather existed purposefully to reinforce a theme, or even create a new dimension to it. Patterns were littered throughout and it was only a matter of digging them up and fixing the jigsaw.
 
