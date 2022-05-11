@@ -8,7 +8,7 @@ banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
 banner_y: 0.444
 ---
 
-A friend had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss.
+A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss.
 
 <!--more-->
 
@@ -19,7 +19,7 @@ The very first thing that really struck a chord, was seeing my own culture in a 
 
 > 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
 
-## Things I'd Tweak
+## Things I'd Tweak 🔧
 
 ### 1. The solution in the climax
 
@@ -31,17 +31,17 @@ And it's shown to work — two broken people sing to, encourage and advise each 
 
 I guess that's a good message. Two broken people helping each other up.
 
-But I believe that the climax can be even more powerful. Let's review the thematic statement of the show:
+But I believe that the climax can be even more powerful. Let's review the thematic statement of the show: *you can move on from the pain of the loved ones you lost, by accepting the love that new people are pouring into you.*
 
-> You can move on from the pain of the loved ones you lost, by accepting the love that new people pour into you.
+> **You can move on from the pain of the loved ones you lost, by accepting the love that new people are pouring into you.**
 
-This is the ultimate climax arc that both Fei Fei and Chang'e have to learn and to grow as characters. Both Houyi and Fei Fei's mom have passed, and both Chang'e and Fei Fei rejected and pushed away the (annoying, at first) new people that offered love to them: Gobi and Chin.
+*This* is the ultimate climax arc that both Fei Fei and Chang'e have to learn and to grow as characters. Both Houyi and Fei Fei's mom have passed, and both Chang'e and Fei Fei rejected and pushed away the (annoying, at first) new people that offered love to them: Gobi and Chin.
 
-But, *I felt* that this isn't clearly shown in the climax — there wasn't a climactic moment that *proved* that the entrance of a new love had made any impactful difference in their lives. For me at least, I believe that **Gobi and Chin should have been the catalyst for Fei Fei's and Chang'e's climactic moment.**
+But, *I felt* that this isn't clearly shown in the climax — there wasn't a climactic moment that *proved* that the entrance of a new love had made any impactful difference in their lives. For me at least, I believe that **`Gobi and Chin should have been the catalyst for Fei Fei's and Chang'e's climactic moment.`**
 
 > Gobi and Chin should have been the catalyst for Fei Fei's and Chang'e's climactic moment, not themselves.
 
-**`Imagine a different sequence of events`** for the story leading up to the climax — yet not so different because the story already seems to lean this way…
+**Imagine a different sequence of events** for the story leading up to the climax — yet not so different because the story already seems to lean this way…
 
 #### 1a. Gobi's song
 
@@ -71,15 +71,20 @@ One major attribute of Gobi's character is his relationship to Chang'e's, but th
 
 Why don't we get to see this important idea and character revisited?
 
-**Imagine the climax:** Chang'e slips into depression (it is what it is at this point), and so does Fei Fei. `Fei Fei recovers first, but can't talk Chang'e into recovering: Chang'e says that Fei Fei is younger and more innocent, while Chang'e herself is way too scarred and broken and tired to come out of depression again. Nothing Fei Fei says budges the celestial entity.`
+→ **Imagine the climax:** Chang'e slips into depression (it is what it is at this point), and so does Fei Fei. `Fei Fei recovers first, but can't talk Chang'e into recovering: Chang'e says that Fei Fei is younger and more innocent, while Chang'e herself is way too scarred and broken and tired to come out of depression again. Nothing Fei Fei says budges the celestial entity.`
 
 `Then: Fei Fei realizes, maybe there's something she can sing.`
 
-```screenplay-edited
+```screenplay
+SEQUENCE 2800 - CHAMBER OF EXQUISITE SADNESS
+
+[...]
+
 CHANG’E
 You can’t stay here. You’ll only
 end up lonely for all eternity, like me.
-
+```
+```screenplay-edited
 Fei Fei shakes her head in saddened disbelief. She softens.
 
 FEI FEI
@@ -97,7 +102,7 @@ CHANG'E
 That song... WHY ARE YOU SINGING THIS SONG?!?!
 ```
 
-`It's` ~~`Marthaaaa`~~ `Gobi's song. It serves as an introduction to the actual climactic song, Love Someone New. It builds and builds.`
+`It's` ~~`MARTHAAA!!`~~ `Gobi's song. It serves as an introduction to the actual climactic song,` *`Love Someone New.`*  `It builds and builds.`
 
 `Then, another voice joins in harmony: Gobi floats into the scene. Seeing him return with open arms despite getting exiled by her, causes Chang'e to finally break, and let down her walls, eventually dissolving the Chamber of Exquisite Sadness.`
 
@@ -111,15 +116,15 @@ In the climactic moment, Fei Fei and Chang'e sing to each other and pull each ot
 
 But, I can't help but feel that Chin's involvement in the climax was not as powerful as it could've been, because *his appearance doesn't do anything for the plot development*. Chang'e, now rehabilitated, should be perfectly able to get them out of the Chamber as she did last time. 
 
-While there is a *meaningful* reason for Chin to enter the scene now, there is really no *practical* reason. It's as if he's just there for show. Same with Gobi.
+While there is a *meaningful* payoff/callback for Chin to enter the scene now, there is really no *practical* plot-related contribution. It's as if he's just there *for show*. Same with Gobi. They don't need to be there.
 
-**What if** we rearrange plot beats so that, instead of each other, `Chin is the one who starts singing the climactic song to Fei Fei.`
+**What if** we rearrange plot beats so that, instead of Fei Fei and Chang'e singing the song to each other: **`Chin is the one who starts singing the climactic song to Fei Fei.`**
 
 Usual sequence of events, Chang'e gets stuck, Fei Fei goes in and gets stuck too. `Perhaps Fei Fei tries singing Gobi's song. There's a little glimmer of hope, because that's the powerful song, right? Nope. They cannot get each other out. They're STUCK.`
 
 On the other side of the barrier, all hope is lost. Bungee uses her newfound purple electric magic ear superpowers, but she rebounds back, proving we need something stronger than magic to break the barrier.
 
-`It is only then, Chin starts softly singing Gobi's song. Not pitch perfect, but soulful.` 
+`It is only then, Chin starts softly singing Gobi's song. Not pitch perfect, but perfectly soulful.` 
 
 ```screenplay-edited
 CHIN
@@ -129,17 +134,17 @@ AND HOLD YOUR MEMORIES TIGHT TO YOU
 YEAH, ME TOO -
 ```
 
-`How does Chin know the words? The song builds slowly. Fei Fei is curled up, numbly facing away, but she starts to stir at Chin's faint, distant voice. She wrestles with her inner thoughts, squirming in space, getting stronger the more Chin sings. Suddenly, she breaks free from some powerful crumpling force, and cries as she outstretches herself.`
+`How does Chin know the words? Anyways, the song builds slowly. Fei Fei is curled up, numbly facing away, but she starts to stir at Chin's faint, distant voice. She wrestles with her inner thoughts, squirming in space, getting stronger the more Chin sings. Suddenly, the powerful crumpling force is slowly overcome, and she cries as she struggles to outstretches herself.`
 
-`The first chorus ends in a hurrah, and Chin steps back, and with a warcry he headbutts through and shatters the impenetrable barrier.` Chin literally breaks through the wall of depression.
+`The first chorus ends in a hurrah` — **Chin steps back, and with a warcry he headbutts through and shatters the impenetrable barrier.** Chin literally breaks through the wall of depression.
 
-`He swims over to Fei Fei, continues singing, and Chin is the one who calls her awake from her spell. Fei Fei exclaims, "You saved me!" Then, Fei Fei goes over and wrestles for Chang'e and she breaks free`, and everything goes on as normal from here.
+`He swims over to Fei Fei and continues singing`. **Chin is the one who calls her awake from her spell.** Fei Fei exclaims, "You saved me!" Then, Fei Fei goes over and wrestles  similarly for Chang'e, breaking her free too, and everything goes on as normal from here.
 
-This is amazing, because Chin becomes the most important focal main character in the climax, because without his intervention, they would've been stuck in the Chamber forever. His subplot now has weight, if not carrying the climax. And it can, and it should, as it further cements the idea that Fei Fei has to move on let in someone new into her life after her loss.
+This is amazing, because Chin becomes the most important focal main character in the climax. Without his intervention, they would've been stuck in the Chamber forever. His subplot now has weight, if not carrying the climax. And it can, and it should, as **it further cements the idea that Fei Fei has to move on let in someone new into her life after her loss.**
 
-Furthermore… it hints to the subtext that Chin himself has also lost a parent. His mom, intentionally named as Mrs. Zhong, is obviously single after carrying her husband's surname, as implied by her "Mrs." prefix. Is she widowed too? Perhaps divorced? Separated? Absent? Disappeared?
+Furthermore… it hints to the subtext that Chin himself has also lost a parent. His mom, intentionally named as *Mrs.* Zhong, is obviously single after carrying her husband's surname, as implied by her "Mrs." prefix. Is she widowed too? Perhaps divorced? Separated? Absent? Disappeared?
 
-Either ways. I always thought it was such a powerful choice for the subtext that Chin would be in the same situation as Fei Fei (a stepbrother would have to be in the same situation; but I guess, the decision to have him be very prominent in plot) and had actually himself gone through the whole process of being in his own "Chamber" too, curling up afraid, holding tightly onto those past memories as well. 
+Either ways. I always thought it was such a powerful choice for the subtext that Chin would be in the same situation as Fei Fei (a stepbrother, by very nature, has to have a missing parent; but I guess, the decision to have him be very prominent in plot). There's subtext that he had actually himself gone through the whole process of being in his own "Chamber" too, curling up afraid, holding tightly onto those past memories as well. 
 
 As he sings these words, he understands full well the weight behind them, even if in a simpler 8-year-old way. He knows. Despite being younger, he has already somehow accepted the loss of his father, and now is ready to teach and love Fei Fei, since he knows exactly what she is going through and what she needs. She needs to love someone new.
 
@@ -171,7 +176,7 @@ Then after two years, Fei Fei is about take off before the Festival and Mrs. Chi
 
 ---
 
-## Things I Liked
+## Things I Liked ❤️
 
 ### Grounded internal conflict
 
@@ -209,7 +214,5 @@ And then Bungee uses her purple electric magic ear powers, proving that you even
 Leaving Bungee behind was Fei Fei's final test on whether she could move on or not
 
 ---
-
-I thought they might want to introduce reviving Fei Fei's mom.
 
 I found a source that provides the [script here](https://deadline.com/2021/03/over-the-moon-screenplay-read-audrey-wells-script-1234708864/).

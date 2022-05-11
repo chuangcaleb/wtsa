@@ -61,7 +61,7 @@ html[data-theme="dark"] {
 	blockquote {
 		color: $dark-text-color;
 		border: 1px solid #3d4047;
-		border-left: 4px solid #3d4047;
+		border-left: 8px solid #3d4047;
 	}
 
 	strong {
@@ -186,4 +186,14 @@ html[data-theme="dark"] {
 	logo {
 		filter: invert(100%);
 	}
+
+	pre {
+		background-color: #282c3e;
+
+		code {
+			color: white;
+			background-color: transparent;
+		}
+	}
+
 }

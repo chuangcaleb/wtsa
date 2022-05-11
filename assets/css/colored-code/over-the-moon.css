@@ -3,6 +3,18 @@ code.language-plaintext.highlighter-rouge {
 	background-color: initial;
 }
 
+/* One without pre, for the obsidian version */
+html code.language-screenplay-edited,
 html pre code.language-screenplay-edited {
 	color: #65ab99;
 }
+
+strong code {
+	text-decoration: underline;
+}
+
+/* p:has(strong code) {
+	border-left: 4px solid #65ab99;
+	padding-left: 10px;
+	border-radius: 5px;
+} */
