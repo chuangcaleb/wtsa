@@ -3,6 +3,6 @@ code.language-plaintext.highlighter-rouge {
 	background-color: initial;
 }
 
-code.language-screenplay-edited {
+html pre code.language-screenplay-edited {
 	color: #65ab99;
 }
