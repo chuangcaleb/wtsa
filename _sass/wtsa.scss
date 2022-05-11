@@ -9,6 +9,10 @@ logo > img {
 	height: 50px;
 }
 
+logo {
+	transition: 3s;
+}
+
 .site-header {
 	border-top: 0px;
 
@@ -34,8 +38,8 @@ logo > img {
 	margin-right: 15px;
 }
 
-main {
-	transition: 0.8s;
+main, footer {
+	transition: 2s;
 }
 
 blockquote {
