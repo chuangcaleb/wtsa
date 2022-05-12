@@ -1,7 +1,7 @@
 ---
 aliases: Rewrite the Stars
 category: The Greatest Showman Series
-custom_css: showman
+cssclass: showman
 date: 2020-02-21
 ---
 
@@ -83,7 +83,7 @@ In this song we see how strongly Barnum’s influence has been on Philip since T
 
 **Maybe the world could be ours**
 
-> A world that’s not waiting up *for me*, but **for us**
+> A world that’s not waiting up _for me_, but **for us**
 
 **Tonight**
 
@@ -103,7 +103,7 @@ In this song we see how strongly Barnum’s influence has been on Philip since T
 
 > You **run** with me, and I can cut you free~
 
-> Whereas Philip denied his desires in The Other Side, now in this song we explore this idea further: Anne says she definitely wants to — but can’t. 
+> Whereas Philip denied his desires in The Other Side, now in this song we explore this idea further: Anne says she definitely wants to — but can’t.
 
 **But there are mountains**
 
@@ -133,11 +133,11 @@ In this song we see how strongly Barnum’s influence has been on Philip since T
 
 **You're gonna wake up and see that it was hopeless after all**
 
-> ...reality strikes. 
-> 
+> ...reality strikes.
+>
 > But that’s the thing: the reality is that a home is the most certain hope you can place your hope in
 
-> V: Philip drops: he doesn’t fall *with her*, as they would later sing in the bridge
+> V: Philip drops: he doesn’t fall _with her_, as they would later sing in the bridge
 
 <br>
 
@@ -255,7 +255,7 @@ In this song we see how strongly Barnum’s influence has been on Philip since T
 
 **My hands are tied**
 
-> 1.  I had an epiphany: it’s a reference to how in that time, blacks were slaves
+> 1. I had an epiphany: it’s a reference to how in that time, blacks were slaves
 
 > 2. Earlier, Philip had said <span style="text-decoration:underline;">their</span> hands were tied. Here, Anne says it’s only <span style="text-decoration:underline;">hers</span>.
 
@@ -307,16 +307,16 @@ In this song we see how strongly Barnum’s influence has been on Philip since T
 
 Duets & Preaching
 
-- [[A Million Dreams – Analysis|A Million Dreams]] was a **complementary** duet: 
-	- Barnum’s and Charity’s goals of a runaway life were (seemingly) aligned (but not really)
-- [[The Other Side – Analysis|The Other Side]] was an **oppository** duet: 
-	- Barnum and Philip mock and call each other to come to their own side (but they really wanted what the other person had)
+- [[A Million Dreams – Analysis|A Million Dreams]] was a **complementary** duet:
+  - Barnum’s and Charity’s goals of a runaway life were (seemingly) aligned (but not really)
+- [[The Other Side – Analysis|The Other Side]] was an **oppository** duet:
+  - Barnum and Philip mock and call each other to come to their own side (but they really wanted what the other person had)
 - Rewrite The Stars is interesting.
-	- For the first time, both characters have the exact same honest goals!
+  - For the first time, both characters have the exact same honest goals!
 - The first two-thirds are a debate like The Other Side, but its final third sends us on the final third of A Million Dreams, from the bridge onwards.
 - This is no coincidence: Philip dreamcasting onto Anne is a mirror of Barnum dreamcasting onto Charity in A Million Dreams. Except, Anne says she has less freedom of choice than Charity because she’s not rich nor white.
 - Additionally, where Barnum was selling the dream to Philip in The Other Side, it is now Philip who sells the dream to Anne.
-- But, instead of Barnum, the preacher, winning in the end, this duet is the only one where the preacher fails. 
+- But, instead of Barnum, the preacher, winning in the end, this duet is the only one where the preacher fails.
 - _Each duet keeps subverting expectations from the previous one._
 
 They
@@ -338,9 +338,9 @@ Discipleship
 
 ### What’s the name about?
 
-What does “rewrite” imply? 
+What does “rewrite” imply?
 
-What do stars represent? 
+What do stars represent?
 
 What is “written in the stars” for Philip, Anne, Barnum, Charity, their children, Jenny, the circus Oddities?
 

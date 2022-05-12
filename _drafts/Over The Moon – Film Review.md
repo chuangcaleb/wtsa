@@ -3,7 +3,7 @@ title: "Over The Moon – Film Review"
 category: Film Reviews
 date: 2022-01-29
 aliases: Over the Moon
-custom_css: colored-code/over-the-moon
+cssclass: colored-code/over-the-moon
 banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
 banner_y: 0.444
 ---
@@ -11,7 +11,6 @@ banner_y: 0.444
 A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss.
 
 <!--more-->
-
 
 We watched it while in quarantine isolation, right before New Year's.
 
@@ -84,6 +83,7 @@ CHANG’E
 You can’t stay here. You’ll only
 end up lonely for all eternity, like me.
 ```
+
 ```screenplay-edited
 Fei Fei shakes her head in saddened disbelief. She softens.
 
@@ -114,7 +114,7 @@ After Fei Fei and Chang'e have gotten themselves stuck in the Chamber of Exquisi
 
 In the climactic moment, Fei Fei and Chang'e sing to each other and pull each other out. They're perfectly happy and their climaxes have been resolved in a tidy bow. Now that they have overcome The Big Sad™, Chin roars, "NO BARRIERS!!!", and breaks the impenetrable barrier and reunites with Fei Fei.
 
-But, I can't help but feel that Chin's involvement in the climax was not as powerful as it could've been, because *his appearance doesn't do anything for the plot development*. Chang'e, now rehabilitated, should be perfectly able to get them out of the Chamber as she did last time. 
+But, I can't help but feel that Chin's involvement in the climax was not as powerful as it could've been, because *his appearance doesn't do anything for the plot development*. Chang'e, now rehabilitated, should be perfectly able to get them out of the Chamber as she did last time.
 
 While there is a *meaningful* payoff/callback for Chin to enter the scene now, there is really no *practical* plot-related contribution. It's as if he's just there *for show*. Same with Gobi. They don't need to be there.
 
@@ -124,7 +124,7 @@ Usual sequence of events, Chang'e gets stuck, Fei Fei goes in and gets stuck too
 
 On the other side of the barrier, all hope is lost. Bungee uses her newfound purple electric magic ear superpowers, but she rebounds back, proving we need something stronger than magic to break the barrier.
 
-`It is only then, Chin starts softly singing Gobi's song. Not pitch perfect, but perfectly soulful.` 
+`It is only then, Chin starts softly singing Gobi's song. Not pitch perfect, but perfectly soulful.`
 
 ```screenplay-edited
 CHIN
@@ -144,7 +144,7 @@ This is amazing, because Chin becomes the most important focal main character in
 
 Furthermore… it hints to the subtext that Chin himself has also lost a parent. His mom, intentionally named as *Mrs.* Zhong, is obviously single after carrying her husband's surname, as implied by her "Mrs." prefix. Is she widowed too? Perhaps divorced? Separated? Absent? Disappeared?
 
-Either ways. I always thought it was such a powerful choice for the subtext that Chin would be in the same situation as Fei Fei (a stepbrother, by very nature, has to have a missing parent; but I guess, the decision to have him be very prominent in plot). There's subtext that he had actually himself gone through the whole process of being in his own "Chamber" too, curling up afraid, holding tightly onto those past memories as well. 
+Either ways. I always thought it was such a powerful choice for the subtext that Chin would be in the same situation as Fei Fei (a stepbrother, by very nature, has to have a missing parent; but I guess, the decision to have him be very prominent in plot). There's subtext that he had actually himself gone through the whole process of being in his own "Chamber" too, curling up afraid, holding tightly onto those past memories as well.
 
 As he sings these words, he understands full well the weight behind them, even if in a simpler 8-year-old way. He knows. Despite being younger, he has already somehow accepted the loss of his father, and now is ready to teach and love Fei Fei, since he knows exactly what she is going through and what she needs. She needs to love someone new.
 
@@ -204,10 +204,9 @@ Fei Fei defends Chang'e from her aunties, when really the subtext is that she's 
 
 ### Consistency and depth with Chin
 
-Already from the First Act, we've been foreshadowing Chin breaking through impenetrable barriers. 
+Already from the First Act, we've been foreshadowing Chin breaking through impenetrable barriers.
 
 And then Bungee uses her purple electric magic ear powers, proving that you even magical power isn't strong enough — and proving that Chin's love is stronger than magic.
-
 
 ### Losing Bungee
 
