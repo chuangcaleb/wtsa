@@ -96,10 +96,8 @@ html {
 	ol,
 	p,
 	table,
-	ul, 
 	blockquote {
 		margin-top: 0;
-		// margin-bottom: 0.85em;
 		margin-bottom: 1.5em;
 	}
 
@@ -248,7 +246,7 @@ iframe {
 }
 @media only screen and (min-width: 1300px) {
 	#table-of-contents {
-		right: 4.5%;
+		right: 6%;
 		float: right;
 		position: fixed;
 		top: 90px;
