@@ -1,19 +1,11 @@
 <p class="post-meta">
 	Published on:
-	<time
-		class="dt-published"
-		datetime="{{ page.date | date_to_xmlschema }}"
-		itemprop="datePublished"
-	>
+	<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 		{%- assign date_format = site.minima.date_format | default: "%-d %b %Y"-%}
 		{{ page.date | date: date_format }}
 	</time>
 	&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Last modified:
-	<time
-		class="dt-modified"
-		datetime="{{ page.last_modified_at | date_to_xmlschema }}"
-		itemprop="dateModified"
-	>
+	<time class="dt-modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
 		{{ page.last_modified_at | date: '%d %b %Y' }}
 	</time>
 	{%- if page.author -%}
@@ -23,10 +15,7 @@
 	{%- endif -%} {%- if page.categories -%}
 	<br />
 	Category:
-	<a
-		class="category-link"
-		href="{{ page.category | replace: ' ', '-'  | relative_url }}"
-	>
+	<a class="category-link" href="{{ page.category | replace: ' ', '-'  | relative_url }}">
 		{{ page.category | escape }}
 	</a>
 	{% assign category = page.categories[0] %} {% assign posts = site.poosts |

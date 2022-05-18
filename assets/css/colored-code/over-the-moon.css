@@ -4,7 +4,6 @@ code.language-plaintext.highlighter-rouge {
 }
 
 /* One without pre, for the obsidian version */
-html code.language-screenplay-edited,
 html pre code.language-screenplay-edited {
 	color: #65ab99;
 }
