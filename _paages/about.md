@@ -1,7 +1,7 @@
 ---
 ---
 
-# about
+# About
 
 ## What's *whatsthestoryabout* about?
 
