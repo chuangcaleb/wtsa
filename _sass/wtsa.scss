@@ -26,6 +26,10 @@ logo {
 	// 	a:not(:hover) {
 	// 		opacity: 0.6;
 	// 	}
+	.trigger {
+		background-color: white;
+		// z-index: -10;
+	}
 }
 
 @media screen and (max-width: 600px) {
