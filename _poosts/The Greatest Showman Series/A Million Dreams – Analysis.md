@@ -1,7 +1,7 @@
 ---
 aliases: A Million Dreams
 category: The Greatest Showman Series
-cssclass: showman
+jekyllcss: showman
 date: 2019-11-8
 ---
 

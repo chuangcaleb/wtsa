@@ -1,7 +1,7 @@
 ---
 aliases: The Other Side
 category: The Greatest Showman Series
-cssclass: showman
+jekyllcss: showman
 date: 2019-11-29
 ---
 
@@ -79,7 +79,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 **From the same old part you gotta play?**
 
-> Philip Carlyle, a _play_wright, arranges the same, old scripted _plays_ every show
+> Philip Carlyle, a _play_wright, arranges the same, old scripted_plays_ every show
 >
 > Also, being a writer, he never actually “_plays_” any acting part—if anything, he’s a non-player
 

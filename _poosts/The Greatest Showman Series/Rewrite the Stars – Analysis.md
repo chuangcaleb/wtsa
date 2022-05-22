@@ -1,7 +1,7 @@
 ---
 aliases: Rewrite the Stars
 category: The Greatest Showman Series
-cssclass: showman
+jekyllcss: showman
 date: 2020-02-21
 ---
 
