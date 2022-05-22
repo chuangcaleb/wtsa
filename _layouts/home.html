@@ -20,17 +20,16 @@ layout: default
         </a>
         {%- endif -%}
       </span>
-      <hr>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
+      <!-- <h3> -->
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+      <!-- </h3> -->
 
-      {%- if site.show_excerpts -%}
+      <!-- {%- if site.show_excerpts -%}
       {% assign ep = post.excerpt | split: '</h1>' %}
       {{ ep[1] }}
-      {%- endif -%}
+      {%- endif -%} -->
     </li>
     {%- endfor -%}
   </ul>

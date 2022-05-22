@@ -38,7 +38,8 @@ logo {
 	margin-right: 15px;
 }
 
-main, footer {
+main,
+footer {
 	transition: 2s;
 }
 
@@ -68,7 +69,8 @@ html {
 .page-content {
 	line-height: 1.7;
 
-	.page-heading, .post-title {
+	.page-heading,
+	.post-title {
 		font-size: 38px;
 		line-height: 1.5;
 	}
@@ -85,6 +87,7 @@ html {
 		margin-top: 1.275em;
 		margin-bottom: 0.85em;
 		font-weight: 450;
+		position: sticky;
 	}
 
 	h1,
@@ -101,14 +104,14 @@ html {
 		margin-bottom: 1.5em;
 	}
 
-	pre + * {  // sAny page-content element preceding a pre
-		margin-top:1.5em
+	pre + * {
+		// Any page-content element preceding a pre
+		margin-top: 1.5em;
 	}
 
 	pre {
-		margin: 0px !important
+		margin: 0px !important;
 	}
-
 }
 
 article .post-meta {
@@ -223,9 +226,8 @@ iframe {
 }
 .home .post-list li,
 .category .post-list li {
-	border: 1px solid lightgray;
-	border-radius: 10pt;
-	padding: 10px;
+	border-left: 3px solid lightgray;
+	padding-left: 15px;
 }
 
 .post-list {
@@ -314,6 +316,6 @@ pre {
 // 	border: 0px;
 // }
 
-.highlighter-rouge .highlight {
-	background: rgb(238, 238, 248);
-}
+// .highlighter-rouge .highlight {
+// 	background: rgb(238, 238, 248);
+// }
