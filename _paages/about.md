@@ -1,7 +1,7 @@
 ---
 ---
 
-# About
+# ❓ About
 
 ## What's *whatsthestoryabout* about?
 
@@ -9,9 +9,9 @@ Hello there—my name is Caleb!
 
 I'm a final-year student procrastinating his dissertation for his Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/).
 
-## I also really, really love **story**.
+## I also really, really love **story**
 
-Story: books, movies, songs, theatre, musicals. _Narratives_.
+Story: books, movies, songs, theatre, musicals. *Narratives*.
 
 Not so much the [writing style](https://helpingwritersbecomeauthors.com/a-writer-or-a-storyteller/), like grammar, word choice, descriptive language, etc. Though the skill of _conveying information through a medium **efficiently** and **artfully**_ may be part-and-parcel of **story**.
 
@@ -19,13 +19,13 @@ No, I'm more specifically talking about the age-old practice of **storytelling**
 
 > No, I'm more specifically talking about the age-old practice of **storytelling**: _finding **universal truths** of human experience and translating them into **cohesive drama**_.
 
-I believe stories have such a resonant effect on people: they have shaped lives and defined societies. Human history itself is a story being written and told. Story runs in our veins, whether we like it or not, and everything _is_ story.
+I believe stories have such a resonant effect on people: they have shaped lives and defined societies. Human history itself is a story being written and told. Story runs in our veins, whether we like it or not, and everything *is* story.
 
 And after years of searching for my own place, I've finally found something I'm not too bad at: intuitively understanding the interconnected web of story. It's going to change so many lives.
 
 ## Story on paper
 
-People know this about me: after a really interesting movie, I _have_ to discuss the movie with someone. There's so much to evaluate and critique and digest. I needed somewhere to dump my thoughts.
+People know this about me: after a really interesting movie, I *have* to discuss the movie with someone. There's so much to evaluate and critique and digest. I needed somewhere to dump my thoughts.
 
 I tried running [an Instagram account](https://instagram.com/whatsthestoryabout) for a while (a good while!), but I ended up taking more time designing than actually writing out things.
 

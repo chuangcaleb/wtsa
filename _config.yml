@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/wtsa" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: whatsthestoryabout
-github_username:  chuangcaleb
+github_username: chuangcaleb
 
 show_excerpts: true
 
@@ -36,7 +36,7 @@ plugins:
   - jekyll-toc
   - jekyll-wikilinks
   - jekyll-sitemap
-  - jekyll-last-modified-at 
+  - jekyll-last-modified-at
   - jekyll-titles-from-headings
 
 collections:
@@ -99,13 +99,13 @@ defaults:
       sitemap: false
   - scope:
       path: "assets/img"
-    values: 
+    values:
       image: true
 
 # * PLUGINS --------------------------------------------------------------------
 
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true
 
@@ -115,6 +115,5 @@ wikilinks:
   css:
   enabled: true
   exclude: []
-
 # last-modified-at:
 #     date-format: '%d %b %Y'

@@ -2,4 +2,4 @@
 layout: browse
 ---
 
-# Browse
+# Browse Categories

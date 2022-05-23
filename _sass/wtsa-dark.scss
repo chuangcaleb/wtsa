@@ -9,6 +9,9 @@ $dark-text-color: rgb(216, 215, 215) !default;
 // $dark-text-color: rgb(199, 193, 193) !default;
 
 html[data-theme="dark"] {
+	:root {
+		color-scheme: dark;
+	}
 	main.page-content {
 		color: $dark-text-color;
 		background-color: $dark-background-color;

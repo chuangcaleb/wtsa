@@ -4,7 +4,7 @@ layout: default
 
 <div class="category">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">🗂 {{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
@@ -13,26 +13,27 @@ layout: default
   <ul class="post-list">
 
     {%- for page in site.paages-%}
-      {%- if page.layout == "category" -%}
-        <li>
-          
-          <h3>
-            <a class="post-link" href="{{ page.url | relative_url }}">
-              {%- if page.layout == "category" -%}
-                Category:&nbsp
-              {%- endif -%}
-              {{ page.title | escape }} 
-              </a>
-            </h3>
-            {%- if site.show_excerpts -%}
-              {% assign ep = page.excerpt | split: '</h1>' %}
-              {{ ep[1] }}
-          {%- endif -%}
-          </li>
-        {%-endif-%}
-      {%- endfor -%}
-    </ul>
+    {%- if page.layout == "category" -%}
+    <li>
 
-    {% comment %} <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> {% endcomment %}
+      <h3>
+        <a class="post-link" href="{{ page.url | relative_url }}">
+          {%- if page.layout == "category" -%}
+          <!-- Category:&nbsp -->
+          {%- endif -%}
+          {{ page.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+      {% assign ep = page.excerpt | split: '</h1>' %}
+      {{ ep[1] }}
+      {%- endif -%}
+    </li>
+    {%-endif-%}
+    {%- endfor -%}
+  </ul>
+
+  {% comment %} <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p> {%
+  endcomment %}
   {%- endif -%}
 </div>

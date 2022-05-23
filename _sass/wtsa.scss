@@ -26,16 +26,16 @@ logo {
 	// 	a:not(:hover) {
 	// 		opacity: 0.6;
 	// 	}
-	.trigger {
-		background-color: white;
-		// z-index: -10;
-	}
 }
 
 @media screen and (max-width: 600px) {
 	.site-nav {
 		background-color: transparent;
 	}
+	// .trigger {
+	// 	background-color: white;
+	// 	// z-index: -10;
+	// }
 }
 
 .site-nav {
@@ -80,7 +80,7 @@ html {
 	}
 
 	h4 {
-		font-size: 1.5em;
+		font-size: 1.2em;
 	}
 
 	h2,

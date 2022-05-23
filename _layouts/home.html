@@ -7,7 +7,7 @@ layout: default
   {{ content }}
 
   {%- if site.poosts.size > 0 -%}
-  <h1 class="post-list-heading">All Recent Posts</h1>
+  <h1 class="post-list-heading">🔄 All Recent Posts</h1>
   <ul class="post-list">
 
     {%- for post in site.poosts reversed-%}
@@ -34,7 +34,6 @@ layout: default
     {%- endfor -%}
   </ul>
 
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>  -->
   {%- endif -%}
 
 </div>
