@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" /><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Over The Moon – Film Review | whatsthestoryabout</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Over The Moon – Film Review" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Over The Moon – Film Review A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss." />
+<meta property="og:description" content="Over The Moon – Film Review A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss." />
+<link rel="canonical" href="/wtsa/posts/Over-The-Moon-Film-Review" />
+<meta property="og:url" content="/wtsa/posts/Over-The-Moon-Film-Review" />
+<meta property="og:site_name" content="whatsthestoryabout" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-01-29T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Over The Moon – Film Review" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-05-22T21:05:31+01:00","datePublished":"2022-01-29T00:00:00+00:00","description":"Over The Moon – Film Review A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss.","headline":"Over The Moon – Film Review","mainEntityOfPage":{"@type":"WebPage","@id":"/wtsa/posts/Over-The-Moon-Film-Review"},"url":"/wtsa/posts/Over-The-Moon-Film-Review"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/wtsa/assets/main.css">  
+	<link
+		rel="stylesheet"
+		href="/wtsa/assets/css/colored-code/over-the-moon.css"
+	/>
+	 
+	<link
+		rel="shortcut icon"
+		type="image/png"
+		sizes="100x100"
+		href="/wtsa/assets/img/favicon.png"
+	/><link type="application/atom+xml" rel="alternate" href="/wtsa/feed.xml" title="whatsthestoryabout" /></head>
+<body><header class="site-header" role="banner">
+
+	<div class="wrapper"><a class="site-title" rel="author" href="/wtsa/">
+			<logo><img src="/wtsa/assets/img/wtsa-logo-alpha.png" alt="LOGO"></logo>
+			<span>whatsthestoryabout</span>
+			<!-- <logo><img src="/wtsa/assets/img/wtsa-logo.jpg" alt="LOGO"></logo>whatsthestoryabout -->
+		</a><!-- adapted from: https://github.com/jeffreytse/jekyll-theme-yat -->
+
+<div class="theme-toggle">
+	<input type="checkbox" id="theme-switch" />
+	<label for="theme-switch">
+		<!-- <div class="toggle"></div> -->
+		<cicle class="circle">
+			<p class="light">☼</p>
+			<p class="dark">☾</p>
+		</cicle>
+	</label>
+</div><script>
+	(function () {
+		var sw = document.getElementById("theme-switch");
+		var html = document.getElementsByTagName("html")[0];
+		var nightModeOption = ("" || "auto").toLowerCase();
+		var storage = nightModeOption === "manual" ? localStorage : sessionStorage;
+		var themeData = loadThemeData();
+
+		function saveThemeData(data) {
+			storage.setItem("theme", JSON.stringify(data));
+		}
+
+		function loadThemeData() {
+			var data = storage.getItem("theme");
+			try {
+				data = JSON.parse(data ? data : "");
+			} catch (e) {
+				data = { nightShift: undefined, autoToggleAt: 0 };
+				saveThemeData(data);
+			}
+			return data;
+		}
+
+		function handleThemeToggle(nightShift) {
+			themeData.nightShift = nightShift;
+			saveThemeData(themeData);
+			html.dataset.theme = nightShift ? "dark" : "light";
+			setTimeout(function () {
+				sw.checked = nightShift ? true : false;
+			}, 50);
+		}
+
+		function autoThemeToggle() {
+			// Next time point of theme toggle
+			var now = new Date();
+			var toggleAt = new Date();
+			var hours = now.getHours();
+			var nightShift = hours >= 19 || hours <= 7;
+
+			if (nightShift) {
+				if (hours > 7) {
+					toggleAt.setDate(toggleAt.getDate() + 1);
+				}
+				toggleAt.setHours(7);
+			} else {
+				toggleAt.setHours(19);
+			}
+
+			toggleAt.setMinutes(0);
+			toggleAt.setSeconds(0);
+			toggleAt.setMilliseconds(0);
+
+			var delay = toggleAt.getTime() - now.getTime();
+
+			// auto toggle theme mode
+			setTimeout(function () {
+				handleThemeToggle(!nightShift);
+			}, delay);
+
+			return {
+				nightShift: nightShift,
+				toggleAt: toggleAt.getTime(),
+			};
+		}
+
+		// Listen the theme toggle event
+		sw.addEventListener("change", function (event) {
+			handleThemeToggle(event.target.checked);
+		});
+
+		if (nightModeOption == "auto") {
+			var data = autoThemeToggle();
+
+			// Toggle theme by local setting
+			if (data.toggleAt > themeData.autoToggleAt) {
+				themeData.autoToggleAt = data.toggleAt;
+				handleThemeToggle(data.nightShift);
+			} else {
+				handleThemeToggle(themeData.nightShift);
+			}
+		} else if (nightModeOption == "manual") {
+			handleThemeToggle(themeData.nightShift);
+		} else {
+			var nightShift = themeData.nightShift;
+			if (nightShift === undefined) {
+				nightShift = nightModeOption === "on";
+			}
+			handleThemeToggle(nightShift);
+		}
+	})();
+</script><nav class="site-nav">
+			<input type="checkbox" id="nav-trigger" class="nav-trigger" />
+			<label for="nav-trigger">
+				<span class="menu-icon">
+					<svg viewBox="0 0 18 15" width="18px" height="15px">
+						<path
+							d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z" />
+					</svg>
+				</span>
+			</label><div class="trigger"><a class="page-link" href="/wtsa/about">about</a><a class="page-link" href="/wtsa/browse">browse</a><a class="page-link" href="https://linktr.ee/wtstorya">linktree</a>
+</div>
+</nav>
+
+	</div>
+</header><main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="post-header">
+		<h1 class="post-title p-name" itemprop="name headline">
+			Over The Moon – Film Review
+		</h1><p class="post-meta">
+	Published on:
+	<time class="dt-published" datetime="2022-01-29T00:00:00+00:00" itemprop="datePublished">29 Jan 2022
+	</time>
+	&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Last modified:
+	<time class="dt-modified" datetime="2022-05-22T21:05:31+01:00" itemprop="dateModified">
+		22 May 2022
+	</time><br />
+	Category:
+	<a class="category-link" href="/wtsa/Film-Reviews">
+		Film Reviews
+	</a>
+	      
+	<br />&#8672;&nbsp;Previous:
+	<a href="/wtsa/posts/Maleficent-Mistress-of-Evil-Film-Review"> Maleficent: Mistress of Evil – Film Review </a>
+	 </p></header><div id="table-of-contents">
+	<b>Table of contents</b>
+	<ul id="toc" class="section-nav">
+<li class="toc-entry toc-h2"><a href="#things-id-tweak-">Things I’d Tweak 🔧</a>
+<ul>
+<li class="toc-entry toc-h3"><a href="#1-the-climactic-solution">1. The climactic solution</a>
+<ul>
+<li class="toc-entry toc-h4"><a href="#1a-gobis-song">1a. Gobi’s song</a></li>
+<li class="toc-entry toc-h4"><a href="#1b-chins-breakthrough">1b. Chin’s breakthrough</a></li>
+</ul>
+</li>
+<li class="toc-entry toc-h3"><a href="#2-why-cant-haoyi-stay">2. Why can’t Haoyi stay?</a></li>
+<li class="toc-entry toc-h3"><a href="#changes-new-loved-ones">Chang’e’s new loved ones</a></li>
+<li class="toc-entry toc-h3"><a href="#3-foreshadowing-the-gift">3. Foreshadowing “the Gift”</a></li>
+<li class="toc-entry toc-h3"><a href="#the-biker-chicks-motivation">The Biker Chicks’ motivation</a></li>
+<li class="toc-entry toc-h3"><a href="#the-ping-pong-match-point">The ping pong match point</a></li>
+<li class="toc-entry toc-h3"><a href="#eating-both-pills">Eating both pills</a></li>
+</ul>
+</li>
+<li class="toc-entry toc-h2"><a href="#things-i-liked-️">Things I Liked ❤️</a>
+<ul>
+<li class="toc-entry toc-h3"><a href="#grounded-internal-conflict">Grounded internal conflict</a></li>
+<li class="toc-entry toc-h3"><a href="#injecting-meaning-to-the-folktale">Injecting meaning to the folktale</a>
+<ul>
+<li class="toc-entry toc-h4"><a href="#meaning-of-names">Meaning of names</a></li>
+</ul>
+</li>
+<li class="toc-entry toc-h3"><a href="#the-dinner-scene">The dinner scene</a></li>
+<li class="toc-entry toc-h3"><a href="#consistency-and-depth-with-chin">Consistency and depth with Chin</a></li>
+<li class="toc-entry toc-h3"><a href="#losing-bungee">Losing Bungee</a></li>
+</ul>
+</li>
+</ul>
+	<span class="toc-top-link">
+		<a href="#top">&#8593; top</a>
+	</span>
+</div><div class="post-content e-content" itemprop="articleBody"><p>A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss.</p>
+
+<!--more-->
+
+<p>We watched it while in quarantine isolation, right before New Year’s.</p>
+
+<p>The very first thing that really struck a chord, was seeing my own culture in a musical narrative — the intro song about the Chinese folktale, and then just having a song about making mooncakes. I’ve never been particularly nationalistic about my ethnicity, but this film really made me swell with pride.</p>
+
+<blockquote>
+  <p>🚨 <strong>Spoiler Alert!</strong> 🚨 Everything that follows is spoiler territory, obviously…</p>
+</blockquote>
+
+<h2 id="things-id-tweak-">Things I’d Tweak 🔧</h2>
+
+<h3 id="1-the-climactic-solution">1. The climactic solution</h3>
+
+<p>So what happens is that after Haoyi fades away again, Chang’e plunges the Moon into The Big <del>Sad</del> Darkness. She encases herself in the Chamber of Exquisite Sadness, and no one can get in through the barrier. Except, Fei Fei can pass through, deciding to risk talking to Chang’e, but Fei Fei herself sees visions of her mother, and gets trapped inside herself.</p>
+
+<p>Then what happens is that Chang’e sees and sings to Fei Fei, telling her she has to move on — a lesson that’s obvious that she herself doesn’t understand.</p>
+
+<p>And it’s shown to work — two broken people sing to, encourage and advise each other. They break free of their own <del>depression</del> Big Darknesses, and then Lunaria is restored to light, and everyone’s happy.</p>
+
+<p>I guess that’s a good message. Two broken people helping each other up.</p>
+
+<p>But I believe that the climax can be even more powerful. Let’s review the thematic statement of the show: <em>you can move on from the pain of the loved ones you lost, by accepting the love that new people are pouring into you.</em></p>
+
+<blockquote>
+  <p><strong>You can move on from the pain of the loved ones you lost, by accepting the love that new people are pouring into you.</strong></p>
+</blockquote>
+
+<p><em>This</em> is the ultimate climax arc that both Fei Fei and Chang’e have to learn and to grow as characters. Both Houyi and Fei Fei’s mom have passed, and both Chang’e and Fei Fei rejected and pushed away the (annoying, at first) new people that offered love to them: Gobi and Chin.</p>
+
+<p>But, <em>I felt</em> that this isn’t clearly shown in the climax — there wasn’t a climactic moment that <em>proved</em> that the entrance of a new love had made any impactful difference in their lives. For me at least, I believe that <strong><code class="language-plaintext highlighter-rouge">Gobi and Chin should have been the catalyst for Fei Fei's and Chang'e's climactic moment.</code></strong></p>
+
+<blockquote>
+  <p>Gobi and Chin should have been the catalyst for Fei Fei’s and Chang’e’s climactic moment, not themselves.</p>
+</blockquote>
+
+<p><strong>Imagine a different sequence of events</strong> for the story leading up to the climax — yet not so different because the story already seems to lean this way…</p>
+
+<h4 id="1a-gobis-song">1a. Gobi’s song</h4>
+
+<p>Here’s an extract from the script:</p>
+
+<pre><code class="language-screenplay">SEQUENCE 2200 - MOON FROGS
+
+GOBI
+[...] The Goddess exiled me from Lunaria because of a song I sang to her.
+
+FEI FEI
+She exiled you over a song? [...] she was kind and gentle, graceful as a swan landing on a quiet lake.
+
+GOBI
+She was all those things, until Houyi died. [SIGHS] And then she just pushed us all away.
+
+[...]
+
+GOBI
+After I sang that song, the Goddess disappeared. All the lights in Lunaria just went out. We call it the big darkness.
+</code></pre>
+
+<p>Gobi says that his song caused Chang’e to plunge Lunaria into The Big Darkness. But <em>this really interesting and important plot event never gets mentioned again</em>.</p>
+
+<p>One major attribute of Gobi’s character is his relationship to Chang’e’s, but thinking about it, <strong>we never even really see Chang’e interact with Gobi at all</strong> during the movie’s runtime — it’s too weak to just hint at some past event in subtext.</p>
+
+<p>Why don’t we get to see this important idea and character revisited?</p>
+
+<p>→ <strong>Imagine the climax:</strong> Chang’e slips into depression (it is what it is at this point), and so does Fei Fei. <code class="language-plaintext highlighter-rouge">Fei Fei recovers first, but can't talk Chang'e into recovering: Chang'e says that Fei Fei is younger and more innocent, while Chang'e herself is way too scarred and broken and tired to come out of depression again. Nothing Fei Fei says budges the celestial entity.</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">Then: Fei Fei realizes, maybe there's something she can sing.</code></p>
+
+<pre><code class="language-screenplay">SEQUENCE 2800 - CHAMBER OF EXQUISITE SADNESS
+
+[...]
+
+CHANG’E
+You can’t stay here. You’ll only
+end up lonely for all eternity, like me.
+</code></pre>
+
+<pre><code class="language-screenplay-edited">Fei Fei shakes her head in saddened disbelief. She softens.
+
+FEI FEI
+DO YOU EVER FEEL AFRAID?
+CURL UP WHEN YOU ARE HURTING
+
+CHANG'E
+Huh?
+
+FEI FEI
+AND HOLD YOUR MEMORIES TIGHT TO YOU 
+YEAH, ME TOO -
+
+CHANG'E
+That song... WHY ARE YOU SINGING THIS SONG?!?!
+</code></pre>
+
+<p><code class="language-plaintext highlighter-rouge">It's</code> <del><code class="language-plaintext highlighter-rouge">MARTHAAA!!</code></del> <code class="language-plaintext highlighter-rouge">Gobi's song. It serves as an introduction to the actual climactic song,</code> <em><code class="language-plaintext highlighter-rouge">Love Someone New.</code></em>  <code class="language-plaintext highlighter-rouge">It builds and builds.</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">Then, another voice joins in harmony: Gobi floats into the scene. Seeing him return with open arms despite getting exiled by her, causes Chang'e to finally break, and let down her walls, eventually dissolving the Chamber of Exquisite Sadness.</code></p>
+
+<p>I just think it’s pretty neat: the same song and character that caused the first Big Darkness is the same song/character that reverses the second one. We also callback to Gobi’s song. Most importantly, the thematic statement can be shown by how Chang’e actually gets to Love Someone New, and be loved in return.</p>
+
+<h4 id="1b-chins-breakthrough">1b. Chin’s breakthrough</h4>
+
+<p>After Fei Fei and Chang’e have gotten themselves stuck in the Chamber of Exquisite Sadness.</p>
+
+<p>In the climactic moment, Fei Fei and Chang’e sing to each other and pull each other out. They’re perfectly happy and their climaxes have been resolved in a tidy bow. Now that they have overcome The Big Sad™, Chin roars, “NO BARRIERS!!!”, and breaks the impenetrable barrier and reunites with Fei Fei.</p>
+
+<p>But, I can’t help but feel that Chin’s involvement in the climax was not as powerful as it could’ve been, because <em>his appearance doesn’t do anything for the plot development</em>. Chang’e, now rehabilitated, should be perfectly able to get them out of the Chamber as she did last time.</p>
+
+<p>While there is a <em>meaningful</em> payoff/callback for Chin to enter the scene now, there is really no <em>practical</em> plot-related contribution. It’s as if he’s just there <em>for show</em>. Same with Gobi. They don’t need to be there.</p>
+
+<p><strong>What if</strong> we rearrange plot beats so that, instead of Fei Fei and Chang’e singing the song to each other: <strong><code class="language-plaintext highlighter-rouge">Chin is the one who starts singing the climactic song to Fei Fei.</code></strong></p>
+
+<p>Usual sequence of events, Chang’e gets stuck, Fei Fei goes in and gets stuck too. <code class="language-plaintext highlighter-rouge">Perhaps Fei Fei tries singing Gobi's song. There's a little glimmer of hope, because that's the powerful song, right? Nope. They cannot get each other out. They're STUCK.</code></p>
+
+<p>On the other side of the barrier, all hope is lost. Bungee uses her newfound purple electric magic ear superpowers, but she rebounds back, proving we need something stronger than magic to break the barrier.</p>
+
+<p><code class="language-plaintext highlighter-rouge">It is only then, Chin starts softly singing Gobi's song. Not pitch perfect, but perfectly soulful.</code></p>
+
+<pre><code class="language-screenplay-edited">CHIN
+DO YOU EVER FEEL AFRAID?
+CURL UP WHEN YOU ARE HURTING
+AND HOLD YOUR MEMORIES TIGHT TO YOU
+YEAH, ME TOO -
+</code></pre>
+
+<p><code class="language-plaintext highlighter-rouge">How does Chin know the words? Anyways, the song builds slowly. Fei Fei is curled up, numbly facing away, but she starts to stir at Chin's faint, distant voice. She wrestles with her inner thoughts, squirming in space, getting stronger the more Chin sings. Suddenly, the powerful crumpling force is slowly overcome, and she cries as she struggles to outstretches herself.</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">The first chorus ends in a hurrah</code> — <strong>Chin steps back, and with a warcry he headbutts through and shatters the impenetrable barrier.</strong> Chin literally breaks through the wall of depression.</p>
+
+<p><code class="language-plaintext highlighter-rouge">He swims over to Fei Fei and continues singing</code>. <strong>Chin is the one who calls her awake from her spell.</strong> Fei Fei exclaims, “You saved me!” Then, Fei Fei goes over and wrestles  similarly for Chang’e, breaking her free too, and everything goes on as normal from here.</p>
+
+<p>This is amazing, because Chin becomes the most important focal main character in the climax. Without his intervention, they would’ve been stuck in the Chamber forever. His subplot now has weight, if not carrying the climax. And it can, and it should, as <strong>it further cements the idea that Fei Fei has to move on let in someone new into her life after her loss.</strong></p>
+
+<p>Furthermore… it hints to the subtext that Chin himself has also lost a parent. His mom, intentionally named as <em>Mrs.</em> Zhong, is obviously single after carrying her husband’s surname, as implied by her “Mrs.” prefix. Is she widowed too? Perhaps divorced? Separated? Absent? Disappeared?</p>
+
+<p>Either ways. I always thought it was such a powerful choice for the subtext that Chin would be in the same situation as Fei Fei (a stepbrother, by very nature, must have an absent parent; nonetheless, it’s so interesting to have him be very prominent in plot). There’s subtext that he had actually himself gone through the whole process of being in his own “Chamber” too, curling up afraid, holding tightly onto those past memories as well.</p>
+
+<p>As he sings these words, he understands full well the weight behind them, even if in a simpler 8-year-old way. He knows. Despite being younger, he has already somehow accepted the loss of his father, and now is ready to teach and love Fei Fei, since he knows exactly what she is going through and what she needs. She needs to love someone new.</p>
+
+<p>She needs him.</p>
+
+<h3 id="2-why-cant-haoyi-stay">2. Why can’t Haoyi stay?</h3>
+
+<ul>
+  <li>Fei Fei asking for a portion of the potion, and turns out both their potions are not enough</li>
+</ul>
+
+<p>I thought that Fei Fei would get any wish, and would instead ask to revive her mother instead. This would be a good reason to why she saw glimpses of her mother in the climax.</p>
+
+<h3 id="changes-new-loved-ones">Chang’e’s new loved ones</h3>
+
+<h3 id="3-foreshadowing-the-gift">3. Foreshadowing “the Gift”</h3>
+
+<p>I don’t just want the photo anymore — I want a part of the potion that can revive my mom.</p>
+
+<p>Saving the mooncake — She must’ve had the mooncake for months? Why not this: Mrs. Zhong could still offer her a mooncake on the first Mid Autumn Festival, the first time they met. Fei Fei can still dismiss her mooncake entirely, her dialogue, “I don’t want IT… Urgh! And I don’t want YOU.”</p>
+
+<p>Then, assuming the rocket took two years to build (and Chin and Mrs. Zhong have been around for two years too), Mrs. Zhong could be giving Fei Fei a mooncake every year.</p>
+
+<p>Then after two years, Fei Fei is about take off before the Festival and Mrs. Chin catches Fei Fei on the way out, including the family heirloom this time.</p>
+
+<h3 id="the-biker-chicks-motivation">The Biker Chicks’ motivation</h3>
+
+<h3 id="the-ping-pong-match-point">The ping pong match point</h3>
+
+<h3 id="eating-both-pills">Eating both pills</h3>
+
+<p>Aliqua Lorem voluptate aliqua nisi excepteur mollit Lorem enim minim esse esse dolor occaecat. Consequat in consequat deserunt labore do minim est. Lorem sint aliquip aliquip velit duis cillum. Proident anim labore dolor nulla in laboris officia ex mollit deserunt laboris aute occaecat voluptate. Commodo eiusmod eu enim id eu. Et sit occaecat labore eu ipsum in eiusmod ut sit aliqua laboris veniam irure. Ipsum non magna laborum ad aliquip dolore ea amet pariatur est consectetur dolor voluptate nulla. Consequat do minim ipsum cupidatat nostrud. Aute enim voluptate proident ullamco consequat nisi velit qui est. Pariatur veniam eiusmod est in ad ad dolor dolor eiusmod magna nostrud ad.</p>
+
+<hr>
+
+<h2 id="things-i-liked-️">Things I Liked ❤️</h2>
+
+<h3 id="grounded-internal-conflict">Grounded internal conflict</h3>
+
+<p>In light of cosmic beings and deep folklore, the story could’ve gone into epic-scale wars or some galaxy-spanning <a href="https://wikipedia.org/wiki/Mcguffin" class="web-link">McGuffin</a> hunt. But instead, the story quickly set up a very grounded, yet powerful, tight father-mother-daughter family relationship that fuels Fei Fei’s motivation for every goal in every scene thereafter.</p>
+
+<p>And then instead of some magical antagonist who steals Fei Fei’s mom away, we have something more familiar, more relatable: some unnamed generic terminal illness. It’s so… normal.</p>
+
+<p>I’ve always admired stories that know how to reinforce their stories <em>(like reinforcing concrete with steel)</em> with a simple but powerful internal conflict that quietly and invisibly gives shape as the backbone of every scene.</p>
+
+<p>I can’t imagine how powerful this story will be for so, so many kids (and adults) who have lost a loved one. I can’t imagine how much good lessons we would’ve so easily lost if the plot had slipped into bland spectacle somewhere in production.</p>
+
+<h3 id="injecting-meaning-to-the-folktale">Injecting meaning to the folktale</h3>
+
+<p>By itself, the folktale is iconic, but while it is a “story”, it doesn’t really have a <em>theme</em>. Plot events happen: bla bla shooting suns, elixir, robber, fly to the moon. But there’s no pattern, nothing really tying characters to plot: no underlying <em>theme.</em></p>
+
+<p>So, to have a good story to show in a 1h40m movie, Over the Moon has to inject its own theme. There are hundreds of good ways to adapt the folktale, and thousands of mediocre ways. Guesswork cannot get you far.</p>
+
+<p>The movie ended up with a theme of <strong>moving on from loss of a loved one</strong>, as well as setting us in the lens of a young girl who lost her mother. If you told me that <em>this</em> was the main throughline for a story adapting the mooncake folktale, I’d doubt its performance.</p>
+
+<p>But this thematic premise flows nicely. Chang’e is reframed as a character who lost a loved one, and learning how to cope as well. Fei Fei’s relatives comment on this perspective of the folktale, and it sets up a really good story world for our protagonist to act and react in.</p>
+
+<p>Fei Fei and Chang’e are very nicely mirrored characters. Quite strong characters with agency on the plot.</p>
+
+<h4 id="meaning-of-names">Meaning of names</h4>
+
+<p>Also. Fei Fei (飞飞) literally means “fly”. Her character goes on to try to build a rocket to fly away from the gravity of earth and the sting of depression.</p>
+
+<p>A month or two after watching the movie, I read the official script for the movie, reading the names as transliterated English, and got sucker punched in the face.</p>
+
+<p>Chang’e is a character who wants to bring back who she lost in her past, stubbornly refusing the new and good reality of the present/future. The very thing that Chang’e has to learn to accept in order to grow, is hidden in her name all this time: <em>Change</em>.</p>
+
+<h3 id="the-dinner-scene">The dinner scene</h3>
+
+<p>Fei Fei defends Chang’e from her aunties, when really the subtext is that she’s defending herself</p>
+
+<h3 id="consistency-and-depth-with-chin">Consistency and depth with Chin</h3>
+
+<p>Already from the First Act, we’ve been foreshadowing Chin breaking through impenetrable barriers.</p>
+
+<p>And then Bungee uses her purple electric magic ear powers, proving that you even magical power isn’t strong enough — and proving that Chin’s love is stronger than magic.</p>
+
+<h3 id="losing-bungee">Losing Bungee</h3>
+
+<p>Leaving Bungee behind was Fei Fei’s final test on whether she could move on or not</p>
+
+<hr>
+
+<p>I found a source that provides the <a href="https://deadline.com/2021/03/over-the-moon-screenplay-read-audrey-wells-script-1234708864/" class="web-link">script here</a>.</p>
+</div><div class="post-nav">
+	<a
+		class="category-link"
+		href="/wtsa/Film-Reviews"
+	>
+		Category: Film Reviews
+	</a>
+
+	     
+
+	<div class="post-nav-pn">
+		<div class="post-nav-p">
+			
+			<a href="/wtsa/posts/Maleficent-Mistress-of-Evil-Film-Review">
+				<span class="post-nav-label">&#8672;&nbsp;Previous</span>
+				<p>Maleficent: Mistress of Evil – Film Review</p>
+			</a>
+			
+		</div>
+		<div class="post-nav-n">
+			
+		</div>
+	</div>
+</div>
+
+<a class="u-url" href="/wtsa/posts/Over-The-Moon-Film-Review" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/wtsa/%20/"></data>
+
+  <div class="wrapper">
+
+    <span class="footer-heading">
+      <a rel="author" href="/wtsa/%20/">
+        <logo>
+          <img src="/wtsa/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
+        </logo>whatsthestoryabout
+      </a>
+    </span><nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path
+              d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z" />
+          </svg>
+        </span>
+      </label><div class="trigger"><a class="page-link" href="/wtsa/about">about</a><a class="page-link" href="/wtsa/browse">browse</a><a class="page-link" href="https://linktr.ee/wtstorya">linktree</a>
+</div>
+</nav><hr style="opacity:0.3;	margin-top: 15px;	margin-bottom: 25px;">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <ul class="social-media-list">
+	<li>
+		<a href="https://github.com/chuangcaleb"
+			><svg class="svg-icon">
+				<use
+					xlink:href="/wtsa/assets/minima-social-icons.svg#github"
+				></use>
+			</svg>
+			<span class="username">chuangcaleb</span></a
+		>
+	</li><li>
+		<a
+			href="https://instagram.com/whatsthestoryabout"
+			><svg class="svg-icon">
+				<use
+					xlink:href="/wtsa/assets/minima-social-icons.svg#instagram"
+				></use>
+			</svg>
+			<span class="username">whatsthestoryabout</span></a
+		>
+	</li></ul>
+</ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>A personal dedicated blog to share and discuss storytelling</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer></body>
+
+</html>
