@@ -15,7 +15,10 @@ layout: default
 	{%- include toc.html -%}
 
 	<div class="post-content e-content" itemprop="articleBody">
-		{{ content }}
+		{% assign content_list = content | split: "<hr>" %}
+		{% for sect in content_list %}
+			<section>{{ sect }}<hr></section>
+		{% endfor %}
 	</div>
 
 	{%- if page.category -%} 

@@ -19,14 +19,14 @@ All in all. I enjoyed it. It was fun, funny and entertaining, and still had a lo
 
 ## Things I'd Tweak
 
-### 1. Queen Ingrith should be the one to do a twisted intro narration recap of the first movie
+### 1. The Twisted Introduction Hook
 
 Queen Ingrith should be the one to do a twisted intro narration recap of the first movie, especially after the Hook (the first scene) implies that Mal killed the fairy hunters. Even though we don't exactly know who Queen Ingrith is yet, it foreshadows that the Queen falsified the tale.
 
 And, Mal will have action beats to disprove the specific lines from the narration: that though she's
 cynical and cold, she's also fiercely protective and kindhearted.
 
-### 2. The Main Relationship (Mal and Aurora) didn't get enough screen time as a result
+### 2. The Main Relationship didn't get enough screen time 
 
 The CGI visuals were astounding, and a lot of solid work went into fae worldbuilding. But, I felt the Main Relationship (Mal and Aurora) didn't get enough screen time as a result.
 
@@ -40,12 +40,12 @@ For Mal, I'd wish the Fae argued that she destroyed King Stefan's castle and sol
 (to which she responds aggressively). We'd get this nice parallel:
 
 Percival: You know what the legends say about Fae and Moor...\
-Philip: Watch your mouth, my Aurora is the queen of the Moor.
+Philip: Watch your mouth, my Auror[]()a is the queen of the Moor.
 
 Borra: We will make humans extinct as they have done to us!\
 Mal: Watch your mouth, my girl is human.
 
-### 3. After Aurora learns the truth, she's never an active character anymore
+### 3. Passive Aurora
 
 After Aurora learns the truth in the 50% Midpoint mark of the movie, she's never an active character anymore. First time she's seized by guards, she slyly escapes (good, albeit that scene could be earlier) but from then on, she's seized then first saved by bear!Diaval, and later she's seized then saved by phoenix!Maleficent.
 
