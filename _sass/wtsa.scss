@@ -13,7 +13,8 @@ logo > img {
 }
 
 logo {
-	transition: 5s;
+	transition-duration: 4s;
+	transition-delay: 1s;
 }
 
 .site-header {
@@ -31,14 +32,9 @@ logo {
 	// 	}
 }
 
-.site-nav {
-	// margin-right: 15px;
-	// transition: 2s;
-}
-
 .site-header,
 .page-content {
-	transition: 2s;
+	transition-duration: 2s;
 }
 
 blockquote {
@@ -77,6 +73,11 @@ html {
 		font-size: 1.2em;
 	}
 
+	section {
+		background-color: $background-color;
+		transition-duration: 2s;
+	}
+
 	h2,
 	h3,
 	h4,
@@ -87,6 +88,7 @@ html {
 		font-weight: 450;
 		position: sticky;
 		background-color: $background-color;
+		transition-duration: 2s;
 	}
 
 	h2 {
@@ -100,10 +102,6 @@ html {
 			top: 47px;
 		}
 		z-index: 9;
-	}
-
-	section {
-		background-color: $background-color;
 	}
 
 	h1,
@@ -287,8 +285,8 @@ iframe {
 	margin-bottom: 0px;
 }
 
-span.toc-top-link a {
-	color: gray;
+html span.toc-top-link a {
+	color: gray !important;
 }
 
 // * Footer --------------------------------------------------------------------

@@ -99,18 +99,14 @@ html[data-theme="dark"] {
 			}
 		}
 
-		.site-nav {
-			background-color: $dark-background-alt-color;
+		@media only screen and (max-width: 600px) {
+			.site-nav {
+				background-color: $dark-background-alt-color;
+			}
 		}
 
 		.site-nav .page-link {
 			color: #f8f8f8;
-		}
-
-		.ct-language-dropdown {
-			color: #f8f8f8;
-			background-color: $dark-background-color;
-			box-shadow: 0 0 3px 1px #0000005b;
 		}
 
 		.menu-icon {
@@ -121,10 +117,6 @@ html[data-theme="dark"] {
 		@include media-query($on-laptop) {
 			.menu-icon > svg {
 				fill: rgba($dark-text-color, 80%);
-			}
-
-			.site-nav input:checked ~ .trigger {
-				background-color: $dark-background-color;
 			}
 		}
 	}
