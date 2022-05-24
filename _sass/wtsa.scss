@@ -58,6 +58,7 @@ main hr {
 
 html {
 	overflow-y: scroll;
+	scroll-behavior: smooth;
 }
 
 .page-content {
@@ -238,6 +239,7 @@ iframe {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
 .home .post-list li,
 .category .post-list li {
 	border-left: 3px solid lightgray;
@@ -260,6 +262,7 @@ iframe {
 		margin-bottom: 30px;
 	}
 }
+
 @media only screen and (min-width: 1300px) {
 	#table-of-contents {
 		right: 6%;
@@ -316,7 +319,7 @@ pre > code {
 }
 
 pre {
-	padding: 10px 25%;
+	padding: 10px 17%;
 	border: 0px;
 }
 
