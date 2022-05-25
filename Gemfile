@@ -39,3 +39,5 @@ gem "webrick", "~> 1.7"
 gem 'jekyll-wikilinks'
 gem 'jekyll-sitemap'
 gem 'jekyll-titles-from-headings'
+gem 'liquid_reading_time'
+gem 'liquid_pluralize'

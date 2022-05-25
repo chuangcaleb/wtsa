@@ -38,6 +38,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
   - jekyll-titles-from-headings
+  - liquid_reading_time
+  - liquid_pluralize
 
 collections:
   poosts:

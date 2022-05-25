@@ -2,8 +2,11 @@
 layout: default
 ---
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-	
+<article
+	class="post h-entry"
+	itemscope
+	itemtype="http://schema.org/BlogPosting"
+>
 	<header class="post-header">
 		<h1 class="post-title p-name" itemprop="name headline">
 			{{ page.title | escape }}
@@ -11,20 +14,18 @@ layout: default
 		{%- include top-post-meta.html -%}
 	</header>
 
-
 	{%- include toc.html -%}
 
 	<div class="post-content e-content" itemprop="articleBody">
-		{% comment %}
-		{% assign content_list = content | split: "<hr>" %}
-		{% for sect in content_list %}
-			<section>{{ sect }}<hr></section>
-		{% endfor %}
-		{% endcomment %}
-		{{content}}
+		{% comment %} {% assign content_list = content | split: "
+		<hr />
+		" %} {% for sect in content_list %}
+		<section>
+			{{ sect }}
+			<hr />
+		</section>
+		{% endfor %} {% endcomment %} {{content}}
 	</div>
 
-	{%- if page.category -%} 
-		{%- include post-nav.html -%}
-	{%- endif -%}
+	{%- if page.category -%} {%- include post-nav.html -%} {%- endif -%}
 </article>
