@@ -304,7 +304,7 @@ html { overflow-y: scroll; scroll-behavior: smooth; }
 
 .page-content h1, .page-content h2 { font-weight: 600; }
 
-.page-content dl, .page-content ol, .page-content p, .page-content table, .page-content blockquote { margin-top: 0; margin-bottom: 1.5em; }
+.page-content dl, .page-content ol, .page-content .post-content > p, .page-content table, .page-content blockquote { margin-top: 0; margin-bottom: 1.5em; }
 
 .page-content pre + * { margin-top: 1.5em; }
 
