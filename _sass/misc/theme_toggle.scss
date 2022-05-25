@@ -1,7 +1,21 @@
 // adapted from: https://github.com/jeffreytse/jekyll-theme-yat
+
+.site-header .theme-toggle {
+	@media only screen and (min-width: 600px) {
+		margin: 10px 0px;
+	}
+	@media screen and (max-width: 600px) {
+		margin: 0px 5px 5px 0px;
+	}
+}
+.site-footer .theme-toggle {
+	// top: -5px;
+	display: none;
+}
+
 .theme-toggle {
 	position: relative;
-	// margin: auto;
+	margin: auto;
 	width: $base-font-size * 2;
 	// width: fit-content;
 	// margin-top: 10px;
@@ -13,13 +27,6 @@
 	// padding: 11px 0px;
 	// margin: 10px;
 	// transition: 0.3s cubic-bezier(0.4, 0.03, 0, 1);
-
-	@media only screen and (min-width: 600px) {
-		margin: 10px 0px;
-	}
-	@media screen and (max-width: 600px) {
-		margin: 0px 5px 5px 0px;
-	}
 
 	label,
 	.circle {
