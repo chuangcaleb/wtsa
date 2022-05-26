@@ -1,8 +1,8 @@
 ---
 layout: category
-emoji: 🎬
+# emoji: 🎬
 ---
 
-# Film Reviews
+# 🎬 Film Reviews
 
 All my reviews of films!
