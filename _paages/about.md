@@ -39,9 +39,9 @@ Welcome to the dump.
 
 <br>
 
----
+***
 
-Unsure where to start? [View major projects](browse) or perhaps begin with [[🎪 The Greatest Showman Series]]!
+Unsure where to start? [View major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!
 
 Also have a look at my [linktree](https://linktr.ee/wtstorya), which is where I've been temporarily centralising my writing projects so far!
 
