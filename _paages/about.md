@@ -9,7 +9,7 @@ emoji: ❓
 
 Hello there—my name is Caleb!
 
-I'm a final-year student procrastinating his dissertation for his Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/).
+I'm a ~~`final-year` student~~ procrastinating his dissertation for his Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/).
 
 ## I also really, really love **story**
 
@@ -41,10 +41,17 @@ Welcome to the dump.
 
 ---
 
-Unsure where to start? [View major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!
+Unsure where to start? [Browse major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!
 
 Also have a look at my [linktree](https://linktr.ee/wtstorya), which is where I've been temporarily centralising my writing projects so far!
 
 <br>
 
 *My friend has also started a Jekyll blog at the same time as me — it's a knowledge hub where he shares some fun facts! Check it out at [I Wonder](https://joewong00.github.io/iwonder/)!*
+
+<br>
+
+Some alternative shortened URLs that lead to this page:
+
+1. [tinyurl.com/whatsthestoryabout](https://tinyurl.com/whatsthestoryabout)
+2. [shorturl.at/krH48](https://shorturl.at/krH48)
