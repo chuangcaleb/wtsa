@@ -1,5 +1,6 @@
 $h4: 1.5em;
 $background-color: white !default;
+$heading-lapel-color: #d7d7d7 !default;
 
 // * General -------------------------------------------------------------------
 
@@ -134,6 +135,35 @@ html {
 	}
 }
 
+@media only screen and (min-width: 800px) {
+	.post {
+		h1:before {
+			content: "#";
+			color: $heading-lapel-color;
+			margin-left: -35px;
+			margin-right: 5px;
+		}
+		h2:before {
+			content: "##";
+			color: $heading-lapel-color;
+			margin-left: -50px;
+			margin-right: 10px;
+		}
+		h3:before {
+			content: "###";
+			color: $heading-lapel-color;
+			margin-left: -58px;
+			margin-right: 10px;
+		}
+		h4:before {
+			content: "####";
+			color: $heading-lapel-color;
+			margin-left: -55px;
+			margin-right: 10px;
+		}
+	}
+}
+
 .site-footer .site-nav .trigger {
 	height: 40px;
 }
@@ -260,7 +290,9 @@ iframe {
 
 // * Table of Contents ---------------------------------------------------------
 
-@media only screen and (max-width: 1300px) {
+$toc-cutoff: 1300px;
+
+@media only screen and (max-width: $toc-cutoff) {
 	#table-of-contents {
 		max-width: 400px;
 		padding: 10px;
@@ -271,9 +303,9 @@ iframe {
 	}
 }
 
-@media only screen and (min-width: 1300px) {
+@media only screen and (min-width: $toc-cutoff) {
 	#table-of-contents {
-		right: 6%;
+		right: 3%;
 		float: right;
 		position: fixed;
 		top: 90px;

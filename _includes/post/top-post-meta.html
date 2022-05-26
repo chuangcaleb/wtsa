@@ -4,14 +4,12 @@
         {%- assign date_format = site.minima.date_format | default: "%-d %b %Y"-%}
         {{ page.date | date: date_format }}
     </time>
-    <br>
-    <!-- &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
-            Last modified:
+
+    &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                                    Last modified:
     <time class="dt-modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
         {{ page.last_modified_at | date: '%d %b %Y' }}
     </time>
-
-    <br>
 
 
     <!-- {%- if page.categories -%}
@@ -62,6 +60,7 @@
     read  &nbsp·   &nbsp{{content | count_words}}
     words -->
     {{content | count_words}}
-    words &nbsp·  &nbsp{{ content | reading_time | pluralize: "min" }}
+    words &nbsp· &nbsp
+    {{ content | reading_time | pluralize: "min" }}
     read
 </p>

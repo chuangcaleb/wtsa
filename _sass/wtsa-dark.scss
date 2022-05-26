@@ -7,6 +7,7 @@ $dark-background-alt-color: #0c1120 !default;
 // $dark-background-alt-color: #1a1e24 !default;
 $dark-text-color: rgb(216, 215, 215) !default;
 // $dark-text-color: rgb(199, 193, 193) !default;
+$heading-lapel-color: #3d4256;
 
 html[data-theme="dark"] {
 	:root {
@@ -26,6 +27,17 @@ html[data-theme="dark"] {
 
 		section {
 			background-color: $dark-background-color;
+		}
+	}
+
+	.post {
+		@media only screen and (min-width: 800px) {
+			h1:before,
+			h2:before,
+			h3:before,
+			h4:before {
+				color: $heading-lapel-color;
+			}
 		}
 	}
 
