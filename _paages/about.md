@@ -39,7 +39,7 @@ Welcome to the dump.
 
 <br>
 
-***
+---
 
 Unsure where to start? [View major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!
 

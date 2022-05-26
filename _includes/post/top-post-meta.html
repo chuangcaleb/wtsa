@@ -4,20 +4,17 @@
         {%- assign date_format = site.minima.date_format | default: "%-d %b %Y"-%}
         {{ page.date | date: date_format }}
     </time>
-
-    &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Last modified:
+    <br>
+    <!-- &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
+            Last modified:
     <time class="dt-modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
         {{ page.last_modified_at | date: '%d %b %Y' }}
     </time>
 
-    {%- if page.author -%}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ page.author }}
-            </span>
-        </span>
-    {%- endif -%}
-	
-    {%- if page.categories -%}
+    <br>
+
+
+    <!-- {%- if page.categories -%}
         <br/>
         Category:
         <a class="category-link" href="{{ page.category | replace: ' ', '-' | relative_url }}">
@@ -58,9 +55,13 @@
             <a href="{{ next_post.url | relative_url}}">{{next_post.title}}
             </a>
         {% endif %}
-    {%- endif -%}
+    {%- endif -%} -->
 
     <br/>
-    &nbsp{{content | count_words}} words &nbsp·
-	&nbsp {{ content | reading_time |pluralize: "min" }} read
+    <!-- {{ content | reading_time | pluralize: "min" }}
+    read  &nbsp·   &nbsp{{content | count_words}}
+    words -->
+    {{content | count_words}}
+    words &nbsp·  &nbsp{{ content | reading_time | pluralize: "min" }}
+    read
 </p>
