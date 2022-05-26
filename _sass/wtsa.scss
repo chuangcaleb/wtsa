@@ -318,13 +318,10 @@ iframe {
 // 	margin-bottom: 10px;
 // }
 
-.home,
-.browse,
-.category {
-	.post-list li {
-		border-left: 3px solid lightgray;
-		padding-left: 15px;
-	}
+.post-list li {
+	border-left: 3px solid lightgray;
+	padding-left: 15px;
+	margin-bottom: 3em;
 }
 
 .post-list {
