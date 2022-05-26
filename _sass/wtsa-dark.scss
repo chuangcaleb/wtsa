@@ -30,18 +30,16 @@ html[data-theme="dark"] {
 		}
 	}
 
-	.post {
-		@media only screen and (min-width: 800px) {
-			h1:before,
-			h2:before,
-			h3:before,
-			h4:before {
-				color: $heading-lapel-color;
-			}
+	@media only screen and (min-width: 800px) {
+		h1:before,
+		h2:before,
+		h3:before,
+		h4:before {
+			color: $heading-lapel-color;
 		}
-		.post-meta {
-			color: white;
-		}
+	}
+	.post-meta {
+		color: white;
 	}
 
 	main {

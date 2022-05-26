@@ -137,31 +137,59 @@ html {
 }
 
 @media only screen and (min-width: 800px) {
-	.post {
-		h1:before {
-			content: "#";
-			color: $heading-lapel-color;
-			margin-left: -35px;
-			margin-right: 5px;
-		}
-		h2:before {
-			content: "##";
-			color: $heading-lapel-color;
-			margin-left: -50px;
-			margin-right: 10px;
-		}
-		h3:before {
-			content: "###";
-			color: $heading-lapel-color;
-			margin-left: -58px;
-			margin-right: 10px;
-		}
-		h4:before {
-			content: "####";
-			color: $heading-lapel-color;
-			margin-left: -55px;
-			margin-right: 10px;
-		}
+	// .post {
+	// h1:before {
+	// 	content: "#";
+	// 	color: $heading-lapel-color;
+	// 	margin-left: -35px;
+	// 	margin-right: 5px;
+	// }
+	// h2:before {
+	// 	content: "##";
+	// 	color: $heading-lapel-color;
+	// 	margin-left: -50px;
+	// 	margin-right: 10px;
+	// }
+	// h3:before {
+	// 	content: "###";
+	// 	color: $heading-lapel-color;
+	// 	margin-left: -58px;
+	// 	margin-right: 10px;
+	// }
+	// h4:before {
+	// 	content: "####";
+	// 	color: $heading-lapel-color;
+	// 	margin-left: -55px;
+	// 	margin-right: 10px;
+	// }
+	// }
+	h1:before {
+		content: "H1";
+		color: $heading-lapel-color;
+		font-size: 0.8em;
+		margin-left: -55px;
+		margin-right: 15px;
+	}
+	h2:before {
+		content: "H2";
+		color: $heading-lapel-color;
+		font-size: 0.8em;
+		margin-left: -55px;
+		margin-right: 20px;
+	}
+	h3:before {
+		content: "H3";
+		font-size: 0.8em;
+		color: $heading-lapel-color;
+		margin-left: -50px;
+		margin-right: 23px;
+	}
+	h4:before {
+		content: "H4";
+		color: $heading-lapel-color;
+		font-size: 0.8em;
+		margin-left: -40px;
+		margin-right: 20px;
 	}
 }
 
