@@ -65,6 +65,7 @@ html {
 
 .page-content {
 	line-height: 1.7;
+	padding-top: 40px;
 
 	.page-title,
 	.post-title {
@@ -130,9 +131,9 @@ html {
 		margin: 0px !important;
 	}
 
-	& > .wrapper > *:first-child {
-		margin: 0 !important;
-	}
+	// & > .wrapper > *:first-child {
+	// 	margin: 0 !important;
+	// }
 }
 
 @media only screen and (min-width: 800px) {
@@ -274,6 +275,12 @@ iframe {
 	text-decoration: none;
 }
 
+// Offset for breadcrumbs
+.category,
+.post {
+	margin-top: -25px;
+}
+
 // * Lists ---------------------------------------------------------------------
 
 // .home hr,
@@ -312,7 +319,7 @@ $toc-cutoff: 1300px;
 
 @media only screen and (min-width: $toc-cutoff) {
 	#table-of-contents {
-		right: 3%;
+		right: 4%;
 		float: right;
 		position: fixed;
 		top: 90px;
