@@ -5,39 +5,41 @@ layout: default
 <div class="category">
 
   {%- if page.title -%}
-  <h1 class="page-heading"> 
-    <!-- <span style="color:gray">Category: </span> -->
-    {{ page.title }}
-  </h1>
+      <h1 class="page-heading">
+          <!-- <span style="color:gray">Category: </span> -->
+          {{ page.title }}
+      </h1>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.poosts.size > 0 -%}
-  {% comment %} <h2 class="post-list-heading">Posts</h2> {% endcomment %}
-  <ul class="post-list">
+      <ul class="post-list">
 
-    {%- for post in site.poosts-%}
-    {%- if post.category == page.title -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
-      <span class="post-meta">Published on: {{ post.date | date: date_format }}</span>
+          {%- for post in site.poosts-%}
+              {%- if post.category == page.title -%}
+                  <li>
 
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
+                      {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+                      <span class="post-meta">Published on:
+                          {{ post.date | date: date_format }}</span>
 
-      <!-- {%- if site.show_excerpts -%}
-      {% assign ep = post.excerpt | split: '</h1>' %}
-      {{ ep[1] }}
-      {%- endif -%} -->
-    </li>
-    {%-endif-%}
-    {%- endfor -%}
-  </ul>
+                      <a class="post-link" href="{{ post.url | relative_url }}">
+                          {{ post.title | escape }}
+                      </a>
 
-  {% comment %} <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p> {%
-  endcomment %}
+
+                      <!-- {% assign ep = post.excerpt | split: '</h1>' %}
+                      {{ ep[1] }} -->
+
+                  </li>
+                  {%-endif-%}
+              {%- endfor -%}
+          </ul>
+
+
+      {% comment %} <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p> 
+      {%endcomment %}
   {%- endif -%}
 
 </div>

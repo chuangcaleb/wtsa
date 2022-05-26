@@ -4,36 +4,37 @@ layout: default
 
 <div class="home">
 
-  {{ content }}
+    {{ content }}
 
-  {%- if site.poosts.size > 0 -%}
-  <h1 class="post-list-heading">🔄 All Recent Posts</h1>
-  <ul class="post-list">
+    {%- if site.poosts.size > 0 -%}
+        <h1 class="post-list-heading">🔄 All Recent Posts</h1>
+        <ul class="post-list">
 
-    {%- for post in site.poosts reversed-%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
-      <span class="post-meta">Published on: {{ post.date | date: date_format }}
-        {%- if post.category -%}&nbsp-
-        <a class="category-link" href="{{ post.category | replace: ' ', '-'  | relative_url }}">
-          {{ post.category | escape }}
-        </a>
-        {%- endif -%}
-      </span>
-      <!-- <h3> -->
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-      <!-- </h3> -->
+            {%- for post in site.poosts reversed-%}
+                <li>
+                    {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+                    <span class="post-meta">Published on:
+                        {{ post.date | date: date_format }}
+                        {%- if post.category -%}&nbsp-
+                            <a class="category-link" href="{{ post.category | replace: ' ', '-' | relative_url }}">
+                                {{ post.category | escape }}
+                            </a>
+                        {%- endif -%}
+                    </span>
 
-      <!-- {%- if site.show_excerpts -%}
-      {% assign ep = post.excerpt | split: '</h1>' %}
-      {{ ep[1] }}
-      {%- endif -%} -->
-    </li>
-    {%- endfor -%}
-  </ul>
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
 
-  {%- endif -%}
+
+                    <!-- {% assign ep = post.excerpt | split: '</h1>' %}
+					{{ ep[1] }} -->
+
+                </li>
+            {%- endfor -%}
+
+        </ul>
+
+    {%- endif -%}
 
 </div>

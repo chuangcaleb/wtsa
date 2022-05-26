@@ -2,30 +2,31 @@
 layout: default
 ---
 
-<article
-	class="post h-entry"
-	itemscope
-	itemtype="http://schema.org/BlogPosting"
->
-	<header class="post-header">
-		<h1 class="post-title p-name" itemprop="name headline">
-			{{ page.title | escape }}
-		</h1>
-		{%- include top-post-meta.html -%}
-	</header>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-	{%- include toc.html -%}
+    <header class="post-header">
+        <h1 class="post-title p-name" itemprop="name headline">
+            {{ page.title | escape }}
+        </h1>
+        {%- include top-post-meta.html -%}
+    </header>
 
-	<div class="post-content e-content" itemprop="articleBody">
-		{% comment %} {% assign content_list = content | split: "
+    {%- include toc.html -%}
+
+    <div class="post-content e-content" itemprop="articleBody">
+        {% comment %} {% assign content_list = content | split: "
 		<hr />
 		" %} {% for sect in content_list %}
 		<section>
 			{{ sect }}
 			<hr />
 		</section>
-		{% endfor %} {% endcomment %} {{content}}
-	</div>
+		{% endfor %} {% endcomment %}
+        {{content}}
+    </div>
 
-	{%- if page.category -%} {%- include post-nav.html -%} {%- endif -%}
+    {%- if page.category -%}
+        {%- include post-nav.html -%}
+    {%- endif -%}
+	
 </article>
