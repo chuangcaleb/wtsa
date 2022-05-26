@@ -171,15 +171,16 @@ html {
 
 .post .post-meta {
 	text-align: left;
-	border-left: 2px solid gray;
+	border-left: 3px solid gray;
 	color: initial;
-	opacity: 0.6;
-	padding-left: 15px;
+	opacity: 0.5;
+	// padding-left: 15px;
+	padding-left: 18px;
 	margin-top: 20px;
 	@media only screen and (min-width: 800px) {
 		margin-top: 0px;
-		margin-left: -25px;
-		padding-left: 25px;
+		// margin-left: -25px;
+		// padding-left: 25px;
 	}
 }
 
