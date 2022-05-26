@@ -1,14 +1,17 @@
-<p class="post-meta">
-    Published on:
+<div class="post-meta">
+    📤 &nbsp;
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%-d %b %Y"-%}
-        {{ page.date | date: date_format }}
-    </time>
 
-    &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-                                    Last modified:
+        {{ page.date | date: site.date_format }}
+        &nbsp· &nbsp
+        {{ page.date | timeago }}
+    </time>
+    <br>
+    ✏️ &nbsp;
     <time class="dt-modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
-        {{ page.last_modified_at | date: '%d %b %Y' }}
+        {{ page.last_modified_at | date: site.date_format }}
+        &nbsp· &nbsp
+        {{ page.last_modified_at | timeago }}
     </time>
 
 
@@ -55,12 +58,15 @@
         {% endif %}
     {%- endif -%} -->
 
-    <br/>
+    <br>
     <!-- {{ content | reading_time | pluralize: "min" }}
     read  &nbsp·   &nbsp{{content | count_words}}
     words -->
-    {{content | count_words}}
-    words &nbsp· &nbsp
-    {{ content | reading_time | pluralize: "min" }}
-    read
-</p>
+    <div style="margin-top:10px;">
+        ⏱ &nbsp
+        {{content | count_words}}
+        words &nbsp· &nbsp
+        {{ content | reading_time | pluralize: "min" }}
+        read
+    </div>
+</div>

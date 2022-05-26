@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-toc'
   # https://github.com/gjtorikian/jekyll-last-modified-at
   gem 'jekyll-last-modified-at'
+  gem 'jekyll-timeago'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -41,4 +42,3 @@ gem 'jekyll-sitemap'
 gem 'jekyll-titles-from-headings'
 gem 'liquid_reading_time'
 gem 'liquid_pluralize'
-

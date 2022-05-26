@@ -26,7 +26,7 @@ baseurl: "/wtsa" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: whatsthestoryabout
 github_username: chuangcaleb
-
+date_format: "%d %b %Y"
 
 # Build settings
 theme: minima
@@ -37,6 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
   - jekyll-titles-from-headings
+  - jekyll-timeago
   - liquid_reading_time
   - liquid_pluralize
 
@@ -118,3 +119,6 @@ wikilinks:
   exclude: []
 # last-modified-at:
 #     date-format: '%d %b %Y'
+
+jekyll_timeago:
+  depth: 2
