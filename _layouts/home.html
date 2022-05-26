@@ -17,11 +17,12 @@ layout: default
 
                     {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
 
-                    <span class="post-meta">Published on:
+                    <span class="post-meta">
 
                         {{ post.date | date: date_format }}
 
-                        {%- if post.category -%}&nbsp-
+                        {%- if post.category -%}
+                            &nbsp-
                             <a class="category-link" href="{{ post.category | replace: ' ', '-' | relative_url }}">
                                 {{ post.category | escape }}
                             </a>
