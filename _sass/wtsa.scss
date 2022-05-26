@@ -65,7 +65,7 @@ html {
 .page-content {
 	line-height: 1.7;
 
-	.page-heading,
+	.page-title,
 	.post-title {
 		font-size: 38px;
 		line-height: 1.5;
@@ -237,7 +237,7 @@ iframe {
 	text-decoration: none;
 }
 
-// * Home ----------------------------------------------------------------------
+// * Lists ---------------------------------------------------------------------
 
 // .home hr,
 // .category hr {
@@ -254,9 +254,9 @@ iframe {
 	}
 }
 
-// .post-list {
-// 	margin-top: 30px;
-// }
+.post-list {
+	margin-top: 40px;
+}
 
 // * Table of Contents ---------------------------------------------------------
 

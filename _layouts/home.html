@@ -4,33 +4,40 @@ layout: default
 
 <div class="home">
 
+    <h1 class="page-title">🔄 All Recent Posts</h1>
+
     {{ content }}
 
     {%- if site.poosts.size > 0 -%}
-        <h1 class="post-list-heading">🔄 All Recent Posts</h1>
         <ul class="post-list">
 
             {%- for post in site.poosts reversed-%}
+
                 <li>
+
                     {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+
                     <span class="post-meta">Published on:
+
                         {{ post.date | date: date_format }}
+
                         {%- if post.category -%}&nbsp-
                             <a class="category-link" href="{{ post.category | replace: ' ', '-' | relative_url }}">
                                 {{ post.category | escape }}
                             </a>
                         {%- endif -%}
+
                     </span>
 
                     <a class="post-link" href="{{ post.url | relative_url }}">
                         {{ post.title | escape }}
                     </a>
 
-
                     <!-- {% assign ep = post.excerpt | split: '</h1>' %}
 					{{ ep[1] }} -->
 
                 </li>
+
             {%- endfor -%}
 
         </ul>

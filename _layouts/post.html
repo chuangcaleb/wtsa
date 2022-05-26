@@ -8,10 +8,10 @@ layout: default
         <h1 class="post-title p-name" itemprop="name headline">
             {{ page.title | escape }}
         </h1>
-        {%- include top-post-meta.html -%}
+        {%- include post/top-post-meta.html -%}
     </header>
 
-    {%- include toc.html -%}
+    {%- include post/toc.html -%}
 
     <div class="post-content e-content" itemprop="articleBody">
         {% comment %} {% assign content_list = content | split: "
@@ -26,7 +26,7 @@ layout: default
     </div>
 
     {%- if page.category -%}
-        {%- include post-nav.html -%}
+        {%- include post/post-nav.html -%}
     {%- endif -%}
-	
+
 </article>
