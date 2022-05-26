@@ -41,4 +41,4 @@ gem 'jekyll-sitemap'
 gem 'jekyll-titles-from-headings'
 gem 'liquid_reading_time'
 gem 'liquid_pluralize'
-gem 'jekyll-regex-replace'
+

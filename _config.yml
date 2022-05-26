@@ -37,7 +37,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
   - jekyll-titles-from-headings
-  - jekyll-regex-replace
   - liquid_reading_time
   - liquid_pluralize
 
