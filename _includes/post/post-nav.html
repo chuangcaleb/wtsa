@@ -1,9 +1,10 @@
 <div class="post-nav">
 
-    <a class="category-link" href="{{ page.category | replace: ' ', '-' | relative_url }}">
-        Category:
-        {{ page.category | escape }}
-    </a>
+    <span class="category-link">Category:
+        <a href="{{ page.category | regex_replace: '([^A-Za-z0-9 ]) ', '' | replace: ' ', '-' | relative_url }}">
+            {{ page.category | escape }}
+        </a>
+    </span>
 
     {% assign category = page.categories[0] %}
     {% assign posts = site.poosts | where: "category", category %}
