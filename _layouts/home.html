@@ -19,8 +19,12 @@ layout: default
 
                         {{ post.date | date: site.date_format }}
 
+                        <!-- {{ post.date | date: site.date_format }}
+                        &nbsp· &nbsp
+                        {{ post.date | timeago }} -->
+
                         {%- if post.category -%}
-                            &nbsp-
+                            &nbsp&nbsp
                             <a class="category-link" href="{{ post.category | replace: ' ', '-' | relative_url }}">
                                 {{ post.category | escape }}
                             </a>

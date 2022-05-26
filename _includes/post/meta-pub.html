@@ -1,0 +1,5 @@
+<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    {{ page.date | date: site.date_format }}
+    &nbsp· &nbsp
+    {{ page.date | timeago }}
+</time>
