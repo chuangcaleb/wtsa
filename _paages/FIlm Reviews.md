@@ -2,6 +2,6 @@
 layout: category
 ---
 
-# Film Reviews
+# 🎬 Film Reviews
 
 A list of all my reviews of films!

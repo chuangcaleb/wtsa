@@ -2,13 +2,13 @@
 layout: category
 ---
 
-# The Greatest Showman Series
+# 🎪 The Greatest Showman Series
 
 You can find the older 2017 version of the screenplay at [The Greatest Showman (2017) Film Script – Script Slug](https://www.scriptslug.com/script/the-greatest-showman-2017). It's so interesting how story changes and metamorphosises?
 
 <!--more-->
 
-Quick list of posts of this category:
+<!-- Quick list of posts of this category:
 
 - [[The Greatest Show Prologue – Analysis]]
 - [[A Million Dreams – Analysis]]
@@ -20,4 +20,4 @@ Quick list of posts of this category:
 - [[Tightrope – Analysis]]
 - [[From Now On – Analysis]]
 - [[The Greatest Show Finale – Analysis]]
-- [[The Greatest Showman – Series Reflection]]
+- [[The Greatest Showman – Series Reflection]] -->
