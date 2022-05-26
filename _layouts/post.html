@@ -7,7 +7,7 @@ layout: default
     {%- if page.categories -%}
         <span class="breadcrumbs post-breadcrumbs">
             <a href="/wtsa/browse">~</a> / 
-            <a class="category-link" href="{{ page.category | replace: ' ', '-' | relative_url }}"> 
+            <a class="category-link" href="{{ page.category | regex_replace: '([^A-Za-z0-9 ]) ', '' | replace: ' ', '-' | relative_url }}"> 
                 {{ page.category | escape }}
             </a> /
         </span>

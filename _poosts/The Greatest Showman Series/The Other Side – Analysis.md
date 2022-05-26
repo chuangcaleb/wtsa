@@ -1,6 +1,6 @@
 ---
 aliases: The Other Side
-category: The Greatest Showman Series
+category: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2019-11-29
 ---

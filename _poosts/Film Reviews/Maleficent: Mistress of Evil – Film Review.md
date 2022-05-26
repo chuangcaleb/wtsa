@@ -1,5 +1,5 @@
 ---
-category: Film Reviews
+category: 🎬 Film Reviews
 date: 2019-11-12
 ---
 
@@ -26,7 +26,7 @@ Queen Ingrith should be the one to do a twisted intro narration recap of the fir
 And, Mal will have action beats to disprove the specific lines from the narration: that though she's
 cynical and cold, she's also fiercely protective and kindhearted.
 
-### 2. The Main Relationship didn't get enough screen time 
+### 2. The Main Relationship didn't get enough screen time
 
 The CGI visuals were astounding, and a lot of solid work went into fae worldbuilding. But, I felt the Main Relationship (Mal and Aurora) didn't get enough screen time as a result.
 

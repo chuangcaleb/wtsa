@@ -20,11 +20,11 @@ layout: default
   {%- if site.poosts.size > 0 -%}
       <ul class="post-list">
 
-        {% assign sanit_title = page.title | regex_replace: '([^A-Za-z ]) ', '' %}
+        <!-- {% assign sanit_title = page.title | regex_replace: '([^A-Za-z0-9 ]) ', '' %} -->
 
           {%- for post in site.poosts-%}
             
-                {%- if post.category == sanit_title %}
+                {%- if post.category == page.title %}
                   <li>
 
                       {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}

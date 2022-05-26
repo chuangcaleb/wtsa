@@ -1,6 +1,6 @@
 ---
 title: "Over The Moon – Film Review"
-category: Film Reviews
+category: 🎬 Film Reviews
 date: 2022-05-25
 aliases: Over the Moon
 jekyllcss: colored-code/over-the-moon
@@ -85,6 +85,7 @@ CHANG’E
 You can’t stay here. You’ll only
 end up lonely for all eternity, like me.
 ```
+
 ```screenplay-edited
 Fei Fei shakes her head in saddened disbelief. She softens.
 
@@ -180,6 +181,7 @@ All the while, Fei Fei is just watching passively.
 What if, the reason why Haoyi cannot stay is because **`Fei Fei had asked for a portion of the potion to revive her mother, and there wasn't enough potion between them after they apportioned it.`**
 
 **So, imagine**, Fei Fei runs into Chang'e's throne room with the half-amulet and seconds to spare.
+
 ```screenplay
 Fei Fei presents Chang’e with the amulet.
 
@@ -194,6 +196,7 @@ Chang’e BEAMS.
 CHANG’E
 Of course, the other half of the Amulet!
 ```
+
 ```screenplay-edited
 Chang'e reaches out for the Amulet -- but Fei Fei pulls it back.
 
@@ -233,7 +236,7 @@ Chang'e locks herself in the Chamber of Exquisite Sadness, and `Fei Fei reacts n
 
 A small and passable plot hole: Mrs. Zhong gave Fei Fei a special mooncake (without dates) on their first Mid-Autumn festival together. Fei Fei retreats to her room and expresses her distaste aloud, shoving the mooncake in her drawer. Then, we get a timelapse of Fei Fei building her rocket, which must've taken at least a few months, or even years. Finally, Fei Fei flies to the moon, and realises she needed the half-amulet in Mrs. Zhong's mooncake that she packed for food. The months-old, stale mooncake.
 
-Furthermore, Chang'e announces the competition to find "the Gift". The plot requires it to be ambiguous, because Fei Fei had to first assume that it referred to the doll. However, the idea of "the Gift" isn't developed much neither does it mean much. A story element can be mysterious *and* meaningful. 
+Furthermore, Chang'e announces the competition to find "the Gift". The plot requires it to be ambiguous, because Fei Fei had to first assume that it referred to the doll. However, the idea of "the Gift" isn't developed much neither does it mean much. A story element can be mysterious *and* meaningful.
 
 **I suggest this nice rewrite:** on the first Mid-Autumn Festival, Mrs. Zhong offers Fei Fei a special mooncake. `However, what if Fei Fei straight up refuses this mooncake, but` **`Mrs. Zhong gave a "special" mooncake every year.`**
 
@@ -243,6 +246,7 @@ I saved you a special mooncake from my hometown... without dates.
 
 Mrs. Zhong hands Fei Fei a SMALL TIN BOX.
 ```
+
 ```screenplay-edited
 FEI FEI
 (uninterested)
@@ -253,6 +257,7 @@ Fei Fei pushes it back. Mrs. Zhong doesn't take it back.
 MRS. ZHONG
 Just... open it. It's my special GIFT.
 ```
+
 ```screenplay
 [...]
 
@@ -261,9 +266,11 @@ INT. FEI FEI’S ROOM - THAT MOMENT
 FEI FEI
 “Get used to him?” I’ll never get used to him! What’s so “special” about your mooncake?
 ```
+
 ```screenplay-edited
 Fei Fei tosses it out her window.
 ```
+
 ```screenplay
 FEI FEI (CONT'D)
 I don’t want IT... Urgh! And I don’t want YOU.
@@ -277,9 +284,11 @@ Fei Fei sneaks past her father, napping on the couch.
 FEI FEI
 I'll prove it to you, baba.
 ```
+
 ```screenplay
 She grabs her moon boots and heads out the front door--
 ```
+
 ```screenplay-edited
 MRS. ZHONG
 Where are you going so late at night, Fei Fei?
@@ -319,7 +328,7 @@ Also, I thought this line would be cool: `"Just take one bite when you do feel h
 
 Fei Fei had to open her heart to Chin and Mrs. Zhong, and we had the entire Act 1 to explore and develop her relationships. Chang'e had to open her heart too, presumably to Gobi, Jade Rabbit and the Lunarians.
 
-While we see the others express their love to Chang'e in different ways, it is usually passively without Chang'e in the scene. For example, Gobi telling Fei Fei about Chang'e on the Space Frogs, and Jade Rabbit making his potion in his lab by himself. 
+While we see the others express their love to Chang'e in different ways, it is usually passively without Chang'e in the scene. For example, Gobi telling Fei Fei about Chang'e on the Space Frogs, and Jade Rabbit making his potion in his lab by himself.
 
 Since Chang'e isn't in these scenes, **Chang'e isn't shown to actively reject her new love**. Since we got to see Fei Fei's active rejection in Act 1, it makes her active acceptance in Act 3 all the more powerful.
 
@@ -396,9 +405,9 @@ Fei Fei and Chang'e are very nicely mirrored characters. Quite strong characters
 
 #### Meaning of names
 
-Also. Fei Fei (飞飞) literally means "fly". Her character goes on to try to build a rocket to fly away from the gravity of earth and the sting of depression. 
+Also. Fei Fei (飞飞) literally means "fly". Her character goes on to try to build a rocket to fly away from the gravity of earth and the sting of depression.
 
-A month or two after watching the movie, I read the official script for the movie, reading the names as transliterated English, and got sucker punched in the face. 
+A month or two after watching the movie, I read the official script for the movie, reading the names as transliterated English, and got sucker punched in the face.
 
 Chang'e is a character who wants to bring back who she lost in her past, stubbornly refusing the new and good reality of the present/future. The very thing that Chang'e has to learn to accept in order to grow, is hidden in her name all this time: *Change*.
 
@@ -433,7 +442,7 @@ Lol.
 
 And, there's also Fei Fei defending Chang'e from her aunties' attacks. This is the moment it really clicked for me, how Chang'e's story would be reflected in the protagonist, Fei Fei. Fei Fei defends Chang'e from her aunties, when really, the subtext is that **she's defending herself**.
 
-When Fei Fei asserts that Chang'e definitely *"misses Houyi and cries for him every day!"*, she's really saying that she herself misses her mother and cries for her every day. When Fei Fei cries that *"Chang'e is REAL! She’s on the moon right now! Waiting for her one and only true love. Waiting..."*, she is actually arguing that love that holds on to lost loved ones is *real* and *valid.* 
+When Fei Fei asserts that Chang'e definitely *"misses Houyi and cries for him every day!"*, she's really saying that she herself misses her mother and cries for her every day. When Fei Fei cries that *"Chang'e is REAL! She’s on the moon right now! Waiting for her one and only true love. Waiting..."*, she is actually arguing that love that holds on to lost loved ones is *real* and *valid.*
 
 So when the aunties playfully attack Chang'e, it is no wonder (to us, the audience) that Fei Fei takes it so personally and deeply. Attacking Chang'e is attacking Fei Fei. I thought this dinner scene was really neat.
 
@@ -462,13 +471,13 @@ FEI FEI
 Forget it, all right?
 ```
 
-A clever trick is used here: the setups for leapfrog and bat-hanging were already paid off, but the last setup about "running through walls" was not paid off yet, so the expectation for this final payoff gets to grow higher in anticipation. This is based on [the rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(writing)). 
+A clever trick is used here: the setups for leapfrog and bat-hanging were already paid off, but the last setup about "running through walls" was not paid off yet, so the expectation for this final payoff gets to grow higher in anticipation. This is based on [the rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(writing)).
 
-Interestingly, Chin had already tried beforehand to jailbreak himself out of the ping-pong arena. But that failed, and we the audience simply writes off that payoff, done and dusted. But then Gobi brings up that the first two setups proved to be truly useful, and brings up the running through walls again but leaving it very open-endedly. This idea is back into play, and according to the *rule of three*, we the audience can expect that Chin will eventually run through some wall in a spectacular manner. 
+Interestingly, Chin had already tried beforehand to jailbreak himself out of the ping-pong arena. But that failed, and we the audience simply writes off that payoff, done and dusted. But then Gobi brings up that the first two setups proved to be truly useful, and brings up the running through walls again but leaving it very open-endedly. This idea is back into play, and according to the *rule of three*, we the audience can expect that Chin will eventually run through some wall in a spectacular manner.
 
 And surely enough, this was finally paid off in the climax, where the emotional stakes are at its peak.
 
-I also appreciated the sequence of events for breaking the "impenetrable barrier". We first had Bungee use her newfound purple-lightning-magic-ear-powers, which was already setup in previous scenes to show how ridiculously powerful it was. 
+I also appreciated the sequence of events for breaking the "impenetrable barrier". We first had Bungee use her newfound purple-lightning-magic-ear-powers, which was already setup in previous scenes to show how ridiculously powerful it was.
 
 But even lightning-magic fails to break the barrier, making the disaster very grim, because Bungee was supposed to be the ace-up-the-sleeve, their best bet. Then, when Chin *does* succeed, it proves that Chin's love is stronger than magic.
 

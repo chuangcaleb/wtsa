@@ -1,5 +1,5 @@
 ---
-category: The Greatest Showman Series
+category: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2020-02-14
 aliases: This is Me

@@ -1,5 +1,5 @@
 ---
-category: The Greatest Showman Series
+category: 🎪 The Greatest Showman Series
 date: 2020-04-07
 ---
 

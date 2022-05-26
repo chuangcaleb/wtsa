@@ -24,8 +24,8 @@ layout: default
                         {{ post.date | timeago }} -->
 
                         {%- if post.category -%}
-                            &nbsp&nbsp
-                            <a class="category-link" href="{{ post.category | replace: ' ', '-' | relative_url }}">
+                            &nbsp
+                            <a class="category-link" href="{{ post.category | regex_replace: '([^A-Za-z ]) ', '' | replace: ' ', '-' | relative_url }}">
                                 {{ post.category | escape }}
                             </a>
                         {%- endif -%}

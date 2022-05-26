@@ -1,6 +1,6 @@
 ---
 aliases: From Now On
-category: The Greatest Showman Series
+category: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2020-03-20
 ---
