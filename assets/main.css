@@ -330,7 +330,7 @@ iframe { margin: auto; display: block; margin-top: 20px; margin-bottom: 20px; }
 
 .post-nav { padding: 20px 0px; margin-top: 50px; border-top: 3px solid rgba(227, 227, 227, 0.5); border-bottom: 3px solid rgba(227, 227, 227, 0.5); border-radius: 30pt; }
 
-.post-nav a.category-link { margin: auto; width: fit-content; display: block; margin-bottom: 5px; box-sizing: border-box; }
+.post-nav .category-link { margin: auto; width: fit-content; display: block; margin-bottom: 5px; box-sizing: border-box; }
 
 .post-nav-pn { display: flex; justify-content: space-between; flex-wrap: wrap; }
 
