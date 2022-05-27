@@ -25,7 +25,7 @@ layout: default
 
                         {%- if post.category -%}
                             &nbsp
-                            <a class="category-link" href="{{ post.category | regex_replace: '([^A-Za-z ]) ', '' | replace: ' ', '-' | relative_url }}">
+                            <a class="category-link" href="{{ post.category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}">
                                 {{ post.category | escape }}
                             </a>
                         {%- endif -%}

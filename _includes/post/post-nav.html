@@ -1,7 +1,7 @@
 <div class="post-nav">
 
     <span class="category-link">Category:
-        <a href="{{ page.category | regex_replace: '([^A-Za-z0-9 ]) ', '' | replace: ' ', '-' | relative_url }}">
+        <a href="{{ page.category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}">
             {{ page.category | escape }}
         </a>
     </span>
