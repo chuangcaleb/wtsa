@@ -1,7 +1,12 @@
 <div class="post-meta">
-    📤 &nbsp;{% include post/meta-pub.html %}
-    <br>
-    ✏️ &nbsp{% include post/meta-edit.html %}
+
+    <div>
+        📤 &nbsp;{% include post/meta-pub.html %}
+    </div>
+
+    <div>
+        ✏️ &nbsp{% include post/meta-edit.html %}
+    </div>
 
 
     <!-- {%- if page.categories -%}
@@ -47,15 +52,29 @@
         {% endif %}
     {%- endif -%} -->
 
-    <br>
+
+    <div style="height:10px"></div>
+
     <!-- {{ content | reading_time | pluralize: "min" }}
     read  &nbsp·   &nbsp{{content | count_words}}
     words -->
-    <div style="margin-top:10px;">
+    {%- if page.link-label -%}
+        <div class="meta-link-div">
+            <emj>🔗</emj> &nbsp
+
+            <a href="{{page.link-href}}">
+                {{page.link-label}}
+            </a>
+        </div>
+            
+    {%-endif-%}
+
+    <div>
         ⏱ &nbsp
         {{content | count_words}}
         words &nbsp·&nbsp
         {{ content | reading_time | pluralize: "min" }}
         read
     </div>
+
 </div>

@@ -35,6 +35,12 @@ layout: default
         {{content}}
     </div>
 
+    {%- if page.link-label -%}
+        <a href="{{page.link-href}}" class="post-extlink">
+            🔗 &nbsp {{page.link-label}}
+        </a>
+    {%-endif-%}
+
     {%- if page.category -%}
         {%- include post/post-nav.html -%}
     {%- endif -%}
