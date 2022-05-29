@@ -437,3 +437,16 @@ pre {
 // .highlighter-rouge .highlight {
 // 	background: rgb(238, 238, 248);
 // }
+
+code.language-plaintext.highlighter-rouge {
+	color: var(--theme-color);
+	background-color: initial;
+}
+
+html pre code.language-screenplay-edited {
+	color: var(--theme-color);
+}
+
+strong code {
+	text-decoration: underline;
+}

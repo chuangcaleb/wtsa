@@ -1,10 +1,9 @@
 ---
-title: "Over The Moon – Film Review"
 category: 🎬 Film Reviews
 date: 2022-05-25
 aliases: Over the Moon
 jekyllcss: colored-code/over-the-moon
-cssclass: screenplay
+cssclass: wtsa
 # banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
 # banner_y: 0.444
 ---
