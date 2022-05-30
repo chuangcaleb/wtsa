@@ -1,0 +1,14 @@
+:root {
+	--theme-color: #a32020;
+	/* --theme-color: #db4b4b; */
+}
+
+html[data-theme="dark"] {
+	--theme-color: #d84c4c;
+}
+
+/* p:has(strong code) {
+	border-left: 4px solid #65ab99;
+	padding-left: 10px;
+	border-radius: 5px;
+} */
