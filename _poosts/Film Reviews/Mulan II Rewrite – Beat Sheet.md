@@ -51,9 +51,18 @@ Scene headers are labelled accordingly:
 - Huns Soldiers + Huns Leader
 - Fa Zhou (Mulan’s dad), Mama Fa, Grandma Fa
 
+
+### Rewrite Story Structure
+{:.no_toc}
+- seed list
+{:toc}
+
+---
+
 ## Act 1
 
-<h3 class="no_toc">1.x - Mushu intro - CUT</h3>
+### `1.x - Mushu intro - CUT`
+{:.no_toc}
 
 ### `1.1 Princesses Intro - NEW`
 
@@ -63,7 +72,8 @@ Scene headers are labelled accordingly:
 - `The Queen sings Who Could Ever Ask For More (Like Other Girls’ intro):` *`Playing your role is the ultimate thing you can do.`*
 - `By the end, the girls are all emotional and just bury their faces in their mom’s chest. She wants to scold them for breaking posture again — but decides otherwise, wrapping herself around them.`
 
-<h3 class="no_toc"><code>1.x Family Intro - CUT</code></h3>
+### `1.x Family Intro - CUT`
+{:.no_toc}
 
 ### 1.2 Mulan Intro
 
@@ -88,7 +98,8 @@ Scene headers are labelled accordingly:
 - `He realises. Bragging doesn’t matter anymore: he will lose Mulan.`
 - `The ancestors dare Mushu: how honourable are you, really? Will you keep to your duty to see the marriage through, even if it means losing Mulan?`
 
-<h3 class="no_toc"><code>1.x Mushu Hatches His Plan - CUT</code></h3>
+### `1.x Mushu Hatches His Plan - CUT`
+{:.no_toc}
 
 ### 1.4 Differences
 
@@ -428,13 +439,13 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `Qin is incredulous. He’s about to pronounce a death sentence.`
 - `“Dishonour!” Chien-Po cries from the crowd. “Dishonour on you!” some citizen echoes. “I will fight! For honour!” The courtyard is in uproar.`
 - `Qin looks around panickingly. He’s baffled. “Okay! Okay!” He bows at Mulan’s feet. “Please! Please give us the honour to make the alliance with you!”`
-- `Shang stares off into the sky, “I understand now, dad: one grain of rice *can* tip the scale.”`
+- `Shang stares off into the sky, “I understand now, dad: one grain of rice `*`can`* `tip the scale.”`
 
 ### `3.7 The Three Reunited - NEW`
 
 - `Back home, The Gang of Three are tossed at the Emperor’s feet.`
 - `Some soldier accuses, “These guards sabotaged the mission! Their duty was to protect the princesses, but they only flirted with them and put them in danger!”`
-- `The princesses step out, “These men *have* protected us, besides saving our kingdom?! And most of all… they brought *honour* to us.”`
+- `The princesses step out, “These men` *`have`* `protected us, besides saving our kingdom?! And most of all… they brought` *`honour`* `to us.”`
 - `“We will cut our royalty ties, and live as nobodies, if it means to be with them.”`
 - `The Emperor raises an amused eyebrow. What happens is left vague.`
 
