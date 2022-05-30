@@ -71,9 +71,10 @@
 
     <div>
         ⏱ &nbsp
-        {{content | count_words}}
+        <!-- {{content | count_words}} -->
+        {{content | number_of_words}}
         words &nbsp·&nbsp
-        {{ content | reading_time | pluralize: "min" }}
+        {{ content | number_of_words | divided_by: 270 | pluralize: "min" }}
         read
     </div>
 
