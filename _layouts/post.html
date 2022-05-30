@@ -41,8 +41,23 @@ layout: default
         </a>
     {%-endif-%}
 
+
+    {%- if page.related -%}
+        <div class="related-posts">
+            <h2>Related posts:</h2>
+            {%- for post_title in page.related -%}
+                <ul><li>
+                    <a href="{{ post_title | slugify }}">
+                        {{post_title}}
+                    </a>
+                </li></ul>
+            {%- endfor -%}
+        </div>
+    {%- endif -%}
+
     {%- if page.category -%}
         {%- include post/post-nav.html -%}
     {%- endif -%}
+
 
 </article>
