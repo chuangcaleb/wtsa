@@ -18,4 +18,4 @@ Now, with this website, I can just export it to HTML and locally link it here!
 
 <iframe class="html" src="/wtsa/assets/F2Rewrite-Screenplay.html" width="100%" height="900px"  marginheight="0" marginwidth="0">Loading…</iframe>
 
-Again, like the [[Frozen 2 Rewrite – Beat Sheet#F2R Commentary|Frozen II Rewrite Commentary]], I stopped development at one point, and this one was because my studies were about to start again. Nevertheless, it is a very good writing experience that I learnt lots from and got to put into practice, and I hope to finish this screenplay format.
+Again, like the [[Frozen II Rewrite – Beat Sheet#F2R Commentary|Frozen II Rewrite Commentary]], I stopped development at one point, and this one was because my studies were about to start again. Nevertheless, it is a very good writing experience that I learnt lots from and got to put into practice, and I hope to finish this screenplay format.
