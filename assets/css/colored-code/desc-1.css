@@ -1,0 +1,9 @@
+:root {
+	--theme-color: #837bd5;
+}
+
+/* p:has(strong code) {
+	border-left: 4px solid #65ab99;
+	padding-left: 10px;
+	border-radius: 5px;
+} */
