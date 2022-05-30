@@ -4,7 +4,7 @@ date: 2021-11-27
 aliases: Mulan II Rewrite
 jekyllcss: colored-code/mulan
 cssclass: wtsa
-# related:
+related: "Mulan II – Film Review"
 ---
 # Mulan II Rewrite – Beat Sheet
 
