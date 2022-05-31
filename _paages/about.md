@@ -9,7 +9,7 @@ emoji: ❓
 
 Hello there—my name is Caleb!
 
-I'm a ~~`final-year` student~~ procrastinating his dissertation for his Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/).
+I'm ~~a final-year student procrastinating his dissertation for his~~ an unemployed graduate of a Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/).
 
 ## I also really, really love **story**
 
