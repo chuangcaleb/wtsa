@@ -4,6 +4,7 @@ date: 2021-05-30
 parents: [[Frozen II Rewrite]]
 link-label: F2 Rewrite (Screenplay) – HTML
 link-href: /wtsa/assets/F2Rewrite-Screenplay.html
+related: "Frozen II Rewrite – Beat Sheet"
 ---
 
 # Frozen II Rewrite – Screenplay
