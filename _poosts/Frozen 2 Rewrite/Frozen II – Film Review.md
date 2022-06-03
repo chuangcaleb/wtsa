@@ -49,7 +49,7 @@ A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example i
 
 ### 3. Kristoff
 
-Objectively, **Kristoff's subplot weighed the story down.** I get where they were going that Kristoff's love for Anna "is not that fragile", and that his love never changes. But if you can cut a subplot, you cut it. It doesn't really contribute. There was a lot of distracting and uncharacteristic dialogue and conflict for the sake of conflict between Anna and Kristoff. The proposal felt VERY out of place in the climax; it could be saved after her coronation. 
+Objectively, **Kristoff's subplot weighed the story down.** I get where they were going that Kristoff's love for Anna "is not that fragile", and that his love never changes. But if you can cut a subplot, you cut it. It doesn't really contribute. There was a lot of distracting and uncharacteristic dialogue and conflict for the sake of conflict between Anna and Kristoff. The proposal felt VERY out of place in the climax; it could be saved after her coronation.
 
 But there's other ways Kristoff can contribute; he's such, such a complex character. `He fits better with the Arendelle soldiers who are skeptical about magic, just as he was once skeptical about love. You could also meld Ryder with Mattias into one character: make them/him very stoic and distant at first, being the king's guard, like Kristoff initially was in F1. But Mattias loves reindeer too, and Kristoff can use that bond between man and reindeer to show Mattias his love for Anna, and by extension, the love Arendelle should have for Northuldria.`
 
@@ -65,21 +65,19 @@ I have to compare Elsa's death with Anna's death in the first movie: we knew Ann
 
 Nitpicking: **the whole Avatar-Elsa-master-of-all-four-elements is not really touched on and is distracting at best**. `Just keep it simpla la and have only one water spirit because it relates to Elsa's ice and the whole water-is-memory and we see Elsa memory/water-bending and it makes sense. The other spirits can just be just normal Forest creatures who are angy. We still see the plot reveal of Elsa's-power-is-from-the-forest from a mile away — we don't need a hint that requires a whole I'm-the-fifth-element and other things to be part of the lore. We could still fit in a post credits where some girl in some other kingdom wakes up bending fire or smthn.`
 
-
-
 ## Things I Liked ❤️
 
 ### 1. Matured Character Development
 
-One moment that hit me was near the start after Elsa walked out of charades and into her room; Anna knocked on her door and Elsa said "Come in," which says a LOT, in the context of the first movie. 
+One moment that hit me was near the start after Elsa walked out of charades and into her room; Anna knocked on her door and Elsa said "Come in," which says a LOT, in the context of the first movie.
 
-Our ever-optimistic Anna was broken down all the way to barebones and she's tested for who she really is, and Olaf became "sadder and wiser", finally going through what all snowmen have to. 
+Our ever-optimistic Anna was broken down all the way to barebones and she's tested for who she really is, and Olaf became "sadder and wiser", finally going through what all snowmen have to.
 
 They've learnt in the first movie how you can't simply throw your heart around to anyone; they've learnt that love is free but comes at the greatest cost. Now they have to learn what happens when seasons change and all is lost.
 
 ### 2. Mature and Dark
 
-I mean, don't have grim for the sake of grim; but for a sequel whose predecessor was aimed at a young audience, they were willing to express mainly about loss and change and grief. Death of childhood figure (reminiscent of Bing Bong's death from Inside Out) hit hard, that one. Olaf's death was real, and meaningful. We jump from Anna cradling Olaf, to a wide shot of the forest, and then back to the cave, Anna's arms now empty. That was good. 
+I mean, don't have grim for the sake of grim; but for a sequel whose predecessor was aimed at a young audience, they were willing to express mainly about loss and change and grief. Death of childhood figure (reminiscent of Bing Bong's death from Inside Out) hit hard, that one. Olaf's death was real, and meaningful. We jump from Anna cradling Olaf, to a wide shot of the forest, and then back to the cave, Anna's arms now empty. That was good.
 
 Then there's war crimes and national secrets. on the one hand it feels a little too big-scale, but they do run a kingdom now.
 
@@ -87,9 +85,9 @@ Then there's war crimes and national secrets. on the one hand it feels a little 
 
 I was really confused at first at how **different the themes** of Frozen 1 line up with that of Frozen 2. I had many expectations and theories for sure, based off what has been established, like something about the **theme of love vs. fear in family**. Sequels need to develop the themes of the prior movie, with varying success across Kung Fu Panda, Toy Story, Wreck-it-Ralph, HTTYD, all the direct-to-video Disney films etc. Some stories just rehash the old theme with the same characyters going through the same character arcs. Other stories go off the opposite extreme deep end, cancelling out whatever they tried to say from the first movie.
 
-But coming in, the first two songs set the tone and **theme of change and truth in love**. I had to drop everything I thought I knew (heh, which is what one of the movie's messages) and just let myself enjoy the movie. Which was good, otherwise I would've been too intellectual all the way through. 
+But coming in, the first two songs set the tone and **theme of change and truth in love**. I had to drop everything I thought I knew (heh, which is what one of the movie's messages) and just let myself enjoy the movie. Which was good, otherwise I would've been too intellectual all the way through.
 
-And now in hindsight... the themes do relate strongly to the original, a development of he original, even — while still standing very apart on their own. I could never have predicted how it would develop. It's not clear at first, but it's a very tight, waterproof choice of theme. 
+And now in hindsight... the themes do relate strongly to the original, a development of he original, even — while still standing very apart on their own. I could never have predicted how it would develop. It's not clear at first, but it's a very tight, waterproof choice of theme.
 
 ### 4. Visuals
 
@@ -97,7 +95,7 @@ Interesting camera action/perspectives. The colours were really bold and vibrant
 
 ### 5. Musical motifs
 
-There were **familiar musical and thematic motifs from the first movie**, even if I wished they were more frequent and apparent. In just Some Things Never Change alone, you could hear parts of First Time in Forever (both songs mirror each other). The intro of Into The Unknown seems like a reordered and minor key-ed intro of Do You Want To Build A Snowman. Olaf melting, being frozen, [Vuelie (From "Frozen"/Score)](https://www.youtube.com/watch?v=hThEIOeMTgM). But this **level of familiarity is probably a good thing was probably a conscious choice to not milk the nostalgia** of the former hit as sequels are prone to do. They were similar but not repetitive. There was lots of new ground. 
+There were **familiar musical and thematic motifs from the first movie**, even if I wished they were more frequent and apparent. In just Some Things Never Change alone, you could hear parts of First Time in Forever (both songs mirror each other). The intro of Into The Unknown seems like a reordered and minor key-ed intro of Do You Want To Build A Snowman. Olaf melting, being frozen, [Vuelie (From "Frozen"/Score)](https://www.youtube.com/watch?v=hThEIOeMTgM). But this **level of familiarity is probably a good thing was probably a conscious choice to not milk the nostalgia** of the former hit as sequels are prone to do. They were similar but not repetitive. There was lots of new ground.
 
 ### 6. Self-awareness
 
