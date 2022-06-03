@@ -1,9 +1,7 @@
 :root {
-	--theme-color: #837bd5;
+	--theme-color: #362ac3;
 }
 
-/* p:has(strong code) {
-	border-left: 4px solid #65ab99;
-	padding-left: 10px;
-	border-radius: 5px;
-} */
+html[data-theme="dark"] {
+	--theme-color: #837bd5;
+}
