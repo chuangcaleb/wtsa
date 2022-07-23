@@ -129,11 +129,11 @@ html[data-theme="dark"] {
 			opacity: 0px;
 		}
 
-		@include media-query($on-laptop) {
-			.menu-icon > svg {
-				fill: rgba($dark-text-color, 80%);
-			}
-		}
+		// @include media-query($on-laptop) {
+		// 	.menu-icon > svg {
+		// 		fill: rgba($dark-text-color, 80%);
+		// 	}
+		// }
 	}
 
 	.post-nav-pn a:hover {
