@@ -1,12 +1,32 @@
-<div class="trigger">
+<nav class="col navbar navbar-expand-lg py-0">
+    <button aria-controls="offcanvasNavbar" class="navbar-toggler ms-auto" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas" type="button">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div aria-labelledby="offcanvasNavbarLabel" class="offcanvas offcanvas-end" data-bs-scroll="false" id="offcanvasNavbar" tabindex="1">
+        <div class="offcanvas-header pb-0">
 
-    {%- for path in page_paths -%}
-        {%- assign my_page = site.paages | where: "path", path | first -%}
-        {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.id | slice: 1, 99 | strip}}</a>
-        {%- endif -%}
-    {%- endfor -%}
-
-    <a class="page-link" href="https://linktr.ee/wtstorya">linktree</a>
-
-</div>
+            <h5 class="offcanvas-title">Navigation</h5>
+            <button aria-label="Close" class="btn-close" data-bs-dismiss="offcanvas" type="button"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div class="navbar-nav justify-content-end align-items-md-center flex-grow-1 pe-3">
+                {%- for link in site.data.nav -%}
+                    {%- if link == site_path -%}
+                        {% assign link_classes = "active-nav" %}
+                    {%-else-%}
+                        {% assign link_classes = "" %}
+                    {%-endif-%}
+                        <a
+                        class="page-link fs-6 p-2 p-lg-0 mx-lg-3 {{link_classes}}"
+                        href=" {{ link | relative_url }}"
+                        >
+                            {{ link | escape }}
+                        </a>
+                {%- endfor -%}
+                <a class="page-link fs-6 p-2 p-lg-0 ms-lg-3" href="https://linktr.ee/wtstorya" target="_blank" rel="noopener noreferrer">
+                    linktree
+                </a>
+            </div>
+        </div>
+    </div>
+</nav>

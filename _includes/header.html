@@ -1,63 +1,18 @@
 <header class="site-header mt-1 border-bottom" role="banner">
 
-    <nav class="navbar navbar-expand-lg col-lg-9 col-xl-7 py-0 mx-auto">
+   <div class="header-body container col-lg-9 col-xl-7 py-0 mx-auto row">
 
-        <a class="navbar-brand d-flex align-items-center page-link" rel="author" href="{{ "/" | relative_url }}">
-            <logo class="mx-1">
-                <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO">
-            </logo>
-            <h5 class="fs-4 fw-light m-0">
-                whatsthestoryabout
-            </h5>
-        </a>
+       <a class="col navbar-brand d-flex align-items-center page-link" rel="author" href="{{ "/" | relative_url }}">
+           <logo class="me-1">
+               <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO">
+           </logo>
+           <h5 class="fs-4 fw-light m-0">
+               whatsthestoryabout
+           </h5>
+       </a>
 
+       {% include nav-bar.html %}
 
-        <button aria-controls="offcanvasNavbar" class="navbar-toggler me-2 my-auto" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas" type="button">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+   </div>
 
-        <div aria-labelledby="offcanvasNavbarLabel" class="offcanvas offcanvas-end" data-bs-scroll="false" id="offcanvasNavbar" tabindex="1">
-
-            <div class="offcanvas-header pb-0">
-                
-                <h5 class="offcanvas-title">Navigation</h5>
-
-                <button aria-label="Close" class="btn-close" data-bs-dismiss="offcanvas" type="button"></button>
-
-            </div>
-
-            <div class="offcanvas-body">
-
-                <div class="navbar-nav justify-content-end align-items-md-center flex-grow-1 pe-3">
-
-                    {%- for link in site.data.nav -%}
-
-
-                        {%- if link == site_path -%}
-                            {% assign link_classes = "active-nav" %}
-                        {%-else-%}   
-                            {% assign link_classes = "" %}
-                        {%-endif-%}   
-
-                            <a 
-                            class="page-link fs-6 p-2 p-lg-0 mx-lg-3 {{link_classes}}" 
-                            href=" {{ link | relative_url }}"
-                            >
-                                {{ link | escape }}
-                            </a>
-
-
-                    {%- endfor -%}
-
-                    <a class="page-link fs-6 p-2 p-lg-0 ms-lg-3" href="https://linktr.ee/wtstorya" target="_blank" rel="noopener noreferrer">
-                        linktree
-                    </a>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </nav>
 </header>
