@@ -61,7 +61,7 @@ main hr {
 }
 
 html {
-	overflow-y: scroll;
+	// overflow-y: scroll;
 	scroll-behavior: smooth;
 }
 
@@ -449,5 +449,11 @@ html pre code.language-screenplay-edited {
 }
 
 strong code {
+	text-decoration: underline;
+}
+
+/* -------------------------------- BOOTSTRAP ------------------------------- */
+
+.page-link:hover {
 	text-decoration: underline;
 }

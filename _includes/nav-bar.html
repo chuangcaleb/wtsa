@@ -1,10 +1,12 @@
 <div class="trigger">
+
     {%- for path in page_paths -%}
         {%- assign my_page = site.paages | where: "path", path | first -%}
         {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.id | slice: 1, 99 | strip}}</a>
         {%- endif -%}
     {%- endfor -%}
+
     <a class="page-link" href="https://linktr.ee/wtstorya">linktree</a>
-    {%- include extensions/theme-toggle.html -%}
+
 </div>
