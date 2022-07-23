@@ -1,15 +1,19 @@
 <nav class="col navbar navbar-expand-lg py-0">
+
     <button aria-controls="offcanvasNavbar" class="navbar-toggler ms-auto" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas" type="button">
         <span class="navbar-toggler-icon"></span>
     </button>
+
     <div aria-labelledby="offcanvasNavbarLabel" class="offcanvas offcanvas-end" data-bs-scroll="false" id="offcanvasNavbar" tabindex="1">
         <div class="offcanvas-header pb-0">
 
             <h5 class="offcanvas-title">Navigation</h5>
             <button aria-label="Close" class="btn-close" data-bs-dismiss="offcanvas" type="button"></button>
         </div>
-        <div class="offcanvas-body">
-            <div class="navbar-nav justify-content-end align-items-md-center flex-grow-1 pe-3">
+
+        <div class="offcanvas-body d-flex flex-column">
+
+            <div class="navbar-nav justify-content-md-end align-items-md-center flex-grow-1">
                 {%- for link in site.data.nav -%}
                     {%- if link == site_path -%}
                         {% assign link_classes = "active-nav" %}
@@ -27,6 +31,25 @@
                     linktree
                 </a>
             </div>
+
+            <div class="nav-bar-meta d-md-none">
+                <a class="col navbar-brand d-flex align-items-center page-link" rel="author" href="{{ "/" | relative_url }}">
+                    <logo class="me-1">
+                        <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
+                    </logo>
+                    <h5 class="fw-light m-0">
+                        whatsthestoryabout
+                    </h5>
+                </a>
+                
+                <hr style="opacity:0.3;	margin-top: 15px; margin-bottom: 20px;">
+
+                {% include social.html %}
+
+            </div>
+
         </div>
+
     </div>
+
 </nav>

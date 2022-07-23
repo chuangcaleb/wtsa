@@ -17,28 +17,7 @@
 
         <hr style="opacity:0.3;	margin-top: 15px; margin-bottom: 20px;">
 
-        <div class="row row-cols-1 row-cols-md-2 g-0 m-1">
-
-            <div class="col">
-                <ul class="list-unstyled social-media-list">
-                    <li>
-                        <a href="https://github.com/chuangcaleb"  target="_blank" rel="noopener noreferrer" class="text-decoration-none">
-                            <i class="bi-github flex-shrink-0 me-2 text-muted"></i>chuangcaleb
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="https://instagram.com/whatsthestoryabout"  target="_blank" rel="noopener noreferrer" class="text-decoration-none">
-                            <i class="bi-instagram flex-shrink-0 me-2 text-muted"></i>whatsthestoryabout
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="col">
-                <p class="text-md-end text-muted">{{- site.description | escape -}}</p>
-            </div>
-        </div>
+        {% include social.html %}
 
     </div>
 
