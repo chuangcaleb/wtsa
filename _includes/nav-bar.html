@@ -17,33 +17,44 @@
 
                 {%- for link in site.data.nav -%}
 
-                    <a
-                    class="page-link fs-6 p-2 p-lg-0 mx-lg-3"
-                    href=" {{ link | relative_url }}"
-                    >
+                    <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3" href=" {{ link | relative_url }}">
                         {{ link | escape }}
                     </a>
                 {%- endfor -%}
 
-                <a class="page-link fs-6 p-2 p-lg-0 ms-lg-3" href="https://linktr.ee/wtstorya" target="_blank" rel="noopener noreferrer">
+                <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3" href="https://linktr.ee/wtstorya" rel="noopener noreferrer" target="_blank">
                     linktree
                 </a>
 
-            </div>
+                <div class="nav-bar-footer mt-auto">
 
-            <div class="nav-bar-footer d-md-none mt-3">
-                <a class="col navbar-brand d-flex align-items-center page-link" rel="author" href="{{ "/" | relative_url }}">
-                    <logo class="me-1">
-                        <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
-                    </logo>
-                    <h5 class="fw-light m-0">
-                        whatsthestoryabout
-                    </h5>
-                </a>
-                
-                <hr style="opacity:0.3;	margin-top: 15px; margin-bottom: 20px;">
+                    <div class="row g-0">
 
-                {% include social.html %}
+                        <a class="col navbar-brand d-flex align-items-center page-link d-md-none" rel="author" href="{{ "/" | relative_url }}">
+                            <logo class="me-1">
+                                <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
+                            </logo>
+                            <h5 class="fw-light m-0">
+                                whatsthestoryabout
+                            </h5>
+                        </a>
+
+                        <div class="col my-auto">
+                            <div class="form-check form-switch ms-lg-3 mb-0">
+                                <input class="form-check-input float-end" id="darkSwitch" type="checkbox"/>
+                                <script src="{{ site.baseurl }}/assets/js/dark-mode-switch/dark-mode-switch.min.js"></script>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <hr class="d-md-none" style="opacity:0.3;	margin-top: 15px; margin-bottom: 20px;">
+
+                    <div class="d-md-none">
+                        {% include social.html %}
+                    </div>
+
+                </div>
 
             </div>
 

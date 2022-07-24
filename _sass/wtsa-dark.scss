@@ -9,7 +9,9 @@ $dark-text-color: rgb(216, 215, 215) !default;
 // $dark-text-color: rgb(199, 193, 193) !default;
 $heading-lapel-color: #3d4256;
 
-html[data-theme="dark"] {
+[data-theme="dark"] {
+	background-color: $dark-background-alt-color;
+
 	:root {
 		color-scheme: dark;
 	}
@@ -44,17 +46,19 @@ html[data-theme="dark"] {
 		color: white;
 	}
 
-	main {
+	main,
+	footer,
+	#social-list {
 		a {
 			// color: rgb(140, 178, 228);
 			color: #61afef;
+			&:visited {
+				color: #277bc1;
+			}
+			&:hover {
+				color: #74a6cf;
+			}
 		}
-		a:hover {
-			color: #61afef;
-		}
-	}
-	a:visited {
-		color: #3e90d4;
 	}
 
 	h1,
@@ -243,5 +247,31 @@ html[data-theme="dark"] {
 
 	.html {
 		filter: invert(85%);
+	}
+
+	.text-muted {
+		color: gray !important;
+	}
+
+	.navbar-toggler {
+		border-color: gray;
+	}
+	#darkSwitch {
+		background-color: #3e90d4;
+	}
+	.page-link {
+		color: white;
+		&:hover {
+			color: white;
+		}
+	}
+	header button {
+		filter: invert(85%);
+	}
+	.offcanvas {
+		background-color: $dark-background-color;
+	}
+	hr {
+		border-color: white;
 	}
 }
