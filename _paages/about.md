@@ -1,15 +1,15 @@
 ---
 layout: page
-emoji: ❓
+emoji: 🤔
 ---
 
 # About
 
 ## What's *whatsthestoryabout* about?
 
-Hello there—my name is Caleb!
+Hello there — my name is Caleb!
 
-I'm ~~a final-year student procrastinating his dissertation for his~~ an unemployed graduate of a Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/).
+I'm an unemployed graduate of a Computer Science with AI degree. I've published a few random coding projects [here](https://github.com/chuangcaleb) and [there](https://www.planetminecraft.com/member/calebchan/). I play acoustic guitar, and I'm trying to get into keyboard.
 
 ## I also really, really love **story**
 
