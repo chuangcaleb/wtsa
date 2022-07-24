@@ -363,16 +363,16 @@ $toc-cutoff: 1300px;
 
 #table-of-contents ul {
 	list-style-type: none;
-	margin-left: 20px;
 	margin-top: 5px;
 }
 #table-of-contents ul li {
 	margin-bottom: 3px;
 }
 
-#toc.section-nav {
+#toc {
 	margin-left: 0px;
 	margin-bottom: 0px;
+	padding: 0px;
 }
 
 .toc-top-link a {
