@@ -6,19 +6,14 @@ $interactable-color: #2a7ae2;
 
 // * General -------------------------------------------------------------------
 
-#site {
-	overflow-y: hidden;
-}
+// #site {
+// 	overflow-y: hidden;
+// }
 
-logo > img {
-	vertical-align: bottom;
-	height: 50px;
-}
-
-logo {
-	transition-duration: 4s;
-	transition-delay: 1s;
-}
+// logo {
+// 	transition-duration: 4s;
+// 	transition-delay: 1s;
+// }
 
 .site-header {
 	border-top: 0px;
@@ -35,11 +30,11 @@ logo {
 	// 	}
 }
 
-.site-header,
-.page-content,
-.site-footer {
-	transition-duration: 2s;
-}
+// .site-header,
+// .page-content,
+// .site-footer {
+// 	transition-duration: 2s;
+// }
 
 blockquote {
 	margin-top: 40px;
@@ -88,7 +83,7 @@ html {
 		font-weight: 450;
 		// position: sticky;
 		background-color: $background-color;
-		transition-duration: 2s;
+		// transition-duration: 2s;
 	}
 
 	// h2 {
