@@ -53,10 +53,11 @@ $heading-lapel-color: #3d4256;
 			// color: rgb(140, 178, 228);
 			color: #61afef;
 			&:visited {
-				color: #277bc1;
+				color: #3d88c6;
 			}
 			&:hover {
 				color: #74a6cf;
+				text-decoration: underline;
 			}
 		}
 	}

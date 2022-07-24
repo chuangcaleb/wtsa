@@ -460,3 +460,10 @@ strong code {
 	-ms-overflow-style: none; /* IE and Edge */
 	scrollbar-width: none; /* Firefox */
 }
+
+body a {
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
+}
