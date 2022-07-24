@@ -166,47 +166,47 @@ $heading-lapel-color: #3d4256;
 	// 	border: none;
 	// }
 
-	.pagination {
-		.post-link {
-			color: $dark-text-color;
-		}
+	// .pagination {
+	// 	.post-link {
+	// 		color: $dark-text-color;
+	// 	}
 
-		.post-title {
-			a:visited:after {
-				background-color: $dark-background-color;
-			}
+	// 	.post-title {
+	// 		a:visited:after {
+	// 			background-color: $dark-background-color;
+	// 		}
 
-			a:after {
-				color: $dark-background-color;
-			}
-		}
+	// 		a:after {
+	// 			color: $dark-background-color;
+	// 		}
+	// 	}
 
-		.post-list {
-			& > li:not(:last-child) {
-				border-bottom: 1px solid #545454;
-			}
-		}
+	// 	.post-list {
+	// 		& > li:not(:last-child) {
+	// 			border-bottom: 1px solid #545454;
+	// 		}
+	// 	}
 
-		.post-tags .post-tag:hover {
-			color: #d7d7d7;
-		}
-	}
+	// 	.post-tags .post-tag:hover {
+	// 		color: #d7d7d7;
+	// 	}
+	// }
 
-	.page-segments {
-		li {
-			a {
-				color: #ddd;
-			}
+	// .page-segments {
+	// 	li {
+	// 		a {
+	// 			color: #ddd;
+	// 		}
 
-			a:visited:after {
-				background-color: $dark-background-color;
-			}
+	// 		a:visited:after {
+	// 			background-color: $dark-background-color;
+	// 		}
 
-			a:after {
-				color: $dark-background-color;
-			}
-		}
-	}
+	// 		a:after {
+	// 			color: $dark-background-color;
+	// 		}
+	// 	}
+	// }
 
 	.post .post-content {
 		img:not([raw]) {

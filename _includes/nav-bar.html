@@ -13,7 +13,7 @@
 
         <div class="offcanvas-body d-flex flex-column">
 
-            <div class="navbar-nav justify-content-md-end align-items-md-center flex-grow-1">
+            <div class="navbar-nav justify-content-lg-end align-items-lg-center flex-grow-1">
 
                 {%- for link in site.data.nav -%}
 
@@ -26,11 +26,11 @@
                     linktree
                 </a>
 
-                <div class="nav-bar-footer mt-auto">
+                <div class="nav-bar-footer mt-auto pt-3 pt-lg-0">
 
                     <div class="row g-0">
 
-                        <a class="col navbar-brand d-flex align-items-center page-link d-md-none" rel="author" href="{{ "/" | relative_url }}">
+                        <a class="col navbar-brand d-flex align-items-center page-link d-lg-none" rel="author" href="{{ "/" | relative_url }}">
                             <logo class="me-1">
                                 <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
                             </logo>
@@ -48,9 +48,9 @@
                     </div>
 
 
-                    <hr class="d-md-none" style="opacity:0.3;	margin-top: 15px; margin-bottom: 20px;">
+                    <hr class="d-lg-none" style="opacity:0.3;	margin-top: 15px; margin-bottom: 20px;">
 
-                    <div class="d-md-none">
+                    <div class="d-lg-none">
                         {% include social.html %}
                     </div>
 
