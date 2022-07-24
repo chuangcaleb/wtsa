@@ -9,15 +9,12 @@ layout: default
   
 	{%- if site.poosts.size > 0 -%}
 	
-	  <ul class="post-list">
+	  <ul class="post-list list-unstyled p-0">
   
 		{%- for page in site.paages-%}
 		  {%- if page.layout == "category" -%}
 			<li>
-				<a class="post-link" href="{{ page.url | relative_url }}">
-				  {%- if page.layout == "category" -%}
-				  <!-- Category:&nbsp -->
-				  {%- endif -%}
+				<a class="post-link fs-4" href="{{ page.url | relative_url }}">
 				  {{ page.title | escape }}
 				</a>
   

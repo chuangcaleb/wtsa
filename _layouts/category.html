@@ -18,7 +18,7 @@ layout: default
   {{ content }}
 
   {%- if site.poosts.size > 0 -%}
-      <ul class="post-list">
+      <ul class="post-list list-unstyled p-0">
 
         <!-- {% assign sanit_title = page.title | regex_replace: '([^A-Za-z0-9 ]) ', '' %} -->
 
@@ -30,11 +30,15 @@ layout: default
                       {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
                       <span class="post-meta">
                         {{ post.date | date: site.date_format }}
-                        &nbsp· &nbsp
-                        {{ post.date | timeago }}
+                        <span class="text-muted">
+                          &nbsp·&nbsp
+                          {{ post.date | timeago }}
+                        </span>
                       </span>
 
-                      <a class="post-link" href="{{ post.url | relative_url }}">
+                      <br>
+
+                      <a class="post-link fs-4" href="{{ post.url | relative_url }}">
                           {{ post.title | escape }}
                       </a>
 

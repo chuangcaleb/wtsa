@@ -10,7 +10,8 @@ layout: default
     <h1 class="page-title">🔄 All Recent Posts</h1>
 
     {%- if site.poosts.size > 0 -%}
-        <ul class="post-list">
+
+        <ul class="post-list list-unstyled p-0">
 
             {%- for post in site.poosts reversed-%}
 
@@ -18,11 +19,9 @@ layout: default
 
                     <span class="post-meta">
 
-                        {{ post.date | date: site.date_format }}
-
-                        <!-- {{ post.date | date: site.date_format }}
-                        &nbsp· &nbsp
-                        {{ post.date | timeago }} -->
+                        <span class="me-2">
+                            {{ post.date | date: site.date_format }}
+                        </span>
 
                         {%- if post.category -%}
                             <a class="category-link" href="{{ post.category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}">
@@ -32,7 +31,9 @@ layout: default
 
                     </span>
 
-                    <a class="post-link" href="{{ post.url | relative_url }}">
+                    <br>
+
+                    <a class="post-link fs-4" href="{{ post.url | relative_url }}">
                         {{ post.title | escape }}
                     </a>
 
