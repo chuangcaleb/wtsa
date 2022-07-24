@@ -15,21 +15,8 @@
 
             <div class="navbar-nav justify-content-md-end align-items-md-center flex-grow-1">
 
-                <!-- {% assign current_page = page.id | slice: 1, 99 %} -->
-
                 {%- for link in site.data.nav -%}
 
-                    <!-- {%- if link == current_page -%}
-                        {% assign link_classes = "text-muted" %}
-                    {%-else-%}
-                        {% assign link_classes = "" %}
-                    {%-endif-%}
-                    <a
-                    class="page-link fs-6 p-2 p-lg-0 mx-lg-3 {{link_classes}}"
-                    href=" {{ link | relative_url }}"
-                    >
-                        {{ link | escape }}
-                    </a> -->
                     <a
                     class="page-link fs-6 p-2 p-lg-0 mx-lg-3"
                     href=" {{ link | relative_url }}"
@@ -44,7 +31,7 @@
 
             </div>
 
-            <div class="nav-bar-meta d-md-none">
+            <div class="nav-bar-footer d-md-none mt-3">
                 <a class="col navbar-brand d-flex align-items-center page-link" rel="author" href="{{ "/" | relative_url }}">
                     <logo class="me-1">
                         <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
