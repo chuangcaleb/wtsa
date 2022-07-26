@@ -378,6 +378,9 @@ $toc-cutoff: 1300px;
 	margin-left: 0px;
 	margin-bottom: 0px;
 	padding: 0px;
+	ul {
+		padding-left: 1.2em;
+	}
 }
 
 .toc-top-link a {
@@ -406,23 +409,31 @@ $toc-cutoff: 1300px;
 // [class*='language-']
 code {
 	border: initial;
-	font-family: initial;
-	font-size: 1em;
+	font-size: 1em !important;
 	padding: initial;
-}
+	font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+		"Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji",
+		"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+} /* TODO: Remove important, */
 
 pre > code {
-	font-size: initial;
+	font-size: 1.1em !important;
 	color: black;
 	white-space: pre-wrap;
 	border: 20px;
 }
 
 pre {
-	padding: 10px 17%;
+	padding: 10px 15%;
 	border: 0px;
+	background-color: #f2f3f7;
 }
 
+@media only screen and (max-width: 800px) {
+	pre {
+		padding: 10px 3%;
+	}
+}
 // pre.highlight > code {
 // 	color: black;
 // 	white-space: pre-wrap;
@@ -439,9 +450,14 @@ pre {
 
 // pre code,
 code {
-	// code.language-plaintext.highlighter-rouge {
-	color: var(--theme-color);
+	color: var(--theme-color) !important;
 	background-color: initial;
+}
+
+pre code {
+	color: black !important;
+	font-family: "Courier New", Courier, monospace !important;
+	font-weight: 500;
 }
 
 html pre code.language-screenplay-edited {
@@ -471,4 +487,10 @@ body a {
 	&:hover {
 		text-decoration: underline;
 	}
+}
+
+a.active {
+	border-color: white;
+	border-width: 1px;
+	border-style: solid;
 }

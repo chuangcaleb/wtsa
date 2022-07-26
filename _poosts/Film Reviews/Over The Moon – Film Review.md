@@ -315,7 +315,7 @@ That's ok. Really. Just take one bite when you do feel hungry.
 Fei Fei grabs the mooncake, and without turning back, bolts out of the house.
 ```
 
-Mrs. Zhong hid the half-amulet in the mooncake, as a **special gift** to Fei Fei in an attempt to connect with her, and `Mrs. Zhong tries this every year during Mid-Autumn festival.`
+Mrs. Zhong hides the half-amulet in the mooncake, as a **special gift** to Fei Fei in an attempt to connect with her, and `Mrs. Zhong tries this every year during Mid-Autumn festival.`
 
 This year, when Fei Fei finally launches her rocket, `she skips the festival entirely in preparation for the launch. This causes Mrs. Zhong to stay up super late because she really cares and wants to make sure that Fei Fei is safe.`
 
