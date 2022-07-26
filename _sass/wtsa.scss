@@ -44,6 +44,10 @@ blockquote {
 	// background-color: #f7f7f7;
 	border: 1px solid #e8e8e8;
 	border-left: 8px solid #e8e8e8;
+	font-style: italic;
+	p {
+		font-weight: 300;
+	}
 }
 
 blockquote li {
@@ -164,9 +168,10 @@ html {
 		content: "❝";
 		position: absolute;
 		color: $heading-lapel-color;
-		font-size: 1.8em;
-		margin-left: -90px;
-		margin-top: -0.3em;
+		font-size: 2em;
+		line-height: 1em;
+		margin-left: -1.9em;
+		margin-top: -0em;
 	}
 }
 
