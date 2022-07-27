@@ -258,6 +258,7 @@ $heading-lapel-color: #3d4256;
 	.text-muted {
 		color: gray !important;
 	}
+
 	.navbar-toggler {
 		border-color: gray;
 		background-color: $dark-background-alt-color;
@@ -265,6 +266,7 @@ $heading-lapel-color: #3d4256;
 			filter: invert(85%);
 		}
 	}
+
 	.offcanvas {
 		background-color: $dark-background-color;
 		.btn-close {
@@ -286,6 +288,7 @@ $heading-lapel-color: #3d4256;
 			color: white;
 		}
 	}
+
 	.page-link {
 		color: white;
 		&:hover {
