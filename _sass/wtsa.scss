@@ -59,7 +59,6 @@ main hr {
 }
 
 html {
-	// overflow-y: scroll;
 	scroll-behavior: smooth;
 }
 
@@ -85,7 +84,7 @@ html {
 		margin-bottom: 0.85em;
 		font-weight: 450;
 		// position: sticky;
-		background-color: $background-color;
+		// background-color: $background-color;
 		// transition-duration: 2s;
 	}
 
@@ -252,20 +251,13 @@ iframe {
 
 // * Post -------------------------------------------------------------------
 
-#table-of-contents li {
-	margin-top: 5px;
-}
-
 // https://www.bytedude.com/jekyll-previous-and-next-posts/#fnref:hard
 .post-nav {
 	padding: 20px 0px;
 	margin-top: 50px;
-	// border: 1px solid lightgray;
-	// background-color: #f8f7f7;
 	border-top: 3px solid rgba(227, 227, 227, 0.5);
 	border-bottom: 3px solid rgba(227, 227, 227, 0.5);
 	border-radius: 30pt;
-	// box-shadow: 0px -5px 10px 3px rgba(227, 227, 227, 0.5);
 }
 
 .post-nav .category-link {
@@ -341,22 +333,23 @@ iframe {
 
 // * Table of Contents ---------------------------------------------------------
 
-$toc-cutoff: 1300px;
+$toc-cutoff: 992px;
 
 @media only screen and (max-width: $toc-cutoff) {
 	#table-of-contents {
-		max-width: 400px;
-		padding: 10px;
-		outline: 1px solid lightgray;
-		font-size: 90%;
-		align-items: center;
-		margin-bottom: 30px;
+		// max-width: 400px;
+		// padding: 10px;
+		// outline: 1px solid lightgray;
+		// font-size: 90%;
+		// align-items: center;
+		// margin-bottom: 30px;
 	}
 }
 
 @media only screen and (min-width: $toc-cutoff) {
 	#table-of-contents {
-		right: 4%;
+		// right: 4%;
+		left: 2%;
 		float: right;
 		position: fixed;
 		top: 90px;
@@ -365,12 +358,17 @@ $toc-cutoff: 1300px;
 	}
 }
 
-#table-of-contents ul {
-	list-style-type: none;
-	margin-top: 5px;
-}
-#table-of-contents ul li {
-	margin-bottom: 3px;
+#table-of-contents {
+	ul {
+		list-style-type: none;
+		margin-top: 5px;
+	}
+	li {
+		margin-top: 5px;
+	}
+	ul li {
+		margin-bottom: 3px;
+	}
 }
 
 #toc {
@@ -496,4 +494,33 @@ a.active {
 
 .page-content img {
 	max-width: 100%;
+}
+
+@media only screen and (max-width: 992px) {
+	.invis-interactable {
+		// border-color: lightgray !important;
+		// border-width: 1px !important;
+		// border-style: solid !important;
+		// border-radius: 0.5em;
+		text-decoration: underline !important;
+	}
+
+	.navbar-toggler {
+		position: fixed !important;
+		top: 5px;
+		// left: calc(100% - 62px);
+		right: 5px;
+		background-color: white;
+		z-index: 1;
+	}
+
+	.nav-links {
+		background-color: #f8f7f7;
+		border: #d5d5d5 solid 1px;
+		border-radius: 0.5em;
+	}
+}
+
+input {
+	cursor: pointer;
 }

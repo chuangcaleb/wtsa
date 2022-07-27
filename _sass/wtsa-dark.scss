@@ -19,26 +19,28 @@ $heading-lapel-color: #3d4256;
 		color: $dark-text-color;
 		background-color: $dark-background-color;
 
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {
-			background-color: $dark-background-color;
-		}
+		// h2,
+		// h3,
+		// h4,
+		// h5,
+		// h6 {
+		// 	background-color: $dark-background-color;
+		// }
 
-		section {
-			background-color: $dark-background-color;
-		}
+		// section {
+		// 	background-color: $dark-background-color;
+		// }
 	}
 
 	@media only screen and (min-width: 800px) {
-		h1:before,
-		h2:before,
-		h3:before,
-		h4:before,
-		blockquote:before {
-			color: $heading-lapel-color;
+		h1,
+		h2,
+		h3,
+		h4,
+		blockquote {
+			&:before {
+				color: $heading-lapel-color;
+			}
 		}
 	}
 	.post .post-meta {
@@ -47,33 +49,37 @@ $heading-lapel-color: #3d4256;
 	}
 
 	main,
-	footer,
-	#social-list {
+	header,
+	footer {
 		a {
 			// color: rgb(140, 178, 228);
 			color: #61afef;
-			&:visited {
-				color: #3d88c6;
-			}
+
 			&:hover {
 				color: #74a6cf;
-				text-decoration: underline;
 			}
 		}
 	}
 
-	h1,
-	h2,
-	h3,
-	h4,
-	h5,
-	h6 {
-		color: white;
+	main a {
+		&:visited {
+			color: #3d88c6;
+		}
 	}
-	.site-title,
-	.site-title:visited {
-		color: white;
-	}
+
+	// h1,
+	// h2,
+	// h3,
+	// h4,
+	// h5,
+	// h6 {
+	// 	color: white;
+	// }
+
+	// .site-title,
+	// .site-title:visited {
+	// 	color: white;
+	// }
 
 	// *:not(pre) > code {
 	// 	color: $dark-text-color;
@@ -252,12 +258,33 @@ $heading-lapel-color: #3d4256;
 	.text-muted {
 		color: gray !important;
 	}
-
 	.navbar-toggler {
 		border-color: gray;
+		background-color: $dark-background-alt-color;
+		.navbar-toggler-icon {
+			filter: invert(85%);
+		}
 	}
-	#darkSwitch {
-		background-color: #3e90d4;
+	.offcanvas {
+		background-color: $dark-background-color;
+		.btn-close {
+			filter: invert(85%);
+		}
+		#darkSwitch {
+			background-color: #3e90d4;
+		}
+
+		@media only screen and (max-width: 992px) {
+			.nav-links {
+				background-color: $dark-background-alt-color;
+				border: #777777 solid 1px;
+				border-radius: 0.5em;
+			}
+		}
+		.offcanvas-title,
+		.toc-title {
+			color: white;
+		}
 	}
 	.page-link {
 		color: white;
@@ -265,12 +292,7 @@ $heading-lapel-color: #3d4256;
 			color: white;
 		}
 	}
-	header button {
-		filter: invert(85%);
-	}
-	.offcanvas {
-		background-color: $dark-background-color;
-	}
+
 	hr {
 		border-color: white;
 	}
