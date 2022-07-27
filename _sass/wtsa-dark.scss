@@ -10,7 +10,7 @@ $dark-text-color: rgb(216, 215, 215) !default;
 $heading-lapel-color: #3d4256;
 
 [data-theme="dark"] {
-	background-color: $dark-background-alt-color;
+	background-color: $dark-background-color;
 
 	:root {
 		color-scheme: dark;
@@ -110,7 +110,7 @@ $heading-lapel-color: #3d4256;
 
 	.site-header,
 	.site-footer {
-		background-color: $dark-background-alt-color;
+		background-color: $dark-background-color;
 
 		.footer-heading a {
 			color: white;

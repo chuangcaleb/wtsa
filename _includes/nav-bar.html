@@ -1,4 +1,4 @@
-<nav class="col navbar navbar-expand-lg py-0">
+<nav class="navbar navbar-expand-lg flex-grow-1 py-0">
 
     <button aria-controls="offcanvasNavbar" class="navbar-toggler" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas" type="button">
         <span class="navbar-toggler-icon"></span>
@@ -11,13 +11,13 @@
             <button aria-label="Close" class="btn-close" data-bs-dismiss="offcanvas" type="button"></button>
         </div>
 
-        <div class="offcanvas-body d-flex pt-1">
+        <div class="offcanvas-body d-flex align-content-center pt-0">
 
             <div class="navbar-nav justify-content-lg-end align-items-lg-center flex-grow-1">
 
-                <div class="nav-container row row-cols-auto g-0 mb-2">
+                <div class="nav-container d-flex mb-2 mb-lg-0">
 
-                    <div class="col nav-links d-flex flex-row text-center flex-fill">
+                    <div class="nav-links d-flex flex-row text-center flex-fill">
                         {%- for link in site.data.nav -%}
                             <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3 flex-fill invis-interactable" href=" {{ link | relative_url }}">
                                 {{ link | escape }}
@@ -29,7 +29,7 @@
                         </a>
                     </div>
 
-                    <div class="col form-check form-switch ms-2 ms-lg-3 my-auto flex-shrink-1">
+                    <div class="form-check form-switch ms-2 ms-lg-3 my-auto flex-shrink-1">
                         <input class="form-check-input float-end" id="darkSwitch" type="checkbox"/>
                         <script src="{{ site.baseurl }}/assets/js/dark-mode-switch/dark-mode-switch.min.js"></script>
                     </div>

@@ -269,12 +269,15 @@ iframe {
 @media only screen and (min-width: $lg-cutoff) {
 	#toc-container {
 		// right: 4%;
+		// top: 90px;
+		top: 0px;
+		padding-top: 60px;
 		left: 2%;
 		float: right;
 		position: fixed;
-		top: 90px;
 		max-width: 16%;
 		font-size: 85%;
+		// background-color: #d7d7d7;
 	}
 }
 
