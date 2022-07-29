@@ -9,13 +9,14 @@
 
 ### Doing
 
-- navigation offcanvas
-- toc
-- dark mode
+- offcanvas anchor in mobile to pop offcanvas
+- sidebarBody to ease transition in sliding sidebar
 
 ### Completed
 
-- 
+- navigation offcanvas
+- toc
+- dark mode
 
 <!-- 
 ### Archived

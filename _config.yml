@@ -96,6 +96,7 @@ defaults:
     values:
       layout: page
       permalink: :title
+      toc: true
   - scope:
       path: "assets"
     values:
