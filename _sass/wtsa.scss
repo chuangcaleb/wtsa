@@ -2,7 +2,8 @@ $background-color: white !default;
 $heading-lapel-color: #d7d7d7 !default;
 $active-color: #7aa0d1;
 $interactable-color: #2a7ae2;
-$lg-cutoff: 992px; /* lg breakpoint */
+$lg-breakpoint: 992px; /* lg breakpoint */
+$xl-breakpoint: 1200px; /* xl breakpoint */
 
 // * General -------------------------------------------------------------------
 
@@ -261,24 +262,33 @@ iframe {
 
 // * Table of Contents ---------------------------------------------------------
 
-@media only screen and (max-width: $lg-cutoff) {
+@media only screen and (max-width: $lg-breakpoint) {
 	#toc-container {
 	}
 }
 
-@media only screen and (min-width: $lg-cutoff) {
-	#toc-container {
-		// right: 4%;
-		// top: 90px;
+@media only screen and (min-width: $lg-breakpoint) {
+	#offcanvas-sidebar {
+		right: 4%;
+		top: 90px;
 		top: 0px;
 		padding-top: 60px;
-		left: 2%;
+		padding-left: 2%;
+		left: 0%;
 		float: right;
 		position: fixed;
-		max-width: 16%;
+		max-width: 20%;
 		font-size: 85%;
-		// background-color: #d7d7d7;
+		background-color: #f2f2f2;
 	}
+
+	// #offcanvasNavbar {
+	// 	top: 0px;
+	// 	padding-top: 60px;
+	// 	left: 2%;
+	// 	float: right;
+	// 	position: fixed;
+	// }
 }
 
 #toc-container {
@@ -307,7 +317,7 @@ iframe {
 
 // .gdocs-embed,
 .html-screenplay {
-	@media only screen and (max-width: $lg-cutoff) {
+	@media only screen and (max-width: $lg-breakpoint) {
 		display: none;
 	}
 }
@@ -417,7 +427,7 @@ a.active {
 	max-width: 100%;
 }
 
-@media only screen and (max-width: $lg-cutoff) {
+@media only screen and (max-width: $lg-breakpoint) {
 	.invis-interactable {
 		// border-color: lightgray !important;
 		// border-width: 1px !important;
@@ -426,22 +436,59 @@ a.active {
 		text-decoration: underline !important;
 	}
 
-	.navbar-toggler {
+	// .nav-links {
+	// 	background-color: #f8f7f7;
+	// 	border: #d5d5d5 solid 1px;
+	// 	border-radius: 0.5em;
+	// }
+}
+
+@media only screen and (min-width: $xl-breakpoint) {
+	#offcanvasButton {
 		position: fixed !important;
 		top: 5px;
 		// left: calc(100% - 62px);
 		right: 5px;
 		background-color: white;
-		z-index: 1;
-	}
-
-	.nav-links {
-		background-color: #f8f7f7;
-		border: #d5d5d5 solid 1px;
-		border-radius: 0.5em;
+		z-index: 1046;
 	}
 }
 
 input {
 	cursor: pointer;
 }
+
+#sidebarBody {
+	// position: absolute;
+	transition: transform 0.3s ease-in-out;
+}
+
+#offcanvasNavbar {
+	position: fixed;
+	.page-link {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	@media only screen and (min-width: $lg-breakpoint) {
+		max-width: 32%;
+		&.show + #sidebarBody {
+			position: absolute;
+			left: 400px;
+			max-width: 60%;
+		}
+	}
+
+	@media only screen and (min-width: $xl-breakpoint) {
+		max-width: 25%;
+		&.show + #sidebarBody {
+			position: absolute;
+			left: 30%;
+		}
+	}
+}
+
+// .offcanvas-backdrop .show {
+// 	opacity: 0;
+// 	z-index: -1;
+// }

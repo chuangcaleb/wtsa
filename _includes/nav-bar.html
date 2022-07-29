@@ -1,66 +1,23 @@
-<nav class="navbar navbar-expand-lg flex-grow-1 py-0">
+<nav class="navbar flex-grow-1 py-0 justify-content-end">
 
-    <button aria-controls="offcanvasNavbar" class="navbar-toggler" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas" type="button">
+    <div class="nav-links d-flex flex-row text-center flex-fill d-none d-lg-flex justify-content-end">
+
+        <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3 invis-interactable" href={{"about" | relative_url}}>
+            about
+        </a>
+        <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3 invis-interactable" href={{"browse" | relative_url}}>
+            browse
+        </a>
+    
+        <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3 invis-interactable" href="https://linktr.ee/wtstorya" rel="noopener noreferrer" target="_blank">
+            linktree
+        </a>
+    
+    
+    </div>
+    
+    <button onclick="toggleSb()" id="offcanvasButton" aria-controls="offcanvasNavbar" class="navbar-toggle" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas" type="button">
         <span class="navbar-toggler-icon"></span>
     </button>
-
-    <div aria-labelledby="offcanvasNavbarLabel" class="offcanvas offcanvas-start" data-bs-scroll="false" id="offcanvasNavbar" tabindex="1">
-        <div class="offcanvas-header pt-2 pb-1">
-
-            <h5 class="offcanvas-title">{{ page.title }}</h5>
-            <button aria-label="Close" class="btn-close" data-bs-dismiss="offcanvas" type="button"></button>
-        </div>
-
-        <div class="offcanvas-body d-flex align-content-center pt-0">
-
-            <div class="navbar-nav justify-content-lg-end align-items-lg-center flex-grow-1">
-
-                <div class="nav-container d-flex mb-2 mb-lg-0">
-
-                    <div class="nav-links d-flex flex-row text-center flex-fill">
-                        {%- for link in site.data.nav -%}
-                            <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3 flex-fill invis-interactable" href=" {{ link | relative_url }}">
-                                {{ link | escape }}
-                            </a>
-                        {%- endfor -%}
-                        
-                        <a class="page-link fs-6 p-2 p-lg-0 mx-lg-3 flex-fill invis-interactable" href="https://linktr.ee/wtstorya" rel="noopener noreferrer" target="_blank">
-                            linktree
-                        </a>
-                    </div>
-
-                    <div class="form-check form-switch ms-2 ms-lg-3 my-auto flex-shrink-1">
-                        <input class="form-check-input float-end" id="darkSwitch" type="checkbox"/>
-                        <script src="{{ site.baseurl }}/assets/js/dark-mode-switch/dark-mode-switch.min.js"></script>
-                    </div>
-
-                </div>
-
-                {%- include post/toc.html -%}
-
-                <div class="navbar-footer mt-auto py-3 py-lg-0">
-
-                    <a class="navbar-brand d-flex align-items-center page-link d-lg-none" rel="author" href="{{ "/" | relative_url }}">
-                        <logo class="me-1">
-                            <img src="{{site.baseurl}}/assets/img/wtsa-logo-alpha.png" alt="LOGO" style="height:25px; object-fit: fill;">
-                        </logo>
-                        <h5 class="fw-light m-0">
-                            whatsthestoryabout
-                        </h5>
-                    </a>
-
-                    <hr class="d-lg-none" style="opacity:0.3;	margin-top: 15px; margin-bottom: 15px;">
-
-                    <div class="d-lg-none">
-                        {% include social.html %}
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
 
 </nav>

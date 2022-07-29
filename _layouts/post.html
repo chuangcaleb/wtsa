@@ -4,19 +4,12 @@ layout: default
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-    {%- if page.categories -%}
-        <span class="breadcrumbs post-breadcrumbs">
-            <a href="/wtsa/browse">Browse</a> →
-            <a class="category-link" href="{{ page.category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}"> 
-                {{ page.category | escape }}
-            </a>
-        </span>
-    {%-endif-%}
-
     <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+
         {%- include post/top-post-meta.html -%}
+
     </header>
 
     <div class="post-content e-content" itemprop="articleBody">

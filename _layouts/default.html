@@ -1,20 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {%- include head.html -%}
+    {%- include head.html -%}
 
-  <body>
+    <body>
 
-    {%- include header.html -%}
+        <div class="d-flex flex-row" id="body">
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper container col-lg-9 col-xl-7 col-xxl-6 pb-3">
-        {{ content }}
-      </div>
-    </main>
+            {%- include assets/js/collapsible-sidebar.html -%}
 
-    {%- include footer.html -%}
+            <div id="sidebarBody" class="container-fluid col-lg-8 col-xl-7">
 
-  </body>
+                {%- include header.html -%}
+
+                <main aria-label="Content" class="page-content pb-3">
+                    {{ content }}
+                </main>
+
+            </div>
+
+        </div>
+
+    </body>
 
 </html>

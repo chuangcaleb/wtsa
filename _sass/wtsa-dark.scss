@@ -1,12 +1,6 @@
 $dark-background-color: #1c1f2b !default;
-// $dark-background-color: rgb(28, 33, 38) !default;
-// $dark-background-color: #272b34 !default;
-// $dark-background-color: #000 !default;
-$dark-background-alt-color: #0c1120 !default;
-// $dark-background-alt-color:rgb(36, 43, 50) !default;
-// $dark-background-alt-color: #1a1e24 !default;
+$dark-background-alt-color: rgb(45, 49, 67) !default;
 $dark-text-color: rgb(216, 215, 215) !default;
-// $dark-text-color: rgb(199, 193, 193) !default;
 $heading-lapel-color: #3d4256;
 
 [data-theme="dark"] {
@@ -267,8 +261,8 @@ $heading-lapel-color: #3d4256;
 		}
 	}
 
-	.offcanvas {
-		background-color: $dark-background-color;
+	#offcanvasNavbar {
+		background-color: $dark-background-alt-color;
 		.btn-close {
 			filter: invert(85%);
 		}
