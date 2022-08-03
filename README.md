@@ -4,9 +4,9 @@
 
 ### Todo
 
-- 
 - linktree to local page
 - cleanup scss
+- remove transition for reloading page, only transition for clicking button
 
 ### Doing
 

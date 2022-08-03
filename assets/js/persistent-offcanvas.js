@@ -1,6 +1,6 @@
 var offcanvasButton = document.getElementById("offcanvasButton");
 var offcanvas = document.getElementById("offcanvasNavbar");
-window.addEventListener("load", function () {
+window.addEventListener("DOMContentLoaded", function () {
 	initOffcanvas();
 	offcanvasButton.addEventListener("click", function () {
 		resetOffcanvas();
