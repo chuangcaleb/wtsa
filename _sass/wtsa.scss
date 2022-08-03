@@ -81,6 +81,10 @@ html {
 	}
 }
 
+input {
+	cursor: pointer;
+}
+
 @media only screen and (min-width: 800px) {
 	h1:before {
 		content: "H1";
@@ -443,19 +447,19 @@ a.active {
 	// }
 }
 
-@media only screen and (min-width: $xl-breakpoint) {
-	#offcanvasButton {
-		position: fixed !important;
-		top: 5px;
+#offcanvasButton {
+	position: fixed !important;
+	top: 5px;
+	right: 5px;
+
+	@media only screen and (max-width: $xl-breakpoint) {
+	}
+
+	@media only screen and (min-width: $xl-breakpoint) {
 		// left: calc(100% - 62px);
-		right: 5px;
 		background-color: white;
 		z-index: 1046;
 	}
-}
-
-input {
-	cursor: pointer;
 }
 
 #sidebarBody {
@@ -464,7 +468,7 @@ input {
 }
 
 #offcanvasNavbar {
-	position: fixed;
+	// position: fixed;
 
 	.page-link {
 		margin-left: 0px;
@@ -481,7 +485,7 @@ input {
 	}
 
 	@media only screen and (min-width: $xl-breakpoint) {
-		max-width: 25%;
+		max-width: 22%;
 		&.show + #sidebarBody {
 			position: absolute;
 			left: 30%;
