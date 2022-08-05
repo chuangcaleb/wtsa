@@ -266,35 +266,6 @@ iframe {
 
 // * Table of Contents ---------------------------------------------------------
 
-@media only screen and (max-width: $lg-breakpoint) {
-	#toc-container {
-	}
-}
-
-@media only screen and (min-width: $lg-breakpoint) {
-	#offcanvas-sidebar {
-		right: 4%;
-		top: 90px;
-		top: 0px;
-		padding-top: 60px;
-		padding-left: 2%;
-		left: 0%;
-		float: right;
-		position: fixed;
-		max-width: 20%;
-		font-size: 85%;
-		background-color: #f2f2f2;
-	}
-
-	// #offcanvasNavbar {
-	// 	top: 0px;
-	// 	padding-top: 60px;
-	// 	left: 2%;
-	// 	float: right;
-	// 	position: fixed;
-	// }
-}
-
 #toc-container {
 	ul {
 		list-style-type: none;
@@ -407,12 +378,30 @@ strong code {
 }
 
 .offcanvas-body {
-	overflow-y: scroll;
+	/* width */
 	&::-webkit-scrollbar {
-		display: none; /* Chrome, Safari and Opera */
+		width: 7px;
 	}
-	-ms-overflow-style: none; /* IE and Edge */
-	scrollbar-width: none; /* Firefox */
+
+	/* Track */
+	&::-webkit-scrollbar-track {
+		// background: #f1f1f1;
+		background: #f9f9f9;
+		border-left: #ececec 1px solid;
+	}
+
+	/* Handle */
+	&::-webkit-scrollbar-thumb {
+		// background: #888;
+		background: #c5c5c5;
+		border-radius: 6em;
+	}
+
+	/* Handle on hover */
+	&::-webkit-scrollbar-thumb:hover {
+		// background: #555;
+		background: #848484;
+	}
 }
 
 body a {
