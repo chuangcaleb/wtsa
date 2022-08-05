@@ -7,12 +7,12 @@
 - linktree to local page
 - cleanup scss
 - remove transition for reloading page, only transition for clicking button
+- populate paages in md again, so their generated headers render in toc?
 
 ### Doing
 
 - positioning nav button
 - sidebarBody to ease transition in sliding sidebar
-- mobile disable auto show
 
 ### Completed
 

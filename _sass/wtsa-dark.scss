@@ -295,8 +295,11 @@ $heading-lapel-color: #3d4256;
 	hr {
 		border-color: white;
 	}
+
 	#offcanvasButton {
 		background-color: $dark-background-color;
-		fill: white;
+		svg {
+			fill: #aaaaaa;
+		}
 	}
 }

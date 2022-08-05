@@ -10,11 +10,12 @@ document.addEventListener("DOMContentLoaded", function () {
 		var myOffcanvas = document.getElementById("offcanvasNavbar");
 		var bsOffcanvas = new bootstrap.Offcanvas(myOffcanvas);
 
-		const toc_anchors = document.querySelectorAll("#toc a");
+		const toc_anchors = document.querySelectorAll("#offcanvasNavbar a");
 		for (let i = 0; i < toc_anchors.length; i++) {
 			toc_anchors[i].addEventListener("click", function (e) {
 				bsOffcanvas.toggle();
 				e.stopPropagation();
+				localStorage.removeItem("offcanvasNavbar");
 				// e.preventDefault();
 			});
 		}
