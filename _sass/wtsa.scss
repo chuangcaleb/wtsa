@@ -439,8 +439,8 @@ a.active {
 
 #offcanvasButton {
 	position: fixed !important;
-	top: 7px;
-	right: 7px;
+	top: 5px;
+	right: 5px;
 	background-color: $background-color;
 	border: 1px solid #e8e8e8;
 	border-radius: 5px;
@@ -451,15 +451,29 @@ a.active {
 		padding: 5px;
 	}
 
-	@media only screen and (max-width: $xl-breakpoint) {
+	@media only screen and (min-width: $lg-breakpoint) {
+		position: fixed !important;
+		top: 15px;
+		right: 15px;
 	}
 
 	@media only screen and (min-width: $xl-breakpoint) {
-		// left: calc(100% - 62px);
-		// background-color: white;
 		z-index: 1046;
 	}
 }
+
+#offcanvasNavbar.show + #sidebarBody #nav-links {
+	@media only screen and (max-width: $xl-breakpoint) {
+		display: none !important;
+	}
+}
+// #offcanvasNavbar.show + #sidebarBody #offcanvasButton {
+// 	@media only screen and (min-width: $lg-breakpoint) {
+// 		position: fixed !important;
+// 		top: 15px;
+// 		right: 15px;
+// 	}
+// }
 
 #sidebarBody {
 	// position: absolute;
@@ -478,7 +492,7 @@ a.active {
 		max-width: 32%;
 		&.show + #sidebarBody {
 			position: absolute;
-			left: 400px;
+			left: 38%;
 			max-width: 60%;
 		}
 	}
@@ -487,12 +501,7 @@ a.active {
 		max-width: 22%;
 		&.show + #sidebarBody {
 			position: absolute;
-			left: 30%;
+			left: 33%;
 		}
 	}
 }
-
-// .offcanvas-backdrop .show {
-// 	opacity: 0;
-// 	z-index: -1;
-// }

@@ -6,6 +6,7 @@
 
 - linktree to local page
 - cleanup scss
+- better related metadata
 - remove transition for reloading page, only transition for clicking button
 - populate paages in md again, so their generated headers render in toc?
 
