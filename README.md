@@ -12,6 +12,7 @@
 
 - positioning nav button
 - sidebarBody to ease transition in sliding sidebar
+- mobile disable auto show
 
 ### Completed
 
@@ -20,7 +21,7 @@
 - toc
 - dark mode
 
-<!-- 
+<!--
 ### Archived
 
 -
