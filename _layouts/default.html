@@ -1,28 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+	{%- include head.html -%}
 
-    {%- include head.html -%}
+	<body>
+		<div class="d-flex flex-row" id="body">
+			{%- include assets/js/collapsible-sidebar.html -%}
 
-    <body>
+			<div id="sidebarBody" class="container col-lg-8 col-xl-7">
+				{%- include header.html -%}
 
-        <div class="d-flex flex-row" id="body">
+				<main aria-label="Content" class="page-content pb-3">
+					{{ content }}
+				</main>
+			</div>
+		</div>
 
-            {%- include assets/js/collapsible-sidebar.html -%}
-
-            <div id="sidebarBody" class="container-fluid col-lg-8 col-xl-7">
-
-                {%- include header.html -%}
-
-                <main aria-label="Content" class="page-content pb-3">
-                    {{ content }}
-                </main>
-
-            </div>
-
-        </div>
-
-        <script src="{{ site.baseurl }}/assets/js/persistent-offcanvas.js"></script>
-
-    </body>
-
+		<script src="{{ site.baseurl }}/assets/js/persistent-offcanvas.js"></script>
+	</body>
 </html>
