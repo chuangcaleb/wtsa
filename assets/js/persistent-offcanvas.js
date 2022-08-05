@@ -1,8 +1,12 @@
 var offcanvasButton = document.getElementById("offcanvasButton");
+var offcanvasCloseButton = document.getElementById("offcanvasCloseButton");
 var offcanvas = document.getElementById("offcanvasNavbar");
 window.addEventListener("DOMContentLoaded", function () {
 	initOffcanvas();
 	offcanvasButton.addEventListener("click", function () {
+		resetOffcanvas();
+	});
+	offcanvasCloseButton.addEventListener("click", function () {
 		resetOffcanvas();
 	});
 });
