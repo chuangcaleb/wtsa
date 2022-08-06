@@ -39,7 +39,7 @@ title: whatsthestoryabout
                     </a>
 
                     <!-- {% assign ep = post.excerpt | split: '</h1>' %}
-					{{ ep[1] }} -->
+    				{{ ep[1] }} -->
 
                 </li>
 

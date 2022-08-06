@@ -44,8 +44,8 @@ html {
 		line-height: 1.5;
 	}
 
-	h4 {
-		font-size: 1.5em;
+	h1 {
+		margin-bottom: 0.85em;
 	}
 	h2,
 	h3,
@@ -60,6 +60,10 @@ html {
 	h1,
 	h2 {
 		font-weight: 600;
+	}
+
+	h4 {
+		font-size: 1.5em;
 	}
 
 	dl,
@@ -416,18 +420,8 @@ a.active {
 
 @media only screen and (max-width: $lg-breakpoint) {
 	.invis-interactable {
-		// border-color: lightgray !important;
-		// border-width: 1px !important;
-		// border-style: solid !important;
-		// border-radius: 0.5em;
 		text-decoration: underline !important;
 	}
-
-	// .nav-links {
-	// 	background-color: #f8f7f7;
-	// 	border: #d5d5d5 solid 1px;
-	// 	border-radius: 0.5em;
-	// }
 }
 
 #offcanvasButton {

@@ -8,8 +8,9 @@
 - cleanup scss
 - better related metadata (tags system)
 - remove transition for reloading page, only transition for clicking button
-- populate paages in md again, so their generated headers render in toc?
 - jekyll github actions
+- populate paages in md again, so their generated headers render in toc?
+  - instead: another custom toc
 
 ### Doing
 
