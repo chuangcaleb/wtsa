@@ -134,6 +134,10 @@ input {
 }
 
 .post-meta {
+	color: gray;
+}
+
+#offcanvasNavbar .post-meta {
 	text-align: left;
 	border-left: 4px solid lightgray;
 	color: gray;
