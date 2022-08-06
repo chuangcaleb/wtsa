@@ -213,8 +213,7 @@ iframe {
 	// border-radius: 0.4em;
 	margin-right: 0.5em;
 	&::before {
-		content: "#";
-		margin-right: -0.1em;
+		content: "# ";
 	}
 	// &:hover {
 	// 	text-decoration: none;

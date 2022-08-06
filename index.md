@@ -27,9 +27,7 @@ title: whatsthestoryabout
                         {%- if post.wtsa_categories -%}
 
                             {% for category in post.wtsa_categories %}
-                                <a class="category-link" href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}">
-                                        {{ category | escape }}
-                                    </a>
+                                <a class="category-link" href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}">{{ category | escape }}</a>
                             {% endfor %}
 
                         {%- endif -%}
