@@ -1,5 +1,6 @@
 $background-color: white !default;
 $heading-lapel-color: #d7d7d7 !default;
+$light-text: rgba(227, 227, 227, 0.5) !default;
 $active-color: #7aa0d1;
 $interactable-color: #2a7ae2;
 $lg-breakpoint: 992px; /* lg breakpoint */
@@ -8,8 +9,8 @@ $xl-breakpoint: 1200px; /* xl breakpoint */
 // * General -------------------------------------------------------------------
 
 blockquote {
-	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
 	padding: 20px 20px;
 	font-size: 140%;
 	// background-color: #f7f7f7;
@@ -36,16 +37,18 @@ html {
 
 .page-content {
 	line-height: 1.7;
-	padding-top: 40px;
+	// padding-top: 40px;
 
 	.page-title,
 	.post-title {
 		font-size: 38px;
 		line-height: 1.5;
+		margin-top: 0.3em;
+		// margin-bottom: 0.85em;
+		margin-bottom: 0.5em;
 	}
-
-	h1 {
-		margin-bottom: 0.85em;
+	.post-title {
+		margin-bottom: 0;
 	}
 	h2,
 	h3,
@@ -143,7 +146,7 @@ input {
 
 #offcanvasNavbar .post-meta {
 	text-align: left;
-	border-left: 4px solid lightgray;
+	border-left: 2px solid lightgray;
 	color: gray;
 	padding: 5px 0px 5px 1em;
 	// padding-left: 18px;
@@ -189,6 +192,10 @@ iframe {
 
 // * Post -------------------------------------------------------------------
 
+.post-header {
+	margin-bottom: 1.5em;
+}
+
 // https://www.bytedude.com/jekyll-previous-and-next-posts/#fnref:hard
 .post-nav {
 	padding: 20px 0px;
@@ -198,13 +205,30 @@ iframe {
 	border-radius: 30pt;
 }
 
-.post-nav .category-link {
-	margin: auto;
-	width: fit-content;
-	display: block;
-	margin-bottom: 5px;
-	box-sizing: border-box;
+.category-link {
+	line-break: auto;
+	// font-size: small;
+	color: gray;
+	// padding: 5px;
+	// border: 1px solid rgba(227, 227, 227, 0.5);
+	// border-radius: 0.4em;
+	margin-right: 0.5em;
+	&::before {
+		content: "#";
+		margin-right: -0.1em;
+	}
+	// &:hover {
+	// 	text-decoration: none;
+	// }
 }
+// .post-nav .category-link {
+// 	margin: auto;
+// 	width: fit-content;
+// 	display: block;
+// 	margin-bottom: 5px;
+// 	box-sizing: border-box;
+// 	color: black;
+// }
 
 .post-nav-pn {
 	display: flex;
@@ -241,12 +265,6 @@ iframe {
 	transition: $active-color 500ms cubic-bezier(0.08, 0.52, 0.52, 1);
 	border-color: $active-color;
 	text-decoration: none;
-}
-
-// Offset for breadcrumbs
-.category,
-.post {
-	margin-top: -27px;
 }
 
 // * Lists ---------------------------------------------------------------------

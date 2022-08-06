@@ -1,6 +1,6 @@
 ---
 aliases: Tightrope
-category: 🎪 The Greatest Showman Series
+wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2020-03-14
 ---

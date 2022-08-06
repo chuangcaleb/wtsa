@@ -62,6 +62,13 @@ $heading-lapel-color: #3d4256;
 		}
 	}
 
+	main a.category-link {
+		color: gray;
+		&:hover {
+			color: $active-color;
+		}
+	}
+
 	// h1,
 	// h2,
 	// h3,

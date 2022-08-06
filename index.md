@@ -24,10 +24,14 @@ title: whatsthestoryabout
                             {{ post.date | date: site.date_format }}
                         </span>
 
-                        {%- if post.category -%}
-                            <a class="category-link" href="{{ post.category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}">
-                                {{ post.category | escape }}
-                            </a>
+                        {%- if post.wtsa_categories -%}
+
+                            {% for category in post.wtsa_categories %}
+                                <a class="category-link" href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}">
+                                        {{ category | escape }}
+                                    </a>
+                            {% endfor %}
+
                         {%- endif -%}
 
                     </span>

@@ -1,5 +1,5 @@
 ---
-category: 🎪 The Greatest Showman Series
+wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2019-11-01
 ---

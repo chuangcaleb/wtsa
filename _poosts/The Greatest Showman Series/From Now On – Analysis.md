@@ -1,6 +1,6 @@
 ---
 aliases: From Now On
-category: 🎪 The Greatest Showman Series
+wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2020-03-20
 ---
@@ -131,7 +131,7 @@ The power and energy and fire feel like [[Come Alive – Analysis|Come Alive]]�
 
 > V: He says he will never get blindsided/drunken again, WHILE he orders a drink? Why?
 
-> While fantasy blinds false truths – it also blinds <span style="text-decoration:underline;">*the*</span> truth.
+> While fantasy blinds false truths – it also blinds <span style="text-decoration:underline;">_the_</span> truth.
 
 > He starts the song saying that the sun is dimming, but now says that he won’t be blinded?
 
@@ -345,7 +345,7 @@ The power and energy and fire feel like [[Come Alive – Analysis|Come Alive]]�
 
 Tightrope and Never Enough: Repetition
 
-- Between *“[[Never Enough – Analysis|Never Enough]], never, never, for me* and [[Tightrope – Analysis|Tightrope]]’s “*With you, you, you”*, both lose out to how many repetitions of *"And we will come back home!"* that this song has
+- Between _“[[Never Enough – Analysis|Never Enough]], never, never, for me_ and [[Tightrope – Analysis|Tightrope]]’s “_With you, you, you”_, both lose out to how many repetitions of _"And we will come back home!"_ that this song has
 
 - This repetition shows Barnum’s arc as he slowly gets the right idea, and making sure he won’t forget it
 
@@ -367,13 +367,13 @@ Tightrope: Change, Trials and Safety Nets
 
 The Other Side: Taverns and Alcohol
 
-- The whole song is a call back to [[The Other Side – Analysis|The Other Side]], where Barnum mocks Philip for drinking his misery away, *“So is this really how you’d like to spend your days?”*
+- The whole song is a call back to [[The Other Side – Analysis|The Other Side]], where Barnum mocks Philip for drinking his misery away, _“So is this really how you’d like to spend your days?”_
 
 - This tavern was where Barnum hoped to get Philip drunk enough to agree to his offer
 
 - But as both songs started as drinking to drown their sorrows, they both ended with drinking to celebrate finding what they want the most!
 
-- And just as in both songs, Philip and the circus Oddities were already dancing and intoxicated enough by Barnum’s life *before* they even took a sip of alcohol
+- And just as in both songs, Philip and the circus Oddities were already dancing and intoxicated enough by Barnum’s life _before_ they even took a sip of alcohol
 
 This is Me: Iron Sharpens Iron
 

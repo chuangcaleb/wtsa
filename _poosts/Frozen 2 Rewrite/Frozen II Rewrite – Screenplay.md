@@ -1,5 +1,5 @@
 ---
-category: ❄️ Frozen II Rewrite
+wtsa_categories: ❄️ Frozen II Rewrite
 date: 2021-05-30
 parents: [[Frozen II Rewrite]]
 link-label: F2 Rewrite (Screenplay) – HTML

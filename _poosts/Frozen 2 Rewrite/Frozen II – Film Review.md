@@ -1,5 +1,5 @@
 ---
-category: 🎬 Film Reviews
+wtsa_categories: [🎬 Film Reviews, ❄️ Frozen II Rewrite]
 date: 2019-12-07
 aliases: Frozen II
 jekyllcss: colored-code/frozen
@@ -29,17 +29,17 @@ I've come up with an extremely simple tweak that completely recontextualises the
 
 The elemental spirits presented an antagonistic force, but this movie is a case study of the weaknesses of forces of nature as antagonists. They felt too impersonal to the characters and too plot-heavy — attacks are coincidental, and they never develop throughout the story. The consequence of all this is that our protagonists don't get challenged in the best ways possible.
 
-For what it's worth, there *is* tension between the sisters (which is a little one-sided but ok), but the climactic fate of Arendelle could be handled better. For one, patriotism hasn't been established to be a big thing, while personal stakes hit closer (as in F1). The audience doesn't care if Arendelle lays in eternal winter or got flooded. The audience cares about individuals, that eternal winter means that Kristoff's jobless, or that a frozen heart means Anna's literally turning to ice, or that a flood means that the sisters will need to manage a kingdom without a land.
+For what it's worth, there _is_ tension between the sisters (which is a little one-sided but ok), but the climactic fate of Arendelle could be handled better. For one, patriotism hasn't been established to be a big thing, while personal stakes hit closer (as in F1). The audience doesn't care if Arendelle lays in eternal winter or got flooded. The audience cares about individuals, that eternal winter means that Kristoff's jobless, or that a frozen heart means Anna's literally turning to ice, or that a flood means that the sisters will need to manage a kingdom without a land.
 
 #### 2b. Stakes: Urgency
 
 An antagonism shortcoming could be ascribed to a lack of urgency. I mean, Arendellians need a home, but how desperately? The dam needs to be broken, but why NOW? What's the pressure? We call this the "or-else" factor: objective must be achieved before event or-else punishment.
 
-A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example is Anna getting frozen in the heart: she must receive an act of true love before her hair goes all white *or else* she will freeze forever. `What if the "spirits" were dying due to the dam being built? Symbolically cause of injustice, and literally cause it holds back the water from the forest and restricting life. The curse must be lifted` *`before`* `they grow too weak` *`or else`* `the the Forest becomes disenchanted (hah) and Elsa will be frozen (and Olaf will melt) cause she's a forest spirit. Just like that, there's so much pressure on both sides.`
+A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example is Anna getting frozen in the heart: she must receive an act of true love before her hair goes all white _or else_ she will freeze forever. `What if the "spirits" were dying due to the dam being built? Symbolically cause of injustice, and literally cause it holds back the water from the forest and restricting life. The curse must be lifted` _`before`_ `they grow too weak` _`or else`_ `the the Forest becomes disenchanted (hah) and Elsa will be frozen (and Olaf will melt) cause she's a forest spirit. Just like that, there's so much pressure on both sides.`
 
 #### 2c. Human Opposition
 
-**A physical villain/antagonist** who embodied the idea of lies and selfish-nationalism would be great. He would be a great opposite-extreme villain to Hans, who represents danger when you open your doors too wide, versus someone who represents danger when you close your doors tight shut. Then came an amazing tweak that I read: [a review article by Erik Kain](https://www.forbes.com/sites/erikkain/2019/12/02/the-5-biggest-problems-with-frozen-2/)  fantastically suggested, **`what if King Runeard survived?`**
+**A physical villain/antagonist** who embodied the idea of lies and selfish-nationalism would be great. He would be a great opposite-extreme villain to Hans, who represents danger when you open your doors too wide, versus someone who represents danger when you close your doors tight shut. Then came an amazing tweak that I read: [a review article by Erik Kain](https://www.forbes.com/sites/erikkain/2019/12/02/the-5-biggest-problems-with-frozen-2/) fantastically suggested, **`what if King Runeard survived?`**
 
 ![[frozen-ii-erik-kain-review.png]]
 
@@ -57,7 +57,7 @@ But there's other ways Kristoff can contribute; he's such, such a complex charac
 
 **The deaths could have been set-up better.** Olaf's was okay, because from the very first movie it was a forefront problem that he melts under heat, and the false safety in the start of the second that Olaf now had permafrost. In fact, Olaf's death gave good weight to Anna's character. `Only suggestion is to show in the beginning when Elsa awakens the spirits, she could lose her powers for a moment — and Olaf could start to fade — but he recovers as her powers come back. Then there's the ever-looming threat and the setup where the audience knows, if Elsa dies then Olaf dies. That way, when Olaf's time comes, it's not as sudden.` But that's no big deal.
 
-What bothered me more was how Elsa's death was (not) foreshadowed. You've got the "not too far or you'll be drowned", and a reminder again with Honeymaron about warnings. For others it's okay, but in my first viewing, I didn't get that complete emotional payoff. *Set-ups to deaths are like prophecies of doom.* First, all that can't be the only foreshadowing for a major death. Second, if anything, it led me to believe she would drown in water.
+What bothered me more was how Elsa's death was (not) foreshadowed. You've got the "not too far or you'll be drowned", and a reminder again with Honeymaron about warnings. For others it's okay, but in my first viewing, I didn't get that complete emotional payoff. _Set-ups to deaths are like prophecies of doom._ First, all that can't be the only foreshadowing for a major death. Second, if anything, it led me to believe she would drown in water.
 
 I have to compare Elsa's death with Anna's death in the first movie: we knew Anna was always in danger of getting frozen™, and we've seen it nearly happened at the start of the movie when they were children. All throughout Frozen 1, we hear the trolls explain (to us) very specifically, twice. At least both deaths were fitting for their character arcs. `What if, for Elsa's death in Frozen II, the deeper Elsa went into Ahtohallan, the more she loses her magic (shown by how she can't make ice constructs anymore), and the more she paradoxically feels cold. If anything, it makes her sacrifice to find the truth even heavier because she gets to deliberate for a long time that she must pay the price for it.`
 

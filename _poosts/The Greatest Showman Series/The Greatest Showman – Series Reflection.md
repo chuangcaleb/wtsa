@@ -1,5 +1,5 @@
 ---
-category: 🎪 The Greatest Showman Series
+wtsa_categories: 🎪 The Greatest Showman Series
 date: 2020-04-07
 ---
 
@@ -45,9 +45,9 @@ What’s interesting is that each truth is a statement that doesn’t make sense
 
 You could append an “Actually… when typically…” to each statement to get what I mean (e.g. Actually, you, the audience, want to be part of the show too, _when typically, the audience are just spectators_).
 
->[[The Greatest Show Prologue – Analysis|The Greatest Show – Prologue]]
+> [[The Greatest Show Prologue – Analysis|The Greatest Show – Prologue]]
 >
->You, the **audience**, want to be part of the show too.
+> You, the **audience**, want to be part of the show too.
 
 > [[A Million Dreams – Analysis|A Million Dreams]]
 >

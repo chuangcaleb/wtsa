@@ -1,5 +1,5 @@
 ---
-category: 🎬 Film Reviews
+wtsa_categories: [🎬 Film Reviews]
 date: 2022-05-25
 aliases: Over the Moon
 jekyllcss: colored-code/over-the-moon
@@ -7,6 +7,7 @@ cssclass: wtsa
 # banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
 # banner_y: 0.444
 ---
+
 # Over The Moon – Film Review
 
 A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss.
@@ -31,13 +32,13 @@ And it's shown to work — two broken people sing to, encourage and advise each 
 
 I guess that's a good message. Two broken people helping each other up.
 
-But I believe that the climax can be even more powerful. Let's review the thematic statement of the show: *you can move on from the pain of the loved ones you lost, by accepting the love that new people are pouring into you.*
+But I believe that the climax can be even more powerful. Let's review the thematic statement of the show: _you can move on from the pain of the loved ones you lost, by accepting the love that new people are pouring into you._
 
 > **You can move on from the pain of the loved ones you lost, by accepting the love that new people are pouring into you.**
 
-*This* is the ultimate climax arc that both Fei Fei and Chang'e have to learn and to grow as characters. Both Houyi and Fei Fei's mom have passed, and both Chang'e and Fei Fei rejected and pushed away the (annoying, at first) new people that offered love to them: Gobi and Chin.
+_This_ is the ultimate climax arc that both Fei Fei and Chang'e have to learn and to grow as characters. Both Houyi and Fei Fei's mom have passed, and both Chang'e and Fei Fei rejected and pushed away the (annoying, at first) new people that offered love to them: Gobi and Chin.
 
-But, *I felt* that this isn't clearly shown in the climax — there wasn't a climactic moment that *proved* that the entrance of a new love had made any impactful difference in their lives. For me at least, I believe that **`Gobi and Chin should have been the catalyst for Fei Fei's and Chang'e's climactic moment.`**
+But, _I felt_ that this isn't clearly shown in the climax — there wasn't a climactic moment that _proved_ that the entrance of a new love had made any impactful difference in their lives. For me at least, I believe that **`Gobi and Chin should have been the catalyst for Fei Fei's and Chang'e's climactic moment.`**
 
 > Gobi and Chin should have been the catalyst for Fei Fei's and Chang'e's climactic moment, not themselves.
 
@@ -65,7 +66,7 @@ GOBI
 After I sang that song, the Goddess disappeared. All the lights in Lunaria just went out. We call it the big darkness.
 ```
 
-Gobi says that his song caused Chang'e to plunge Lunaria into The Big Darkness. But *this really interesting and important plot event never gets mentioned again*.
+Gobi says that his song caused Chang'e to plunge Lunaria into The Big Darkness. But _this really interesting and important plot event never gets mentioned again_.
 
 One major attribute of Gobi's character is his relationship to Chang'e's, but thinking about it, **we never even really see Chang'e interact with Gobi at all** during the movie's runtime — it's too weak to just hint at some past event in subtext.
 
@@ -96,14 +97,14 @@ CHANG'E
 Huh?
 
 FEI FEI
-AND HOLD YOUR MEMORIES TIGHT TO YOU 
+AND HOLD YOUR MEMORIES TIGHT TO YOU
 YEAH, ME TOO -
 
 CHANG'E
 That song... WHY ARE YOU SINGING THIS SONG?!?!
 ```
 
-`It's` ~~`MARTHAAA!!`~~ `Gobi's song. It serves as an introduction to the actual climactic song,` *`Love Someone New.`*  `It builds and builds.`
+`It's` ~~`MARTHAAA!!`~~ `Gobi's song. It serves as an introduction to the actual climactic song,` _`Love Someone New.`_ `It builds and builds.`
 
 `Then, another voice joins in harmony: Gobi floats into the scene. Seeing him return with open arms despite getting exiled by her, causes Chang'e to finally break, and let down her walls, eventually dissolving the Chamber of Exquisite Sadness.`
 
@@ -115,9 +116,9 @@ After Fei Fei and Chang'e have gotten themselves stuck in the Chamber of Exquisi
 
 In the climactic moment, Fei Fei and Chang'e sing to each other and pull each other out. They're perfectly happy and their climaxes have been resolved in a tidy bow. Now that they have overcome The Big Sad™, Chin roars, "NO BARRIERS!!!", and breaks the impenetrable barrier and reunites with Fei Fei.
 
-But, I can't help but feel that Chin's involvement in the climax was not as powerful as it could've been, because *his appearance doesn't do anything for the plot development*. Chang'e, now rehabilitated, should be perfectly able to get them out of the Chamber as she did last time.
+But, I can't help but feel that Chin's involvement in the climax was not as powerful as it could've been, because _his appearance doesn't do anything for the plot development_. Chang'e, now rehabilitated, should be perfectly able to get them out of the Chamber as she did last time.
 
-While there is a *meaningful* payoff/callback for Chin to enter the scene now, there is really no *practical* plot-related contribution. It's as if he's just there *for show*. Same with Gobi. They don't need to be there.
+While there is a _meaningful_ payoff/callback for Chin to enter the scene now, there is really no _practical_ plot-related contribution. It's as if he's just there _for show_. Same with Gobi. They don't need to be there.
 
 **What if** we rearrange plot beats so that, instead of Fei Fei and Chang'e singing the song to each other: **`Chin is the one who starts singing the climactic song to Fei Fei.`**
 
@@ -139,11 +140,11 @@ YEAH, ME TOO -
 
 `The first chorus ends in a hurrah` — **Chin steps back, and with a warcry he headbutts through and shatters the impenetrable barrier.** Chin literally breaks through the wall of depression.
 
-`He swims over to Fei Fei and continues singing`. **Chin is the one who calls her awake from her spell.** Fei Fei exclaims, "You saved me!" Then, Fei Fei goes over and wrestles  similarly for Chang'e, breaking her free too, and everything goes on as normal from here.
+`He swims over to Fei Fei and continues singing`. **Chin is the one who calls her awake from her spell.** Fei Fei exclaims, "You saved me!" Then, Fei Fei goes over and wrestles similarly for Chang'e, breaking her free too, and everything goes on as normal from here.
 
 This is amazing, because Chin becomes the most important focal main character in the climax. Without his intervention, they would've been stuck in the Chamber forever. His subplot now has weight, if not carrying the climax. And it can, and it should, as **it further cements the idea that Fei Fei has to move on let in someone new into her life after her loss.**
 
-Furthermore… it hints to the subtext that Chin himself has also lost a parent. His mom, intentionally named as *Mrs.* Zhong, is obviously single after carrying her husband's surname, as implied by her "Mrs." prefix. Is she widowed too? Perhaps divorced? Separated? Absent? Disappeared?
+Furthermore… it hints to the subtext that Chin himself has also lost a parent. His mom, intentionally named as _Mrs._ Zhong, is obviously single after carrying her husband's surname, as implied by her "Mrs." prefix. Is she widowed too? Perhaps divorced? Separated? Absent? Disappeared?
 
 Either ways. I always thought it was such a powerful choice for the subtext that Chin would be in the same situation as Fei Fei (a stepbrother, by very nature, must have an absent parent; nonetheless, it's so interesting to have him be very prominent in plot). There's subtext that he had actually himself gone through the whole process of being in his own "Chamber" too, curling up afraid, holding tightly onto those past memories as well.
 
@@ -184,11 +185,11 @@ What if, the reason why Haoyi cannot stay is because **`Fei Fei had asked for a 
 ```screenplay
 Fei Fei presents Chang’e with the amulet.
 
-CHANG’E 
+CHANG’E
 [GASPS] Fei Fei...
 
 FEI FEI
-[PANTING] I think this is the gift you’re looking for. 
+[PANTING] I think this is the gift you’re looking for.
 
 Chang’e BEAMS.
 
@@ -223,9 +224,9 @@ CHANG'E (CONT'D)
 Jade Rabbit thinks there is enough potion for the two of us.
 ```
 
-Now *this* would be an interesting turn of events that makes full use of the worldbuilding. Fei Fei would definitely seize this opportunity — she wants to prove Chang'e exists, but only because she wants her father to cling onto her birth mother. **Reviving her birth mother back would be better than any photo**.
+Now _this_ would be an interesting turn of events that makes full use of the worldbuilding. Fei Fei would definitely seize this opportunity — she wants to prove Chang'e exists, but only because she wants her father to cling onto her birth mother. **Reviving her birth mother back would be better than any photo**.
 
-We would get the same turn of events, except `interlaced between Chang'e's and Houyi's reunion, Fei Fei can get glimpses of  her mom. Perhaps even a medley between Chang'e's` *`Yours Forever`* `and Fei Fei's` *`Magic in these Mooncakes.`*
+We would get the same turn of events, except `interlaced between Chang'e's and Houyi's reunion, Fei Fei can get glimpses of her mom. Perhaps even a medley between Chang'e's` _`Yours Forever`_ `and Fei Fei's` _`Magic in these Mooncakes.`_
 
 `But before Fei Fei's mom can fully materialize, Houyi says he cannot stay because the potion is not enough to keep him around.` Or even better, `Houyi says that Jade Rabbit is right,` **`the potion is enough. But Houyi still fades as he says he does not want to stay.`** Either ways, `Chang'e sends the Moon into The Darkness, obliterating what tangibility that Fei Fei had of her mother.`
 
@@ -235,13 +236,13 @@ Chang'e locks herself in the Chamber of Exquisite Sadness, and `Fei Fei reacts n
 
 A small and passable plot hole: Mrs. Zhong gave Fei Fei a special mooncake (without dates) on their first Mid-Autumn festival together. Fei Fei retreats to her room and expresses her distaste aloud, shoving the mooncake in her drawer. Then, we get a timelapse of Fei Fei building her rocket, which must've taken at least a few months, or even years. Finally, Fei Fei flies to the moon, and realises she needed the half-amulet in Mrs. Zhong's mooncake that she packed for food. The months-old, stale mooncake.
 
-Furthermore, Chang'e announces the competition to find "the Gift". The plot requires it to be ambiguous, because Fei Fei had to first assume that it referred to the doll. However, the idea of "the Gift" isn't developed much neither does it mean much. A story element can be mysterious *and* meaningful.
+Furthermore, Chang'e announces the competition to find "the Gift". The plot requires it to be ambiguous, because Fei Fei had to first assume that it referred to the doll. However, the idea of "the Gift" isn't developed much neither does it mean much. A story element can be mysterious _and_ meaningful.
 
 **I suggest this nice rewrite:** on the first Mid-Autumn Festival, Mrs. Zhong offers Fei Fei a special mooncake. `However, what if Fei Fei straight up refuses this mooncake, but` **`Mrs. Zhong gave a "special" mooncake every year.`**
 
 ```screenplay
 MRS. ZHONG
-I saved you a special mooncake from my hometown... without dates. 
+I saved you a special mooncake from my hometown... without dates.
 
 Mrs. Zhong hands Fei Fei a SMALL TIN BOX.
 ```
@@ -321,7 +322,7 @@ This year, when Fei Fei finally launches her rocket, `she skips the festival ent
 
 `And, it's revealed that Mrs. Zhong knew that Fei Fei would toss out her gift, every year. In fact, Mrs. Zhong would reopen the discarded tin every year to salvage the half-amulet, and repackage it in another mooncake in the following year. Finally, Fei Fei accepts the gift out of guilt.`
 
-Also, I thought this line would be cool: `"Just take one bite when you do feel hungry."` Mrs. Zhong just wants Fei Fei to take just one bite, and then Fei Fei would bite into the hard half-amulet, and appreciate Mrs. Zhong's attempt to connect over the legend of Chang'e. But this can only happen when Fei Fei felt *hungry*, on more levels than one: when Fei Fei is finally ready to accept that she is physically and emotionally hungry. Because if Fei Fei isn't hungry/ready for either, then the greatest mooncake/gift in the world would not suffice enough to cause an honest change in Fei Fei's heart.
+Also, I thought this line would be cool: `"Just take one bite when you do feel hungry."` Mrs. Zhong just wants Fei Fei to take just one bite, and then Fei Fei would bite into the hard half-amulet, and appreciate Mrs. Zhong's attempt to connect over the legend of Chang'e. But this can only happen when Fei Fei felt _hungry_, on more levels than one: when Fei Fei is finally ready to accept that she is physically and emotionally hungry. Because if Fei Fei isn't hungry/ready for either, then the greatest mooncake/gift in the world would not suffice enough to cause an honest change in Fei Fei's heart.
 
 ### 4. Chang'e's new loved ones
 
@@ -333,7 +334,7 @@ Since Chang'e isn't in these scenes, **Chang'e isn't shown to actively reject he
 
 This is simple: when Fei Fei returns with the half-amulet, she returns with Gobi, who has been separated from Chang'e for years. `Gobi could butt in to converse with Chang'e, after being apart for so long, but Chang'e could simply dismiss him because Houyi was so close!` Things like that.
 
-I also think that we can further explore Chang'e's sadness *outside* of The Exquisite Chamber. She does a huge pop number, *Ultraluminary*, showing the world how glowing and happy she is. However, as later scenes explore, she is in fact very much not over Houyi; and underneath all the luminance, there is some deep darkness in the void space of her heart. `There could be a small reprise where she tries to bring back that` *`Ultraluminary`* `persona, through choked tears, and she fades into dimness.`
+I also think that we can further explore Chang'e's sadness _outside_ of The Exquisite Chamber. She does a huge pop number, _Ultraluminary_, showing the world how glowing and happy she is. However, as later scenes explore, she is in fact very much not over Houyi; and underneath all the luminance, there is some deep darkness in the void space of her heart. `There could be a small reprise where she tries to bring back that` _`Ultraluminary`_ `persona, through choked tears, and she fades into dimness.`
 
 ### 5. Eating both immortality pills
 
@@ -372,7 +373,7 @@ This idea of Chang'e's self-ishness against Houyi seemed to be an early idea tha
 
 Furthermore, this fact was Chin's final nail into the coffin to defeat Chang'e in ping-pong and defeat her emotionally in her mind. This was something that meant a lot to Chang'e. But it gets mentioned twice and never developed, an awkward loose end.
 
-The most interesting plot choice would always be to make characters responsible for their actions. **`Let Chang'e actually selfishly choose immortality and being alone over Houyi.`** This is contrary to her current mentality of doing anything just to *get* to Houyi. `Perhaps some time during the plot, it's revealed that Chang'e had a big fight with Houyi, and that's why she ate both pills in the moment. And that's why she's so regretful and does everything she can to reverse her mistake.`
+The most interesting plot choice would always be to make characters responsible for their actions. **`Let Chang'e actually selfishly choose immortality and being alone over Houyi.`** This is contrary to her current mentality of doing anything just to _get_ to Houyi. `Perhaps some time during the plot, it's revealed that Chang'e had a big fight with Houyi, and that's why she ate both pills in the moment. And that's why she's so regretful and does everything she can to reverse her mistake.`
 
 But this selfishness doesn't yet relate much to our protagonist, Fei Fei. `Perhaps Fei Fei can have a scene where she would have to choose between saving the photo or saving Chin's life. Chang'e would warn her, this was the exact same decision she would come to regret.`
 
@@ -386,17 +387,17 @@ In light of cosmic beings and deep folklore, the story could've gone into epic-s
 
 And then instead of some magical antagonist who steals Fei Fei's mom away, we have something more familiar, more relatable: some unnamed generic terminal illness. It's so… normal.
 
-I've always admired stories that know how to reinforce their stories *(like reinforcing concrete with steel)* with a simple but powerful internal conflict that quietly and invisibly gives shape as the backbone of every scene.
+I've always admired stories that know how to reinforce their stories _(like reinforcing concrete with steel)_ with a simple but powerful internal conflict that quietly and invisibly gives shape as the backbone of every scene.
 
 I can't imagine how powerful this story will be for so, so many kids (and adults) who have lost a loved one. I can't imagine how much good lessons we would've so easily lost if the plot had slipped into bland spectacle somewhere in production.
 
 ### 2. Injecting meaning to the folktale
 
-By itself, the folktale is iconic, but while it is a "story", it doesn't really have a *theme*. Plot events happen: bla bla shooting suns, elixir, robber, fly to the moon. But there's no pattern, nothing really tying characters to plot: no underlying *theme.*
+By itself, the folktale is iconic, but while it is a "story", it doesn't really have a _theme_. Plot events happen: bla bla shooting suns, elixir, robber, fly to the moon. But there's no pattern, nothing really tying characters to plot: no underlying _theme._
 
 So, to have a good story to show in a 1h40m movie, Over the Moon has to inject its own theme. There are hundreds of good ways to adapt the folktale, and thousands of mediocre ways. Guesswork cannot get you far.
 
-The movie ended up with a theme of **moving on from loss of a loved one**, as well as setting us in the lens of a young girl who lost her mother. If you told me that *this* was the main throughline for a story adapting the mooncake folktale, I'd doubt its performance.
+The movie ended up with a theme of **moving on from loss of a loved one**, as well as setting us in the lens of a young girl who lost her mother. If you told me that _this_ was the main throughline for a story adapting the mooncake folktale, I'd doubt its performance.
 
 But this thematic premise flows nicely. Chang'e is reframed as a character who lost a loved one, and learning how to cope as well. Fei Fei's relatives comment on this perspective of the folktale, and it sets up a really good story world for our protagonist to act and react in.
 
@@ -408,7 +409,7 @@ Also. Fei Fei (飞飞) literally means "fly". Her character goes on to try to bu
 
 A month or two after watching the movie, I read the official script for the movie, reading the names as transliterated English, and got sucker punched in the face.
 
-Chang'e is a character who wants to bring back who she lost in her past, stubbornly refusing the new and good reality of the present/future. The very thing that Chang'e has to learn to accept in order to grow, is hidden in her name all this time: *Change*.
+Chang'e is a character who wants to bring back who she lost in her past, stubbornly refusing the new and good reality of the present/future. The very thing that Chang'e has to learn to accept in order to grow, is hidden in her name all this time: _Change_.
 
 ### 3. The dinner scene
 
@@ -420,7 +421,7 @@ Now she lives with a rabbit instead of a husband.
 
 Auntie Ling cracks open a crab violently.
 
-AUNTIE LING 
+AUNTIE LING
 Good choice.
 ```
 
@@ -430,10 +431,10 @@ THIS. And, this:
 FEI FEI
 She misses Houyi and cries for him every day!
 
-AUNTIE LING 
+AUNTIE LING
 And how do you know that?
 
-GRANDPA 
+GRANDPA
 They text. [CHUCKLES]
 ```
 
@@ -441,13 +442,13 @@ Lol.
 
 And, there's also Fei Fei defending Chang'e from her aunties' attacks. This is the moment it really clicked for me, how Chang'e's story would be reflected in the protagonist, Fei Fei. Fei Fei defends Chang'e from her aunties, when really, the subtext is that **she's defending herself**.
 
-When Fei Fei asserts that Chang'e definitely *"misses Houyi and cries for him every day!"*, she's really saying that she herself misses her mother and cries for her every day. When Fei Fei cries that *"Chang'e is REAL! She’s on the moon right now! Waiting for her one and only true love. Waiting..."*, she is actually arguing that love that holds on to lost loved ones is *real* and *valid.*
+When Fei Fei asserts that Chang'e definitely _"misses Houyi and cries for him every day!"_, she's really saying that she herself misses her mother and cries for her every day. When Fei Fei cries that _"Chang'e is REAL! She’s on the moon right now! Waiting for her one and only true love. Waiting..."_, she is actually arguing that love that holds on to lost loved ones is _real_ and _valid._
 
 So when the aunties playfully attack Chang'e, it is no wonder (to us, the audience) that Fei Fei takes it so personally and deeply. Attacking Chang'e is attacking Fei Fei. I thought this dinner scene was really neat.
 
 ### 4. Chin: consistency & depth
 
-The setup and payoff with Chin is purposeful. In the First Act, we foreshadow three things about Chin *(leapfrog, hanging-like-a-bat, and running through walls)*, and these get paid off one-by-one. It's even explicitly mentioned in dialogue:
+The setup and payoff with Chin is purposeful. In the First Act, we foreshadow three things about Chin _(leapfrog, hanging-like-a-bat, and running through walls)_, and these get paid off one-by-one. It's even explicitly mentioned in dialogue:
 
 ```screenplay
 GOBI
@@ -463,22 +464,22 @@ FEI FEI
 No! Ugh. Anyway, I can’t stand him.
 
 GOBI
-I can’t stand him either. (beat) 
+I can’t stand him either. (beat)
 Did you say he can run through walls?
 
-FEI FEI 
+FEI FEI
 Forget it, all right?
 ```
 
-A clever trick is used here: the setups for leapfrog and bat-hanging were already paid off, but the last setup about "running through walls" was not paid off yet, so the expectation for this final payoff gets to grow higher in anticipation. This is based on [the rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(writing)).
+A clever trick is used here: the setups for leapfrog and bat-hanging were already paid off, but the last setup about "running through walls" was not paid off yet, so the expectation for this final payoff gets to grow higher in anticipation. This is based on [the rule of three](<https://en.wikipedia.org/wiki/Rule_of_three_(writing)>).
 
-Interestingly, Chin had already tried beforehand to jailbreak himself out of the ping-pong arena. But that failed, and we the audience simply writes off that payoff, done and dusted. But then Gobi brings up that the first two setups proved to be truly useful, and brings up the running through walls again but leaving it very open-endedly. This idea is back into play, and according to the *rule of three*, we the audience can expect that Chin will eventually run through some wall in a spectacular manner.
+Interestingly, Chin had already tried beforehand to jailbreak himself out of the ping-pong arena. But that failed, and we the audience simply writes off that payoff, done and dusted. But then Gobi brings up that the first two setups proved to be truly useful, and brings up the running through walls again but leaving it very open-endedly. This idea is back into play, and according to the _rule of three_, we the audience can expect that Chin will eventually run through some wall in a spectacular manner.
 
 And surely enough, this was finally paid off in the climax, where the emotional stakes are at its peak.
 
 I also appreciated the sequence of events for breaking the "impenetrable barrier". We first had Bungee use her newfound purple-lightning-magic-ear-powers, which was already setup in previous scenes to show how ridiculously powerful it was.
 
-But even lightning-magic fails to break the barrier, making the disaster very grim, because Bungee was supposed to be the ace-up-the-sleeve, their best bet. Then, when Chin *does* succeed, it proves that Chin's love is stronger than magic.
+But even lightning-magic fails to break the barrier, making the disaster very grim, because Bungee was supposed to be the ace-up-the-sleeve, their best bet. Then, when Chin _does_ succeed, it proves that Chin's love is stronger than magic.
 
 ### 5. Leaving Bungee behind
 

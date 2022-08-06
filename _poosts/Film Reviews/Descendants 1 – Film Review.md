@@ -1,18 +1,17 @@
 ---
-category: 🎬 Film Reviews
+wtsa_categories: 🎬 Film Reviews
 date: 2021-11-14
 aliases: Descendants 1
 jekyllcss: colored-code/desc-1
 cssclass: wtsa
-related: ['Descendants 2 – Film Review']
+related: ["Descendants 2 – Film Review"]
 ---
-
 
 # Descendants 1 – Film Review
 
 > but we’re not automatically like that—we get to choose who we’re gonna be.
 
-*Opening animation sequence* hmm cool, cool… Oh look, a bunch of places, different kingdoms. Oh look, the Great Wall… in the United Kingdom of Auradon. \**double-takes in Chinese*\*
+_Opening animation sequence_ hmm cool, cool… Oh look, a bunch of places, different kingdoms. Oh look, the Great Wall… in the United Kingdom of Auradon. \*_double-takes in Chinese_\*
 
 ```screenplay
 EVIL QUEEN
@@ -37,7 +36,7 @@ Hellooo!
 
 ```screenplay
 EVIL QUEEN
-Who’s the fairest of them all? 
+Who’s the fairest of them all?
 
 EVIE
 Me–

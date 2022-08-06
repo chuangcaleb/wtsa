@@ -11,8 +11,14 @@ layout: default
 		<h1 class="post-title p-name" itemprop="name headline">
 			{{ page.title | escape }}
 		</h1>
-
-		{%- include post/top-post-meta.html -%}
+		{% for category in page.wtsa_categories %}
+		<a
+			class="category-link"
+			href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}"
+		>
+			{{ category | escape }}
+		</a>
+		{% endfor %}
 	</header>
 
 	<div class="post-content e-content" itemprop="articleBody">{{content}}</div>
@@ -32,6 +38,5 @@ layout: default
 		</ul>
 		{%- endfor -%}
 	</div>
-	{%- endif -%} {%- if page.category -%} {%- include post/post-nav.html -%} {%-
-	endif -%}
+	{%- endif -%} {%- if page.wtsa_categories -%} {%- endif -%}
 </article>

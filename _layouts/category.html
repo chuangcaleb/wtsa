@@ -3,57 +3,33 @@ layout: default
 ---
 
 <div class="category">
+	{%- if page.title -%}
+	<h1 class="page-title">{{page.emoji}} {{ page.title }}</h1>
+	{%- endif -%} {{ content }} {%- if site.poosts.size > 0 -%}
+	<ul class="post-list list-unstyled p-0">
+		<!-- {% assign sanit_title = page.title | regex_replace: '([^A-Za-z0-9 ]) ', '' %} -->
 
-  <span class="breadcrumbs post-breadcrumbs">
-    <a href="/wtsa/browse">Browse</a> → 
-  </span>
+		{%- for post in site.poosts-%} {%- for category in post.wtsa_categories-%}
+		{%- if category == page.title %}
+		<li>
+			{%- assign date_format = site.minima.date_format | default: "%-d %b %Y"
+			-%}
+			<span class="post-meta">
+				{{ post.date | date: site.date_format }}
+				<span class="text-muted"> &nbsp·&nbsp {{ post.date | timeago }} </span>
+			</span>
 
-  {%- if page.title -%}
-      <h1 class="page-title">
-          <!-- <span style="color:gray">Category: </span> -->
-          {{page.emoji}}  {{ page.title }}
-      </h1>
-  {%- endif -%}
+			<br />
 
-  {{ content }}
+			<a class="post-link fs-4" href="{{ post.url | relative_url }}">
+				{{ post.title | escape }}
+			</a>
 
-  {%- if site.poosts.size > 0 -%}
-      <ul class="post-list list-unstyled p-0">
+			<!-- {% assign ep = post.excerpt | split: '</h1>' %}
+                        {{ ep[1] }} -->
+		</li>
+		{%-endif-%} {%- endfor -%} {%- endfor -%}
+	</ul>
 
-        <!-- {% assign sanit_title = page.title | regex_replace: '([^A-Za-z0-9 ]) ', '' %} -->
-
-          {%- for post in site.poosts-%}
-            
-                {%- if post.category == page.title %}
-                  <li>
-
-                      {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
-                      <span class="post-meta">
-                        {{ post.date | date: site.date_format }}
-                        <span class="text-muted">
-                          &nbsp·&nbsp
-                          {{ post.date | timeago }}
-                        </span>
-                      </span>
-
-                      <br>
-
-                      <a class="post-link fs-4" href="{{ post.url | relative_url }}">
-                          {{ post.title | escape }}
-                      </a>
-
-
-                      <!-- {% assign ep = post.excerpt | split: '</h1>' %}
-                      {{ ep[1] }} -->
-
-                  </li>
-                {%-endif-%}
-            {%- endfor -%}
-        </ul>
-
-
-      {% comment %} <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p> 
-      {%endcomment %}
-  {%- endif -%}
-
+	{%- endif -%}
 </div>

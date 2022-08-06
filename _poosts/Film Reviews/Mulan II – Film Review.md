@@ -1,5 +1,5 @@
 ---
-category: 🎬 Film Reviews
+wtsa_categories: [🌸 Mulan II, 🎬 Film Reviews]
 date: 2021-09-05
 aliases: Mulan II
 jekyllcss: colored-code/mulan
@@ -39,9 +39,9 @@ Mulan grieves, then offers herself as bride instead of the princesses. Shang ret
 
 Yea, discount Eddie Murphy was a hot mess. **MulanII!Mushu was neither charismatic nor had his character explored enough** to justify being conniving yet justify the audience's sympathy, so he’s e just a bad bad guy. He’s just a plot device, it seems.
 
-AND THEN when Mushu confesses what he’s done, and Mulan exclaims that Shang and her aren’t that different (this goes against *Lesson Number One*’s main message that differences are good). She then says all those problems weren’t because of themselves, but only because of Mushu (rip representation of a realistic couple working out their own flaws and differences, nope, if not for external forces, internally they are perfect, bro).
+AND THEN when Mushu confesses what he’s done, and Mulan exclaims that Shang and her aren’t that different (this goes against _Lesson Number One_’s main message that differences are good). She then says all those problems weren’t because of themselves, but only because of Mushu (rip representation of a realistic couple working out their own flaws and differences, nope, if not for external forces, internally they are perfect, bro).
 
-`Instead, we make` **`Mushu's arc a subplot about learning that there are circumstances where you must put duty over heart.`**  WHAT?! Yes. One is not enough, we need both together. Mulan I was able to juggle advocating for the opposing themes of femininity vs masculinity.
+`Instead, we make` **`Mushu's arc a subplot about learning that there are circumstances where you must put duty over heart.`** WHAT?! Yes. One is not enough, we need both together. Mulan I was able to juggle advocating for the opposing themes of femininity vs masculinity.
 
 `What if` **`Mushu learns that if Mulan gets married, he won’t just lose guardianship; she’ll physically never see him again.`** `He must wrestle to make the honourable choice to put his duty as guardian to Mulan’s happiness over his heart to be with her. He could be tempted to meddle with the couple once or twice, but it only causes some small trouble that by itself shouldn’t start a spark; but the couple escalates it on their own. And later, when Mushu confesses, Mulan recognises it’s their own fault.`
 
@@ -55,11 +55,11 @@ AND THEN when Mushu confesses what he’s done, and Mulan exclaims that Shang an
 
 **Mulan also suddenly goes off about arranged marriages** when Mulan was literally preparing to be match-made in the first 5 minutes of Mulan I. Even had a song about it. It’s also literally the culture. But she needs to oppose this tradition, because we need to explain it to the audience, and she has to mentor the princesses. The first song shows Mulan understands that you must balance both heart and duty — then why’s she so imbalanced towards heart?
 
-**`Mulan doesn’t need to be so polar opposite to duty.`** `The princesses can craft and imply their own ideas. Shang may be the argument for` *`extreme duty`*,`but since we already have so many arguments for` *`extreme heart`*`; let Mulan represent` *`perfect balance`* `but only seem to side with` *`heart`* `when arguing and contrasting against Shang’s` *`extreme duty.`*
+**`Mulan doesn’t need to be so polar opposite to duty.`** `The princesses can craft and imply their own ideas. Shang may be the argument for` _`extreme duty`_,`but since we already have so many arguments for` _`extreme heart`_`; let Mulan represent` _`perfect balance`_ `but only seem to side with` _`heart`_ `when arguing and contrasting against Shang’s` _`extreme duty.`_
 
 ### 4. Deadline
 
-**We don’t feel the pressure of the Mongols and the deadline.** They literally get mentioned once vaguely at the start, and never hear of them again. We don’t have that decimated village suckerpunch from Mulan I. We don’t see the [consequences](https://www.helpingwritersbecomeauthors.com/what-are-pinch-points-and-how-can-they-make-your-book-easier-to-write/) if they fail their mission, if they choose heart over duty. “Duty” doesn’t get to make a single case for itself, so it gets brutally whalloped by *Heart/Emotions*. Past the Midpoint when Princess Ting-Ting swaps sides, Shang is singled out and antagonised for sticking to honouring one’s duty, when that going-above-one's-duty is a virtue that is praised in Mulan I.
+**We don’t feel the pressure of the Mongols and the deadline.** They literally get mentioned once vaguely at the start, and never hear of them again. We don’t have that decimated village suckerpunch from Mulan I. We don’t see the [consequences](https://www.helpingwritersbecomeauthors.com/what-are-pinch-points-and-how-can-they-make-your-book-easier-to-write/) if they fail their mission, if they choose heart over duty. “Duty” doesn’t get to make a single case for itself, so it gets brutally whalloped by _Heart/Emotions_. Past the Midpoint when Princess Ting-Ting swaps sides, Shang is singled out and antagonised for sticking to honouring one’s duty, when that going-above-one's-duty is a virtue that is praised in Mulan I.
 
 The antagonists should appear earlier. Instead, we could have `Hun spies catch wind of the marriage alliance. They send assassins to attack the gang at pinch points just when things get too lovey-dovey: the guards are punished for following their heart.`
 
@@ -109,15 +109,15 @@ What are the consequences of the princesses getting with lowly guards? `The guar
 
 ### 1. Princesses as main characters
 
-Giving **the princesses** some spotlight instead of Mulan. I like that it doesn’t try to force Mulan into a positive arc. Mulan *works* as a flat arc character, and it’s great to see her as a mentor to the princesses. We also see the flip side of the glamour of Disney princesses, and it ties well into Mulan’s themes: their responsibility to the kingdom. It’s not all glitter and princes: especially in Imperial China. It sets up a good conflict.
+Giving **the princesses** some spotlight instead of Mulan. I like that it doesn’t try to force Mulan into a positive arc. Mulan _works_ as a flat arc character, and it’s great to see her as a mentor to the princesses. We also see the flip side of the glamour of Disney princesses, and it ties well into Mulan’s themes: their responsibility to the kingdom. It’s not all glitter and princes: especially in Imperial China. It sets up a good conflict.
 
 ### 2. Songs
 
 **The two (2) songs bop.**
 
-***Lesson Number One*** is Mulan teaching little girls that you can/should/must be strong AND gentle. It’s to the tune/style of honour to Us All with the training montage feel of Be A Man. All songs have lyrics about who “You must be...”, and it finally comes to a climax in this song. Would’ve been nice in the bridge, to see the girls trying to exaggerate being rough to imitate masculinity, but Mulan corrects them.
+**_Lesson Number One_** is Mulan teaching little girls that you can/should/must be strong AND gentle. It’s to the tune/style of honour to Us All with the training montage feel of Be A Man. All songs have lyrics about who “You must be...”, and it finally comes to a climax in this song. Would’ve been nice in the bridge, to see the girls trying to exaggerate being rough to imitate masculinity, but Mulan corrects them.
 
-***Like Other Girls*** isn’t a song about them just wanting to run away with the guards; they want to escape the walls of their palace, a la Jasmine in Aladdin. It’s clear from the “It’s not about his heart, it’s about mine,” line that this goes deeper than just another romance song. (Yes, the “Like holding a lily” part is low-key racist, t’was a bad attempt at making a Western tone feel Chinese. Just keep it Western.)
+**_Like Other Girls_** isn’t a song about them just wanting to run away with the guards; they want to escape the walls of their palace, a la Jasmine in Aladdin. It’s clear from the “It’s not about his heart, it’s about mine,” line that this goes deeper than just another romance song. (Yes, the “Like holding a lily” part is low-key racist, t’was a bad attempt at making a Western tone feel Chinese. Just keep it Western.)
 
 ### 3. The third act twist
 

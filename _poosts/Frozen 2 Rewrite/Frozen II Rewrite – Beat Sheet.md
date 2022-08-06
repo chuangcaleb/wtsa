@@ -1,5 +1,5 @@
 ---
-category: ❄️ Frozen II Rewrite
+wtsa_categories: ❄️ Frozen II Rewrite
 date: 2019-12-21
 parents: Frozen II Rewrite
 link-label: F2 Rewrite (Beat Sheet) – Google Docs

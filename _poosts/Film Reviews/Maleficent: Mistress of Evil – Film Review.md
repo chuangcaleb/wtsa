@@ -1,5 +1,5 @@
 ---
-category: 🎬 Film Reviews
+wtsa_categories: 🎬 Film Reviews
 date: 2019-11-12
 ---
 
