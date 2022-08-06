@@ -41,7 +41,7 @@ $heading-lapel-color: #3d4256;
 		border-left-color: gray;
 	}
 
-	#toc,
+	.offcanvas-body,
 	#socialList,
 	main,
 	header,
@@ -65,7 +65,7 @@ $heading-lapel-color: #3d4256;
 	main a.category-link {
 		color: gray;
 		&:hover {
-			color: $active-color;
+			color: #61afef;
 		}
 	}
 
