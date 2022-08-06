@@ -133,37 +133,26 @@ input {
 	height: 40px;
 }
 
-.post {
-	.post-meta {
-		text-align: left;
-		border-left: 3px solid lightgray;
-		color: initial;
-		// padding-left: 15px;
-		padding-left: 18px;
-		margin-top: 20px;
+.post-meta {
+	text-align: left;
+	border-left: 4px solid lightgray;
+	color: gray;
+	padding: 5px 0px 5px 1em;
+	// padding-left: 18px;
+	// margin-top: 20px;
+}
 
-		& > div:not(.meta-link-div) {
-			opacity: 0.5;
-		}
-		& > div.meta-link-div {
-			opacity: 1;
-			emj {
-				opacity: 0.5;
-			}
-		}
-	}
-	.post-extlink {
-		display: block;
-		margin: 60px auto;
-		padding: 20px;
-		text-align: center;
-		border: 2px solid gray;
-		border-radius: 10px;
-		font-size: large;
-		&:hover {
-			text-decoration: none;
-			border-color: $active-color;
-		}
+.post-extlink {
+	display: block;
+	margin: 60px auto;
+	padding: 20px;
+	text-align: center;
+	border: 2px solid gray;
+	border-radius: 10px;
+	font-size: large;
+	&:hover {
+		text-decoration: none;
+		border-color: $active-color;
 	}
 }
 
@@ -380,7 +369,7 @@ strong code {
 .offcanvas-body {
 	/* width */
 	&::-webkit-scrollbar {
-		width: 7px;
+		width: 3px;
 	}
 
 	/* Track */

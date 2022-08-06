@@ -1,12 +1,11 @@
-<div class="post-meta small mt-3 mb-4 d-none d-xl-show">
+<div class="post-meta small">
 	<div>
 		<i class="bi bi-upload"></i> &nbsp;<time
 			class="dt-published"
 			datetime="{{ page.date | date_to_xmlschema }}"
 			itemprop="datePublished"
 		>
-			{{ page.date | date: site.date_format }} &nbsp·&nbsp {{ page.date |
-			timeago }}
+			{{ page.date | date: site.date_format }}
 		</time>
 	</div>
 
@@ -16,8 +15,7 @@
 			datetime="{{ page.last_modified_at | date_to_xmlschema }}"
 			itemprop="dateModified"
 		>
-			{{ page.last_modified_at | date: site.date_format }} &nbsp·&nbsp {{
-			page.last_modified_at | timeago }}
+			{{ page.last_modified_at | date: site.date_format }}
 		</time>
 	</div>
 
