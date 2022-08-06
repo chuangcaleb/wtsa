@@ -5,3 +5,8 @@ blockquote {
 	font-style: normal;
 	padding: 10px 10px;
 }
+
+blockquote::before {
+	/* margin-left: -65px; */
+	display: none;
+}

@@ -3,6 +3,6 @@
 	/* --theme-color: #db4b4b; */
 }
 
-html[data-theme="dark"] {
+[data-theme="dark"] {
 	--theme-color: #d84c4c;
 }

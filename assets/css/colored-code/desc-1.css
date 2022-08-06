@@ -2,6 +2,6 @@
 	--theme-color: #362ac3;
 }
 
-html[data-theme="dark"] {
+[data-theme="dark"] {
 	--theme-color: #837bd5;
 }
