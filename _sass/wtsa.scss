@@ -91,7 +91,7 @@ input {
 	cursor: pointer;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: $lg-breakpoint) {
 	h1:before {
 		content: "H1";
 		color: $heading-lapel-color;
@@ -455,7 +455,6 @@ a.active {
 	}
 
 	@media only screen and (min-width: $lg-breakpoint) {
-		position: fixed !important;
 		top: 15px;
 		right: 15px;
 	}
@@ -484,6 +483,7 @@ a.active {
 }
 
 #offcanvasNavbar {
+	transition: transform 0.3s ease-in-out;
 	// position: fixed;
 
 	.page-link {
@@ -494,17 +494,19 @@ a.active {
 	@media only screen and (min-width: $lg-breakpoint) {
 		max-width: 32%;
 		&.show + #sidebarBody {
-			position: absolute;
-			left: 38%;
+			// position: absolute;
+			// left: 38%;
+			transform: translateX(29%);
 			max-width: 60%;
 		}
 	}
 
 	@media only screen and (min-width: $xl-breakpoint) {
-		max-width: 22%;
+		max-width: 25%;
 		&.show + #sidebarBody {
-			position: absolute;
-			left: 33%;
+			// position: absolute;
+			// left: 33%;
+			transform: translateX(23%);
 		}
 	}
 }
