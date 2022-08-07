@@ -31,7 +31,7 @@ html { scroll-behavior: smooth; }
 
 input { cursor: pointer; }
 
-@media only screen and (min-width: 800px) { h1:before { content: "H1"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -52px; margin-right: 15px; } h2:before { content: "H2"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -54px; margin-right: 20px; } h3:before { content: "H3"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -51px; margin-right: 23px; } h4:before { content: "H4"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -40px; margin-right: 20px; } blockquote:before { content: "❝"; position: absolute; color: #d7d7d7; font-size: 2em; line-height: 1em; margin-left: -1.9em; margin-top: -0em; } }
+@media only screen and (min-width: 992px) { h1:before { content: "H1"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -52px; margin-right: 15px; } h2:before { content: "H2"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -54px; margin-right: 20px; } h3:before { content: "H3"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -51px; margin-right: 23px; } h4:before { content: "H4"; color: #d7d7d7; font-size: 0.8em; font-weight: initial; margin-left: -40px; margin-right: 20px; } blockquote:before { content: "❝"; position: absolute; color: #d7d7d7; font-size: 2em; line-height: 1em; margin-left: -1.9em; margin-top: -0em; } }
 
 .site-footer .site-nav .trigger { height: 40px; }
 
@@ -137,19 +137,21 @@ a.active { border-color: white; border-width: 1px; border-style: solid; }
 
 #offcanvasButton svg { fill: #424242; padding: 5px; }
 
-@media only screen and (min-width: 992px) { #offcanvasButton { position: fixed !important; top: 15px; right: 15px; } }
+@media only screen and (min-width: 992px) { #offcanvasButton { top: 15px; right: 15px; } }
 
 @media only screen and (min-width: 1200px) { #offcanvasButton { z-index: 1046; } }
 
 @media only screen and (max-width: 1200px) { #offcanvasNavbar.show + #sidebarBody #nav-links { display: none !important; } }
 
-#sidebarBody { transition: transform 0.3s ease-in-out; }
+#sidebarBody { transition: none; }
+
+#offcanvasNavbar { transition: none; }
 
 #offcanvasNavbar .page-link { margin-left: 0px; margin-right: 0px; }
 
-@media only screen and (min-width: 992px) { #offcanvasNavbar { max-width: 32%; } #offcanvasNavbar.show + #sidebarBody { position: absolute; left: 38%; max-width: 60%; } }
+@media only screen and (min-width: 992px) { #offcanvasNavbar { max-width: 32%; } #offcanvasNavbar.show + #sidebarBody { transform: translateX(29%); max-width: 60%; } }
 
-@media only screen and (min-width: 1200px) { #offcanvasNavbar { max-width: 22%; } #offcanvasNavbar.show + #sidebarBody { position: absolute; left: 33%; } }
+@media only screen and (min-width: 1200px) { #offcanvasNavbar { max-width: 25%; } #offcanvasNavbar.show + #sidebarBody { transform: translateX(23%); } }
 
 @media only screen and (min-width: 600px) { .site-header .theme-toggle { margin: 10px 0px; } }
 
