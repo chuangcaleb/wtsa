@@ -1,6 +1,8 @@
 var offcanvasButton = document.getElementById("offcanvasButton");
 var offcanvasCloseButton = document.getElementById("offcanvasCloseButton");
+var sidebarBody = document.getElementById("sidebarBody");
 var offcanvas = document.getElementById("offcanvasNavbar");
+
 window.addEventListener("DOMContentLoaded", function () {
 	initOffcanvas();
 	offcanvasButton.addEventListener("click", function () {
@@ -17,6 +19,10 @@ function initOffcanvas() {
 	offcanvasShown
 		? offcanvas.classList.add("show")
 		: offcanvas.classList.remove("show");
+	setTimeout(function () {
+		offcanvas.style.transition = "transform 0.3s ease-in-out";
+		sidebarBody.style.transition = "transform 0.3s ease-in-out";
+	}, 10);
 }
 function resetOffcanvas() {
 	if (offcanvas.classList.contains("show")) {

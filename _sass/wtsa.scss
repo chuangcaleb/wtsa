@@ -478,13 +478,11 @@ a.active {
 // }
 
 #sidebarBody {
-	// position: absolute;
-	transition: transform 0.3s ease-in-out;
+	transition: none;
 }
 
 #offcanvasNavbar {
-	transition: transform 0.3s ease-in-out;
-	// position: fixed;
+	transition: none;
 
 	.page-link {
 		margin-left: 0px;
