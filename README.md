@@ -5,17 +5,16 @@
 ### Todo
 
 - cleanup scss
-- remove transition for reloading page, only transition for clicking button
 - jekyll github actions
 - populate paages in md again, so their generated headers render in toc?
-  - instead: another custom toc
+- instead: another custom toc
 
 ### Doing
 
-- sidebarBody to ease transition in sliding sidebar
-
 ### Completed
 
+- remove transition for reloading page, only transition for clicking button
+- sidebarBody to ease transition in sliding sidebar
 - linktree to local page
 - better related metadata (tags system)
 - positioning nav button

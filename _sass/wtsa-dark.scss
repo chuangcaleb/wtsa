@@ -41,6 +41,12 @@ $heading-lapel-color: #3d4256;
 		border-left-color: gray;
 	}
 
+	main a {
+		&:visited {
+			color: #3d88c6;
+		}
+	}
+
 	.offcanvas-body,
 	#socialList,
 	main,
@@ -56,16 +62,12 @@ $heading-lapel-color: #3d4256;
 		}
 	}
 
-	main a {
-		&:visited {
-			color: #3d88c6;
-		}
-	}
-
 	main a.category-link {
 		color: gray;
 		&:hover {
-			color: #61afef;
+			// color: #61afef;
+			color: white;
+			border-color: white;
 		}
 	}
 
