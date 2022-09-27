@@ -19,18 +19,18 @@
     </time>
   </div>
 
-  {%- if page.link-label -%}
-
-  <div class="meta-link-div">
-    <i class="bi bi-box-arrow-up-right"></i> &nbsp
-    <a href="{{page.link-href}}"> {{page.link-label}} </a>
-  </div>
-
-  {%-endif-%}
-
   <div>
     <i class="bi bi-stopwatch"></i> &nbsp {{content | number_of_words}} words
     &nbsp·&nbsp {{ content | number_of_words | divided_by: 270 | pluralize:
     "min" }} read
   </div>
+
+  {%- if page.link-label -%}
+
+  <div class="meta-link-div d-block">
+    <i class="bi bi-box-arrow-up-right"></i> &nbsp
+    <a href="{{page.link-href}}"> {{page.link-label}} </a>
+  </div>
+
+  {%-endif-%}
 </div>
