@@ -20,6 +20,8 @@ The very first thing that really struck a chord, was seeing my own culture in a 
 
 > 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
 
+---
+
 ## Things I'd Tweak 🔧
 
 ### 1. The climactic solution

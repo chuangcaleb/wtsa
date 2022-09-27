@@ -52,6 +52,38 @@ Scene headers are labelled accordingly:
 - Huns Soldiers + Huns Leader
 - Fa Zhou (Mulan’s dad), Mama Fa, Grandma Fa
 
+### Original Plot Structure
+
+- **Hook**: Mulan trains some girls, and Shang comes to propose to her. 
+- **Inciting Incident**: The Emperor summons the Mulan and Shang to the palace for a secret mission. Mushu finds out he would lose his status as family guardian, as well as Mulan, should they get married.
+- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from a coming Mongol invasion. 
+- **First Plot Point**: They leave their kingdom with the three princesses and three guards.
+- **First Pinch Point**: Mushu sabotages the carriage, destroying it. They must stop and set up camp.
+- **Midpoint**: The oldest princess, Ting-Ting, asserts to her sisters that they must follow their duty over their heart. Nevertheless, they sneak out with the guards to attend a festival.
+- **Second Pinch Point**: Shang catches them in the village, puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and they break their own relationship off.
+- **Third Plot Point**: They get ambushed by the Mongols, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
+- **Climactic Inciting**: Shang crashes the wedding, alive apparently. They don't like him. 
+- **Climactic Midpoint**: Mushu masquerades as the Great Dragon to dissuade Lord Qin.
+- **Climactic Moment**: Lord Qin gives in, and weds the duo on the spot.
+- **Resolution**: China is saved, due to the alliance. Mushu is added onto Shang's family guardians, which means he still gets to be with Mulan.
+
+> 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
+
+### Rewrite Plot Structure
+
+- **Hook**: *Three princesses play around. Their Queen Mother reprimands them, sorrowful herself.*
+- **Inciting Incident**: The Emperor summons the Mulan and Shang to the palace for a secret mission. Mushu finds out he would lose his status as family guardian, as well as Mulan, should they get married.
+- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from coming *Hun raids*.
+- **First Plot Point**: They leave their kingdom with the three princesses, three guards, *and an entourage of guards*.
+- **First Pinch Point**: *They get ambushed by Huns, separating them from the rest of the soldiers. They press on ahead to make the deadline.*
+- **Midpoint**: The oldest princess, Ting-Ting, asserts to her sisters that they must follow their duty over their heart. Nevertheless, they sneak out with the guards to attend a festival.
+- **Second Pinch Point**: *They get ambushed again at the festival.* Shang puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and *considers* they *should* break their own relationship off.
+- **Third Plot Point**: They get ambushed by the Mongols, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
+- **Climactic Inciting**: *Huns ambush the Qin palace. Everyone retreats inside.*
+- **Climactic Midpoint**: *The three guards joins the fight. They must fight their way to light the signal fire to call for reinforcements, but gently fan it to make it grow.*
+- **Climactic Moment**: *Reinforcements are called. One last Hun makes an attempt on Lord Qin, which is blocked by Shang, alive. Shang announces that the village that his father had died protecting was actually in Qin's dynasty. Shang demands for Qin to honor them by not requiring Mulan's marriage, to which Qin is pressed to fulfill.*
+- **Resolution**: China is saved, due to the alliance. *Upon accusations of treason, the princesses vouch for the guards. They all attend Mulan and Shang's wedding, whereupon Mushu officiates and completely fulfills his duty.*
+
 ---
 
 ## Act 1
@@ -430,14 +462,14 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `Mulan has had enough. “That’s it! Dishonour! [turning to Shang] Make a note of this. Dishonour on you! Dishonour on your family! Dishonour on your kingdom!”`
 - `Qin is incredulous. He’s about to pronounce a death sentence.`
 - `“Dishonour!” Chien-Po cries from the crowd. “Dishonour on you!” some citizen echoes. “I will fight! For honour!” The courtyard is in uproar.`
-- `Qin looks around panickingly. He’s baffled. “Okay! Okay!” He bows at Mulan’s feet. “Please! Please give us the honour to make the alliance with you!”`
+- `Qin looks around panickingly. He’s baffled. “Okay! Okay!” He grovels at Mulan’s feet. “Please! Please grant us the honour to make the alliance with you!”`
 - `Shang stares off into the sky, “I understand now, dad: one grain of rice `_`can`_ `tip the scale.”`
 
 ### `3.7 The Three Reunited - NEW`
 
 - `Back home, The Gang of Three are tossed at the Emperor’s feet.`
 - `Some soldier accuses, “These guards sabotaged the mission! Their duty was to protect the princesses, but they only flirted with them and put them in danger!”`
-- `The princesses step out, “These men` _`have`_ `protected us, besides saving our kingdom?! And most of all… they brought` _`honour`_ `to us.”`
+- `The princesses step out, “These men` _`have`_ `protected us, besides saving our kingdom too?!! And most of all… they brought` _`honour`_ `to us.”`
 - `“We will cut our royalty ties, and live as nobodies, if it means to be with them.”`
 - `The Emperor raises an amused eyebrow. What happens is left vague.`
 

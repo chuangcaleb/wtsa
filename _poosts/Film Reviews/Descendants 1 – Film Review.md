@@ -55,6 +55,8 @@ Evil Queen calls out to Evie. She points at her own sucked-in cheeks, for Evie t
 
 <br>
 
+> 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
+
 ---
 
 ## Five Things I'd Tweak 🔧

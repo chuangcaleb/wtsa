@@ -15,6 +15,8 @@ That said, it’s not without fault: with all that character complexity, there w
 
 All in all. I enjoyed it. It was fun, funny and entertaining, and still had a lot of heart. Definitely was worth watching for me, perhaps even rewatching later.
 
+> 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
+
 ---
 
 ## Things I'd Tweak

@@ -21,9 +21,11 @@ Of course, we must compare it with the first movie. There weren’t really any i
 
 I think while it set some good groundwork, and was a fun ride, a lot was still lacking narrative-wise, especially in the intellectual thematic argument, which has so much to say.
 
-## Original Plot Summary
+## Plot Summary
 
 (since y’all probably never watched it, some never will, here it is)
+
+### Prose
 
 Shang proposes to Mulan. Mushu would lose his status as family guardian, as well as Mulan, so decides to break them up. The Emperor summons the duo to escort his three princess daughters to form an alliance with Lord Qin to protect them from a coming Mongol invasion. They recruit the Gang of Three (Yao, Ling and Chien-Po) from the first movie.
 
@@ -32,6 +34,21 @@ En route, the three princesses fall in love with the Gang of Three. Mushu causes
 Shang puts his foot down, forbidding the three pairs to talk, then mutually breaks up with Mulan. They get attacked by bandits and Shang sacrifices himself for Mulan.
 
 Mulan grieves, then offers herself as bride instead of the princesses. Shang returns to crash the marriage. Mushu masquerades as the Great Dragon to dissuade Lord Qin, and weds the duo on the spot.
+
+### Plot Structure
+
+- **Hook**: Mulan trains some girls, and Shang comes to propose to her. 
+- **Inciting Incident**: The Emperor summons the Mulan and Shang to the palace for a secret mission. Mushu finds out he would lose his status as family guardian, as well as Mulan, should they get married.
+- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from a coming Mongol invasion. 
+- **First Plot Point**: They leave their kingdom with the three princesses and three guards.
+- **First Pinch Point**: Mushu sabotages the carriage, destroying it. They must stop and set up camp.
+- **Midpoint**: The oldest princess, Ting-Ting, asserts to her sisters that they must follow their duty over their heart. Nevertheless, they sneak out with the guards to attend a festival.
+- **Second Pinch Point**: Shang catches them in the village, puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and they break their own relationship off.
+- **Third Plot Point**: They get ambushed by the Mongols, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
+- **Climactic Turning Point**: Shang crashes the wedding, alive apparently. They don't like him. 
+- **Climactic Buildup**: Mushu masquerades as the Great Dragon to dissuade Lord Qin.
+- **Climactic Moment**: Lord Qin gives in, and weds the duo on the spot.
+- **Resolution**: China is saved, due to the alliance. Mushu is added onto Shang's family guardians, which means he still gets to be with Mulan.
 
 ## What to improve
 
@@ -95,7 +112,7 @@ The map is too ruined. You should consider your fiance’s advice.
 
 `More fighting; Mushu wants to light a signal fire for help. He only puffs a small flame, then the soldier trio fan it so hard that it almost dies. The princesses step in and fan it gently, growing into a huge fire. Support arrives, rounding up the rest of the Huns. Emperor Qin honours the alliance without needing marriage.`
 
-### 7. The Crown Prince
+### 7. The Clown Prince
 
 Why is the foreign crown prince portrayed so dumb; I thought we decided with the soldier trio that we shouldn’t shame weird people. lol. Then the dad/Emperor just forgets about the whole alliance thing and plays with the chinese finger trap. bruh??? No thoughts, head empty.
 
@@ -126,3 +143,7 @@ The third act twist: Mulan takes the princess’ place in arranged marriage. **I
 “This is Fa Mulan, the hero who saved China! She is worth more than three princesses!” No matter how much Mulan excelled at being the stereotypical heroic male war hero, she was still treated just as a trophy wife.
 
 Seems like just three points, but they are three very strong points.
+
+---
+
+LOL so I watched a video where they talked about the cultural aspect of this movie. In the climax, Shang interrupts the wedding seal by throwing a *shuriken*. A Japanese shuriken. From a Chinese setting. hahahahahahahahha

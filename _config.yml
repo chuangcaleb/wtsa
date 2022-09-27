@@ -95,7 +95,7 @@ defaults:
       type: paages
     values:
       layout: page
-      permalink: :title
+      permalink: /:title
       toc: true
   - scope:
       path: "assets"

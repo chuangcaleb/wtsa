@@ -13,6 +13,8 @@ related: ["Descendants 1 – Film Review"]
 
 Lol that final climax when Uma turns into an octopus and Mal turns into a dragon. Was 90%-expecting Ben to turn into a Beast, since everyone was doing it. Can’t say I’m not disappointed. Apparently he gets transformed into a Beast in the third one, but eh.
 
+> 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
+
 ## Story Structure
 
 **Hook**: Ways to be Wicked
