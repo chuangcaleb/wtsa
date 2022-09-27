@@ -11,19 +11,20 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">
       {{ page.title | escape }}
     </h1>
+
     {% for category in page.wtsa_categories %}
-    <a
-      class="category-link"
-      href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}"
-    >
-      {{ category | escape }}
-    </a>
-    {% endfor %}
+    <div id="post-categories" class="mb-2">
+      <a
+        class="category-link"
+        href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}"
+      >
+        {{ category | escape }}
+      </a>
+    </div>
+    {% endfor %} {%- include post/top-post-meta.html -%}
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {%- include post/top-post-meta.html -%} {{content}}
-  </div>
+  <div class="post-content e-content" itemprop="articleBody">{{content}}</div>
 
   {%- if page.link-label -%}
   <a href="{{page.link-href}}" class="post-extlink">
