@@ -221,9 +221,9 @@ iframe {
   border: 1px solid rgba(227, 227, 227, 0.5);
   border-radius: 0.4em;
   margin-right: 0.5em;
-  &::before {
-    content: "# ";
-  }
+  // &::before {
+  //   content: "# ";
+  // }
   &:hover {
     color: black;
     border-color: gray;
