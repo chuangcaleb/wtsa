@@ -52,20 +52,11 @@ Scene headers are labelled accordingly:
 - Huns Soldiers + Huns Leader
 - Fa Zhou (Mulan’s dad), Mama Fa, Grandma Fa
 
-### Rewrite Story Structure
-
-{:.no_toc}
-
-- seed list
-  {:toc}
-
 ---
 
 ## Act 1
 
 ### `1.x - Mushu intro - CUT`
-
-{:.no_toc}
 
 ### `1.1 Princesses Intro - NEW`
 
@@ -76,8 +67,6 @@ Scene headers are labelled accordingly:
 - `By the end, the girls are all emotional and just bury their faces in their mom’s chest. She wants to scold them for breaking posture again — but decides otherwise, wrapping herself around them.`
 
 ### `1.x Family Intro - CUT`
-
-{:.no_toc}
 
 ### 1.2 Mulan Intro
 
@@ -103,8 +92,6 @@ Scene headers are labelled accordingly:
 - `The ancestors dare Mushu: how honourable are you, really? Will you keep to your duty to see the marriage through, even if it means losing Mulan?`
 
 ### `1.x Mushu Hatches His Plan - CUT`
-
-{:.no_toc}
 
 ### 1.4 Differences
 

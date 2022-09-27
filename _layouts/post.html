@@ -3,38 +3,42 @@ layout: default
 ---
 
 <article
-	class="post h-entry"
-	itemscope
-	itemtype="http://schema.org/BlogPosting"
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
 >
-	<header class="post-header">
-		<h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-		{% for category in page.wtsa_categories %}
-		<a
-			class="category-link"
-			href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}"
-		>
-			{{ category | escape }}
-		</a>
-		{% endfor %}
-	</header>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+    {% for category in page.wtsa_categories %}
+    <a
+      class="category-link"
+      href="{{ category | regex_replace: '([^A-Za-z0-9 –-] *)', '' | replace: ' ', '-' | relative_url }}"
+    >
+      {{ category | escape }}
+    </a>
+    {% endfor %}
+  </header>
 
-	<div class="post-content e-content" itemprop="articleBody">{{content}}</div>
+  <div class="post-content e-content" itemprop="articleBody">
+    {%- include post/top-post-meta.html -%} {{content}}
+  </div>
 
-	{%- if page.link-label -%}
-	<a href="{{page.link-href}}" class="post-extlink">
-		{{page.link-label}} &nbsp <i class="bi bi-box-arrow-up-right"></i>
-	</a>
-	{%-endif-%} {%- if page.related -%}
-	<div class="related-posts">
-		<h2>Related posts:</h2>
-		{%- for post_title in page.related -%}
-		<ul>
-			<li>
-				<a href="{{ post_title | slugify }}"> {{post_title}} </a>
-			</li>
-		</ul>
-		{%- endfor -%}
-	</div>
-	{%- endif -%} {%- if page.wtsa_categories -%} {%- endif -%}
+  {%- if page.link-label -%}
+  <a href="{{page.link-href}}" class="post-extlink">
+    {{page.link-label}} &nbsp <i class="bi bi-box-arrow-up-right"></i>
+  </a>
+  {%-endif-%} {%- if page.related -%}
+  <div class="related-posts">
+    <h2>Related posts:</h2>
+    {%- for post_title in page.related -%}
+    <ul>
+      <li>
+        <a href="{{ post_title | slugify }}"> {{post_title}} </a>
+      </li>
+    </ul>
+    {%- endfor -%}
+  </div>
+  {%- endif -%} {%- if page.wtsa_categories -%} {%- endif -%}
 </article>
