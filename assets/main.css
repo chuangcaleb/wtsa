@@ -135,13 +135,13 @@ a.active { border-color: white; border-width: 1px; border-style: solid; }
 
 @media only screen and (max-width: 992px) { .invis-interactable { text-decoration: underline !important; } }
 
-#offcanvasButton { position: fixed !important; top: 5px; right: 5px; background-color: white; border: 1px solid #e8e8e8; border-radius: 5px; z-index: 1; }
+#offcanvasToggleButton { position: fixed !important; top: 5px; right: 5px; background-color: white; border: 1px solid #e8e8e8; border-radius: 5px; z-index: 1; }
 
-#offcanvasButton svg { fill: #424242; padding: 5px; }
+#offcanvasToggleButton svg { fill: #424242; padding: 5px; }
 
-@media only screen and (min-width: 992px) { #offcanvasButton { top: 15px; right: 15px; } }
+@media only screen and (min-width: 992px) { #offcanvasToggleButton { top: 15px; right: 15px; } }
 
-@media only screen and (min-width: 1200px) { #offcanvasButton { z-index: 1046; } }
+@media only screen and (min-width: 1200px) { #offcanvasToggleButton { z-index: 1046; } }
 
 @media only screen and (max-width: 1200px) { #offcanvasNavbar.show + #sidebarBody #nav-links { display: none !important; } }
 
@@ -273,9 +273,9 @@ a.active { border-color: white; border-width: 1px; border-style: solid; }
 
 [data-theme="dark"] hr { border-color: white; }
 
-[data-theme="dark"] #offcanvasButton { background-color: #1c1f2b; }
+[data-theme="dark"] #offcanvasToggleButton { background-color: #1c1f2b; }
 
-[data-theme="dark"] #offcanvasButton svg { fill: #aaaaaa; }
+[data-theme="dark"] #offcanvasToggleButton svg { fill: #aaaaaa; }
 
 [data-theme="dark"] .offcanvas-body { /* Track */ /* Handle */ /* Handle on hover */ }
 
