@@ -3,21 +3,6 @@
   {%- include head.html -%}
 
   <body>
-    <div class="d-flex flex-row" id="body">
-      {%- include assets/js/collapsible-sidebar.html -%}
-
-      <div
-        id="sidebarBody"
-        class="container col-sm-11 col-lg-8 col-xl-7 col-xxl-6"
-      >
-        {%- include header.html -%}
-
-        <main aria-label="Content" class="page-content pb-3">
-          {{ content }}
-        </main>
-      </div>
-    </div>
-
     <button
       aria-controls="offcanvasNavbar"
       class="navbar-toggle"
@@ -35,6 +20,17 @@
         </svg>
       </span>
     </button>
+
+    {%- include assets/js/collapsible-sidebar.html -%}
+
+    <div
+      id="sidebarBody"
+      class="container col-sm-11 col-lg-8 col-xl-7 col-xxl-6"
+    >
+      {%- include header.html -%}
+
+      <main aria-label="Content" class="page-content pb-3">{{ content }}</main>
+    </div>
 
     <script src="{{ site.baseurl }}/assets/js/persistent-offcanvas.js"></script>
   </body>
