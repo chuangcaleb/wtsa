@@ -14,7 +14,7 @@
 ### Completed
 
 - remove transition for reloading page, only transition for clicking button
-- sidebarBody to ease transition in sliding sidebar
+- canvasBody to ease transition in sliding sidebar
 - linktree to local page
 - better related metadata (tags system)
 - positioning nav button
@@ -41,7 +41,7 @@
 		{% endfor %} {% endcomment %}
  -->
 
- 	<!-- {%- if page.categories -%}
+  <!-- {%- if page.categories -%}
         <br/>
         Category:
         <a class="category-link" href="{{ page.category | replace: ' ', '-' | relative_url }}">

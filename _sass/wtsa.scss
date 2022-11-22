@@ -5,6 +5,16 @@ $active-color: #7aa0d1;
 $lg-breakpoint: 992px; /* lg breakpoint */
 $xl-breakpoint: 1200px; /* xl breakpoint */
 
+//default
+:root {
+  --theme-color: rgb(27, 114, 97) 0;
+  /* --theme-color: #db4b4b; */
+}
+
+[data-theme="dark"] {
+  --theme-color: #4cd899;
+}
+
 // * General -------------------------------------------------------------------
 
 blockquote {
@@ -75,6 +85,10 @@ html {
   blockquote {
     // margin-top: 0;
     margin-bottom: 1.5em;
+  }
+
+  .post-content > p {
+    text-align: justify;
   }
 
   pre + * {
@@ -278,7 +292,7 @@ iframe {
 
 // * Lists ---------------------------------------------------------------------
 
-.post-list li {
+.post-list > li {
   border-left: 3px solid lightgray;
   padding-left: 15px;
   margin-bottom: 3em;
@@ -475,21 +489,15 @@ a.active {
   }
 }
 
-#offcanvasNavbar.show + #sidebarBody #nav-links {
+#offcanvasNavbar.show + #canvasBody #nav-links {
   @media only screen and (max-width: $xl-breakpoint) {
     display: none !important;
   }
 }
-// #offcanvasNavbar.show + #sidebarBody #offcanvasToggleButton {
-// 	@media only screen and (min-width: $lg-breakpoint) {
-// 		position: fixed !important;
-// 		top: 15px;
-// 		right: 15px;
-// 	}
-// }
 
-#sidebarBody {
+#canvasBody {
   transition: none;
+  max-width: 70ch;
 }
 
 #offcanvasNavbar {
@@ -501,24 +509,21 @@ a.active {
   }
 
   @media only screen and (min-width: $lg-breakpoint) {
-    max-width: 32%;
-    &.show + #sidebarBody {
-      // position: absolute;
-      // left: 38%;
-      transform: translateX(29%);
-      max-width: 60%;
+    &.show + #canvasBody {
+      transform: translateX(27%);
     }
   }
 
   @media only screen and (min-width: $xl-breakpoint) {
-    max-width: 25%;
-    &.show + #sidebarBody {
-      // position: absolute;
-      // left: 33%;
-      transform: translateX(23%);
+    &.show + #canvasBody {
+      transform: translateX(30%);
     }
   }
 }
+
+// #offcanvasNavbar.offcanvas {
+//   max-width: 32ch;
+// }
 
 #body {
   padding-bottom: 30vh;

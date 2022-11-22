@@ -1,6 +1,6 @@
 var offcanvasToggleButton = document.getElementById("offcanvasToggleButton");
 var offcanvasCloseButton = document.getElementById("offcanvasCloseButton");
-var sidebarBody = document.getElementById("sidebarBody");
+var canvasBody = document.getElementById("canvasBody");
 var offcanvas = document.getElementById("offcanvasNavbar");
 
 window.addEventListener("DOMContentLoaded", function () {
@@ -22,7 +22,7 @@ function initOffcanvas() {
     : offcanvas.classList.remove("show");
   setTimeout(function () {
     offcanvas.style.transition = "transform 0.3s ease-in-out";
-    sidebarBody.style.transition = "transform 0.3s ease-in-out";
+    canvasBody.style.transition = "transform 0.3s ease-in-out";
   }, 1);
 }
 

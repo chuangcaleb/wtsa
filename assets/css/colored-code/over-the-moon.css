@@ -1,3 +1,4 @@
-:root {
-	--theme-color: #65ab99;
+:root,
+:root [data-theme="dark"] {
+  --theme-color: #65ab99;
 }
