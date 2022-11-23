@@ -8,6 +8,8 @@ cssclass: wtsa
 ---
 # Make Simba Guilty (The Lion King)
 
+If there's one small change that I could make to The Lion King, perhaps it could've been in the live-action remake or stage musical, it would be this: Simba's pride directly caused…
+
 <!--more-->
 
 > 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
@@ -22,7 +24,10 @@ The Prodigal Son must stop running, come home, and face his fears and failures h
 
 But what mistake _did_ Simba have to face?
 
-## Scar has been 100% to blame
+
+## Scrutinizing the story
+
+### Scar has been 100% to blame
 
 I think the revealing answer is in the climactic dialogue:
 
@@ -68,7 +73,7 @@ Scar's legions rally around him. Scar and Simba fight through the crush of hyena
 
 You could say:
 
-- **Simba's mistake was that he was in the valley in the first place.** But while Scar previously uses Simba's pride (heh) against him to lure him to the dangerous elephant graveyard, this time Scar outright just guilt trips Simba into going into the valley. You can't blame a small child for being guilt-tripped by a cunning manipulator. Scar is 100% to blame here for Mufasa's death.
+- **Simba's mistake was that he was in the gorge in the first place.** But while Scar previously uses Simba's pride (heh) against him to lure him to the dangerous elephant graveyard, this time Scar outright just guilt trips Simba into going into the gorge. You can't blame a small child for being guilt-tripped by a cunning manipulator. Scar is 100% to blame here for Mufasa's death.
 
 ```screenplay
 SCAR
@@ -81,7 +86,7 @@ Just stay on this rock. You wouldn't want to end up in another mess like you did
 
 And credit to the writers, to make Scar the iconic manipulative sociopath that he is. The key to making an effective antagonist is to make them/their actions **actively responsible** for the plot outcomes that push our protagonist down the tough path.
 
-## Then what mistake does Simba really have to face?
+### Then what mistake does Simba really have to face?
 
 But at the end of the day, when all the cards are revealed, Simba says: **"You killed him! All this time, I hated myself -- when you're the one who did it!"** This suggests that Simba is washing his hands clean of his father's blood, because to him, Scar had been pulling all the strings, while Simba was just a young, innocent puppet.
 
@@ -107,7 +112,7 @@ If Simba had nothing to apologize for, then if someone (e.g. Raifiki) had just t
 
 Then, if it's not a story about learning from your mistakes, then what's the story about?™ Where's the thematic resonance? Onto the one small change.
 
-## (Not) Confessing crucial information
+### (Not) Confessing crucial information
 
 But first, a side note: it also sometimes breaks suspension of disbelief during the climax when Scar simply [gloats and reveals crucial information, when the smart villain would've just ended the hero right there](https://tvtropes.org/pmwiki/pmwiki.php/Main/JustBetweenYouAndMe).
 
@@ -129,6 +134,184 @@ In one simple villain mistake, all of Simba's problems and insecurities are reso
 
 ## The one small change: make Simba guilty
 
-[The Secret to Writing Dynamic Characters: It's Always Their Fault - Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com/secret-writing-dynamic-characters-always-fault/) is one of my favorite posts from the [Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com) blog that I <span style="text-decoration:underline;">always</span> find myself coming back to. Because, in every analysis, the discriminatory factor that makes or breaks a story, is almost always exactly this: whether the characters are at fault.
+[The Secret to Writing Dynamic Characters: It's Always Their Fault - Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com/secret-writing-dynamic-characters-always-fault/) is one of my favorite posts from the [Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com) blog that I <span style="text-decoration:underline;">always</span> find myself coming back to. Because, in every analysis, the discriminatory factor that makes or breaks a story, is almost always exactly this: **are the characters at fault?**
 
-Now to 
+If there's one small change that I could make to The Lion King, perhaps it could've been in the live-action remake or stage musical, it would be this: **Simba's pride directly caused Mufasa's death.**
+
+> If there's one small change that I could make to The Lion King, it would be this: **Simba's pride directly caused Mufasa's death.**
+
+### Changing the terms of Mufasa's Death
+
+Now earlier in the story, Scar tempts and lures Simba into the Elephant's Graveyard — but as manipulative as Scar is being here, we can still confidently say that Simba was completely at fault for letting his pride put himself at danger on this one.
+
+```screenplay
+SCAR
+It's far too dangerous. Only the bravest of the lions go there.
+
+SIMBA
+(defensive)
+Well, I'm brave. What's out there?
+```
+
+However, we can't really say the same for the next time when Scar doesn't tell Simba a single detail about the gorge, and Simba innocently sits there. He is the prey, and Scar is the predator. This is the scene we are going to make one small change to.
+
+```screenplay
+SEQ. 10 (STAMPEDE/MUFASA'S DEATH)
+EXT. PLATEAU - THE FOLLOWING DAY
+
+Two dots are down below in a tremendous gorge.
+
+SCAR (O.S.)
+Now you wait here. Your father has a marvelous surprise for you.
+
+SIMBA (O.S.)
+What is it?
+
+EXT. FLOOR OF THE GORGE - A SHORT TIME LATER
+
+Scar is with Simba under a tree. Simba sits on a rock.
+
+SCAR
+If I told you, it wouldn't be a surprise now, woudld it?
+
+SIMBA
+(sweetly shrewd)
+If you tell me -- I'll still act surprised.
+
+SCAR
+(tsk-tsk-tsking)
+You are such a naughty boy.
+
+SIMBA
+(man-to-man)
+Come on, Uncle Scar...
+
+SCAR
+No-no-no. This is just for you and your dad. You know, a sort of father-son thing.
+(a real pal)
+Well, I'd better go get him.
+
+SIMBA
+I'll go with you!
+
+SCAR
+NO!
+(sweetly)
+No, no.
+
+Scar starts to go.
+
+SCAR
+Just stay on this rock. You wouldn't want to end up in another mess like you did with the hyenas.
+[...]
+Now be a good lad and prove you can do one thing right: Stay on this rock and wait for your surprise.
+```
+
+One was temptation onto a guilty criminal, while the other was deception onto an innocent victim. Simba even tries to be culpable ("I'll still act surprised"), but Scar denies him any real accountability for what happens next. This earlier dialogue was surely (re)written and emphasized to go along with the climactic line: "You killed him! All this time, I hated myself -- when you're the one who did it!"
+
+But as we discussed, I think it could be done better: let's make Simba guilty.
+
+```screenplay
+SEQ. 10 (STAMPEDE/MUFASA'S DEATH)
+EXT. PLATEAU - THE FOLLOWING DAY
+
+Two dots are down below in a tremendous gorge.
+
+SCAR (O.S.)
+Now you wait here. Your father has a marvelous surprise for you.
+
+SIMBA (O.S.)
+What is it?
+
+EXT. FLOOR OF THE GORGE - A SHORT TIME LATER
+
+Scar is with Simba under a tree. Simba sits on a rock.
+
+SCAR
+If I told you, it wouldn't be a surprise now, woudld it?
+
+SIMBA
+(sweetly shrewd)
+If you tell me -- I'll still act surprised.
+
+SCAR
+(tsk-tsk-tsking)
+You are such a naughty boy.
+
+SIMBA
+(man-to-man)
+Come on, Uncle Scar...
+```
+```screenplay-edited
+SCAR
+All right. I promised your father I wouldn't tell you!
+(softens)
+There's one young wilderbeest at the top of the gorge. 
+
+EXT. A LEDGE ABOVE
+
+A lone, small-sized wildebeest grazes at the ravine's edge.
+
+WITH SCAR AND SIMBA
+
+SCAR (CONT'D)
+I'll spook the poor thing, and he'll run towards you. Your father wanted to test your bravery, and see whether your roar will scare the beast away... whether your bravery was fit for a king.
+
+SIMBA
+(pouncing about excitedly)
+Really?! My dad actually wants me to make me king!
+
+SCAR
+(honestly sarcastic)
+Yes, because there's no other lion more worthy to rule.
+
+SIMBA
+(pauses)
+Hey, but isn't this test dangerous? He said, being brave doesn't mean you go looking for trouble --
+
+SCAR
+Your father expects you to be a mighty king -- every knee of every animal will bow to you! Why, Simba, facing this frail animal will be the least of your future challenges! 
+(sighing)
+But you shouldn't be forced to do this dangerous test. I'll go tell your father that you aren't ready to be king.
+
+Scar starts to leave.
+
+SIMBA
+Wait! No! I am ready!
+
+SCAR
+(turning back)
+But what about your big mistake yesterday, with the hyenas? I think you should run away from becoming king, or you'll put someone else in danger again!
+
+SIMBA
+I'm bigger and braver now! I'll even take on TEN wildebeests!
+
+SCAR
+(pitifully)
+Oh, Simba, if only I was half as brave as you! When your father comes, and you show him what a brave lion you are, he'll know exactly how worthy you are to become king.
+
+Scar trots off. Simba centers himself on the rock, and waits.
+```
+
+This rewritten scene is in contrast with the original scene above: Scar gives Simba an out, an option to escape the trap. But no, Simba's ego to want to be worthy of being king is the exact reason for his decision to stay in the gorge (instead of simply being tricked), and thus that his own ego is the reason why Mufasa dies. Scar still deceives Simba, but it's just a partial deception with Simba still mostly to blame, which Scar can/will use to leverage on Simba in the [[#Changing the terms of the climactic revelation|climactic scene]]
+
+#### Brute-force vs. run-away
+
+I like that Scar emotionally blackmails Simba, how his rash attempts at proving himself really do put people in danger: first, it's Nala at the Elephant Graveyard. After this, it would be Mufasa really paying the price in the gorge.
+
+Scar would play a win-win situation to Simba's insecurities, and this organically grew as I figured out what to write. See, Scar brings up the previous Elephant Graveyard incident (Simba's mistake) and presents Simba with **two choices: one, to brashly brute force succeeding the "test"/kingship—or, two to run away from the "test"/kingship**. Simba chooses to run headstrong into the "test" and force his way into becoming king, which allows Scar to attempt murder on Simba and Mufasa, and then assume the throne as sole heir.
+
+But if Simba had chosen to run away from pursuing kingship and not do the "wildebeest test", then Scar could slowly whittle away at his confidence, until Simba is too afraid to ever take up the throne, leaving Scar the sole heir to the throne. Scar wins, either ways.
+
+#### Run-away vs. learn-from
+
+As per the original script, what happens afterwards is that Mufasa sacrifices himself to save Simba from the stampede. **What happens is a mix of the two planned outcomes: Mufasa is murdered, but Scar can guilt trip Simba into leaving Pride Lands and giving up pursuit of the throne.** 
+
+In self-exile, Simba has discarded the brute-force-through-mistakes ideology, since it clearly didn't work, twice, and you can finally empathize why Simba is so confident towards Nala that you should just run away from every mistake and have no worries. In his experience so far, facing them always led to someone getting hurt, and Hakuna Matata was the only other alternative. Having Scar outright present this A-or-B dichotomy to Simba causes him to stumble. 
+
+Raifiki later on would also present Simba (who now only knew of running) an A-or-B fork in the road. And Simba's tired of dichotomies. But Raifiki, he presents a third option: "You can either run from it, or *learn* from it."
+
+Simba will be tested on how well understands learning from his mistakes, in the climax.
+
+### Changing the terms of the climactic revelation
+
