@@ -1,7 +1,7 @@
 ---
 wtsa_categories: [🔧 One Small Change]
 date: 2022-11-18
-# jekyllcss: colored-code/over-the-moon
+jekyllcss: colored-code/over-the-moon
 link-label: "The Lion King Script – Script Slug"
 link-href: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 cssclass: wtsa
@@ -56,19 +56,45 @@ Simba doesn't know it, but he is in the exact same position his father was befor
 SCAR
 Now this looks familiar. Where have I seen this before? Let me think...
 (brightening)
-Oh, yes -- I remember! That's just the way your father looked before I killed him.
+Oh, yes -- I remember! That's just the way your father looked before he died.
 
-Simba ROARS and leaps for Scar, hitting him like a freight train. They fight. Simba flips Scar. The hyenas freeze while Simba holds Scar down:
+Simba slips, but Scar digs his claws into Simba's, just like he did with Mufasa.
+
+SCAR (CONT'D)
+And here's my little secret.
+(whispering)
+I killed Mufasa.
+
+[flashback, cool transition]
+
+Simba ROARS and leaps for Scar, hitting him like a freight train. Simba flips Scar. The hyenas freeze while Simba pins Scar down:
 
 SIMBA
-You killed him! All this time, I hated myself -- when you're the one who did it!
-
-Scar calls to his army:
+Murderer!
 
 SCAR
-Help me, you idiots!
+No, Simba, please!
 
-Scar's legions rally around him. Scar and Simba fight through the crush of hyenas.
+SIMBA
+Tell them the truth.
+
+[...]
+
+Simba's paw puts pressure on Scar's throat.
+
+SCAR
+(choking)
+Alright! I did it.
+
+SIMBA
+(darkly)
+So they can hear you.
+
+SCAR
+(louder)
+I killed Mufasa.
+
+The lionesses pounce into action at the words. A dozen hyenas pile onto Simba. A fight ensues.
 ```
 
 You could say:
@@ -88,27 +114,28 @@ And credit to the writers, to make Scar the iconic manipulative sociopath that h
 
 ### Then what mistake does Simba really have to face?
 
-But at the end of the day, when all the cards are revealed, Simba says: **"You killed him! All this time, I hated myself -- when you're the one who did it!"** This suggests that Simba is washing his hands clean of his father's blood, because to him, Scar had been pulling all the strings, while Simba was just a young, innocent puppet.
+But at the end of the day, when all the cards are revealed, Simba says: "Murderer!" As cool as Simba looks with pure fury when he slowly makes his way to Scar through fire, the line suggests that Simba is washing his hands clean of his father's blood, because to him, Scar had been pulling all the strings, while Simba was just a young, innocent puppet.
 
-And I'd have to agree. Without even needing to defend the points above, the script lends itself to this conclusion. When Simba finally accuses Scar, Scar doesn't even defend himself, not even one bit—he quickly concedes his own argument and incites the fistfight, as if that was easier to win than the argument.
+And I'd have to agree. Without even needing to defend the points above, the script lends itself to this conclusion. When Simba finally accuses Scar, Scar doesn't even defend himself, not even one bit—he quickly concedes his own argument and surrenders.
 
 ```screenplay
 SIMBA
-You killed him! All this time, I hated myself -- when you're the one who did it!
-
-Scar calls to his army:
+Murderer!
 
 SCAR
-Help me, you idiots!
+No, Simba, please!
+
+SIMBA
+Tell them the truth.
 ```
 
-Depending on how far you are willing to see it, if Scar is (essentially) fully to blame, then Simba has no real/actual/substantial mistake for him to be running away *from*. More importantly, then Simba has no real mistake for him to learn from. Then what weight/stakes does Simba's character arc really have?
+Depending on how far you perceive it: if Scar is (essentially) fully to blame, then Simba has no real/actual/substantial mistake for him to be running away *from*. More importantly, then Simba has no real mistake for him to learn from. Then what weight/stakes does Simba's character arc really have?
 
 > If Scar is fully to blame, then Simba has no real mistake for him to be running away from. More importantly, then Simba has no real mistake for him to learn from.
 > 
 > Then what weight/stakes does Simba's character arc really have?
 
-If Simba had nothing to apologize for, then if someone (e.g. Raifiki) had just told him that Scar had killed his father at anytime during his self-imposed exile (as opposed to the right at the end of the movie), **then Simba could've/would've just returned earlier, and the story resolves exactly the same way**—without need for Simba's wilderness/exile character development. Instead of a story about learning from your mistakes (which it has been building up to), then it becomes a story about persevering to find the truth.
+If Simba had nothing to apologize for, then if someone (e.g. Raifiki) had just told him that Scar had killed his father at anytime during his self-imposed exile (as opposed to the right at the end of the movie), **then Simba could've/would've just returned earlier, and the story resolves exactly the same way**—without need for Simba's wilderness/exile character development. Instead of a story about learning from your mistakes (which it has been building up to), then it becomes a story about *persevering to find the truth*.
 
 Then, if it's not a story about learning from your mistakes, then what's the story about?™ Where's the thematic resonance? Onto the one small change.
 
@@ -120,12 +147,9 @@ But first, a side note: it also sometimes breaks suspension of disbelief during 
 Scar savors the moment.
 
 SCAR
-Now this looks familiar. Where have I seen this before?
-[...]
-That's just the way your father looked before I killed him.
-
-SIMBA
-Why would you admit to that, especially now? (not actual dialogue)
+And here's my little secret.
+(whispering)
+I killed Mufasa.
 ```
 
 Why did Scar just admit to his own crime, and give Simba the moral high ground? Of course, it's in character and is the natural progression to the plot, and this is just me nitpicking the scene because I honestly don't find it that big a deal but might as well bring it up while on topic… but this confession feels halfway to a [dues ex machina](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeusExMachina).
@@ -136,7 +160,7 @@ In one simple villain mistake, all of Simba's problems and insecurities are reso
 
 [The Secret to Writing Dynamic Characters: It's Always Their Fault - Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com/secret-writing-dynamic-characters-always-fault/) is one of my favorite posts from the [Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com) blog that I <span style="text-decoration:underline;">always</span> find myself coming back to. Because, in every analysis, the discriminatory factor that makes or breaks a story, is almost always exactly this: **are the characters at fault?**
 
-If there's one small change that I could make to The Lion King, perhaps it could've been in the live-action remake or stage musical, it would be this: **Simba's pride directly caused Mufasa's death.**
+If there's one small change that I could make to The Lion King (perhaps it could've been in the live-action remake or stage musical adaptations) it would be this: **Simba's pride directly caused Mufasa's death.**
 
 > If there's one small change that I could make to The Lion King, it would be this: **Simba's pride directly caused Mufasa's death.**
 
@@ -153,7 +177,7 @@ SIMBA
 Well, I'm brave. What's out there?
 ```
 
-However, we can't really say the same for the next time when Scar doesn't tell Simba a single detail about the gorge, and Simba innocently sits there. He is the prey, and Scar is the predator. This is the scene we are going to make one small change to.
+However, we can't really say the same for the next time when Scar doesn't tell Simba a single detail about the gorge, and Simba innocently sits there. He is the prey, and Scar is the predator. This is the scene we are going to make one small change to give Simba **agency**.
 
 ```screenplay
 SEQ. 10 (STAMPEDE/MUFASA'S DEATH)
@@ -246,7 +270,7 @@ Come on, Uncle Scar...
 SCAR
 All right. I promised your father I wouldn't tell you!
 (softens)
-There's one young wilderbeest at the top of the gorge. 
+See that one young wilderbeest at the top of the gorge?
 
 EXT. A LEDGE ABOVE
 
@@ -293,21 +317,21 @@ Oh, Simba, if only I was half as brave as you! When your father comes, and you s
 Scar trots off. Simba centers himself on the rock, and waits.
 ```
 
-This rewritten scene is in contrast with the original scene above: Scar gives Simba an out, an option to escape the trap. But no, Simba's ego to want to be worthy of being king is the exact reason for his decision to stay in the gorge (instead of simply being tricked), and thus that his own ego is the reason why Mufasa dies. Scar still deceives Simba, but it's just a partial deception with Simba still mostly to blame, which Scar can/will use to leverage on Simba in the [[#Changing the terms of the climactic revelation|climactic scene]]
+`This rewritten scene is in contrast with the original scene above: Scar gives Simba an out, an option to escape the trap. But no, Simba's ego to want to be worthy of being king is the exact reason for his decision to stay in the gorge (instead of simply being tricked), and thus that his own ego is the reason why Mufasa dies. Scar still deceives Simba, but it's just a partial deception with Simba still mostly to blame, which Scar can/will use to leverage on Simba in the` [climactic scene](#changing-the-terms-of-the-climactic-revelation).
 
 #### Brute-force vs. run-away
 
-I like that Scar emotionally blackmails Simba, how his rash attempts at proving himself really do put people in danger: first, it's Nala at the Elephant Graveyard. After this, it would be Mufasa really paying the price in the gorge.
+`I like that Scar emotionally blackmails Simba, how his rash attempts at proving himself really do put people in danger: first, it's Nala at the Elephant Graveyard. After this, it would be Mufasa really paying the price in the gorge.`
 
-Scar would play a win-win situation to Simba's insecurities, and this organically grew as I figured out what to write. See, Scar brings up the previous Elephant Graveyard incident (Simba's mistake) and presents Simba with **two choices: one, to brashly brute force succeeding the "test"/kingship—or, two to run away from the "test"/kingship**. Simba chooses to run headstrong into the "test" and force his way into becoming king, which allows Scar to attempt murder on Simba and Mufasa, and then assume the throne as sole heir.
+`Scar would play a win-win situation to Simba's insecurities, and this organically grew as I figured out what to write. See, Scar brings up the previous Elephant Graveyard incident (Simba's mistake) and presents Simba with` **`two choices: one, to brashly brute force succeeding the "test"/kingship—or, two to run away from the "test"/kingship`**. `Simba chooses to run headstrong into the "test" and force his way into becoming king, which allows Scar to attempt murder on Simba and Mufasa, and then assume the throne as sole heir.`
 
-But if Simba had chosen to run away from pursuing kingship and not do the "wildebeest test", then Scar could slowly whittle away at his confidence, until Simba is too afraid to ever take up the throne, leaving Scar the sole heir to the throne. Scar wins, either ways.
+`But if Simba had chosen to run away from pursuing kingship and not do the "wildebeest test", then Scar could slowly whittle away at his confidence, until Simba is too afraid to ever take up the throne, leaving Scar the sole heir to the throne. Scar wins, either ways.`
 
 #### Run-away vs. learn-from
 
 As per the original script, what happens afterwards is that Mufasa sacrifices himself to save Simba from the stampede. **What happens is a mix of the two planned outcomes: Mufasa is murdered, but Scar can guilt trip Simba into leaving Pride Lands and giving up pursuit of the throne.** 
 
-In self-exile, Simba has discarded the brute-force-through-mistakes ideology, since it clearly didn't work, twice, and you can finally empathize why Simba is so confident towards Nala that you should just run away from every mistake and have no worries. In his experience so far, facing them always led to someone getting hurt, and Hakuna Matata was the only other alternative. Having Scar outright present this A-or-B dichotomy to Simba causes him to stumble. 
+In self-exile, Simba has discarded the brute-force-through-mistakes ideology, since it clearly didn't work, twice, and you can finally empathize why Simba is so confident towards Nala that you should just run away from every mistake and have no worries. In Simba's experience so far, facing mistakes always led to someone getting hurt, and Hakuna Matata was the only other alternative. Having Scar outright present this shallow A-or-B dichotomy to Simba is what holds Simba back from ever growing.
 
 Raifiki later on would also present Simba (who now only knew of running) an A-or-B fork in the road. And Simba's tired of dichotomies. But Raifiki, he presents a third option: "You can either run from it, or *learn* from it."
 
@@ -315,3 +339,56 @@ Simba will be tested on how well understands learning from his mistakes, in the 
 
 ### Changing the terms of the climactic revelation
 
+With Simba's guilt set up, we will also need to tweak the climactic dialogue—though I'd say it still falls under the same change, these are just the consequential effects of the one change. But the climax is where the one small change will really shine.
+
+Interestingly, I think it may be best to keep the original dialogue where Scar lets the cat out of the bag about how he murdered Mufasa. This is because Simba needs to somehow get closure and confirmation about Scar's involvement in Mufasa's death. And leading to a 
+
+```screenplay
+SEQ. 19 (THE FIGHT)
+
+EXT. PRIDE ROCK - DUSK
+
+[...]
+
+Simba's paw puts pressure on Scar's throat.
+
+SCAR
+(choking)
+Alright! I did it.
+
+SIMBA
+(darkly)
+So they can hear you.
+
+```
+```screenplay-edited
+In Simba's blind rage, Scar manages to wrestle himself free. He climbs up onto a ledge. Loose rocks fall and prevent Simba from following suit.
+
+SCAR
+(announcing)
+Simba wanted to show off to Mufasa how brave he was. So he went to a dangerous gorge known for its wilderbeest stampedes. 
+
+Simba is stunned. What's Scar trying?
+
+SCAR (CONT'D)
+I tried to tell him it was too dangerous, but he wanted to take them on! I ran to warn Mufasa, who sacrificed himself to save Simba, because the spoilt crown prince just couldn't wait to be king.
+
+SIMBA
+I just was a child, Scar!
+
+NALA
+But it's true?
+
+Is Mufasa dead, because of you?
+
+SIMBA
+(pause)
+
+Nala backs away, in disgusted horror.
+
+SCAR
+Elephants and earmites, you heard it here first: Simba killed Mufasa.
+
+The lionesses pounce into action at the words. A dozen hyenas pile onto Simba. A fight ensues.
+
+```

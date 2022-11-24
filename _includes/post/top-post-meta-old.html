@@ -1,39 +1,38 @@
 <div class="post-meta small mt-3 mb-4">
-	<div>
-		<i class="bi bi-upload"></i> &nbsp;<time
-			class="dt-published"
-			datetime="{{ page.date | date_to_xmlschema }}"
-			itemprop="datePublished"
-		>
-			{{ page.date | date: site.date_format }} &nbsp·&nbsp {{ page.date |
-			timeago }}
-		</time>
-	</div>
+  <div>
+    <i class="bi bi-upload"></i> &nbsp;<time
+      class="dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}"
+      itemprop="datePublished"
+    >
+      {{ page.date | date: site.date_format }} &nbsp·&nbsp {{ page.date |
+      timeago }}
+    </time>
+  </div>
 
-	<div>
-		<i class="bi bi-pencil"></i> &nbsp<time
-			class="dt-modified"
-			datetime="{{ page.last_modified_at | date_to_xmlschema }}"
-			itemprop="dateModified"
-		>
-			{{ page.last_modified_at | date: site.date_format }} &nbsp·&nbsp {{
-			page.last_modified_at | timeago }}
-		</time>
-	</div>
+  <div>
+    <i class="bi bi-pencil"></i> &nbsp<time
+      class="dt-modified"
+      datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+      itemprop="dateModified"
+    >
+      {{ page.last_modified_at | date: site.date_format }} &nbsp·&nbsp {{
+      page.last_modified_at | timeago }}
+    </time>
+  </div>
 
-	<div style="height: 10px"></div>
+  <div style="height: 10px"></div>
 
-	{%- if page.link-label -%}
-	<div class="meta-link-div">
-		<i class="bi bi-box-arrow-up-right"></i> &nbsp
+  {%- if page.link-label -%}
+  <div class="meta-link-div">
+    <i class="bi bi-box-arrow-up-right"></i> &nbsp
+    <a href="{{page.link-href}}"> {{page.link-label}} </a>
+  </div>
+  {%-endif-%}
 
-		<a href="{{page.link-href}}"> {{page.link-label}} </a>
-	</div>
-	{%-endif-%}
-
-	<div>
-		<i class="bi bi-stopwatch"></i> &nbsp {{content | number_of_words}} words
-		&nbsp·&nbsp {{ content | number_of_words | divided_by: 270 | pluralize:
-		"min" }} read
-	</div>
+  <div>
+    <i class="bi bi-stopwatch"></i> &nbsp {{content | number_of_words}} words
+    &nbsp·&nbsp {{ content | number_of_words | divided_by: 270 | pluralize:
+    "min" }} read
+  </div>
 </div>
