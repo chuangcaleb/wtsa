@@ -1,7 +1,8 @@
 ---
 wtsa_categories: [🔧 One Small Change]
 date: 2022-11-18
-jekyllcss: colored-code/over-the-moon
+lightthemecolor: "#a34325"
+darkthemecolor: "#d97555"
 linklabel: "The Lion King Script – Script Slug"
 linkhref: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 cssclass: wtsa

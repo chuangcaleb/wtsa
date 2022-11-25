@@ -2,7 +2,8 @@
 wtsa_categories: [🌸 Mulan II]
 date: 2021-11-27
 aliases: Mulan II Rewrite
-jekyllcss: colored-code/mulan
+lightthemecolor: "#a32020"
+darkthemecolor: "#d84c4c"
 cssclass: wtsa
 related: "Mulan II – Film Review"
 ---

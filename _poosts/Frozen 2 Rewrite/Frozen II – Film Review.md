@@ -2,7 +2,8 @@
 wtsa_categories: [🎬 Film Reviews, ❄️ Frozen II Rewrite]
 date: 2019-12-07
 aliases: Frozen II
-jekyllcss: colored-code/frozen
+lightthemecolor: "#2a85cf"
+darkthemecolor: "#5fb2ed"
 cssclass: wtsa
 related: ["Frozen II Rewrite – Beat Sheet", "Frozen II Rewrite – Screenplay"]
 ---

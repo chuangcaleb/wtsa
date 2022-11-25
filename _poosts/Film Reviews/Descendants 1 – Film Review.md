@@ -2,7 +2,8 @@
 wtsa_categories: 🎬 Film Reviews
 date: 2021-11-14
 aliases: Descendants 1
-jekyllcss: colored-code/desc-1
+lightthemecolor: "#362ac3"
+darkthemecolor: "#837bd5"
 cssclass: wtsa
 related: ["Descendants 2 – Film Review"]
 ---
