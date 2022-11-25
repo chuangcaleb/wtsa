@@ -2,8 +2,8 @@
 wtsa_categories: [🔧 One Small Change]
 date: 2022-11-18
 jekyllcss: colored-code/over-the-moon
-link-label: "The Lion King Script – Script Slug"
-link-href: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
+linklabel: "The Lion King Script – Script Slug"
+linkhref: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 cssclass: wtsa
 ---
 # Make Simba Guilty (The Lion King)
@@ -22,8 +22,7 @@ The prince flees his kingdom ashamed and tries to bury his past under a new star
 
 The Prodigal Son must stop running, come home, and face his fears and failures head-on. In the words of Raifiki, "You can either run from [your mistakes]… or learn from it!" The message is loud and clear: **you can't outrun your mistakes, instead, you must bravely run *towards* them**, which entails accepting the harsh consequences/reality, but also growing wiser to not make the same mistake again.
 
-But what mistake _did_ Simba have to face?
-
+But what mistake *did* Simba have to face?
 
 ## Scrutinizing the story
 
@@ -132,7 +131,7 @@ Tell them the truth.
 Depending on how far you perceive it: if Scar is (essentially) fully to blame, then Simba has no real/actual/substantial mistake for him to be running away *from*. More importantly, then Simba has no real mistake for him to learn from. Then what weight/stakes does Simba's character arc really have?
 
 > If Scar is fully to blame, then Simba has no real mistake for him to be running away from. More importantly, then Simba has no real mistake for him to learn from.
-> 
+>
 > Then what weight/stakes does Simba's character arc really have?
 
 If Simba had nothing to apologize for, then if someone (e.g. Raifiki) had just told him that Scar had killed his father at anytime during his self-imposed exile (as opposed to the right at the end of the movie), **then Simba could've/would've just returned earlier, and the story resolves exactly the same way**—without need for Simba's wilderness/exile character development. Instead of a story about learning from your mistakes (which it has been building up to), then it becomes a story about *persevering to find the truth*.
@@ -266,6 +265,7 @@ SIMBA
 (man-to-man)
 Come on, Uncle Scar...
 ```
+
 ```screenplay-edited
 SCAR
 All right. I promised your father I wouldn't tell you!
@@ -312,7 +312,7 @@ I'm bigger and braver now! I'll even take on TEN wildebeests!
 
 SCAR
 (pitifully)
-Oh, Simba, if only I was half as brave as you! When your father comes, and you show him what a brave lion you are, he'll know exactly how worthy you are to become king.
+Oh, Simba, if only I was half as brave as you! When your father comes, and you show him what a brave lion you are, he'll know *exactly* how worthy you are to become king.
 
 Scar trots off. Simba centers himself on the rock, and waits.
 ```
@@ -329,7 +329,7 @@ Scar trots off. Simba centers himself on the rock, and waits.
 
 #### Run-away vs. learn-from
 
-As per the original script, what happens afterwards is that Mufasa sacrifices himself to save Simba from the stampede. **What happens is a mix of the two planned outcomes: Mufasa is murdered, but Scar can guilt trip Simba into leaving Pride Lands and giving up pursuit of the throne.** 
+As per the original script, what happens afterwards is that Mufasa sacrifices himself to save Simba from the stampede. **What happens is a mix of the two planned outcomes: Mufasa is murdered, but Scar can guilt trip Simba into leaving Pride Lands and giving up pursuit of the throne.**
 
 In self-exile, Simba has discarded the brute-force-through-mistakes ideology, since it clearly didn't work, twice, and you can finally empathize why Simba is so confident towards Nala that you should just run away from every mistake and have no worries. In Simba's experience so far, facing mistakes always led to someone getting hurt, and Hakuna Matata was the only other alternative. Having Scar outright present this shallow A-or-B dichotomy to Simba is what holds Simba back from ever growing.
 
@@ -341,7 +341,7 @@ Simba will be tested on how well understands learning from his mistakes, in the 
 
 With Simba's guilt set up, we will also need to tweak the climactic dialogue—though I'd say it still falls under the same change, these are just the consequential effects of the one change. But the climax is where the one small change will really shine.
 
-Interestingly, I think it may be best to keep the original dialogue where Scar lets the cat out of the bag about how he murdered Mufasa. This is because Simba needs to somehow get closure and confirmation about Scar's involvement in Mufasa's death. And leading to a 
+Interestingly, I think it may be best to keep the original dialogue where Scar lets the cat out of the bag about how he murdered Mufasa. This is because Simba needs to somehow get closure and confirmation about Scar's involvement in Mufasa's death. And leading to a
 
 ```screenplay
 SEQ. 19 (THE FIGHT)
@@ -361,6 +361,7 @@ SIMBA
 So they can hear you.
 
 ```
+
 ```screenplay-edited
 In Simba's blind rage, Scar manages to wrestle himself free. He climbs up onto a ledge. Loose rocks fall and prevent Simba from following suit.
 
