@@ -2,8 +2,8 @@
 wtsa_categories: [🌸 Mulan II]
 date: 2021-11-27
 aliases: Mulan II Rewrite
-lightthemecolor: "#a32020"
-darkthemecolor: "#d84c4c"
+light_theme_color: "#a32020"
+dark_theme_color: "#d84c4c"
 cssclass: wtsa
 related: "Mulan II – Film Review"
 ---
@@ -55,15 +55,15 @@ Scene headers are labelled accordingly:
 
 ### Original Plot Structure
 
-- **Hook**: Mulan trains some girls, and Shang comes to propose to her. 
+- **Hook**: Mulan trains some girls, and Shang comes to propose to her.
 - **Inciting Incident**: The Emperor summons the Mulan and Shang to the palace for a secret mission. Mushu finds out he would lose his status as family guardian, as well as Mulan, should they get married.
-- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from a coming Mongol invasion. 
+- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from a coming Mongol invasion.
 - **First Plot Point**: They leave their kingdom with the three princesses and three guards.
 - **First Pinch Point**: Mushu sabotages the carriage, destroying it. They must stop and set up camp.
 - **Midpoint**: The oldest princess, Ting-Ting, asserts to her sisters that they must follow their duty over their heart. Nevertheless, they sneak out with the guards to attend a festival.
 - **Second Pinch Point**: Shang catches them in the village, puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and they break their own relationship off.
 - **Third Plot Point**: They get ambushed by the Mongols, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
-- **Climactic Inciting**: Shang crashes the wedding, alive apparently. They don't like him. 
+- **Climactic Inciting**: Shang crashes the wedding, alive apparently. They don't like him.
 - **Climactic Midpoint**: Mushu masquerades as the Great Dragon to dissuade Lord Qin.
 - **Climactic Moment**: Lord Qin gives in, and weds the duo on the spot.
 - **Resolution**: China is saved, due to the alliance. Mushu is added onto Shang's family guardians, which means he still gets to be with Mulan.
@@ -199,7 +199,7 @@ Scene headers are labelled accordingly:
 - `Mushu lights a firecracker/smoke bomb combo that Mulan tosses into the field. The Huns are visually and audibly blind, causing them to fight each other.`
 - Mushu sabotages Shang`—prematurely igniting his bomb. It goes off while on him, spooking the carriage horses.`
 - `This accidentally causes` the carriage with the princesses to runaway `and break from the main fight.`
-- The gang `and some enemies break off to` catch the runaway carriage. `The main entourage soldiers are busy fighting `
+- The gang `and some enemies break off to` catch the runaway carriage. `The main entourage soldiers are busy fighting`
 - They travel quite far; `the gang has to jump the carriage across a chasm.`
 - The carriage is destroyed.
 - `The Huns retreat for a more opportune moment.`
@@ -227,7 +227,7 @@ Scene headers are labelled accordingly:
   - `“It doesn’t matter who you are on the inside, because on the outside, you’re a princess. A princess worth a hundred thousand citizens."`
   - `"You saw the Huns who just attacked us, who would destroy our kingdom."`
   - `"Mother had given me the special duty to make sure we do what we must.”`
-- `Mei says, “I hate that you’re right,” and storms out of the tent. `
+- `Mei says, “I hate that you’re right,” and storms out of the tent.`
   - `Ting-Ting softens in pain, because she hates that too.`
 
 ### 2A.6 Going Crazy
@@ -384,10 +384,10 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `They note that her sword and uniform were left here, but Mei’s own makeup and one of her dresses are missing.`
 - Cut to the Qui Gong palace.
 - `Mulan (offscreen) implores to Emperor Qin to not require the arranged marriage, but he stubbornly doesn’t even look at her. “You’d have to convince the entire kingdom before convincing me!”`
-- `The camera pans and we finally see` Mulan, `all prettied up in Mei’s dress, vows and `offers herself instead in marriage for the alliance.
+- `The camera pans and we finally see` Mulan, `all prettied up in Mei’s dress, vows and`offers herself instead in marriage for the alliance.
 - Emperor Qin‘s counsellors tell him, “This is Fa Mulan, the hero who saved China! She is worth more than three princesses!”
 - Emperor Qin accepts the offer, and introduces his crown prince.
-- `Shang walks through the door. Mulan is shocked; she shakes her head. `It’s just the crown prince, `a regular looking guy. She’s grieving and hallucinating.`
+- `Shang walks through the door. Mulan is shocked; she shakes her head.`It’s just the crown prince, `a regular looking guy. She’s grieving and hallucinating.`
 - Qin announces the wedding will be `later at sunset`!
 
 ## Act 3
@@ -464,7 +464,7 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `Qin is incredulous. He’s about to pronounce a death sentence.`
 - `“Dishonour!” Chien-Po cries from the crowd. “Dishonour on you!” some citizen echoes. “I will fight! For honour!” The courtyard is in uproar.`
 - `Qin looks around panickingly. He’s baffled. “Okay! Okay!” He grovels at Mulan’s feet. “Please! Please grant us the honour to make the alliance with you!”`
-- `Shang stares off into the sky, “I understand now, dad: one grain of rice `_`can`_ `tip the scale.”`
+- `Shang stares off into the sky, “I understand now, dad: one grain of rice`_`can`_ `tip the scale.”`
 
 ### `3.7 The Three Reunited - NEW`
 

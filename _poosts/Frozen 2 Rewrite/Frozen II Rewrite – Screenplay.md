@@ -2,8 +2,8 @@
 wtsa_categories: ❄️ Frozen II Rewrite
 date: 2021-05-30
 parents: [[Frozen II Rewrite]]
-linklabel: F2 Rewrite (Screenplay) – HTML
-linkhref: /wtsa/assets/F2Rewrite-Screenplay.html
+link_label: F2 Rewrite (Screenplay) – HTML
+link_href: /wtsa/assets/F2Rewrite-Screenplay.html
 related: "Frozen II Rewrite – Beat Sheet"
 ---
 

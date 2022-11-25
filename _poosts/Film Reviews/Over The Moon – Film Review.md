@@ -2,8 +2,8 @@
 wtsa_categories: [🎬 Film Reviews]
 date: 2022-05-25
 aliases: Over the Moon
-lightthemecolor: "#65ab99"
-darkthemecolor: "#3c6e61"
+light_theme_color: "#65ab99"
+dark_theme_color: "#3c6e61"
 cssclass: wtsa
 # banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
 # banner_y: 0.444

@@ -2,8 +2,8 @@
 wtsa_categories: ❄️ Frozen II Rewrite
 date: 2019-12-21
 parents: Frozen II Rewrite
-linklabel: F2 Rewrite (Beat Sheet) – Google Docs
-linkhref: https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
+link_label: F2 Rewrite (Beat Sheet) – Google Docs
+link_href: https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
 related: ["Frozen II Rewrite – Screenplay"]
 ---
 

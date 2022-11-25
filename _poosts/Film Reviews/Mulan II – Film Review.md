@@ -2,8 +2,8 @@
 wtsa_categories: [🌸 Mulan II, 🎬 Film Reviews]
 date: 2021-09-05
 aliases: Mulan II
-lightthemecolor: "#a32020"
-darkthemecolor: "#d84c4c"
+light_theme_color: "#a32020"
+dark_theme_color: "#d84c4c"
 cssclass: wtsa
 related: "Mulan II Rewrite – Beat Sheet"
 ---
@@ -38,15 +38,15 @@ Mulan grieves, then offers herself as bride instead of the princesses. Shang ret
 
 ### Plot Structure
 
-- **Hook**: Mulan trains some girls, and Shang comes to propose to her. 
+- **Hook**: Mulan trains some girls, and Shang comes to propose to her.
 - **Inciting Incident**: The Emperor summons the Mulan and Shang to the palace for a secret mission. Mushu finds out he would lose his status as family guardian, as well as Mulan, should they get married.
-- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from a coming Mongol invasion. 
+- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from a coming Mongol invasion.
 - **First Plot Point**: They leave their kingdom with the three princesses and three guards.
 - **First Pinch Point**: Mushu sabotages the carriage, destroying it. They must stop and set up camp.
 - **Midpoint**: The oldest princess, Ting-Ting, asserts to her sisters that they must follow their duty over their heart. Nevertheless, they sneak out with the guards to attend a festival.
 - **Second Pinch Point**: Shang catches them in the village, puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and they break their own relationship off.
 - **Third Plot Point**: They get ambushed by the Mongols, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
-- **Climactic Turning Point**: Shang crashes the wedding, alive apparently. They don't like him. 
+- **Climactic Turning Point**: Shang crashes the wedding, alive apparently. They don't like him.
 - **Climactic Buildup**: Mushu masquerades as the Great Dragon to dissuade Lord Qin.
 - **Climactic Moment**: Lord Qin gives in, and weds the duo on the spot.
 - **Resolution**: China is saved, due to the alliance. Mushu is added onto Shang's family guardians, which means he still gets to be with Mulan.
@@ -147,4 +147,4 @@ Seems like just three points, but they are three very strong points.
 
 ---
 
-LOL so I watched a video where they talked about the cultural aspect of this movie. In the climax, Shang interrupts the wedding seal by throwing a *shuriken*. A Japanese shuriken. From a Chinese setting. hahahahahahahahha
+LOL so I watched a video where they talked about the cultural aspect of this movie. In the climax, Shang interrupts the wedding seal by throwing a _shuriken_. A Japanese shuriken. From a Chinese setting. hahahahahahahahha

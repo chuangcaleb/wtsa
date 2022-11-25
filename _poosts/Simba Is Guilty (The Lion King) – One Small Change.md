@@ -1,10 +1,10 @@
 ---
 wtsa_categories: [🔧 One Small Change]
 date: 2022-11-18
-lightthemecolor: "#a34325"
-darkthemecolor: "#d97555"
-linklabel: "The Lion King Script – Script Slug"
-linkhref: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
+light_theme_color: "#a34325"
+dark_theme_color: "#d97555"
+link_label: "The Lion King Script – Script Slug"
+link_href: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 cssclass: wtsa
 ---
 # Make Simba Guilty (The Lion King)
