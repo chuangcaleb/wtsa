@@ -400,7 +400,6 @@ code {
 pre code {
   color: black !important;
   font-family: "Courier New", Courier, monospace !important;
-  font-weight: 500;
 }
 
 html pre code.language-screenplay-edited {
@@ -513,14 +512,14 @@ a.active {
   }
 
   @media only screen and (min-width: $lg-breakpoint) {
-    max-width: 40ch;
+    max-width: 38ch;
     &.show + #canvasBody {
       transform: translateX(20%);
     }
   }
 
   @media only screen and (min-width: $xl-breakpoint) {
-    max-width: 40ch;
+    max-width: 38ch;
     &.show + #canvasBody {
       transform: translateX(30%);
     }
