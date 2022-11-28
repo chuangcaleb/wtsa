@@ -1,8 +1,0 @@
-:root {
-	--theme-color: #a32020;
-	/* --theme-color: #db4b4b; */
-}
-
-[data-theme="dark"] {
-	--theme-color: #d84c4c;
-}

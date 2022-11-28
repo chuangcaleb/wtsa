@@ -1,7 +1,0 @@
-:root {
-	--theme-color: #362ac3;
-}
-
-[data-theme="dark"] {
-	--theme-color: #837bd5;
-}
