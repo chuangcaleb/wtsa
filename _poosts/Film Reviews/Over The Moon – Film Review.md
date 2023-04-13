@@ -1,12 +1,15 @@
 ---
-wtsa_categories: [🎬 Film Reviews]
-date: 2022-05-25
+title: Over The Moon – Film Review
 aliases: Over the Moon
-light_theme_color: "#65ab99"
-dark_theme_color: "#3c6e61"
+.banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
+.banner_y: 0.444
 cssclass: wtsa
-# banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
-# banner_y: 0.444
+dark_theme_color: "#3c6e61"
+date: 2022-05-25
+date_created: "[[2022-08-07|07 August 2022, Sunday]]"
+date_modified: "[[2023-01-19|19 January 2023, Thursday]]"
+light_theme_color: "#65ab99"
+wtsa_categories: [🎬 Film Reviews]
 ---
 
 # Over The Moon – Film Review
@@ -25,7 +28,7 @@ The very first thing that really struck a chord, was seeing my own culture in a 
 
 ## Things I'd Tweak 🔧
 
-### 1. The climactic solution
+### 1. The Climactic Solution
 
 So what happens is that after Haoyi fades away again, Chang'e plunges the Moon into The Big ~~Sad~~ Darkness. She encases herself in the Chamber of Exquisite Sadness, and no one can get in through the barrier. Except, Fei Fei can pass through, deciding to risk talking to Chang'e, but Fei Fei herself sees visions of her mother, and gets trapped inside herself.
 
@@ -47,7 +50,7 @@ But, _I felt_ that this isn't clearly shown in the climax — there wasn't a cli
 
 **Imagine a different sequence of events** for the story leading up to the climax — yet not so different because the story already seems to lean this way…
 
-#### 1a. Gobi's song
+#### 1a. Gobi's Song
 
 Here's an extract from the script:
 
@@ -113,7 +116,7 @@ That song... WHY ARE YOU SINGING THIS SONG?!?!
 
 I just think it's pretty neat: the same song and character that caused the first Big Darkness is the same song/character that reverses the second one. We also callback to Gobi's song. Most importantly, the thematic statement can be shown by how Chang'e actually gets to Love Someone New, and be loved in return.
 
-#### 1b. Chin's breakthrough
+#### 1b. Chin's Breakthrough
 
 After Fei Fei and Chang'e have gotten themselves stuck in the Chamber of Exquisite Sadness.
 
@@ -155,7 +158,7 @@ As he sings these words, he understands full well the weight behind them, even i
 
 She needs him.
 
-### 2. Why can't/doesn't Haoyi stay?
+### 2. Why can't/doesn't Haoyi Stay?
 
 So when Haoyi is summoned by the potion/amulet, he quickly starts to fade away again. The potion is supposed to work, and then it didn't, and the audience (and Chang'e) isn't given an explanation to what's going on and why.
 
@@ -327,7 +330,7 @@ This year, when Fei Fei finally launches her rocket, `she skips the festival ent
 
 Also, I thought this line would be cool: `"Just take one bite when you do feel hungry."` Mrs. Zhong just wants Fei Fei to take just one bite, and then Fei Fei would bite into the hard half-amulet, and appreciate Mrs. Zhong's attempt to connect over the legend of Chang'e. But this can only happen when Fei Fei felt _hungry_, on more levels than one: when Fei Fei is finally ready to accept that she is physically and emotionally hungry. Because if Fei Fei isn't hungry/ready for either, then the greatest mooncake/gift in the world would not suffice enough to cause an honest change in Fei Fei's heart.
 
-### 4. Chang'e's new loved ones
+### 4. Chang'e's New Loved Ones
 
 Fei Fei had to open her heart to Chin and Mrs. Zhong, and we had the entire Act 1 to explore and develop her relationships. Chang'e had to open her heart too, presumably to Gobi, Jade Rabbit and the Lunarians.
 
@@ -339,7 +342,7 @@ This is simple: when Fei Fei returns with the half-amulet, she returns with Gobi
 
 I also think that we can further explore Chang'e's sadness _outside_ of The Exquisite Chamber. She does a huge pop number, _Ultraluminary_, showing the world how glowing and happy she is. However, as later scenes explore, she is in fact very much not over Houyi; and underneath all the luminance, there is some deep darkness in the void space of her heart. `There could be a small reprise where she tries to bring back that` _`Ultraluminary`_ `persona, through choked tears, and she fades into dimness.`
 
-### 5. Eating both immortality pills
+### 5. Eating both Immortality Pills
 
 The idea of Chang'e selfishly consuming both her and Houyi's portion of the immortality-item is briefly touched in two scenes: first, the family dinner in Act 1:
 
@@ -384,7 +387,7 @@ But this selfishness doesn't yet relate much to our protagonist, Fei Fei. `Perha
 
 ## Things I Liked ❤️
 
-### 1. Grounded internal conflict
+### 1. Grounded Internal Conflict
 
 In light of cosmic beings and deep folklore, the story could've gone into epic-scale wars or some galaxy-spanning [McGuffin](https://wikipedia.org/wiki/Mcguffin) hunt. But instead, the story quickly set up a very grounded, yet powerful, tight father-mother-daughter family relationship that fuels Fei Fei's motivation for every goal in every scene thereafter.
 
@@ -394,7 +397,7 @@ I've always admired stories that know how to reinforce their stories _(like rein
 
 I can't imagine how powerful this story will be for so, so many kids (and adults) who have lost a loved one. I can't imagine how much good lessons we would've so easily lost if the plot had slipped into bland spectacle somewhere in production.
 
-### 2. Injecting meaning to the folktale
+### 2. Injecting Meaning to the Folktale
 
 By itself, the folktale is iconic, but while it is a "story", it doesn't really have a _theme_. Plot events happen: bla bla shooting suns, elixir, robber, fly to the moon. But there's no pattern, nothing really tying characters to plot: no underlying _theme._
 
@@ -406,7 +409,7 @@ But this thematic premise flows nicely. Chang'e is reframed as a character who l
 
 Fei Fei and Chang'e are very nicely mirrored characters. Quite strong characters with agency on the plot.
 
-#### Meaning of names
+#### Meaning of Names
 
 Also. Fei Fei (飞飞) literally means "fly". Her character goes on to try to build a rocket to fly away from the gravity of earth and the sting of depression.
 
@@ -414,7 +417,7 @@ A month or two after watching the movie, I read the official script for the movi
 
 Chang'e is a character who wants to bring back who she lost in her past, stubbornly refusing the new and good reality of the present/future. The very thing that Chang'e has to learn to accept in order to grow, is hidden in her name all this time: _Change_.
 
-### 3. The dinner scene
+### 3. The Dinner Scene
 
 The family dinner scene was nice. It made use of the round table for spinning camera angles. The same usual seats for the same usual family members. The messy talking over one another. Grandpa who just wants to eat.
 
@@ -445,11 +448,11 @@ Lol.
 
 And, there's also Fei Fei defending Chang'e from her aunties' attacks. This is the moment it really clicked for me, how Chang'e's story would be reflected in the protagonist, Fei Fei. Fei Fei defends Chang'e from her aunties, when really, the subtext is that **she's defending herself**.
 
-When Fei Fei asserts that Chang'e definitely _"misses Houyi and cries for him every day!"_, she's really saying that she herself misses her mother and cries for her every day. When Fei Fei cries that _"Chang'e is REAL! She’s on the moon right now! Waiting for her one and only true love. Waiting..."_, she is actually arguing that love that holds on to lost loved ones is _real_ and _valid._
+When Fei Fei asserts that Chang'e definitely _"misses Houyi and cries for him every day!"_, she's really saying that she herself misses her mother and cries for her every day. When Fei Fei cries that _"Chang'e is REAL! She’s on the moon right now! Waiting for her one and only true love. Waiting…"_, she is actually arguing that love that holds on to lost loved ones is _real_ and _valid._
 
 So when the aunties playfully attack Chang'e, it is no wonder (to us, the audience) that Fei Fei takes it so personally and deeply. Attacking Chang'e is attacking Fei Fei. I thought this dinner scene was really neat.
 
-### 4. Chin: consistency & depth
+### 4. Chin: Consistency & Depth
 
 The setup and payoff with Chin is purposeful. In the First Act, we foreshadow three things about Chin _(leapfrog, hanging-like-a-bat, and running through walls)_, and these get paid off one-by-one. It's even explicitly mentioned in dialogue:
 

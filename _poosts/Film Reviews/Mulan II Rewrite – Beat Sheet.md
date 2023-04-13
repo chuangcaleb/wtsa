@@ -1,11 +1,13 @@
 ---
-wtsa_categories: [🌸 Mulan II]
-date: 2021-11-27
 aliases: Mulan II Rewrite
-light_theme_color: "#a32020"
-dark_theme_color: "#d84c4c"
+date_created: "[[2022-08-07|07 August 2022, Sunday]]"
+date_modified: "[[2023-02-01|01 February 2023, Wednesday]]"
 cssclass: wtsa
+dark_theme_color: "#d84c4c"
+date: 2021-11-27
+light_theme_color: "#a32020"
 related: "Mulan II – Film Review"
+wtsa_categories: [🌸 Mulan II]
 ---
 
 # Mulan II Rewrite – Beat Sheet
@@ -40,13 +42,13 @@ Scene headers are labelled accordingly:
 - Shang
 - Mushu
 - Gang of Three:
-  - Yao,
-  - Chien-Po,
-  - Ling
+	- Yao,
+	- Chien-Po,
+	- Ling
 - Princesses (Middle Kingdom)
-  - Mei,
-  - Su,
-  - Ting-Ting
+	- Mei,
+	- Su,
+	- Ting-Ting
 - Emperor (Middle Kingdom)
 - Emperor Qin (Northern Qui Gong Kingdom)
 - Princes (Qui Gong)
@@ -62,8 +64,8 @@ Scene headers are labelled accordingly:
 - **First Pinch Point**: Mushu sabotages the carriage, destroying it. They must stop and set up camp.
 - **Midpoint**: The oldest princess, Ting-Ting, asserts to her sisters that they must follow their duty over their heart. Nevertheless, they sneak out with the guards to attend a festival.
 - **Second Pinch Point**: Shang catches them in the village, puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and they break their own relationship off.
-- **Third Plot Point**: They get ambushed by the Mongols, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
-- **Climactic Inciting**: Shang crashes the wedding, alive apparently. They don't like him.
+- **Third Plot Point**: Continuing their journey, they get ambushed, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
+- **Climactic Inciting**: Shang crashes the wedding, apparently alive. The people don't like him.
 - **Climactic Midpoint**: Mushu masquerades as the Great Dragon to dissuade Lord Qin.
 - **Climactic Moment**: Lord Qin gives in, and weds the duo on the spot.
 - **Resolution**: China is saved, due to the alliance. Mushu is added onto Shang's family guardians, which means he still gets to be with Mulan.
@@ -72,18 +74,18 @@ Scene headers are labelled accordingly:
 
 ### Rewrite Plot Structure
 
-- **Hook**: *Three princesses play around. Their Queen Mother reprimands them, sorrowful herself.*
+- **Hook**: `Three princesses play around. Their Queen Mother reprimands them, sorrowful herself.`
 - **Inciting Incident**: The Emperor summons the Mulan and Shang to the palace for a secret mission. Mushu finds out he would lose his status as family guardian, as well as Mulan, should they get married.
-- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from coming *Hun raids*.
-- **First Plot Point**: They leave their kingdom with the three princesses, three guards, *and an entourage of guards*.
-- **First Pinch Point**: *They get ambushed by Huns, separating them from the rest of the soldiers. They press on ahead to make the deadline.*
+- **Key Event**: The duo decide to call off their wedding, and head to the palace. The Emperor quests them to escort his three princess daughters to form an alliance with Lord Qin to protect them from coming `Hun raids`.
+- **First Plot Point**: They leave their kingdom with the three princesses, three guards, `and an entourage of guards`.
+- **First Pinch Point**: `They get ambushed by Huns, separating them from the rest of the soldiers. They press on ahead to make the deadline.`
 - **Midpoint**: The oldest princess, Ting-Ting, asserts to her sisters that they must follow their duty over their heart. Nevertheless, they sneak out with the guards to attend a festival.
-- **Second Pinch Point**: *They get ambushed again at the festival.* Shang puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and *considers* they *should* break their own relationship off.
-- **Third Plot Point**: They get ambushed by the Mongols, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
-- **Climactic Inciting**: *Huns ambush the Qin palace. Everyone retreats inside.*
-- **Climactic Midpoint**: *The three guards joins the fight. They must fight their way to light the signal fire to call for reinforcements, but gently fan it to make it grow.*
-- **Climactic Moment**: *Reinforcements are called. One last Hun makes an attempt on Lord Qin, which is blocked by Shang, alive. Shang announces that the village that his father had died protecting was actually in Qin's dynasty. Shang demands for Qin to honor them by not requiring Mulan's marriage, to which Qin is pressed to fulfill.*
-- **Resolution**: China is saved, due to the alliance. *Upon accusations of treason, the princesses vouch for the guards. They all attend Mulan and Shang's wedding, whereupon Mushu officiates and completely fulfills his duty.*
+- **Second Pinch Point**: `They get ambushed again at the festival.` Shang puts his foot down, and forbids their blossoming relationships. Mulan is incredulous and `considers` to break their own relationship off.
+- **Third Plot Point**: Continuing their journey, they get ambushed, resulting in Shang falling to his death. They regroup and mourn. Mulan decides to offer herself in the princesses' place.
+- **Climactic Inciting**: `Huns ambush the Qin palace. Everyone retreats inside.`
+- **Climactic Midpoint**: `The three guards joins the fight. They must fight their way to light the signal fire to call for reinforcements, but gently fan it to make it grow.`
+- **Climactic Moment**: `Reinforcements are called. One last Hun makes an attempt on Lord Qin, which is blocked by Shang, alive. Shang announces that the village that his father had died protecting was actually in Qin's dynasty. Shang demands for Qin to honor them by not requiring Mulan's marriage, to which Qin is pressed to fulfill.`
+- **Resolution**: China is saved, due to the alliance. `Upon accusations of treason, the princesses vouch for the guards. They all attend Mulan and Shang's wedding, whereupon Mushu officiates and completely fulfills his duty.`
 
 ---
 
@@ -144,15 +146,15 @@ Scene headers are labelled accordingly:
 - They arrive at the palace.
 - `“Ah, General Li Shang, the most dutiful man in all of China, just as his father before him. There is no one else I’d rather appoint to lead this important mission. And I’m sure there’s no one else you’d rather have beside you than Fa Mulan, a warrior worth ten thousand men—also, your fiance. Congratulations, by the way.”`
 - The Emperor explains the quest:
-  - `Last of the Huns are one big nomadic group, raiding our cities`
-  - `Taking advantage of Shan Yu’s mostly successful military campaign from the previous movie`
-  - `The number of fit males-of-age are too depleted.`
-  - `In Mulan I, they relaxed the conscription conditions, so desperation is why they extended the conscripted Mulan’s old father, along with Shang’s troop made up of previously “unfit for war” males like the Gang of Three`
-  - Instead: we will send princesses to make an alliance with a neighbouring kingdom.
+	- `Last of the Huns are one big nomadic group, raiding our cities`
+	- `Taking advantage of Shan Yu’s mostly successful military campaign from the previous movie`
+	- `The number of fit males-of-age are too depleted.`
+	- `In Mulan I, they relaxed the conscription conditions, so desperation is why they extended the conscripted Mulan’s old father, along with Shang’s troop made up of previously “unfit for war” males like the Gang of Three`
+	- Instead: we will send princesses to make an alliance with a neighbouring kingdom.
 - Mulan `doesn’t`react about arranged marriages, `but does voice her concern for the princesses:` the Emperor replies that they understand their duty and accept the honour.
 - `Shang asks why the alliance demands marriage. Reply: Emperor Qin is demanding and unhonourable—but he’s our last hope.`
 - The Emperor provides them an entourage `with a squad of palace guards`
-  - Shang requests to have `an additional` three special unit soldiers…
+	- Shang requests to have `an additional` three special unit soldiers…
 
 ### 1.6 The Gang of Three
 
@@ -176,7 +178,7 @@ Scene headers are labelled accordingly:
 ### 2A.1 Reactions on the Road
 
 - Mulan and Shang discuss the arranged marriages in light of their own happy one.
-  - `Shang: “A soldiers’ duty is to die in war; a princess’ duty is to live in an arranged marriage.”`
+	- `Shang: “A soldiers’ duty is to die in war; a princess’ duty is to live in an arranged marriage.”`
 - Mushu tells Cri-Kee that he’d test the relationship, `just to be “really sure that Shang was worth him losing Mulan”`. With `only a sligh thint of`selfishness.
 - Yao expresses his infatuation to the Gang of Three, but the other two remind him that these princesses are engaged,`and that to be entrusted as a royal escort was the highest honour for a soldier. Who could ever ask for more? Yao huffs.`
 - Mei simps over Yao to her sisters. Ting-Ting reminds her of the solemn oath, `the consequences and the great dishonour she would bring.` They hide their faces with their fans again.
@@ -224,11 +226,11 @@ Scene headers are labelled accordingly:
 - Ting-Ting tries to sing Who Could Ever Ask For More
 - Her sisters break out into Like Other Girls: They all fantasize a life without duties and all heart. (without the racist part)
 - `BUT, at the end of the song, Ting-Ting hardens again:`
-  - `“It doesn’t matter who you are on the inside, because on the outside, you’re a princess. A princess worth a hundred thousand citizens."`
-  - `"You saw the Huns who just attacked us, who would destroy our kingdom."`
-  - `"Mother had given me the special duty to make sure we do what we must.”`
+	- `“It doesn’t matter who you are on the inside, because on the outside, you’re a princess. A princess worth a hundred thousand citizens."`
+	- `"You saw the Huns who just attacked us, who would destroy our kingdom."`
+	- `"Mother had given me the special duty to make sure we do what we must.”`
 - `Mei says, “I hate that you’re right,” and storms out of the tent.`
-  - `Ting-Ting softens in pain, because she hates that too.`
+	- `Ting-Ting softens in pain, because she hates that too.`
 
 ### 2A.6 Going Crazy
 
@@ -366,7 +368,7 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - The duo take out many of the Huns along the bridge, but the Huns cut the rope.
 - The flailing bridge is `swept downstream by the coursing river, and the duo are thrown off-kilter. The guards hold the bridge in place from their end.`
 - Mulan and Shang fall into the river. Mulan grabs a rope hanging by its thread. Shang holds onto and weighs on her, `being pulled by the current.`
-- `“The rope can’t hold us both. A soldier’s duty is to die in war, huh? ...You’re the craziest person I’ve ever met. It is my honour to owe you my life.”`
+- `“The rope can’t hold us both. A soldier’s duty is to die in war, huh? …You’re the craziest person I’ve ever met. It is my honour to owe you my life.”`
 - With that, Shang lets go `gets swept under by the currents. The guard trio retract the rope, finding Mulan alone and wailing.`
 
 ### 2B.5 Grief

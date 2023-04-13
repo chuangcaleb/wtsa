@@ -1,6 +1,6 @@
 ---
 wtsa_categories: [🔧 One Small Change]
-date: 2022-11-18
+date: 2022-11-28
 light_theme_color: "#a34325"
 dark_theme_color: "#fd7c52"
 link_label: "The Lion King Script – Script Slug"
