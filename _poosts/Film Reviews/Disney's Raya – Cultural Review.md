@@ -4,7 +4,7 @@ date_created: "[[2022-11-21|21 November 2022, Monday]]"
 date_modified: "[[2023-04-24|24 April 2023, Monday]]"
 cssclass: wtsa
 date: 2023-04-24
-link_href: https://www.scriptslug.com/assets/scripts/raya-and-the-last-dragon-2021.pdf
+link_href: https://www.scriptslug.com/script/raya-and-the-last-dragon-2021
 link_label: "Raya and the Last Dragon – Script Slug"
 wtsa_categories: 🎬 Film Reviews
 ---
@@ -16,6 +16,8 @@ In line with Hari Raya weekend here in Malaysia, here's my thoughts on Disney's 
 But I started writing and writing and found it turned into a 5.5k+ words commentary on the **cultural consistency of Raya**. Which is interesting, because I am all about that story and narrative and usually leave other production elements like cinematography and soundtrack in the footnotes. However, story narrative doesn't live in a vacuum: some of my favorite narrative scenes are framed by excellent visual composition and a heart-thumping musical theme. 
 
 And perhaps it's because it's supposedly inspired by my own SEA (Southeast-Asian) culture, which should be familiar to my mind and resonate close to my heart. I found myself having many things to say, on culture of all things. 'Cause I \*really\* don't consider myself a patriotic and culturally-attuned fellow. Perhaps that will make itself clear as you read on HAHAHA please take my words with a bowl of salt.
+
+> 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
 
 ## Inconsistent Anatopism/Anachronism with SEA Culture
 
@@ -31,10 +33,7 @@ It feels like they're deliberately trying to create a new and different culture 
 
 > But Raya's worldbuilding is too different to be considered Southeast Asian, whilst being too Southeast Asian to be considered different.
 
-Raya seems to be unsure of its identity and where it stood. I found this term to be aptly descriptive of Raya:
-
-> **Anatopism** (from the Ancient Greek ἀνά, "against," and τόπος, "place") is something that is out of its proper place; a geographical misplacement. You may see it referred to *anachorism* (not to be confused with *anachronism*).
-> (Source: [Anatopism - Wikipedia](https://en.wikipedia.org/wiki/Anatopism) )
+Raya seems to be unsure of its identity and where it stood. I found this term to be aptly descriptive of Raya: **Anatopism** (from the Ancient Greek ἀνά, "against," and τόπος, "place") is something that is out of its proper place; a geographical misplacement. You may see it referred to *anachorism* (not to be confused with *anachronism*). (Source: [Anatopism - Wikipedia](https://en.wikipedia.org/wiki/Anatopism) )
 
 ### SEA Names, Word Choices, Personality
 
@@ -72,9 +71,11 @@ The biggest culprit of language is Sisu. Sisu's personality is just too modern W
 
 But what about Mushu from Mulan, or the Genie from Aladdin? They're also comedic relief characters whose premise are based on the culture, but their personality is way different." Well, firstly, Mushu and Genie are HILARIOUS and charismatic. And I also think the writers were trying to replicate these iconic characters, but Sisu's comedic dialogue choices just fall flat ("I'm not like… the bEsT dragon.") and charisma is really important for holding suspension of disbelief.
 
-It also does help that you had characters like the Matchmaker/the Emperor or the Sultan/Jafar (basically the rest of the cast) who are VERY much culturalized, and they set the cultural norm of the film's setting, keeping the magical anachronistic characters as the one exception to the very consistently established rule.
+It also does help that you had characters like the Matchmaker & the Emperor, or the Sultan & Jafar (basically the rest of the cast) who are VERY much stereotypical products of the culture, and they set the cultural norm/tone of the film's setting, keeping the magical anachronistic characters as the one exception to the very consistently established rule. In Raya, no one's characterization really screams "I'm a Southeast Asian!". 
 
-And finally, in the same vein, Raya carries her worldbuilding much more than Mulan or Aladdin. The mystical elements in Mulan and Aladdin are quite simple and straightforward and already established since they don't stray too far from the real world—especially when compared to the depth of world history and even sub-cultures found in Raya. This is compounded with the inconsistent *SEA-but-not-really* worldbuilding strategy. China and Agrabah are quite already-established settings. But dragons are supposed to be the core of this new world, and Sisu is the only dragon we really see (and hear!) but we're not quite sure whether the dragons are Southeast Asian, and by extension, whether the world is Southeast Asian.
+It also helped that culture plays a pivotal role in the Aladdin and Mulan's theme. The Matchmaker and Jafar, for example, are literal embodiments of the antagonistic forces that dictate the worth of people extrinsically, instead of who they really are intrinsically. And when characters like Mushu and Genie struggle with the exact same theme of extrinsic/intrinsic value, it makes them feel part of the same world. They could've leaned more on the idea of unity, a very SEA-centric value, in Sisu's characterization. 
+
+And finally, in the same vein, Sisu carries her story's worldbuilding much more than Mulan or Aladdin. The mystical elements in Mulan and Aladdin are quite simple and straightforward and already established since they don't stray too far from the real world—especially when compared to the depth of world history and even sub-cultures found in Raya. This is compounded with the inconsistent *SEA-but-not-really* worldbuilding strategy. Dynasty-era China and psuedo-Agrabah are quite familiar settings. But in Raya, dragons are supposed to be the core of this new world, and Sisu is the only dragon we really see (and hear!) but we're not quite sure whether the dragons are Southeast Asian, and by extension, whether the world is Southeast Asian.
 
 From Aang (from *Avatar: The Last Airbender*) alone, we understand so much of the pacifistic and virtuous values of the Air Nation as a whole, from this one person who is supposed to be the champion of its values. Imagine—Aang has an American personality like Sisu. We'd assume the entire Air Nation (and by extension, 1/4 of the Avatar world) is basic American. How much more so the dragons, which set the mood and tone all of Kumandra?
 
@@ -111,7 +112,7 @@ And it's no surprise that the two non-tropical tribes got the least screen time 
 
 I know Tail is supposed to represent the hotter regions/climates, but given 30 minutes, movie!Tail would end up as African to me. We don't have sprawling sand deserts. We're hot-and-humid, not hot-and-dry. I don't think we're huge on elaborate stronghold booby-traps either.
 
-And in 30 minutes, Spine remains Scandavanian-inspired from How to Train Your Dragon, if they had bamboo. The bamboo and the lack of a Scandavanian accent are the only distinction. Spine are characterized by being big in size ([SEA people are genetically smaller on average](https://en.wikipedia.org/wiki/Average_human_height_by_country)) and they have *snow*. We don't have snow, so much so that literally every kid I know wish to travel to a country where they can experience snow.
+And in 30 minutes, Spine would remain Scandavanian-inspired from How to Train Your Dragon, if they had bamboo. The bamboo and the lack of a Scandavanian accent are the only distinction. Spine are characterized by being big in size ([SEA people are genetically smaller on average](https://en.wikipedia.org/wiki/Average_human_height_by_country)) and they have *snow*. We don't have snow, so much so that literally every kid I know wish to travel to a country where they can experience snow.
 
 #### SEA-Authentic Tail
 
@@ -162,7 +163,7 @@ Bamboo biomes are generally quite flat and not mountainous. We could just call i
 
 And it would add depth to have people from Spine say, "We used to have chili from Tail to make Kumandra Stew, we miss the spiciness that helped to warm us in the cold. Not anymore since the Druun." There's so much to build on!
 
-So Google has just informed me that nobody uses giant axes to cut bamboo (they use saws/shears, because it's *that* sturdy) so it doesn't make too much sense for Spine to main axes. Heavy swings get stuck on bamboo. Spine's choice of weaponry would be something lighter, more agile, yet ferocious, and a natural product of its environment. What about bamboo spears?
+We also [don't really use giant axes](https://en.wikipedia.org/wiki/Weapons_of_pencak_silat). And Google has just informed me that nobody uses giant axes to cut bamboo (they use saws/shears, because it's *that* sturdy) so it doesn't make too much sense for Spine to main axes. Heavy swings get stuck on bamboo. Spine's choice of weaponry should be natural product of its environment… literally? What about bamboo spears?
 
 ## Rain and Floods
 
@@ -182,7 +183,7 @@ So it's established that that the Druun are weak to water. And that since the dr
 
 Let's tweak the story:
 
-- After the Gem gets divided, it doesn't really matter if the story needs the waters could start to dry up a bit. The point is, everyone knows that water wards off the Druun.
+- After the Gem gets divided, it doesn't really matter if the story needs the waters to start to dry up or it's already been drying. The point is, everyone already knows that water wards off the Druun.
 - **Fang immediately starts diverting rivers and constructing channels/pumps.** Lol what if we had magic seeds that grows into plants that somehow causes the air around it to whatever, and attracts clouds (cloud seeding LOL).
 - Fang becomes really immune to the Druun. Their climate turns into one that rains so often and so heavy, and the water cycle is just trapped in their region.
 - Clashing between tribes gets bad to the point that they're just cutting off water supply to other tribes—even when it doesn't benefit them! Poisoning water sources. Spilling water into contaminated land. And only pure water (fit for drinking and sustaining life) can ward off the Druun. Thirst and sickness weakens and kills whoever isn't petrified by the Druun, especially in Heart and Tail.
