@@ -264,8 +264,10 @@ And the second, more egregious, but less conniving reason could be that everyone
 
 Nobody from production really lived in Southeast Asia. These people's culture isn't shaped by 2-hour flooded traffic jams or surveying fabrics and unhealthy snacks in crowded night street markets. 
 
-It's just that they marketed and branded this movie's identity, even in-universe, as Southeast Asian. **But then they show things that are not characteristically Southeast Asian, and then call it Southeast Asian.** 
+It's just that they marketed and branded this movie's identity, even in-universe, as Southeast Asian. **But then they show things that are not characteristically Southeast Asian, and then label it as Southeast Asian to the world.** 
 
 I get why cultural authenticity is so important now. 'Cause it's *almost* as if they're saying (even if not on purpose), "Hey, *this* is what your culture looks like to us, this is how the rest of world will perceive it. If your life doesn't look like this, maybe you're not doing it right. Maybe you're invalid to associate with the Southeast Asian identity."
 
-I've never paid a second thought to cultural considerations in story. They were always a means to an end, malleable to whatever the story needs it to be. But now I understand that story breathes through culture. And that nailing the culture aspect can beautifully define the physical shape of story. It's just like caring enough to learn someone's native language fluently, and instead of talking into their ears, you get to speak directly with their heart.
+I've never paid a second thought to cultural considerations in story. They were always a means to an end, malleable to whatever the story needs it to be. But now I understand that story breathes through culture. And that nailing the culture aspect can beautifully define the physical shape of story. 
+
+It's just like caring enough to learn how to speak someone's native language fluently, and instead of talking into their ears, you get to speak directly with their heart.
