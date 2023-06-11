@@ -165,12 +165,12 @@ Scene headers are labelled accordingly:
 ### 1.7 Leaving the Palace
 
 - The three princesses (Mei, Ting-Ting and Su) enter the carriage, hiding their faces with their fans. Mei drops her shoe. `None of the entourage notices (Remember, they have an entourage now).`
-- Yao deliberates, then decides to pick it for her. `Mei mutters, “You’re just the guard – it’s not your duty to do that.” “No, but it would be my honour.” Mei blushes. Yao runs back, his heart racing.`
+- Yao deliberates, then decides to pick it for her. `Mei mutters, “You’re just the guard – it’s not your duty to do that.” “No, but it would be my honour.” Mei blushes, "No, the honor is mine, that I would have the privillage to be escorted by a soldier who is more than his strength." Yao runs back, his heart racing.`
 - Shang swears their safety, `on the basis of his generalship.`
-- Mulan prods them`: she herself was matchmade to local men, but they would stay forever in a foreign land`.
+- Mulan prods them: `she herself was matchmade to local men, but they would stay forever in a foreign land.`
 - `They affirm that just as Mulan saved their kingdom with the sword, they can save the kingdom with their marriages. As Mulan honoured her father, they must honour the Emperor.`
-- `Mulan mulls, and starts a thought: “You know when I took my father’s place in the army, I had to sneak out without my father knowing, right? Oh! We’re going.”`
-- As brazen as they show themselves to be, but when alone, the princesses sigh sadly.
+- `Mulan mulls, and starts a thought: “You know when I took my father’s place in the army, I had to sneak out without my father knowing, right? Oh! We’re going. Princessess... with your sacrifices, you bring honor to us all.”`
+- As brazen as the princesses show themselves to be, now that they're alone, the princesses sigh sadly.
 - Mulan and Shang say aloud they should just about make the 3-day-deadline
 
 ## Act 2A
@@ -179,8 +179,8 @@ Scene headers are labelled accordingly:
 
 - Mulan and Shang discuss the arranged marriages in light of their own happy one.
 	- `Shang: “A soldiers’ duty is to die in war; a princess’ duty is to live in an arranged marriage.”`
-- Mushu tells Cri-Kee that he’d test the relationship, `just to be “really sure that Shang was worth him losing Mulan”`. With `only a sligh thint of`selfishness.
-- Yao expresses his infatuation to the Gang of Three, but the other two remind him that these princesses are engaged,`and that to be entrusted as a royal escort was the highest honour for a soldier. Who could ever ask for more? Yao huffs.`
+- Mushu tells Cri-Kee that he’d test the relationship, `just to be “really sure that Shang was worth him losing Mulan”`. With `only a slight hint of`selfishness.
+- Yao expresses his infatuation to the Gang of Three, but the other two remind him that these princesses are engaged, `and that to be entrusted as a royal escort was the highest honour for a soldier. Who could ever ask for more? Yao huffs.`
 - Mei simps over Yao to her sisters. Ting-Ting reminds her of the solemn oath, `the consequences and the great dishonour she would bring.` They hide their faces with their fans again.
 
 ### 2A.2 Water Break
@@ -225,6 +225,7 @@ Scene headers are labelled accordingly:
 - Ting-Ting mentions “duty” and Mei breaks down.
 - Ting-Ting tries to sing Who Could Ever Ask For More
 - Her sisters break out into Like Other Girls: They all fantasize a life without duties and all heart. (without the racist part)
+- `Ting-Ting ugly laughs. The sisters join in.`
 - `BUT, at the end of the song, Ting-Ting hardens again:`
 	- `“It doesn’t matter who you are on the inside, because on the outside, you’re a princess. A princess worth a hundred thousand citizens."`
 	- `"You saw the Huns who just attacked us, who would destroy our kingdom."`
@@ -347,9 +348,9 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - Mulan steps in, `defending them that it would’ve been worse to have been ambushed in the woods. Besides, at one moment, Yao saved Shang's life — just like Mulan did back in the first movie.`
 - But Shang `harshly shushes her,` puts his foot down and forbids the pairs to talk.
 - Now alone, Shang blames Mulan for filling their minds with heart over duty. Mulan replies that Shang was too uptight, `and that the guards gave the princesses honour by taking them out one last night. “In marriage, women leave their family, not the men — and sometimes, they rarely ever get to visit. These three young girls will never return home forever. Not that you’d understand.”`
-- `Shang huffs, “Men, all across the nation, way too young and far too old — they CHOSE to honour some parchment bearing their family name. I understand perfectly that almost all of them, my father included, NEVER came back home to their mothers, wives… and children. [pause] At his age, your father wouldn’t have, either.”`
+- `Shang huffs, “Men, all across the nation, way too young AND far too old — they leave their family over some piece of parchment if it had their family name. I understand perfectly that almost all of them, my father included, NEVER came back home to their mothers, wives… and children. [pause] At his age, your father wouldn’t have, either.”`
 - `That’s a low blow. Mulan fumes through tears of anger, “Shang! Don’t you dare speak about my father like that–“`
-- Shang `affirms he won’t bring dishonour to his father’s death to the Huns to be in vain, and` assumes leadership. `They give each other the cold shoulder.`
+- Shang `exclaims that his father died to these very same Huns, and he won't let it be in vain. He will see this mission through, whatever it takes. This is his duty to honor his father.` He assumes leadership. `They give each other the cold shoulder.`
 
 ### 2B.3 Confession Valley
 
@@ -386,10 +387,10 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `They note that her sword and uniform were left here, but Mei’s own makeup and one of her dresses are missing.`
 - Cut to the Qui Gong palace.
 - `Mulan (offscreen) implores to Emperor Qin to not require the arranged marriage, but he stubbornly doesn’t even look at her. “You’d have to convince the entire kingdom before convincing me!”`
-- `The camera pans and we finally see` Mulan, `all prettied up in Mei’s dress, vows and`offers herself instead in marriage for the alliance.
+- `The camera pans and we finally see` Mulan, `all prettied up in Mei’s dress, vows and` offers herself instead in marriage for the alliance.
 - Emperor Qin‘s counsellors tell him, “This is Fa Mulan, the hero who saved China! She is worth more than three princesses!”
 - Emperor Qin accepts the offer, and introduces his crown prince.
-- `Shang walks through the door. Mulan is shocked; she shakes her head.`It’s just the crown prince, `a regular looking guy. She’s grieving and hallucinating.`
+- `Shang walks through the door. Mulan is shocked; she shakes her head.` It’s just the crown prince, `a regular looking guy. She’s grieving and hallucinating.`
 - Qin announces the wedding will be `later at sunset`!
 
 ## Act 3
@@ -435,7 +436,7 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `One guard huffs, “You’re princes who get everything your heart could ever want. Who could ever ask for more?”`
 - `“I could,” said the third prince. “We’re not like other boys—we’re princes. We’re not like you. It doesn’t even matter to us if you lived or died after this.”`
 - `Another guard speaks up, suddenly in a higher pitch. “Every guard in here would die for you. Some already have. You’re not worthy of us.”`
-- `Dramatically, the princesses take off their helmets and guises, hair flowing. “So, the feeling’s mutual.”`
+- `Dramatically, the princesses take off their helmets and guises, hair flowing. “So, the sentiment is mutual.”`
 
 ### `3.5 Fanning the Fire - NEW`
 
@@ -453,26 +454,26 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `On the palace stage, one last Hun makes a desperate dash to strike down Emperor Qin.`
 - `Mulan ties a bunch of floating lanterns together and jumps/floats down from the wall.`
 - `She can’t make it in time—but Shang does. Tattered clothes and all, he parries the blow. The Hun flies backwards. Shang’s survived the rapids and came back to save the day.`
-- `The Hun: “We will come for you, next time with an entire army, and we will crush your family name.” Shang knocks him out cold.`
+- `The Hun: “We will come for you, next time with the entire army, and we will crush your family name.” Shang knocks him out cold.`
 - `The battle is over. Everyone cheers.`
 
 ### `3.6 Dishonour - NEW`
 
 - `Mulan and Shang reunite tenderly. Amidst the celebrations: “Hey, that’s my wife!” says the crown prince.`
 - `Qin walks up to them. “I still expect you to keep your duty of marrying my prince!”`
-- `“General Shang, my father, went against direct orders so he could save your village from a Hun attack two years ago! Even the Huns could say that he fought honourably until everyone was safe. As his son, I demand that you release Fa Mulan, and make the alliance.”`
+- `“Two years ago, General Shang, my father, went against direct orders so he could save your village from a Hun attack—beyond his duty to his own kingdom! Even the Huns could say that he fought honourably until the last child was escaped. As his son, I demand that you release Fa Mulan, and make the alliance.”`
 - `Qin laughs proudly. “Am I your Emperor? Is it my duty to honour him?”`
 - `Mulan has had enough. “That’s it! Dishonour! [turning to Shang] Make a note of this. Dishonour on you! Dishonour on your family! Dishonour on your kingdom!”`
 - `Qin is incredulous. He’s about to pronounce a death sentence.`
 - `“Dishonour!” Chien-Po cries from the crowd. “Dishonour on you!” some citizen echoes. “I will fight! For honour!” The courtyard is in uproar.`
 - `Qin looks around panickingly. He’s baffled. “Okay! Okay!” He grovels at Mulan’s feet. “Please! Please grant us the honour to make the alliance with you!”`
-- `Shang stares off into the sky, “I understand now, dad: one grain of rice`_`can`_ `tip the scale.”`
+- `Shang stares off into the sky, “I understand now, dad: one grain of rice `_`can`_ `tip the scale.”`
 
 ### `3.7 The Three Reunited - NEW`
 
 - `Back home, The Gang of Three are tossed at the Emperor’s feet.`
 - `Some soldier accuses, “These guards sabotaged the mission! Their duty was to protect the princesses, but they only flirted with them and put them in danger!”`
-- `The princesses step out, “These men` _`have`_ `protected us, besides saving our kingdom too?!! And most of all… they brought` _`honour`_ `to us.”`
+- `The princesses step out, “These men` _`have`_ `protected us, besides saving our kingdom too?!! And most of all… they brought` _`honour`_ `to us all.”`
 - `“We will cut our royalty ties, and live as nobodies, if it means to be with them.”`
 - `The Emperor raises an amused eyebrow. What happens is left vague.`
 

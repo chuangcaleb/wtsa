@@ -1,5 +1,4 @@
 ---
-tags: [TODO]
 date_created: "[[2022-11-21|21 November 2022, Monday]]"
 date_modified: "[[2023-04-24|24 April 2023, Monday]]"
 cssclass: wtsa
@@ -59,7 +58,7 @@ TONG (CONT'D)
 And they think of me as the ruffian.
 ```
 
-Talon tribe's Con-Baby Noi is named as "Little Noi" in the credits, which I assume is meant to be "Xiao(小/Little) Noi", which adds so much intimacy. but Tong just calls her by her first name like a Western person (in the East, it's a capital crime).
+Talon tribe's Con-Baby Noi is credited as "Little Noi" in the credits, which I assume is meant to be "Xiao(小/Little) Noi", which adds so much intimacy. but Tong just calls her by her first name like a Western person (I do believe that at least the first time he references her by her name, he could use some endearing prefix/suffix).
 
 In a similar vein, at one point the script has Tong say "ruffian". They might as well say "mafia" or "gangster". And the "Jerky" in "Jackfruit Jerky" is too Western. Just say "dried jackfruit". Even in Mulan or Aladdin, Mushu and Genie gets the pass only because they're magical beings, and it's only ever one character i.e. the exception.
 
@@ -83,11 +82,11 @@ From Aang (from *Avatar: The Last Airbender*) alone, we understand so much of th
 
 Let's talk about the creatures too. In real life, ["Tuk-tuk" is a name for an auto rickshaw, popularized by Thailand and spread throughout the world!](https://www.scmp.com/magazines/post-magazine/short-reads/article/2059529/how-term-tuk-tuk-has-travelled-world) True, Raya's Tuk-Tuk does serve as her transport vehicle (a very cool design, no dispute) but Tuk-Tuk is a cross of the [Armadillidiidae](https://en.wikipedia.org/wiki/Armadillidiidae) (native to Europe) and [Armadillo - Wikipedia](https://en.wikipedia.org/wiki/Armadillo) (South America). Yes, they want to make Tuk-Tuk roll like a rickshaw's wheel… but is it worth it?
 
-Fang's cat-tigers (which are named "Serlot". Not very cultural) are based on [Caracals](https://en.wikipedia.org/wiki/Caracal) (Central Asia at best) — at least let them have a Malayan Tiger's stripes! Tail's "Toot n' Boom" beetle could be based on the [Brown marmorated stink bug](https://en.wikipedia.org/wiki/Brown_marmorated_stink_bug#cite_note-2) (Northern Asia), and get this—they were [originally designed as farting gophers](https://collider.com/raya-and-the-last-dragon-farting-beetles-explained/) (gophers are native to North America). And I quote, *"No one had one note and all of a sudden, here you have these characters whose main contribution to the movie is that they fart.*" KENAPE INI??
+Fang's cat-tigers (which are named "Serlot". Not very cultural) are based on [Caracals](https://en.wikipedia.org/wiki/Caracal) (Central Asia at best)—at least let them have a Malayan Tiger's stripes! Tail's "Toot n' Boom" beetle could be based on the [Brown marmorated stink bug](https://en.wikipedia.org/wiki/Brown_marmorated_stink_bug#cite_note-2) (Northern Asia), and get this—they were [originally designed as farting gophers](https://collider.com/raya-and-the-last-dragon-farting-beetles-explained/) (gophers are native to North America). And I quote, *"No one had one note and all of a sudden, here you have these characters whose main contribution to the movie is that they fart.*" KENAPE INI??
 
-At least the "Ongi" monkeys (half-orangutan-half-*catfish*, apparently) from Talon are distinctly Southeast Asian. They achieved Talon's entire culture quite authentically, and it does make a difference.
+At least the "Ongi" monkeys (half-orangutan-half-*catfish*, apparently) from Talon are distinctly Southeast Asian. They achieved Talon's entire culture quite authentically, and that's why Talon just pops.
 
-### Misc SEA things
+### Misc. SEA things
 
 Even just funny Asian things like our easily swayed inclinations to "free gifts", or certain characters having random silly superstitions about not eating certain types of meat or *X* catastrophe will happen. Even though it's from China-Chinese, look at how The Wish Dragon handles weaving culture and story.
 
@@ -95,9 +94,11 @@ Early on, Young Raya talks about fighting with crossbows and flaming catapults. 
 
 The voices could've had stronger accents too. This was another layer of dissonance for me, I couldn't match the Southeast Asian I'm attuned to and am supposed to be hearing, versus the accents I was actually hearing. I am told that I myself don't have a strong local accent, and that I speak Chinese/Malay with a noticeable degree of a [western] accent. I wouldn't put myself forward to voice SEA-centric characters in a heavy SEA-inspired world. It's like—it's like getting these American accents to voice act in an animated Black Panther. It's wrong to the Africans, it's wrong to the SEA'ns.
 
-Tiny details that should be too small to matter, like hairstyles to architecture… just doesn't quite do it. It just feels too… *inconsistent*.
+Though—there are cases like in Mulan and HTTYD where the main cast don't have cultural accents. But some people have distinctly cultural accents, like the Emperor & Chi-Fu, and all the adults in Dragons—but it's played to greater effect, because these adults represent the cultural setting. At least the tribe elders in Raya could've had some accent.
 
-And it feels intentionally globalized, when a story like this functions better if localized. Which is a shame, because other productions like [[Over The Moon – Film Review|Over the Moon]] prove that it is possible to satisfyingly blend traditional cultures with otherworldly elements, even in an English language medium.
+Then tiny details that should be too small to matter, from hairstyles to architecture… just don't quite do it. They stick out all the more, feeling… *inconsistent*.
+
+And it feels intentionally **globalized**, when a story like this functions better if localized. Which is a shame, because other productions like [[Over The Moon – Film Review|Over the Moon]] prove that it is possible to satisfyingly blend traditional cultures with otherworldly elements, even in an English language medium.
 
 ### SEA Tribes
 
@@ -201,7 +202,7 @@ We could say that Fang had been stealing water for centuries past (but the Druun
 
 ### Wicked Heart
 
-Which leads to another tweak. **What if. Instead of the stereotypical ruthless Fang… it's actually Heart that has been doing the water diverting and poisoning and prospering off it?** This is a Dai Li moment. After all, all have fallen short and the heart is deceitful above all else. Yes, this means Chief Benja, Raya's father, is just another player in this game of life. Fang is ruthless, yes, but Heart is insatiably wicked.
+Which leads to another tweak. **What if. Instead of the stereotypical ruthless Fang… it's actually Heart that has been doing the water diverting and poisoning and prospering off it?** This is a Dai Li moment. After all, all have fallen short and the heart is deceitful above all else. Yes, this rewrite would mean that Chief Benja, Raya's father, is just another player in this game of life. Fang is ruthless, yes, but Heart is insatiably wicked.
 
 So, new rewrite:
 
@@ -210,7 +211,7 @@ So, new rewrite:
 	1. There were still some Druun left, it could've petrified the Heart chief's family or something
 	2. The Druun are gone, but as a precaution if they came back
 	3. Regardless of the Druun, the waters brought life and prosperity to Heart.
-	- Furthermore, Heart keeping the Gem helped to cover up their prosperity as a result of the tribe possessing the Gem, and not because of their nefarious water-stealing practices.
+	- Furthermore, Heart keeping the Gem helped to brand their prosperity as a result of the tribe possessing the Gem, while covering up their nefarious water-stealing practices.
 - Chief Benja was just another chief-in-line to continue the practice. We keep the painting of Heart to be so noble and pacifist and championing unity of one-Kumandra—especially in contrast with the evil, untrustworthy, openly-treasonous Fang.
 - In Episode 1, Chief Benja calls all the Tribes together for a meal. They accuse Heart of hogging the Gem, but also a one-off statement is made about the drying rivers. We the audience don't feel any weight to any of these accusations, as they're just jealous.
 - The story goes on as usual. Along with the audience, Raya still believes that Fang is 100% in the wrong for the world falling apart. She feels 100% justified in stealing the gem pieces to save her father and the world.
@@ -219,17 +220,18 @@ So, new rewrite:
 	- The gang realizes what she's going to do, and are indignant. They sail down to Heart.
 - Raya excitedly first revives her father so he can witness the restoration of the entire tribe. Chief Benja comes back to life. They reunite, happy happy, but Benja notes that Raya only has four pieces and realizes Raya's plan.
 - Benja confesses ~~his war crimes~~ and reveals Heart's dark history of water stealing. Raya is disgusted, and feels personally betrayed by her father after victimizing Heart before the other tribes. But it's noted that Raya is guilty of the sin that runs in the family: she, too, had betrayed her gang by taking the gem pieces for her own tribe.
-- Benja regrets and wants to set things right by treatying with Fang as the original chief of Heart, while Raya is sunk too deep into cynicism. She scoffs, "Ha! Dad, if you can get a Fang to unite together with the other tribes, then we talk. But if my own tribe, my own father, has always been this deceptive and selfish, then the world might as well be—I might as well be. At least I'll save my tribe in the process."
-- So they fight it out on the bridge. It's a callback, the gem (pieces) in the center, and Benja preventing Raya from passing him to get it. Benja notes that in his time as chief, Raya was the only one he had to fight in protecting the Gem. It's a tragic fight.
+- Benja regrets his decisions thus far, and wants to set things right by making a treaty with Fang as the original chief of Heart—then all the Gems can be obtained.
+- Meanwhile, Raya is sunk too deep into cynicism. She scoffs, "Ha! Dad, if you can get a Fang to unite together with the other tribes, then we talk. But if my own tribe, my own father, has always been this deceptive and selfish, then the world might as well be—I might as well be. At least I'll save my tribe in the process."
+- So they fight it out on the bridge. It's a callback, the Gem (pieces) in the center, and Benja preventing Raya from passing him to get it. Benja notes that in his time as chief, Raya was the only one he had to fight in protecting the Gem. It's a tragic fight.
 - The gang arrives (without Sisu, we'll get to that later, but she's too powerful to be here now). They notes Benja is alive, and Benja recognizes Tong as Spine's chief. The gang knows what Raya is trying to do, and it becomes a everyone-for-themselves swordfight.
-	- All of them are expert combatants, except for Little Noi (and the monkeys), who sneakily steals a gem piece, only for someone else to snatch it back and forth. Benja definitely dominates here in a group setting, and is more careful. And of course, Boun doesn't fight, so maybe Tail's gem piece is mainly being kept by Benja.
+	- All of them are expert combatants, except for Little Noi (and the monkeys), who sneakily steals a gem piece, only for someone else to snatch it back and forth. Benja definitely dominates here in a group setting, and is more careful. And of course, Boun doesn't fight, so maybe Tail's gem piece is mainly being held by Benja.
 	- But the point is: after all the bonding so far, the gang had all devolved back to the first time every tribe was snatching up the gem pieces when it was first broken.
-- Raya knows she can't fight them all, so she takes Heart's gem piece and dives off the bridge. Benja looks on, like he did when he sacrificed himself for her.
+- Raya knows she can't fight them all, so she takes Heart's gem piece and dives off the bridge. Benja looks on, like he did many years ago when he sacrificed himself for her.
 - The gang to go on their way with their own gem piece… but Boun and Little Noi have no one to go back to. Benja and Tong's heartstrings get tugged. Benja rallies the gang to go to Fang. Like Raya scoffed, if they can somehow get Fang's cooperation (through Benja's revival), then Raya has no reason not to restore all Kumandra.
 
 So in this rewrite, Raya goes rogue, not Naamari. Benja organizes a three-way meeting between the gang, Naamari, and Raya. Raya, fully leaning into the willingness to betray, is instead the one who springs up the surprise crossbow. Naamari intervenes out of distrust, and this gets Sisu killed.
 
-Waters fail, the Druun rise. Benja gets petrified again but this time from saving Naamari. Raya causes Virana to get petrified while she scrambles for the gem pieces to revive Benja. She gets the four gem pieces as she did before, but the gem doesn't work because Sisu is dead. This petrification is permanent. Their parents are gone. So, they fight it out like they did in the original.
+Waters fail, the Druun rise. Benja gets petrified again but this time from saving Naamari. Raya causes Virana to get petrified while Raya scrambles for the gem pieces to revive Benja. She gets the four gem pieces as she did before, but the four-gems don't work because Sisu is dead. This petrification is permanent. Their parents are gone. So, they fight it out like they did in the original.
 
 UGH I love rewriting
 
@@ -237,13 +239,13 @@ UGH I love rewriting
 
 When one of the main gang simply holds out a gem piece to ward off a Druun: it's kind of a lame action. It's not very visual, nor shows off fantastical physical feats, or at least *some* effort on the character's part to effectively wield the gem stones.
 
-It would be WAY cooler if every tribe's gem piece should be incorporated uniquely into tribe-centric artifacts. Think of it exactly like the containers for *Marvel*'s *Avenger*'s Infinity Stones (the *Tesserect* for the Space Stone, the *Aether* for the Reality Stone, etc.), or like *Pirate of the Caribbean*'s *At World's End*'s "Pieces of Eight" ( #TODO )! The gem piece would enchant the weapon (with a shimmer animation when it's attached) and make it super effective against the Druun. Plus, it's extra opportunity to showcase SEA culture.
+It would be WAY cooler if every tribe's gem piece should be incorporated uniquely into tribe-centric artifacts. Think of it exactly like the containers for *Marvel*'s *Avenger*'s Infinity Stones (the *Tesserect* for the Space Stone, the *Aether* for the Reality Stone, etc.), or like *Pirate of the Caribbean*'s *At World's End*'s [Piece of Eight](https://pirates.fandom.com/wiki/Piece_of_Eight_(item)) (actual items like a playing card, which represented and identified each of the Pirate Lords)! The gem piece would enchant the weapon (with a shimmer animation when it's attached) and make it super effective against the Druun. Plus, it's extra opportunity to showcase SEA culture.
 
 - Chief Benja's gem-embedded chain-whip-sword [kris/keris](https://en.wikipedia.org/wiki/Kris)[kalis](https://en.wikipedia.org/wiki/Kalis) for Heart
 - Naamari's dragon pendant for Fang, embedded on top of Virana's (Naamari's mom) scepter (perhaps like a [trishula](https://en.wikipedia.org/wiki/Trishula)?) Whose tip can be unattached and become a [tekpi/chabang](https://en.wikipedia.org/wiki/Tekpi)?
 - I was today years old when I learnt the [karambit](https://en.wikipedia.org/wiki/Karambit) is a SEA thing. It's literally a Talon. Perfect for close-quarters swindling thieves.
 - A gem-tipped bamboo spear for Spine, magically unbreakable—bamboo is literally used in [tongkat/toya/lembing silat](https://www.youtube.com/watch?v=mVDpbVJ8rBU)
-- Tail's the most underdeveloped story-wise, so they could have anything, really. But look at this beautiful [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon)). Though if Tail's main industry were to be agriculture, the [celurit/sabit](https://en.wikipedia.org/wiki/Celurit) is another culturally-beautiful weapon/tool.
+- Tail's the most underdeveloped story-wise, so they could have anything, rehttps://en.wikipedia.org/wiki/Celuritally. But look at this beautiful [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon)). Though if Tail's main industry were to be agriculture, the [celurit/sabit](https://en.wikipedia.org/wiki/Celurit) is another culturally-beautiful weapon/tool.
 
 Then, as each member of the gang use a Gem Piece to fight off the Druun, they can actually incorporate expert combat skills and unique fighting styles.
 
@@ -260,14 +262,14 @@ I don't attribute all this to COVID lockdown preventing larger theatre profit-pe
 
 One: (executives may think) international audiences have no interest to care for a Southeast Asian story (SEA is such a small market for an international *Disney* movie); let alone Disney+ was ironically not yet available/accessible in many countries in Southeast Asia at the time. So to *attract* more viewership, they mold it to be more *relatable* ("Westerners won't know what *laksa* is, just call it stew!"), which means to expand the cultural umbrella (globalization and generalization).
 
-And the second, more egregious, but less conniving reason could be that everyone in production just comes from a Western context. Look at [Raya and the Last Dragon (2021) - Full Cast & Crew - IMDb](https://www.imdb.com/title/tt5109280/fullcredits). The directors, writers, cast. Most of them don't have a Southeast Asian heritage. The few who do, have basically lived in white America all their lives, and are more American than Southeast Asian. Actually, practically all these people would say that their primary identity is American. And I would wager that for the overwhelming majority of the production team.
+And the second, more egregious—but less conniving—reason could be that everyone in production just comes from a Western context. Look at [Raya and the Last Dragon (2021) - Full Cast & Crew - IMDb](https://www.imdb.com/title/tt5109280/fullcredits). The directors, writers, cast, crew. Most of them don't have a Southeast Asian heritage. The few who do, have basically lived in white America all their lives, and are *more American than Southeast Asian*. Actually, **practically all these people would say that their primary identity is American**. And I would wager that for the overwhelming majority of the production team.
 
-Nobody from production really lived in Southeast Asia. These people's culture isn't shaped by 2-hour flooded traffic jams or surveying fabrics and unhealthy snacks in crowded night street markets. 
+Nobody from production really lived in Southeast Asia. These people's culture weren't shaped by 2-hour flooded traffic jams or surveying fabrics and unhealthy snacks in crowded night street markets.
 
-It's just that they marketed and branded this movie's identity, even in-universe, as Southeast Asian. **But then they show things that are not characteristically Southeast Asian, and then label it as Southeast Asian to the world.** 
+It's just that they marketed and branded this movie's identity, even in-universe, as Southeast Asian. **But then they show things that are not characteristically Southeast Asian, and then label it as Southeast Asian to the world.** Not that a Western chef can't make an amazing Eastern dish (peep: ATLA); but that the dish is branded as "Southeast Asian" on the menu, while the dish is basically a sloppy Joe burger. 
 
 I get why cultural authenticity is so important now. 'Cause it's *almost* as if they're saying (even if not on purpose), "Hey, *this* is what your culture looks like to us, this is how the rest of world will perceive it. If your life doesn't look like this, maybe you're not doing it right. Maybe you're invalid to associate with the Southeast Asian identity."
 
-I've never paid a second thought to cultural considerations in story. They were always a means to an end, malleable to whatever the story needs it to be. But now I understand that story breathes through culture. And that nailing the culture aspect can beautifully define the physical shape of story. 
+I've never paid a second thought to the cultural aspect of a story. They were always a means to an end, malleable to whatever the story needs it to be. But now I understand that story breathes through culture. And that nailing the culture aspect can beautifully define the physical shape of story. 
 
 It's just like caring enough to learn how to speak someone's native language fluently, and instead of talking into their ears, you get to speak directly with their heart.

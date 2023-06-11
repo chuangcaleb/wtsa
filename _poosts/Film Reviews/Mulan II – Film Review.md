@@ -119,7 +119,7 @@ Why is the foreign crown prince portrayed so dumb; I thought we decided with the
 
 ### 8. Resolution
 
-**There was no plot resolution.** What happened to the alliance/the invasion?`Since the Huns would’ve wiped all China, Mulan saved the Northern Kingdom too, but they did not reciprocate dutifully. Mulan could give some speech about dishonour, and the other Emperor would be ashamed, and agree to the alliance without the marriages.`
+**There was no plot resolution.** What happened to the alliance/the invasion? `Since the Huns would’ve wiped all China, Mulan saved the Northern Kingdom too, but they did not reciprocate dutifully. Mulan could give some speech about dishonour, and the other Emperor would be ashamed, and agree to the alliance without the marriages.`
 
 What are the consequences of the princesses getting with lowly guards? `The guards could be sentenced to execution for treason (just like how in the first movie, Shang sentenced Mulan to death when he found out she was a woman), but the princesses step in gracefully, explaining their honour. They then offer to give up their royalty ties, and live as nobodies, but with their loves. yay`
 
