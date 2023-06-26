@@ -590,7 +590,7 @@ SIMBA
 Nope. Wrong again. He's alive!
 ```
 
-#### The king is alvive
+#### The king is alive!
 
 Just like Raifiki did before, `Simba would bring up to Scar that Mufasa is alive.` This means:
 
