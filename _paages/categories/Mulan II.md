@@ -2,7 +2,7 @@
 layout: category
 ---
 
-# 🌸 Mulan II
+# Mulan II
 
 The review and rewrite of Mulan II!
 

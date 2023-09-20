@@ -3,7 +3,7 @@ layout: page
 emoji: 🌲
 ---
 
-# Linktree
+# linktree
 
 ## <i class="bi bi-person" style="margin-right: 0.2em"></i> Socials
 

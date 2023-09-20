@@ -3,7 +3,7 @@ layout: category
 # emoji: 🎪
 ---
 
-# 🎪 The Greatest Showman Series
+# The Greatest Showman Series
 
 You can find the older 2017 version of the screenplay at [The Greatest Showman (2017) Film Script – Script Slug](https://www.scriptslug.com/script/the-greatest-showman-2017). It's so interesting how story changes and metamorphosises?
 

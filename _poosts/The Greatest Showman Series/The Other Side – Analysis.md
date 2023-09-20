@@ -15,7 +15,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 ## Lyric Analysis
 
-![[showman-tos-philip-pain.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-tos-philip-pain.png]]
 
 > Video: After Philip takes a shot, he has this facial expression, as if the alcohol adds to his grief, instead of numbing it
 
@@ -121,7 +121,7 @@ Right here, right now, I put the textpost out. This song became an early favouri
 
 **Okay, my friend, you wanna cut me in**
 
-![[showman-philip-ring.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-philip-ring.png]]
 
 > "And I can cut you free"~
 

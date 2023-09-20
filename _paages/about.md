@@ -3,7 +3,7 @@ layout: page
 emoji: 🤔
 ---
 
-# About
+# about
 
 ## What's *whatsthestoryabout* about?
 
@@ -41,7 +41,7 @@ Welcome to the dump.
 
 ---
 
-Unsure where to start? [Browse major projects](browse) or perhaps begin with [[The Greatest Showman Series]]!
+Unsure where to start? [Browse major projects](browse.md) or perhaps begin with [[The Greatest Showman Series]]!
 
 Also have a look at my [linktree](https://linktr.ee/wtstorya), which is where I've been temporarily centralising my writing projects so far!
 

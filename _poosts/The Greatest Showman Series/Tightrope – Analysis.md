@@ -49,7 +49,7 @@ At first viewing, this song didn’t stand out for me. (In fact, it was THAT son
 
 > V: While there’s the recurring theme that some doors are locked — some doors are wide open, but they don’t mean anything unless the one you love is there to be with you
 
-![[showman-t-doors-open.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-t-doors-open.png]]
 
 <br>
 
@@ -145,9 +145,9 @@ At first viewing, this song didn’t stand out for me. (In fact, it was THAT son
 
 > V: Their shadow dance calls back to their rooftop dance in A Million Dreams; the music picks up and we’re in dreamland
 
-![[showman-amd-shadow.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-amd-shadow.png]]
 
-![[showman-amd-tightrope.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-amd-tightrope.png]]
 
 **With you**
 
@@ -165,9 +165,9 @@ At first viewing, this song didn’t stand out for me. (In fact, it was THAT son
 >
 > Charity wants to be Jenny, being with Barnum. But Jenny wants to be Charity, having a happy, accepting, legitimate family.
 
-![[showman-amd-window-parallel.jpg]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-amd-window-parallel.jpg]]
 
-![[showman-t-window-parallel.jpg]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-t-window-parallel.jpg]]
 
 ---
 

@@ -11,7 +11,7 @@ wtsa_categories: 🎬 Film Reviews
 # Disney's Raya – Cultural Review
 
 In line with Hari Raya weekend here in Malaysia, here's my thoughts on Disney's Raya and the Last Dragon. I originally intended to do a TV Series Pitch, as many agree it would've been better as an episodic format, like Avatar: The Last Airbender. 
-
+Í
 But I started writing and writing and found it turned into a 5.5k+ words commentary on the **cultural consistency of Raya**. Which is interesting, because I am all about that story and narrative and usually leave other production elements like cinematography and soundtrack in the footnotes. However, story narrative doesn't live in a vacuum: some of my favorite narrative scenes are framed by excellent visual composition and a heart-thumping musical theme. 
 
 And perhaps it's because it's supposedly inspired by my own SEA (Southeast-Asian) culture, which should be familiar to my mind and resonate close to my heart. I found myself having many things to say, on culture of all things. 'Cause I \*really\* don't consider myself a patriotic and culturally-attuned fellow. Perhaps that will make itself clear as you read on HAHAHA please take my words with a bowl of salt.
@@ -80,7 +80,7 @@ From Aang (from *Avatar: The Last Airbender*) alone, we understand so much of th
 
 ### SEA Animals
 
-Let's talk about the creatures too. In real life, ["Tuk-tuk" is a name for an auto rickshaw, popularized by Thailand and spread throughout the world!](https://www.scmp.com/magazines/post-magazine/short-reads/article/2059529/how-term-tuk-tuk-has-travelled-world) True, Raya's Tuk-Tuk does serve as her transport vehicle (a very cool design, no dispute) but Tuk-Tuk is a cross of the [Armadillidiidae](https://en.wikipedia.org/wiki/Armadillidiidae) (native to Europe) and [Armadillo - Wikipedia](https://en.wikipedia.org/wiki/Armadillo) (South America). Yes, they want to make Tuk-Tuk roll like a rickshaw's wheel… but is it worth it?
+Let's talk about the creatures too. In real life, ["Tuk-tuk" is a name for an auto rickshaw, popularized by Thailand and spread throughout the world!](https://www.scmp.com/magazines/post-magazine/short-reads/article/2059529/how-term-tuk-tuk-has-travelled-world) True, Raya's Tuk-Tuk does serve as her transport vehicle (a very cool design, no dispute) but Tuk-Tuk is a cross of the [Armadillidiidae](https://en.wikipedia.org/wiki/Armadillidiidae) (native to Europe) and [Armadillo - Wikipedia](https://en.wikipedia.org/wiki/Armadillo) (South America), according to its [Disney Wiki entry](https://disney.fandom.com/wiki/Tuk_Tuk). Yes, they want to make Tuk-Tuk roll like a rickshaw's wheel… but is it worth it?
 
 Fang's cat-tigers (which are named "Serlot". Not very cultural) are based on [Caracals](https://en.wikipedia.org/wiki/Caracal) (Central Asia at best)—at least let them have a Malayan Tiger's stripes! Tail's "Toot n' Boom" beetle could be based on the [Brown marmorated stink bug](https://en.wikipedia.org/wiki/Brown_marmorated_stink_bug#cite_note-2) (Northern Asia), and get this—they were [originally designed as farting gophers](https://collider.com/raya-and-the-last-dragon-farting-beetles-explained/) (gophers are native to North America). And I quote, *"No one had one note and all of a sudden, here you have these characters whose main contribution to the movie is that they fart.*" KENAPE INI??
 

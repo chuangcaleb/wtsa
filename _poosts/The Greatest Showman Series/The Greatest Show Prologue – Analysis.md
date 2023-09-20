@@ -1,10 +1,13 @@
 ---
-wtsa_categories: 🎪 The Greatest Showman Series
-jekyllcss: showman
+tags: [2]
+date_created: "[[2022-08-07|07 August 2022, Sunday]]"
+date_modified: "[[2023-07-01|01 July 2023, Saturday]]"
 date: 2019-11-01
+jekyllcss: showman
+wtsa_categories: 🎪 The Greatest Showman Series
 ---
 
-# The Greatest Show (Prologue) – Analysis
+# The Greatest Show Prologue – Analysis
 
 This is the greatest show! This is also part one of many lyric analyses for the movie, The Greatest Showman. I remember being floored 5 seconds into this song. The editing and pacing. It’s such a good Hook pulling triply duty.
 
@@ -119,47 +122,47 @@ This is the greatest show! This is also part one of many lyric analyses for the 
 
 > This is the moment you’ve waited for
 
-> Been searching in the dark...
+> Been searching in the dark…
 
 > Buried in your bones…
 
-> ...it’s coming for ya, running at ya
+> …it’s coming for ya, running at ya
 
 > It’s only this moment…
 
-> ...can’t you see it getting closer
+> …can’t you see it getting closer
 
-> There’s something breaking...all that you know
+> There’s something breaking…all that you know
 
-**“Desire manifests...”**
+**“Desire manifests…”**
 
 > …your sweat soaking through the floor
 
-> ...there's an ache that you can't ignore
+> …there's an ache that you can't ignore
 
 > Taking your breath, stealing your mind
 
-> Your fever dream...
+> Your fever dream…
 
-> ...‘cause you feel the feeling taking over
+> …‘cause you feel the feeling taking over
 
 > It’s fire, it’s freedom, it’s flooding open
 
-> ...it’s taking over you!
+> …it’s taking over you!
 
-**“...so say yes.”**
+**“…so say yes.”**
 
-> ...you can’t ignore
+> …you can’t ignore
 
 > Don’t fight it…
 
-> Just surrender...
+> Just surrender…
 
-> ...devotion
+> …devotion
 
 > Tell me do you want to go?
 
-> ...we won’t come down
+> …we won’t come down
 
 **“Now dreams are coming true.”**
 
@@ -167,7 +170,7 @@ This is the greatest show! This is also part one of many lyric analyses for the 
 
 > Your fever dream…
 
-> There’s something breaking...all that you know
+> There’s something breaking…all that you know
 
 > Where it’s covered in all the coloured lights
 
@@ -205,8 +208,8 @@ The “show”
 - The ensemble really reinforces the “circus family” theme: no one is excluded from joining the chorus
 - The busy colourful action-packed visuals combined with the loud and fast-paced drums really feels like some enticing, surreal dream that you’d wake up sweating from.
 - Might be a stretch: but a major third replaces a minor sixth chord in the second half of the chorus, on “Impossible/Watching it come true”.
-  - Minor sixths are commonly used in “typical, safe and formulaic” 4-chord pop songs, which this song seems to be so far, until we hit that major third instead.
-  - It could be implied, then, that when you break out of the mould of “secure and conventional” into “crazy and risky”, then impossible dreams can come true.
+	- Minor sixths are commonly used in “typical, safe and formulaic” 4-chord pop songs, which this song seems to be so far, until we hit that major third instead.
+	- It could be implied, then, that when you break out of the mould of “secure and conventional” into “crazy and risky”, then impossible dreams can come true.
 
 ### What’s the name about?
 

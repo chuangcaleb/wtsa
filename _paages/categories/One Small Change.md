@@ -1,7 +1,7 @@
 ---
 layout: category
 ---
-# 🔧 One Small Change
+# One Small Change
 
  From downright terrible un-salvageable stories, to spectacular stories that are already practically perfect... sometimes it just takes *one small change* to elevate a story to the highest level.
 

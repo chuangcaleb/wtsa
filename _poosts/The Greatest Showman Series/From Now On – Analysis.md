@@ -189,7 +189,7 @@ The power and energy and fire feel like [[Come Alive – Analysis|Come Alive]]�
 
 > V: Barnum’s wedding-clad hand in the centre of the frame
 
-![[showman-fno-ring.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-fno-ring.png]]
 
 **Home again!**
 
@@ -275,7 +275,7 @@ The power and energy and fire feel like [[Come Alive – Analysis|Come Alive]]�
 
 > V: We go to the hospital with Philip and Anne; in a very early script, they was a nurse who wouldn’t let Anne in (guess why)
 
-![[showman-fno-anne-racist-hospital.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-fno-anne-racist-hospital.png]]
 
 **And we will come back home**
 
@@ -287,7 +287,7 @@ The power and energy and fire feel like [[Come Alive – Analysis|Come Alive]]�
 
 > V: Philip breathes, “You’re here,” and in the same early script, Anne would reply, “Here is where I belong.”
 
-![[showman-fno-philip-wakes.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-fno-philip-wakes.png]]
 
 **From now on**
 

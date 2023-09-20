@@ -55,6 +55,8 @@ Scene headers are labelled accordingly:
 - Huns Soldiers + Huns Leader
 - Fa Zhou (Mulan’s dad), Mama Fa, Grandma Fa
 
+> 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
+
 ### Original Plot Structure
 
 - **Hook**: Mulan trains some girls, and Shang comes to propose to her.
@@ -69,8 +71,6 @@ Scene headers are labelled accordingly:
 - **Climactic Midpoint**: Mushu masquerades as the Great Dragon to dissuade Lord Qin.
 - **Climactic Moment**: Lord Qin gives in, and weds the duo on the spot.
 - **Resolution**: China is saved, due to the alliance. Mushu is added onto Shang's family guardians, which means he still gets to be with Mulan.
-
-> 🚨 **Spoiler Alert!** 🚨 Everything that follows is spoiler territory, obviously…
 
 ### Rewrite Plot Structure
 
@@ -151,7 +151,7 @@ Scene headers are labelled accordingly:
 	- `The number of fit males-of-age are too depleted.`
 	- `In Mulan I, they relaxed the conscription conditions, so desperation is why they extended the conscripted Mulan’s old father, along with Shang’s troop made up of previously “unfit for war” males like the Gang of Three`
 	- Instead: we will send princesses to make an alliance with a neighbouring kingdom.
-- Mulan `doesn’t`react about arranged marriages, `but does voice her concern for the princesses:` the Emperor replies that they understand their duty and accept the honour.
+- Mulan `doesn’t` react about arranged marriages, `but does voice her concern for the princesses:` the Emperor replies that they understand their duty and accept the honour.
 - `Shang asks why the alliance demands marriage. Reply: Emperor Qin is demanding and unhonourable—but he’s our last hope.`
 - The Emperor provides them an entourage `with a squad of palace guards`
 	- Shang requests to have `an additional` three special unit soldiers…
@@ -238,13 +238,15 @@ Scene headers are labelled accordingly:
 - `Mushu regrettably sees things going too well. Conflicted,` he decides to sow seeds of doubt. `As the couple spars with bo staffs, Mushu ignites one of the bombs, ruining some supplies.`
 
 ```screenplay-edited
-Mushu blows a flame onto one of the bombs, and it goes off with a BANG!
+EXT. FOREST, CAMPSITE - NIGHT
+
+Mushu blows a flame onto one of the bombs, and it goes off with a BANG! Shang jumps up in alert.
 
 SHANG
 An ambush!
 
 MULAN
-I think one of the bombs just exploded by itself.
+I think one of the bombs accidentally exploded on its own.
 
 They run over to their supplies pile. Scorch marks stain and ruin various items.
 
@@ -254,23 +256,29 @@ Our supplies are ruined! Mulan, you were supposed to watch the bombs!
 MULAN
 No, it becomes your duty after sunset!
 
-They clean up the mess. Mushu and Cri-Kee watch them closely, hidden in a tree.
+They clean up the mess. 
+
+IN A NEARBY TREE
+
+Mushu and Cri-Kee watch them closely, hidden.
 
 MUSHU
 It's working!
+
+BACK ON THE GROUND
 
 SHANG
 The runaway carriage was not my fault, and I'm sure it wasn't an accident. I'm an elite soldier — nothing gets past me.
 
 Without warning, Mulan crashes a bo staff down onto Shang from behind.
 
-Shang rolls out of the way, aghast.
+Shang senses her, and rolls out of the way, irritated.
 
 MULAN
-(smirking)
+(playfully)
 I got past you, didn't I?
 
-Mulan continues attacking, so Shang ditches the supplies and picks a bo staff of his own to spar.
+Mulan continues attacking, so Shang ditches the supplies and picks a bo staff of his own to spar. As they argue, they also get the physical upper-hand accordingly.
 
 SHANG
 Are you taking the mission seriously?
@@ -288,12 +296,12 @@ MULAN
 (appalled)
 If you DIED?! Why would you DIE?!
 
-They continue, but Mulan starts throwing fatal blows.
+Mulan starts throwing fatal blows.
 
 SHANG
 Because of the mission! I just said so! It’s a simple question — why’s it so hard to give me a simple answer?
 
-MULAN
+MULAN^
 (talking over each other)
 You can’t die! We were supposed to be married! What kind of question is that?!
 
@@ -305,11 +313,11 @@ I told you we SHOULDN'T have come on this mission.
 Shang wrestles the staff out of Mulan’s hands, reversing their position.
 
 SHANG
-No – I need to do this mission.
+No -- I need to do this mission.
 
 MULAN
 (softens)
-Shang – tell me what’s on your heart.
+Shang -- tell me what’s on your heart.
 
 SHANG
 (waves it off)
@@ -320,10 +328,10 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 
 ### 2A.7 Sneaking Out
 
-- The Gang of Three invite the princesses to sneak out to the nearby village to have fun.
-- Chien Po: `“We risk our lives everyday to become a true, real man`; we just want to be like other guys…”
-- The other two sisters look to Ting-Ting and she can’t bear their hurt. `She huddles them together and whispers, “We’re going to spend the rest of our lives following our duty. You both get one night to follow your heart.”`
-- `The sisters bittersweetly nod yes.` The Gang of Three celebrate! And lead them off.
+- Whispering out of earshot of Mulan nor Shang, the Gang of Three invite the princesses to sneak out to the nearby village to have fun.
+- Chien Po: `“We risk our lives everyday to become a true, real man`; we just want to be *like other guys*…”
+- The other two sisters look to Ting-Ting and she can’t bear their defeated faces. `She huddles the sisters together and whispers, “We’re going to spend the rest of our lives following our duty. You both get one night to follow your heart.”`
+- `The sisters turn around and bittersweetly nod yes.` The Gang of Three celebrate! And lead them off.
 - Mushu sees this and informs Mulan, who leaves.
 - `Shang wasn't asleep, he was just mad. Much later, he also notices` the princesses are gone, and leaves.
 
@@ -332,8 +340,8 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 ### 2B.1 The Festival
 
 - Su and Chien Po bond over picking out food
-- Yao tries to impress Mei with his strength, `by stopping an escaping thief. The thief rages. Yao decides against whacking him further, instead gently correcting him by teaching him his own anger issues techniques, impressing Mei further.`
-- Ling wooes Ting-Ting with more jokes but she just turns away, making some gagging noise.
+- Yao tries to impress Mei with his strength, `by apprehending an escaping thief. The thief rages. Yao decides against whacking him further, instead gently correcting him by teaching him his own anger issues techniques, impressing Mei further.`
+- Ling woos Ting-Ting with more jokes but she just turns away, making some gagging noise.
 - Ling admits defeat, accidentally lighting firecrackers. Ting-Ting `accidentally drops her fan,` letting out a snorty laugh.
 - `She reveals she had been taught to suppress her un-princess-like laughter.` Ling says he loves her for it; `she replies that he’d be the first.`
 - Time jump to the end of the night. The three pairs bask in the fleeting moment over a bridge. `They look in their` **`reflection`**`: Yes—this is who they are inside.`
@@ -347,10 +355,10 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - Shang confronts the guards for endangering the mission, `saying how they should be executed right there for treason.`
 - Mulan steps in, `defending them that it would’ve been worse to have been ambushed in the woods. Besides, at one moment, Yao saved Shang's life — just like Mulan did back in the first movie.`
 - But Shang `harshly shushes her,` puts his foot down and forbids the pairs to talk.
-- Now alone, Shang blames Mulan for filling their minds with heart over duty. Mulan replies that Shang was too uptight, `and that the guards gave the princesses honour by taking them out one last night. “In marriage, women leave their family, not the men — and sometimes, they rarely ever get to visit. These three young girls will never return home forever. Not that you’d understand.”`
-- `Shang huffs, “Men, all across the nation, way too young AND far too old — they leave their family over some piece of parchment if it had their family name. I understand perfectly that almost all of them, my father included, NEVER came back home to their mothers, wives… and children. [pause] At his age, your father wouldn’t have, either.”`
-- `That’s a low blow. Mulan fumes through tears of anger, “Shang! Don’t you dare speak about my father like that–“`
-- Shang `exclaims that his father died to these very same Huns, and he won't let it be in vain. He will see this mission through, whatever it takes. This is his duty to honor his father.` He assumes leadership. `They give each other the cold shoulder.`
+- Now alone, Shang blames Mulan for filling their minds with heart over duty, `turning his back on her.` Mulan replies that Shang was too uptight, `and that the guards gave the princesses honour by taking them out one last night. “In marriage, the women leave their family, not the men. These three young girls will never return home forever. Not that you’d understand.”`
+- `Shang spins around and huffs, “Men, all across the nation, way too young AND far too old — they leave their family over some piece of parchment if it had their family name. I understand perfectly that almost all of these men, my father included, NEVER came back home to their mothers, wives… and children. [pause] At his age, your father wouldn’t have, either.”`
+- `That’s a low blow. Mulan fumes through tears of anger, “Li Shang! Don’t you dare speak about my father like that–“`
+- Shang `exclaims, "My father died to these very same Huns, and I won't let it be in vain. I will see his mission through, whatever it takes. This is my duty to honor my father."` He assumes leadership. `They give each other the cold shoulder.`
 
 ### 2B.3 Confession Valley
 
@@ -407,8 +415,8 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 
 - Mulan is in her dressing room, `accompanied by handmaidens.`
 - `They put make-up on her—she bursts out in tears. They furrow in understanding, then leave the room to give her some space.`
-- `She mumbles to herself, “You defeat armies… but to them, you’re still just a woman to marry.”`
-- `Mushu steps out of hiding. “When you marry this prince, I’ll lose you tonight.”`
+- `She mumbles to herself, “You defeat armies… but to them, you’re still just a girl to marry.”`
+- `Mushu steps out of hiding. “I tried to break you up from Shang so that I wouldn't lose you when you got married off. But when you marry this prince, I’ll lose you tonight.”`
 - `“Then, I forgive you.” Mushu is confused but relieved. Mulan continues, “That’s what my heart wishes I had said to Shang.”`
 - `“You couldn’t fulfil your duty; I can still fulfil mine.` Goodbye, Mushu.”
 
@@ -484,5 +492,6 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `Mushu turns to see the room before him: Mulan’s parents, Shang’s mother, the Gang of Three and the princesses. “Wait, so you’ve told everyone. I thought we had a little something special!”`
 - `“Of course I told everyone. You’re my most special friend who agreed to officiate my wedding!”`
 - `Mushu officiates the wedding, tearing up in pride. Mulan says yes.`
-- `Mulan goes in to kiss Shang. She pulls back, and Mushu’s gone.`
+- `Mulan goes in to kiss Shang. Yay!`
+- `Then, she pulls back, and Mushu’s gone.`
 - `Bittersweet moment: Mushu has fulfilled his duty. Mulan and Shang are married. Princesses/Gang of Three are happy. China (Middle Kingdom) is saved. Woooo`

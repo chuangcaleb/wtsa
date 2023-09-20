@@ -42,7 +42,7 @@ A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example i
 
 **A physical villain/antagonist** who embodied the idea of lies and selfish-nationalism would be great. He would be a great opposite-extreme villain to Hans, who represents danger when you open your doors too wide, versus someone who represents danger when you close your doors tight shut. Then came an amazing tweak that I read: [a review article by Erik Kain](https://www.forbes.com/sites/erikkain/2019/12/02/the-5-biggest-problems-with-frozen-2/) fantastically suggested, **`what if King Runeard survived?`**
 
-![[frozen-ii-erik-kain-review.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/f2r/frozen-ii-erik-kain-review.png]]
 
 `Imagine: the Forest trapped King Runeard and his men, and he wants a way out. The Northuldrians know to break the dam to break the curse. He tells his soldiers, the dam would flood Arendelle regardless of the wall of mist, so they've been guarding it. 30 years later comes our gang who meets both parties. It goes mostly the same way except King Runeard whispers to the gang that all this history is proof that magic is more dangerous than good, and why we should keep the past locked up in the past, then convincing them to keep things the same.`
 

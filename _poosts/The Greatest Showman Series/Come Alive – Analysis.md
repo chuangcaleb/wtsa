@@ -417,9 +417,9 @@ I feel like there was a moment in production where “The Greatest Show” was s
 
 > Might be a Stretch: a certain pose, a certain crown and a certain coming back to life… not a stretch I think.
 
-![[showman-come-alive.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-come-alive.png]]
 
-![[showman-barnum-arms-wide-open.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-barnum-arms-wide-open.png]]
 
 ---
 

@@ -1,15 +1,18 @@
 ---
 title: Over The Moon – Film Review
-aliases: Over the Moon
-.banner: "https://www.flixwatch.co/wp-content/uploads/80214236.jpg"
+aliases:
+  - Over the Moon
+.banner: https://www.flixwatch.co/wp-content/uploads/80214236.jpg
 .banner_y: 0.444
-cssclass: wtsa
+cssclasses:
+  - wtsa
 dark_theme_color: "#3c6e61"
 date: 2022-05-25
 date_created: "[[2022-08-07|07 August 2022, Sunday]]"
 date_modified: "[[2023-01-19|19 January 2023, Thursday]]"
 light_theme_color: "#65ab99"
-wtsa_categories: [🎬 Film Reviews]
+wtsa_categories:
+  - 🎬 Film Reviews
 ---
 
 # Over The Moon – Film Review

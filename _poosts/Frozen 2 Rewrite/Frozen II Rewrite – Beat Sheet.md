@@ -1,7 +1,7 @@
 ---
 wtsa_categories: ❄️ Frozen II Rewrite
 date: 2019-12-21
-parents: Frozen II Rewrite
+up: "[[Frozen II Rewrite]]"
 link_label: F2 Rewrite (Beat Sheet) – Google Docs
 link_href: https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
 related: ["Frozen II Rewrite – Screenplay"]
@@ -11,7 +11,7 @@ related: ["Frozen II Rewrite – Screenplay"]
 
 <!--more-->
 
-![beat_sheet_preview](/wtsa/assets/img/f2r/beat_sheet_preview.png)
+![beat_sheet_preview](8%20projects/whatsthestoryabout/wtsa/assets/img/f2r/beat_sheet_preview.png)
 
 ## F2R
 

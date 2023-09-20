@@ -53,9 +53,9 @@ In this song we see how strongly Barnum’s influence has been on Philip since T
 
 > V: Similar framing technique to Barnum watching Philip give in, at the start of the bridge of The Other Side
 
-![[showman-tos-framing.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-tos-framing.png]]
 
-![[showman-rts-framing.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-rts-framing.png]]
 
 <br>
 
@@ -358,7 +358,7 @@ In a way, because they chose their fates to be together, they rewrote their fate
 
 The same mobsters that burnt down the museum and nearly separated the two in death, are the same forces that revealed the fruitful result of their intrinsic choices.
 
-![[showman-fno-philip-and-anne.png]]
+![[8 projects/whatsthestoryabout/wtsa/assets/img/showman/showman-fno-philip-and-anne.png]]
 
 The climactic song, Breaking Free harks the idea of Rewrite The Stars. “There’s not a star in heaven that we can’t reach.” I’m telling you, Troy Bolton and Philip Carlyle are the exact same person.
 
