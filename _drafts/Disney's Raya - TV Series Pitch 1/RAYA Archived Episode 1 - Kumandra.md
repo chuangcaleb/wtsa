@@ -1,8 +1,8 @@
 ---
-next: "[[RAYA Episode 2 - Tail]]"
+quickshare-date: 2023-09-23 20:37:55
+quickshare-url: "https://noteshare.space/note/clmw0nl3n1162001mwl2vqeci9#UoQOf1OItsemzViXaPzv/+B9YeIguJc/oO11haGQ4xQ"
 created: "[[2023-09-21|21 September 2023, Thu]]"
-quickshare-date: 2023-09-23 21:00:25
-quickshare-url: "https://noteshare.space/note/clmw1ghjd1170101mwk59z1ddn#YTv2IsOo93zDIDQiSbxwMHTZNZ9S0LQMfMC5kzEZW18"
+next: "[[RAYA Episode 2 - Tail]]"
 ---
 # RAYA Episode 1 - Kumandra
 
@@ -15,13 +15,13 @@ quickshare-url: "https://noteshare.space/note/clmw1ghjd1170101mwk59z1ddn#YTv2IsO
 - Let's rework the opening narration scene. Unless Raya had someone to explain Kumandra to?
 - There are two "backstories" to exposition-dump.
 	1. 500 years ago: Dragons defeating the Druun,
-	2. "6" years ago: Kumandra divided over the Gem
-		- btw, retconning this to be 15 years instead of 6 years for the effects of the division to be more ingrained into the new culture
-- There's just so much exposition to cover. But I think that the 500 years ago story is not as personal nor action-packed as opening straight away *in media res*.
+	2. 6 years ago: Kumandra divided over the Gem
+- There's just so much exposition to cover. But I think that the 500 years ago story is not as personal nor action-packed as opening straight away with Young Raya.
+- We could copy Avatar: The Last Airbender and start with a narration intro of the 500-years-ago events. But ATLA's intro is just so dense and juicy in 45 seconds. Unless we can shave down the dragons-vs-Druun backstory down to that, I think it's better to start in the first scene with Raya and Benja immediately, just like how ATLA starts with Katara and Sokka.
 
-### Hook: Can we trust other tribes?
+### Hook: Can we trust other tribes? (Parallel-Intercut Thriller)
 
-#### Present: Establishing current-day/setting and the main character's overarching goals
+#### Now: Establishing current-day/setting and the main character's overarching goals
 
 ![|300](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg)
 
@@ -29,9 +29,7 @@ quickshare-url: "https://noteshare.space/note/clmw1ghjd1170101mwk59z1ddn#YTv2IsO
 
 ![|300](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)
 
-> **TAIL LANDSCAPE - DAY (PRESENT)**
-
-- Establishing shots of Tail: it's a *southeastern* wasteland. Not a typical American/African desert, but instead we have limestone cliffs, canyons and caves. The terrain is hilly, and the soil is caked, hard from the heat. The sparse and small vegetation all yellow up from dehydration. Small rats and lizards scuttle for cover from the heat of noonday.
+- Establishing shots of Tail: it's a *southeastern* wasteland. Not a typical American/African desert, but instead we have limestone cliffs, canyons and caves. The terrain is hilly, and the soil is caked, hard from the heat. The sparse and small vegetation all yellow up from dehydration. Small rats and lizards scuttle for cover from the heat of noonday. 
 	- > Chyron: TAIL - CURRENT DAY
 - We have a masked lone adult rider, on an animal mount. Very quickly, let's change Tuk-Tuk to be some panda-pangolin hybrid.
 - She holds up a map. X-marks litter the landscape. The camera focuses on a drawing of the complete Dragon Gem, circled and in the center of drawn pointed arrows.
@@ -39,21 +37,17 @@ quickshare-url: "https://noteshare.space/note/clmw1ghjd1170101mwk59z1ddn#YTv2IsO
 
 #### Past: Establishing young Raya
 
-> **DRIPPING CARVED-OUT TUNNEL PASSAGEWAY, HEART - NIGHT (PAST)**
-
-- Chyron: HEART - FIFTEEN YEARS EARLIER
-- It's bright and colourful, in contrast to the pale and lifeless Tail.
+- Cut to a dripping carved-out tunnel passageway
+  > Chyron: HEART - FIFTEEN YEARS EARLIER
+  - It's bright and colourful, in contrast to the pale and lifeless Tail.
 - We introduce young Raya, in full stealth/combat gear. She also has a drawing of the mythical Dragon Gem.
 - In a tunnel of sorts, she bypasses traps by identifying and working around rigged false-hopes and paths — with the help of her then-smaller mount, Tuk-Tuk.
-
-> **CHAMBER OF THE DRAGON GEM, HEART**
-
 - She enters the Chamber of the Dragon Gem, guarded by a silhouetted guardian.
 	- There is a glowing blue Gem on a pedestal in the center of the room, the same one as pictured in the map in the current day.
 	- The guardian calls Raya by name (establishing her name to the audience), and announces that he won't let her step one foot into the inner circle platform where the Gem is.
 	- The guardian never unsheathes his sword — we're saving epic reveal for later.
 - They fight it out
-	- Raya addresses the guardian as "Chief Benja" of the Heart tribe
+	- Raya addresses the guardian as "Chief Benja" of the Heart tribe 
 - Chief Benja would taunt Raya by saying aloud his moves ahead of time. Raya says she doesn't trust him, moving oppositely. But Chief Benja always tells the truth, which causes Raya to fail her blocks and attacks.
 - Ultimately, Benja disarms her. However, Raya had won: she had one toe on the inner circle platform.
 	- Chief Benja congratulates her daughter, revealing to the audience that he is her father who is training her.
@@ -74,11 +68,9 @@ BENJA
 Yes. And we must prepare to meet them.
 ```
 
-- We end the scene ambiguously there, as if the other lands are about to lay siege just as they finished their training. And jump straight to:
+- We end the scene ambiguously there, that the other lands are about to lay siege just as they finished their training. And jump straight to:
 
-#### Present: Raya's current goal, ready to fight
-
-> **TAIL LANDSCAPE - DUSK (PRESENT)**
+#### Now: Raya's current goal, ready to fight
 
 - It's approaching sundown.
 - The rider sees a purple energy just behind a nearby hill. She quickly veers in the opposite direction.
@@ -94,10 +86,8 @@ Yes. And we must prepare to meet them.
 
 #### Past: Benja's party
 
-> **PALACE KITCHEN, HEART - DAY (PRESENT)**
-
 - With Benja's trailing sentence, "We must prepare to meet them. Are you ready to face the other lands?"
-- Raya introduces the lands, with flashcard-style overlays for each
+- Raya introduces the lands.
 	- "We're from the tribe of Heart. Our rainforest rains all the time, which makes us the best for defending the Dragon Gem against the Druun."
 	- "Second, Tail. A vast limestone expanse, made up of a wide network of villages of skilled navigators and infiltrators."
 	- "Third, Talon. A floating market famous for fast deals and fighters with even faster hands."
@@ -116,9 +106,25 @@ Yes. And we must prepare to meet them.
 - Raya nods.
 	- Benja: "I believe that we can be One Kumandra again. Even if I have my second baddest blade in the land to offer a bit of wise precaution… someone has to take the first step. Trust me."
 
-#### Present: Tail trusts no one
+#### Now: Tail trusts no one
 
-> **NOMAD CAMP OUTSKIRTS, TAIL - NIGHT (PRESENT)**
+%%
+- The nomad arrives: she's an elderly lady, introduces herself: "We are the Boh Hong family of Tail. We do not have much, but we survive."
+	- Raya spots the nomad hide her hand clad with many expensive rings into her pocket.
+- The nomad continues, "What can we do for you, weary traveller?"
+	- "My name is Namaari," Raya lies, "daughter of Rahmidah, tribe of Spine. We fled here after my village was destroyed by the Druun… I know we are not of your tribe, but we seek refuge and water just for the night."
+- The nomad is suspicious. "Spine is too strong to fall. Besides, why didn't you go to the other tribes, Fang or Talon? You'd be better off even in Heart than here in the dried-up forsaken land of Tail." (establishing the other tribes names)
+	- "The… chief of Tail… gave my family a promise for refuge. A known *pinturi* is better than two unknown *bandori*?"
+	- Raya stutters a bit here. The nomad picks up on it — she grips her dagger behind her back.
+- The nomad spots Raya's whip-sword, exactly the one her father used. The nomad starts, "Is that…?"
+	- Raya twist her hips away to hide the whip-sword. "We are very exhausted. If you do not trust me, I shall just continue on my quest."
+- "Stay here for tonight. But leave my family by daybreak."
+- "Thank you for your hospitality, and for displaying the spirit of Kumandra."
+- Raya holds out her arm, in a customary greeting. "Kumandra in All."
+	- The nomad interlocks her own arm, responding, "One in Kumandra."
+	- With a wide shot, both women still clench their weapons with their other hand.
+%%
+
 
 - Three people from the camp arrive to meet Raya
 	- They are armed with a spear and shield
@@ -127,6 +133,7 @@ Yes. And we must prepare to meet them.
 - "State your business!" the middle one exclaims. She's holding a lantern, it's getting dark.
 	- Raya: "I am Rahmidah, daughter of Hazim, tribe of Tail. We fled here after my village was destroyed by the Druun… I know we don't trust each other, but I just need to set up camp for the night."
 	- The nomad is suspicious. "I've never heard of the family name 'Hazim'. Besides, you're at the far end of Tail, why aren't you heading towards the other tribes? Fang has their intricate aqueducts, Spine has their mighty fortress, Talon has their busy floating market. You'd be better off even in Heart than here in this dried-up forsaken land of Tail."
+	- ~~"I just said that I'm Tail, I'm of your own tribe. Don't you trust me?"~~
 	- "Tail is supposed to be the one tribe that help their own tribe people."
 	- "Our own brother stole all our family wealth, and ran away to Talon. One Kumandra? Hah!"
 - Raya: "I will set up camp there by that rock. It's 200 cubits away from your camp."
@@ -135,8 +142,6 @@ Yes. And we must prepare to meet them.
 	- The nomads warily take the lemongrass and back off, returning to their own camp, very on edge. "Don't come near us, we won't come near you."
 
 #### Past: Cultural exchange
-
-> **BRIDGE, HEART - DAY (PAST)**
 
 - Benja and Raya stand on the end of the main bridge leading into Heart. Four distinct factions stand arranged before them. Benja welcomes them.
 	- Tail Chief: Nice speech, Chief Benja, but why’d you really bring us here? Are you gonna rob us?
@@ -149,9 +154,6 @@ Yes. And we must prepare to meet them.
 	- "Do you want to come eat my dad's Kumandra stew?"
 	- They go in together
 	- The adults see this, lower their defenses, and the chiefs decide to cross over too.
-
-> **PALACE COURTROOM, HEART - DUSK**
-
 - Later in the palace courtroom: it's crowded but no one is mixing around.
 - Young Raya and Namaari chatter about their shared princess-ship.
 	- we see a bit of Naamari's Fang intelligence and sharpness
@@ -181,18 +183,10 @@ Yes. And we must prepare to meet them.
 	- It's a part of Naamari's mother's sceptre.
 - Raya says, "Together we'll track down Sisu one day, but I know what we can do today. Follow me."
 
-#### Present: Raya lies to find Sisu
-
-> **RAYA'S CAMP, TAIL - NIGHT (PRESENT)**
+#### Now: Raya lies to find Sisu
 
 - Raya leaves Tuk-tuk and her supplies back in her own camp, and stealthily creeps towards the outskirts of the nomad camp
-
-> **NOMAD CAMP, TAIL**
-
 - She expects guards at every corner — none. She easily slips through their camp.
-
-> **CAVERN, NOMAD CAMP, TAIL**
-
 - She slips into a cavern where the stream ends
 - She doesn't waste any time. She does a whole ritual.
 	- "Sisudatu… I don’t know if you’re listening. I’m searching every river to find you. I really need your help. I made a mistake. I trusted someone I shouldn’t have. And now the world’s broken."
@@ -201,11 +195,21 @@ Yes. And we must prepare to meet them.
 	- The other nomads hold up Raya's supplies and have Tuk-tuk guarded at spear-point. They had raided Raya's camp.
 	- The nomad leader continues, "Daughter of Benja. Tribe of Heart. Or what's left of it."
 
+%%
+- Adult Raya is in her tent, asleep.
+- The old woman nomad sets down a bowl of soup and exits.
+- Raya peeks open an eye. She's been fake-sleeping.
+- Raya sneaks out of her tent, over to the circled landmark on her map.
+- There's the small spring of water.
+- She doesn't waste any time. She does a whole ritual.
+	- "Sisudatu… I don’t know if you’re listening. I’m searching every river to find you. Look, there’s not a lot of us left and we really… we really need your help. If I can be honest, I really need your help. I made a mistake. I trusted someone I shouldn’t have. And now the world’s broken."
+- Raya sits. And waits. And waits. Nothing happens.
+- A voice behind her: "What are you doing here?"
+- %%
+
 ### Betrayal causes Druun
 
 #### Past: Raya vs. Naamari
-
-> **CHAMBER OF THE DRAGON GEM, HEART - NIGHT (PAST)**
 
 - Young Raya and Naamari enter the Chamber of the Dragon Gem.
 - "Thank you for sharing the Gem with me."
@@ -218,36 +222,34 @@ Yes. And we must prepare to meet them.
 - They take out their weapons and fight viciously.
 - Raya does get the upper hand, even with her cripple, and knocks Naamari backwards.
 - Naamari just smirks and shoots a whistling firework through the ceiling opening.
-
-> **PALACE COURTYARD, HEART**
-
 - At the palace, Benja is diplomat-ing with Virana.
 	- "Chief Virana! I hope our daughters' newfound friendship will foster a special bond between Heart and Fang."
 - Through a window, the firework explodes and illuminates the night sky.
 - Benja turns back, and Fang is gone. The other tribes start to catch on.
 
-#### Present: Confrontation
+#### Now: Confrontation
 
-> **CAVERN, NOMAD CAMP, TAIL (PRESENT)**
+%%
+- The nomad woman appears there behind Raya. 
+- "You're not from Spine, your name is not Namaari, who are you and why have you lied to me?" 
+%%
 
 - Raya: "You already planned to raid my camp while I was asleep."
-	- Nomad: "And you already planned to sneak into our precious river."
-- "Look, I just wanted to find Sisu from the myths, and you wouldn't have let me near your river stream. She's not here, I've done no harm, so I will leave your family alone and be on my way."
-	- The nomad leader blocks her with a spear.
+	- Nomad: "And you already planned to come to our precious river."
+- "Look, I just wanted to find Sisu from the myths, and you wouldn't have let me near your river stream. She's not here, so I will leave your family alone and be on my way."
+	- The nomad leader blocks her with a spear. 
 	- "Not so fast. You think we'll just let you go? You lied to us. We're taking your jade pieces and your animal mount…"
 	- A nomad interrupts: "And her father's chain-whip-sword-weapon-thing! It's so epic!"
 	- "..and your Dragon Gem piece, please. And *then* you'll be on your way. You can take back your lemongrass too, it tastes nothing like they said."
-- Raya: "But you've never seen lemongrass before, you wouldn't be able to tell if it were actually padapepper?"
+- Raya: "You've not seen lemongrass before, you wouldn't be able to tell if it were actually padapepper?"
 	- The nomads start to droop their limbs. Raya smirks.
 - A small crack forms in the ground…
 
 #### Past: Druun unleashed
 
-> **CHAMBER OF THE DRAGON GEM, HEART - NIGHT (PAST)**
-
 - Young Raya and Namaari continue fighting, but Fang soldiers enter the room.
 	- Raya straightens her back, ready to fight to the death with her newfound anger.
-- SWOOSH! Benja repels into the room, dispatches a dozen different adversaries. His sword turns into a cool grappling whip which he uses to drive everyone back.
+- SWOOSH! Benja repels into the room, dispatches a dozen different adversaries. His sword turns into a cool grappling whip which he uses to drive everyone back. 
 	- This is the same whip-sword that adult Raya has.
 	- "You will not set foot on the Dragon Gem’s inner circle."
 - The soldiers of the other tribes file into the room, in awe of the Gem.
@@ -281,24 +283,21 @@ Yes. And we must prepare to meet them.
 	- Benja shouts: "Everyone to the river!"
 - In the cave, the waterfalls start to dry up…
 
-#### Present: Druun unleashed pt. 2
+#### Now: Druun unleashed pt. 2
 
-> **CAVERN, NOMAD CAMP, TAIL - NIGHT (PRESENT)**
-
-- Raya collects her items back from each disabled nomad, packing them and readying to leave. "You'll be back to normal by sunrise. Sorry for the inconvenience."
+%%
+- "I am Raya, the last of my tribe of Heart. But I know you poisoned the stew that you gave me with Padapepper powder. Is it because you want my gem shard?"
+- The nomad's face betrays her: that's exactly it. 
+%%
+- Raya collects her items back from each nomad, packing them and readying to leave. "You'll be back to normal by sunrise. Sorry for the inconvenience."
 	- The nomads try to chase after her, but they are slow like zombies.
-
-> **NOMAD CAMP, TAIL**
-
-- She exits the cavern and climbs up onto Tuk-tuk, surveying the map…
+- She exits the cavern and climbs up onto Tuk-tuk, surveying the map… 
 - Suddenly, a purple tendril breaks out from the ground and wraps around her foot. A Druun.
 - Raya swings her whip-sword, the blade now infused with Heart's Gem shard. It effortlessly tears through the Druun, compared to the ineffective simple weapons before.
-- She fights a few, easily with the Gem-fused weapon.
-- There are some purple glows that come out from the cavern: glows that meant someone was being petrified.
+- She fights a couple, easily with the Gem-fused weapon.
+- There are some purple glows that come out from the cave: glows that meant someone was being petrified.
 
 #### Past: Sacrifice
-
-> **BRIDGE, HEART - NIGHT (PAST)**
 
 - Heart is plunged into chaos
 - People flee out of the city via the main bridge
@@ -306,13 +305,11 @@ Yes. And we must prepare to meet them.
 	- The road ahead is too far
 	- The bridge shakes and a Druun approaches
 - Benja hands his Gem shard to Raya. "Raya, don’t give up on them. Make things right for Heart. I love you, my dewdrop."
-- Benja pushes Raya off the bridge into the water with his Gem Piece and whip-sword
+- Benja pushes Raya off the bridge into the water
 	- A Druun passes through Benja, turning him to stone
-	- A current carries young screaming Raya away to safety…
+	- A current carries young Raya safely away…
 
-#### Present: Just another Tuesday
-
-> **NOMAD CAMP, TAIL - NIGHT (PRESENT)**
+#### Now: Just another Tuesday
 
 - The Druun retreat from Raya, back into the ground.
 - Raya rushes back into the cavern: everyone's turned to stone.
@@ -320,9 +317,20 @@ Yes. And we must prepare to meet them.
 - She raids the ghost-town camp, gets up, and gets on her way.
 - Business as usual. She heads to the next spot on the map.
 
-### Present: Epilogue
+%% 
+- A crack suddenly widens in the ground… multiple Druuns appear out!
+- 
+- The elderly nomad swings at the Druun with her dagger
+	- but the Druun simply engulfs her, petrifying her.
+- Raya chase after the Druun, but it's too late, there were too many,
+	- A glow shone whenever they petrified someone. Several Druun leave the campsite.
+	- They see that Raya has a Gem piece, and retreat.
+- Raya gets up and stands at a distance, tiredly surveying the campsite. Everyone there is gone.
+- She looks down at her map. One circle is left.
+- She summons Tuk-tuk, and continues on her travels. 
+%%
 
-> **TAIL LANDSCAPE - DAY (PRESENT)**
+### Now: Epilogue
 
 - A woman on a Serlot (some large tiger-wolf hybrid) dismounts and enters the cavern.
 	- She inspects the carnage left behind my the Druun

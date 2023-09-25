@@ -8,6 +8,7 @@ longform:
     - RAYA Disclaimer
     - RAYA Episode 1 - Kumandra
     - RAYA Episode 2 - Tail
+    - RAYA Episode 3 - Talon
   ignoredFiles:
     - output
     - Episode 1 - Kumandra
