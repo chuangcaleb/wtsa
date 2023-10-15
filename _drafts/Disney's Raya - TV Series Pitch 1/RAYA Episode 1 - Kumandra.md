@@ -1,8 +1,8 @@
 ---
 next: "[[RAYA Episode 2 - Tail]]"
 created: "[[2023-09-21|21 September 2023, Thu]]"
-quickshare-date: 2023-09-23 21:00:25
-quickshare-url: "https://noteshare.space/note/clmw1ghjd1170101mwk59z1ddn#YTv2IsOo93zDIDQiSbxwMHTZNZ9S0LQMfMC5kzEZW18"
+quickshare-date: 2023-09-28 22:12:29
+quickshare-url: "https://noteshare.space/note/cln398gi72589801mwhx1trttj#9+xEpybasZbVsFtoi8wpRPflOqRiMnfzwQmMa744MT8"
 ---
 # RAYA Episode 1 - Kumandra
 
@@ -33,7 +33,7 @@ quickshare-url: "https://noteshare.space/note/clmw1ghjd1170101mwk59z1ddn#YTv2IsO
 
 - Establishing shots of Tail: it's a *southeastern* wasteland. Not a typical American/African desert, but instead we have limestone cliffs, canyons and caves. The terrain is hilly, and the soil is caked, hard from the heat. The sparse and small vegetation all yellow up from dehydration. Small rats and lizards scuttle for cover from the heat of noonday.
 	- > Chyron: TAIL - CURRENT DAY
-- We have a masked lone adult rider, on an animal mount. Very quickly, let's change Tuk-Tuk to be some panda-pangolin hybrid.
+- We have a masked lone adult rider, on an animal mount. Very quickly, let's change Tuk-Tuk to be some panda-pangolin hybrid. A *Pandolin*.
 - She holds up a map. X-marks litter the landscape. The camera focuses on a drawing of the complete Dragon Gem, circled and in the center of drawn pointed arrows.
 	- This woman really wants this Gem.
 
@@ -131,8 +131,9 @@ Yes. And we must prepare to meet them.
 	- "Our own brother stole all our family wealth, and ran away to Talon. One Kumandra? Hah!"
 - Raya: "I will set up camp there by that rock. It's 200 cubits away from your camp."
 	- "You are too close to our river. We don't trust you. Leave us, or we will attack."
-	- "I will fight to make camp. But let's both agree that fighting would cost us both resources that we don't have. I don't even want to camp so close to you, I don't trust you either. So I'll be gone in the morning. Take these lemongrass herbs as a gift of peace. Or rather, a gift of non-aggression."
-	- The nomads warily take the lemongrass and back off, returning to their own camp, very on edge. "Don't come near us, we won't come near you."
+- "I will fight to make camp. But let's both agree that fighting would cost us both resources that we don't have. I don't even want to camp so close to you, I don't trust you either. So I'll be gone in the morning. Take these lemongrass herbs as a gift of peace. Or rather, a gift of non-aggression."
+	- They whisper amongst themselves, "Lemongrass! They're so rare since Heart fell to the Druun!"
+- The nomads warily take the lemongrass and back off, returning to their own camp, very on edge. "Don't come near us, we won't come near you."
 
 #### Past: Cultural exchange
 
@@ -153,7 +154,9 @@ Yes. And we must prepare to meet them.
 > **PALACE COURTROOM, HEART - DUSK**
 
 - Later in the palace courtroom: it's crowded but no one is mixing around.
-- Young Raya and Namaari chatter about their shared princess-ship.
+- On Young Raya and Namaari:
+	- they chatter about their shared princess-ship.
+	- Namaari takes a huge bite of the stew: she groans in delight
 	- we see a bit of Naamari's Fang intelligence and sharpness
 	- Naamari admits this is her first time having such a stew with so many different ingredients. Raya says she has this every day.
 		- Namaari explains that Heart trades with other tribes, but the other tribes don't really mix around
@@ -161,8 +164,11 @@ Yes. And we must prepare to meet them.
 		- Raya exclaims! "That's why Heart seems so prosperous compared to the other tribes: it's not that the Gem gives some magic favour to Heart, but it's that Heart trusts the other tribes."
 - Namaari then brings up they're both Sisu fans
 	- Naamari: You know, Fang legend says she’s still out there. I'm not supposed to show you this, but…
-	- Naamari pulls out a Scroll that she's not supposed to show
-	- It's the same scroll that adult Raya is using as her map!
+	- Naamari pulls out a Scroll that she says she's not supposed to show
+	- (It's the same scroll that adult Raya is using as her map!)
+
+> **NARRATED OVER STYLISTIC PUPPETRY**
+
 - Namaari is the one to retell the legend, as it comes to life stylistically in Southeast Asian-inspired puppetry:
 	- Kumandra used to be lush when humans lived harmoniously alongside dragons - magical creatures who brought us water and rain and peace.
 	- Then, the Druun monsters attacked: multiplying as they consumed life and turned everyone they touched into stone.
@@ -173,6 +179,9 @@ Yes. And we must prepare to meet them.
 	- Instead of uniting humanity, people fought to possess the last of dragon magic.
 	- Borders were drawn. Kumandra divided. We all became enemies.
 	- The Gem was secured by Heart for the past 350 years, and they prospered.
+
+> **PALACE COURTROOM, HEART**
+
 - Namaari expresses, "Though the Druun are no more, yet all Kumandra isn't sharing the Gem like it was way before. It's paradise for Heart, but not for us other tribes. Not that the Gem is magical, but sharing the Gem together is the first step in being united in recognition of what Sisu has done, equally for every person in every tribe. That's what Sisu would have wanted."
 - Raya points out on the scroll, that Sisu sleeps dormant at a river's end.
 	- Naamari says, if they could ever track down every river, they could bring back Sisu, and reunite Kumandra.
@@ -212,7 +221,7 @@ Yes. And we must prepare to meet them.
 	- "It's what Sisu would have wanted."
 - Suddenly, Naamari strikes out at Raya.
 	- Raya dodges, but a branch scratches her bare calf.
-	- Naamari smirks, "Padapepper brambles. Makes your muscles sleepy."
+	- Naamari smirks, "Padapepper brambles. Makes your muscles sleepy. 100% organic Fang produce."
 - Raya limps. "What are you doing?"
 	- "I'm doing what's right for Fang."
 - They take out their weapons and fight viciously.

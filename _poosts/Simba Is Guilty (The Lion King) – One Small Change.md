@@ -22,7 +22,7 @@ If there's one small change that I could make to The Lion King, perhaps it could
 
 ## Introduction
 
-The Lion King is one of my favorite stories. It's a tale as old as time: the naive young prince brags about one day becoming King, but one day he makes a very foolish decision, from which the King/his father sacrifices himself to save his son from.
+The Lion King is one of my favourite stories. It's a tale as old as time: the naive young prince brags about one day becoming King, but one day he makes a very foolish decision, from which the King/his father sacrifices himself to save his son from.
 
 The prince flees his kingdom ashamed and tries to bury his past under a new start in a new life in a new land. And it all seems to be perfect, until he hears that his kingdom was taken over by his tyrant uncle, and that he needs to claim his rightful throne to save the land: but that would involve bravely owning up to his mistakes in front of his mother and friends.
 
@@ -258,7 +258,7 @@ EXT. FLOOR OF THE GORGE - A SHORT TIME LATER
 Scar is with Simba under a tree. Simba sits on a rock.
 
 SCAR
-If I told you, it wouldn't be a surprise now, woudld it?
+If I told you, it wouldn't be a surprise now, would it?
 
 SIMBA
 (sweetly shrewd)

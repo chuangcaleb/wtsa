@@ -1,8 +1,7 @@
 ---
 quickshare-date: 2023-09-23 20:37:55
-quickshare-url: "https://noteshare.space/note/clmw0nl3n1162001mwl2vqeci9#UoQOf1OItsemzViXaPzv/+B9YeIguJc/oO11haGQ4xQ"
+quickshare-url: https://noteshare.space/note/clmw0nl3n1162001mwl2vqeci9#UoQOf1OItsemzViXaPzv/+B9YeIguJc/oO11haGQ4xQ
 created: "[[2023-09-21|21 September 2023, Thu]]"
-next: "[[RAYA Episode 2 - Tail]]"
 ---
 # RAYA Episode 1 - Kumandra
 
