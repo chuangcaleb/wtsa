@@ -1,8 +1,8 @@
 ---
 created: "[[2023-09-27|27 September 2023, Wed]]"
-prev: "[[RAYA Episode 3 - Talon]]"
+prev: "[[RAYA E3 - Talon]]"
 ---
-# RAYA Episode 4 - Spine
+# RAYA E4 - Spine
 
 ## Ideas
 

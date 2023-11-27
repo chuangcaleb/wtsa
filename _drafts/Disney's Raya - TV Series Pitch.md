@@ -20,11 +20,11 @@ Spine: The Weakest Tribe
 
 Trust: Tricking vs Betraying
 
-This one reddit post felt the best to me. [Raya and the Last Dragon undermines its own theme. Let's fix that. : fixingmovies](https://www.reddit.com/r/fixingmovies/comments/qgcyjb/raya_and_the_last_dragon_undermines_its_own_theme/)
+This one reddit post felt the best to me. 
 
-[Fixing Raya and the Last Dragon by making Namaari the protagonist : fixingmovies](https://www.reddit.com/r/fixingmovies/comments/u38jb2/fixing_raya_and_the_last_dragon_by_making_namaari/)
-
-[Fixing Raya and the Last Dragon's Climax and Central Lesson : fixingmovies](https://www.reddit.com/r/fixingmovies/comments/o37iaw/fixing_raya_and_the_last_dragons_climax_and/)
+- [Raya and the Last Dragon undermines its own theme. Let's fix that. : fixingmovies](https://www.reddit.com/r/fixingmovies/comments/qgcyjb/raya_and_the_last_dragon_undermines_its_own_theme/)
+- [Fixing Raya and the Last Dragon by making Namaari the protagonist : fixingmovies](https://www.reddit.com/r/fixingmovies/comments/u38jb2/fixing_raya_and_the_last_dragon_by_making_namaari/)
+- [Fixing Raya and the Last Dragon's Climax and Central Lesson : fixingmovies](https://www.reddit.com/r/fixingmovies/comments/o37iaw/fixing_raya_and_the_last_dragons_climax_and/)
 
 Overview
 
