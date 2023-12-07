@@ -106,10 +106,10 @@ What was the mistake? You could say a few different things:
 
 - **Simba's mistake was that he was in the gorge in the first place.** But while Scar previously uses Simba's pride (heh) against him to lure him to the dangerous elephant graveyard, this second time Scar outright just guilt trips Simba into going into the gorge. You can't blame a small child for being guilt-tripped by a cunning manipulator. Scar is 100% to blame here for Mufasa's death.
 
-	```screenplay
-	SCAR
-	Just stay on this rock. You wouldn't want to end up in another mess like you did with the hyenas.
-	```
+ ```screenplay
+ SCAR
+ Just stay on this rock. You wouldn't want to end up in another mess like you did with the hyenas.
+ ```
 
 - **Simba's mistake was that he fled Pride Rock as a child.** But at that moment, it could be justified in that such a traumatic event like his father's death would leave any child vulnerable to manipulation, and that Scar should be totally at fault for taking advantage of his naïveté.
 - **Simba's mistake was that he never returned to Pride Rock earlier.** Now this could also somewhat be justified together with the previous statement(s), that the childhood trauma and external manipulation from Scar should be to blame.
@@ -141,7 +141,7 @@ Depending on how far you perceive it: if Scar is (essentially) fully to blame, t
 
 If Simba had nothing to apologize for, then if someone (e.g. Raifiki) had just told him that Scar had killed his father at any time during his self-imposed exile (instead of right at the end of the movie), **then Simba could've/would've just returned earlier, and the story resolves exactly the same way**—without need for Simba's wilderness/exile character development. Instead of a story about learning from your mistakes (which is what it has been building up to), then it just dissolves into a mere lesson about *persevering to find the truth*. Meh.
 
-Then, if The Lion King is not a story about learning from your mistakes, then what's the story about?™ Where's the *thematic resonance*? 
+Then, if The Lion King is not a story about learning from your mistakes, then what's the story about?™ Where's the *thematic resonance*?
 
 Onto the one small change.
 
@@ -202,7 +202,7 @@ EXT. FLOOR OF THE GORGE - A SHORT TIME LATER
 Scar is with Simba under a tree. Simba sits on a rock.
 
 SCAR
-If I told you, it wouldn't be a surprise now, woudld it?
+If I told you, it wouldn't be a surprise now, would it?
 
 SIMBA
 (sweetly shrewd)
@@ -305,7 +305,7 @@ BACK ON SCAR AND SIMBA
 
 SIMBA
 (with bravado)
-If you can help spook it to run down towards me, then I'll ROAR and scare it away! 
+If you can help spook it to run down towards me, then I'll ROAR and scare it away!
 (fiercely)
 Just like my dad did to those hyenas!
 
@@ -318,7 +318,7 @@ SIMBA
 Hey, but it sounds a little dangerous. He said yesterday, being brave doesn't mean you go looking for trouble --
 
 SCAR
-Your father expects you to be a mighty king -- every knee of every animal will bow to you! Why, Simba, facing this frail animal will be the least of your future challenges! 
+Your father expects you to be a mighty king -- every knee of every animal will bow to you! Why, Simba, facing this frail animal will be the least of your future challenges!
 (sighing)
 But you shouldn't be forced into this dangerous act. I'll go tell your father that you aren't ready to be king.
 
@@ -446,7 +446,7 @@ I thought you could lead them, Scar. But trusting you was a mistake. Someone tol
 
 SCAR
 (mocking)
-Is that so? And, pray tell, after all these years of running, what did you learn? 
+Is that so? And, pray tell, after all these years of running, what did you learn?
 
 SIMBA
 (narrowed eyes, growling)
@@ -467,7 +467,7 @@ SCAR
 SIMBA
 Nope. Wrong again. He's alive! Mufasa lives in me.
 (around)
-In all of us, if we remember him. Mufasa's here, right now. 
+In all of us, if we remember him. Mufasa's here, right now.
 (to Scar)
 He wants his kingdom back.
 
@@ -498,7 +498,7 @@ surveys the battle from above. With a sour face, he slinkers into the shadows.
 
 SIMBA
 
-spots him, and with Nala's help, bulldozes through hyenas towards him. 
+spots him, and with Nala's help, bulldozes through hyenas towards him.
 ```
 
 So that's 2 minutes of new material. I got a little carried away. But (very biased opinion) the dialogue is just 👌. Let's look at it in detail.
@@ -512,20 +512,20 @@ Let's review the highlights of this small change to the climax: with `Simba's se
 Simba could have chosen his next action from the following philosophies/strategies that he has learnt thus far:
 
 1. Challenge Scar on the basis that physical strength (or rather, *effort*) makes up for and negates his past mistake
-	- Simba's philosophy of **brute force**
-		- which previously caused his father's death
-	- "I made a mistake because I wasn't physically strong enough before—so ASAP, I need to *cover up* that mistake by attaining a *greater* victory by brute force! Sparta!!!"
-	- → Simba would overpower Scar, but the lionesses wouldn't back a king who usurped the throne — Simba would be just like Scar.
+ - Simba's philosophy of **brute force**
+  - which previously caused his father's death
+ - "I made a mistake because I wasn't physically strong enough before—so ASAP, I need to *cover up* that mistake by attaining a *greater* victory by brute force! Sparta!!!"
+ - → Simba would overpower Scar, but the lionesses wouldn't back a king who usurped the throne — Simba would be just like Scar.
 1. Run away to the wilderness again, now that everyone knows his mistake
-	- Simba's later philosophy of **defeatist avoidance**
-		- which previously caused Simba to self-exile
-	- "(If they knew the truth about my past? It'd be impossible to be taken back, they'd turn away from me. So just don't bother trying. Okay, Scar, I give up, you win again."
-	- → Simba would abdicate the throne, and Scar would continue his reign of tyranny
+ - Simba's later philosophy of **defeatist avoidance**
+  - which previously caused Simba to self-exile
+ - "(If they knew the truth about my past? It'd be impossible to be taken back, they'd turn away from me. So just don't bother trying. Okay, Scar, I give up, you win again."
+ - → Simba would abdicate the throne, and Scar would continue his reign of tyranny
 1. Dismiss his past failure, that Mufasa's death doesn't really matter, that they have to look forward and not back.
-	- Timon and Pumbaa's philosophy of **blind nihilism**
-		- which previously caused Simba to stay in exile and never return
-	- "My mistakes may have killed my father, the king. But Mom, Nala, don't worry about it! It's in the past, you can't change it, it doesn't matter! What are *consequences of responsibility*?"
-	- → Simba would overpower Scar, but the animials adored Mufasa and they wouldn't back Simba if he were to treat every royal mistake like it was nothing. Scar would also argue, besides, if it all really meant nothing, then the throne also shouldn't matter to Simba.
+ - Timon and Pumbaa's philosophy of **blind nihilism**
+  - which previously caused Simba to stay in exile and never return
+ - "My mistakes may have killed my father, the king. But Mom, Nala, don't worry about it! It's in the past, you can't change it, it doesn't matter! What are *consequences of responsibility*?"
+ - → Simba would overpower Scar, but the animials adored Mufasa and they wouldn't back Simba if he were to treat every royal mistake like it was nothing. Scar would also argue, besides, if it all really meant nothing, then the throne also shouldn't matter to Simba.
 
 `Instead, Simba learns from his mistakes, and owns up. ("Yes, mistakes were made. Yes, I am guilty. No, I've no excuse.")` Then, `Simba also claims responsiblity for not returning back all these years—while also giving a tone of sympathy ("My pride killed me, too"). Furthermore, he felt that his family/pride wouldn't take him back in after his error.`
 
@@ -601,7 +601,7 @@ SIMBA
 Nope. Wrong again. He's alive!
 ```
 
-#### The king is alive!
+#### The king is alive
 
 Just like Raifiki did before, `Simba would bring up to Scar that Mufasa is alive.` This means:
 

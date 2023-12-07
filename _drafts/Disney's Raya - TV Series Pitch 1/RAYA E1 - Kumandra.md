@@ -3,8 +3,8 @@ next: "[[RAYA E2 - Tail]]"
 created: "[[2023-09-21|21 September 2023, Thu]]"
 cssclasses:
   - img-grid
-quickshare-date: 2023-09-28 22:12:29
-quickshare-url: https://noteshare.space/note/cln398gi72589801mwhx1trttj#9+xEpybasZbVsFtoi8wpRPflOqRiMnfzwQmMa744MT8
+quickshare-date: 2023-11-30 07:40:08
+quickshare-url: "https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBlNhcFn5m0aFfpxAVhNIAQeD1taHGynhQp4SE"
 ---
 # RAYA E1 - Kumandra
 
@@ -38,11 +38,7 @@ quickshare-url: https://noteshare.space/note/cln398gi72589801mwhx1trttj#9+xEpyba
 
 #### Present: Establishing current-day/setting and the main character's overarching goals
 
-![|300](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg)
-
-![|300](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg)
-
-![|300](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)
+![|250](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg) ![|250](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg)![|300](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)
 
 > **TAIL LANDSCAPE - DAY (PRESENT)**
 
@@ -140,7 +136,7 @@ Yes. And we must prepare to meet them.
 	- They are in a poised stance, wary of this stranger and her huge mount
 	- These are the Tail nomads.
 - "State your business!" the middle one exclaims. She's holding a lantern; it's getting dark.
-	- Raya: "I am Rahmidah, daughter of Hazim, tribe of Tail. We fled here after my village was destroyed by the Druun… I know we don't trust each other, but I just need to set up camp for the night."
+	- Raya: "*S’lam*. I am Rahmidah, daughter of Hazim, tribe of Tail. We fled here after my village was destroyed by the Druun… I know we don't trust each other, but I just need to set up camp for the night."
 	- The nomad is suspicious. "I've never heard of the family name 'Hazim'. Besides, you're at the far end of Tail, why aren't you heading towards the other tribes? Fang has their intricate aqueducts, Spine has their mighty fortress, Talon has their busy floating market. You'd be better off even in Heart than here in this dried-up forsaken land of Tail."
 	- "Tail is supposed to be the one tribe that help their own tribe people."
 	- "Our own brother stole all our family wealth, and ran away to Talon. You talk about One-Kumandra? Hah!"
@@ -156,12 +152,12 @@ Yes. And we must prepare to meet them.
 
 - Benja and Raya stand on the end of the main bridge leading into Heart. Four distinct factions stand arranged before them. Benja welcomes them.
 	- Tail Chief: Nice speech, Chief Benja, but why’d you really bring us here? Are you gonna rob us?
-	- Sping Chief: Why would he need to rob us? The land of Heart already has everything.
+	- Spine Chief: Why would he need to rob us? The land of Heart already has everything.
 	- Dang Hai (Talon Chief): *And what is there to rob? Even our rivers are drying up!* (remember this)
 	- Virana (Fang chief): It’s easy to champion "Kumandra" when you hold the mightiest weapon in all the lands.
 	- Everyone argues.
 - Raya steps forward towards the only other kid in the rowdy pack
-	- The kid steps forward from behind a woman. "I'm Namaari. Daughter of the chieftess of Fang."
+	- The kid steps forward from behind a woman. "*S’lam*. I'm Namaari. Daughter of the chieftess of Fang."
 	- They quickly fangirl together and connect over Naamari's dragon pendant.
 	- "Do you want to come eat my dad's Kumandra stew?"
 	- They go in together
@@ -222,7 +218,7 @@ Yes. And we must prepare to meet them.
 - She doesn't waste any time. She does a whole ritual.
 	- "Sisudatu… I don’t know if you’re listening. I’m searching every river to find you. I really need your help. I made a mistake. I trusted someone I shouldn’t have."
 	- Raya sits. And waits. And waits. Nothing happens. It's a bust.
-- "Me too." The nomad leader appears behind her. "Your name is Raya."
+- "So did I." The nomad leader appears behind her. "Your name is Raya."
 	- The other nomads hold up Raya's supplies, and have Tuk-tuk guarded at spear-point. They had raided Raya's camp.
 	- The nomad leader continues, "Daughter of Benja. Tribe of Heart. Or what's left of it."
 
@@ -253,7 +249,7 @@ Yes. And we must prepare to meet them.
 
 #### Present: Confrontation
 
-> **CAVERN, NOMAD CAMP, TAIL (PRESENT)**
+> **CAVERN, NOMAD CAMP, TAIL - NIGHT (PRESENT)**
 
 - Raya: "You already planned to raid my camp while I was asleep."
 	- Nomad: "And you already planned to sneak into our precious river."
@@ -263,7 +259,7 @@ Yes. And we must prepare to meet them.
 	- A nomad interrupts: "And her father's chain-whip-sword-weapon-thing! It's so epic!"
 	- The leader, "…and your Dragon Gem piece, please. And *then* you'll be on your way. You can take back your lemongrass too, it tastes nothing like they said."
 - Raya: "But you've never seen lemongrass before, you wouldn't be able to tell if it were actually padipepper?"
-	- The nomads start to droop their limbs. Raya smirks. One by one, they all collapse.
+	- The nomads start to droop their limbs. Raya smirks. One by one, they all collapse. They mumble, “You *binturi*…”
 - A small crack forms in the ground…
 
 #### Past: Druun unleashed
@@ -281,7 +277,7 @@ Yes. And we must prepare to meet them.
 	- "We should take it for Spine, now!"
 	- Everyone readies their weapons.
 	- Benja readies too, but sees young Raya in the reflection of his sword…
-- Benja announces, "We have a choice. We can tear each other apart, or we can come together and build a better world. It’s not too late. I still believe we can be Kumandra again."
+- Benja announces, "We have a choice. We can tear each other apart, or we can come together and build a better world. It’s not too late. I still believe we can be One-Kumandra again."
 - Benja unsheathes his sword. “Shall we return to dinner?”
 	- Tension fills the air. Eyes dart around, who's making the first move?
 - An arrow strikes Benja in the leg. He crumples.
